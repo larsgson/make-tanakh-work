@@ -86,6 +86,51 @@ Daniel-stilarkene og de ensretninger review-oversigterne har gennemført.
   *dāgān*, *tîrôš*, *yiṣhār* = **kornet, druemosten og olien** (DFB Hag 1,11 har »den friskpressede olie«; forkortet i poesien);
   *ʔāraś* = **trolove sig med**, *ʔĕmûnāh* = **troskab** ved siden af *ḥesed* **trofasthed** (Hos 2).
 
+## Ezekiels Bog
+
+- Synet (Ez 1): *ḥayyôt* = **livsvæsener** (DFB Åb 4,6-8; intetkøn: »hvert«, »det«); *rāqîaʕ* = **hvælving** (DFB 1 Mos 1);
+  *ʔôfan* = **hjul**, *gabbôt* **fælge**; *ḥašmal* = **skinnende metal** (usikkert, {E:} 1,4); *nōgah* = **lysglans**;
+  *taršîš* **krysolit**, *qeraḥ* **krystal** ({T:} »is«), *sappîr* **safirsten**; *šadday* **Den Almægtige**.
+  Synets forbehold (*dᵊmût*, *marʔeh*) gengives »noget der lignede« / »så ud som«.
+- *bêt mᵊrî* = **et genstridigt hus** (DFB »genstridig«); »hvad enten de hører eller lader være« (Ez 2).
+- Vægteren (Ez 3; 33): *ṣōfeh* **vægter**, *hizhîr* **advare**, *rāšāʕ* **den ugudelige**, *ṣaddîq* **den retfærdige**, *mikšôl* **anstødssten**; »hans blod vil jeg **kræve af din hånd**« (Ez 3).
+- Belejringen (Ez 4): *dāyēq* **belejringsmur** (som 2 Kong 25,1), *sōlᵊlāh* **vold**, *kārîm* **stormbukke**; *nāśāʔ ʕāwōn* **bære skylden** (Ez 4).
+- *ḥuqqôt* **forordninger**, *mišpāṭîm* **love** (DFB Ez 36,27); *šᵊfāṭîm* **straffedomme**; *ḥereb/rāʕāb/deber* **sværd, hungersnød og pest**; *ʔaf/ḥēmāh/qinʔāh* **vrede/harme/nidkærhed** (Ez 5).
+- *hārê yiśrāʔēl* **Israels bjerge** (DFB Ez 34); *gillûlîm* **afgudsbilleder**; *ḥammānîm* **røgelsesaltre**; *rêaḥ nîḥōaḥ* **liflig duft** (Ez 6).
+- *ḥārôn* **glødende vrede**; *ḥillēl* **vanhellige**; *mišpaṭ dāmîm* **blodskyld**; *ṣᵊfîrāh* **undergangen** (usikkert) (Ez 7).
+- Templet (Ez 8 ff.): *ḥāṣēr* **forgård** (»den indre forgård«, DFB 1 Kong 6,36), *ʔûlām* **forhallen** (DFB 1 Kong 6,3), *hêkal YHWH* **HERRENS tempel**; *semel haqqinʔāh* **skinsygens gudebillede** (Ez 8).
+- *lābuš baddîm* **klædt i linned**, *qeset hassōfēr* **skrivetøj**; *kᵊrûb* **kerub**; *tāw* **mærke** ({T:}) (Ez 9).
+- *galgal* **hjulværket** (adskilt fra *ʔôfan* »hjul«); *ʔēl šadday* **Gud den Almægtige** (Ez 10).
+- *kᵊlê gôlāh* **eksilbagage**, *gālāh* **gå i eksil**; *môfēt* **tegn**; *nāśîʔ* **fyrsten**; *māšāl* **ordsprog**; *ḥăzôn šāwʔ* **falsk syn**, *miqsam ḥālāq* **smigrende spådom** (Ez 12).
+- *ḥāzāh šāwʔ* **skue falskhed**, *qesem kāzāb* **løgnagtig spådom**; *ṭûaḥ tāfēl* **kalke med kalk**; *kᵊsātôt* **trolddomsbånd**, *mispāḥôt* **slør** (Ez 13).
+- *mikšôl ʕăwōn* **anstødssten til skyld**; *dāraš* **rådspørge**; *šûbû* **Vend om**; *ḥayyāh rāʕāh* **vilde dyr** (Ez 14).
+- *ʕēṣ haggefen* **vinstokkens træ**; *ʔoklāh* **brændsel** (Ez 15).
+- *zānāh* **hore**, *taznût* **utugt**, *zônāh* **skøge**, *ʔetnan* **skøgeløn**, *mᵊʔahăbîm* **elskere** (DFB Hos 2-4); *zimmāh* **skamløshed**; *gab* **forhøjning** / *rāmāh* **høj** (≠ *bāmāh* offerhøj); *kᵊlimmāh* **vanære**; *šûb šᵊbût* **vende … skæbne** (Ez 16). Kap. 16 og 23 gengives lige så direkte som hebraisk.
+- *nešek* **rente**, *tarbît* **åger** (Ez 18).
+- *qînāh* **klagesang**; *kᵊfîr* **ungløve** (DFB), *lᵊbîyāʔ* **løvinde** (Ez 19).
+- *hiṭṭîf* **lad dit ord strømme mod**; *tᵊrāfîm* **husguderne** (DFB); *zaʕam* **forbitrelse** (Ez 21).
+- *ʕîr haddāmîm* **blodbyen**; *sîg* **slagger**, *kûr* **smelteovn**; *beṣaʕ* **uretfærdig vinding** (Ez 22).
+- *ʕāgab* **var liderlig efter**; *paḥôt ûsᵊgānîm* **statholdere og forstandere**; *nāʔaf* **begå ægteskabsbrud** (Ez 23).
+- *ḥelʔāh* **rust**; *maḥmad ʕênayim* **øjnes lyst**; *leḥem ʔănāšîm* **sørgebrød**; *pālîṭ* **flygtning** (Ez 24).
+- *bᵊnê qedem* **Østens sønner**; *šᵊʔāṭ bᵊnefeš* **foragt i sjælen** (Ez 25).
+- *ʔiyyîm* **kystlandene**; *tᵊhôm* **urdybet** (Ez 26).
+- *ʕizbônîm* **varer**, *maʕărāb* **byttevare(r)**; *šāṭîm* **roere**, *ḥōbᵊlîm* **styrmænd**, *mallāḥîm* **sømænd** (Ez 27).
+- *kᵊrûb mimšaḥ hassôkēk* **en salvet kerub der dækkede**; *ʔabnê-ʔēš* **ildsten**; *ʕărēlîm* **de uomskårne** (Ez 28).
+- *tannîn* **det store uhyre**; *yᵊʔōr* **Nilen / Nilarme** (Ez 29).
+- *hămôn* **larmende skare**; *gᵊʔôn ʕuzzāh* **stolte styrke**; Egyptens byer med hebraiske navne som DFB: **Nof, Soan, No, Takpankes** (Ez 30).
+- *šᵊʔôl* **dødsriget** (DFB); *ʔereṣ taḥtît* **dybets land** (Ez 31).
+- *har śēʕîr* **Se'ir-bjerget**; *šᵊmāmāh ûmᵊšammāh* **ødemark og ørk** (Ez 35).
+- *nᵊśîʔ rōʔš* **den øverste fyrste**; *yarkᵊtê ṣāfôn* **det yderste nord** (Ez 38).
+- *zebaḥ* **offermåltid** (Ez 39,17-19); *rûḥî* **min Ånd** med stort som DFB Ez 36,27 (Ez 39,29).
+- Templets syn (Ez 40-48): *tāʔ* **vagtrum**, *ʔayil* **pille**, *ʔêlām/ʔûlām* **forhal**, *lᵊšākôt* **kamre**, *riṣpāh* **brolægning**, *timōrîm* **palmer**, *qᵊnēh hammiddāh* **målestang** (Ez 40).
+- *hêkāl* **Tempelhallen** og *qōdeš haqqŏdāšîm* **det Allerhelligste** i templets syn som DFB 1 Kong 6; *ṣēlāʕ* **siderum**; *gizrāh* **den afspærrede plads** (Ez 41).
+- *qodšê haqqŏdāšîm* **de højhellige gaver**; *lišᵊkôt haqqōdeš* **de hellige kamre** (Ez 42).
+- Alteret i Ez 43: *ḥêq* **rende**, *ʕăzārāh* **afsats**, *harʔēl* **alterherden**; *ḥiṭṭēʔ* **rense for synd**, *kipper* **skaffe soning for** (DFB).
+- *ḥuqqôt* **forordninger**, *tôrôt* **bestemmelser**, *mišpāṭîm* **love** (Ez 5; 43-44); *nāśîʔ* **fyrsten**; *tᵊrûmāh* **afgift** (Ez 44).
+- *tᵊrûmāh* om land **det hellige stykke land**, om ydelser **afgift** (Ez 44-45); *migrāš* **græsgange** (Ez 45).
+- *ʕôlat tāmîd* **det daglige brændoffer** (DFB); *šᵊnat haddᵊrôr* **frigivelsesåret** (Ez 46,17).
+- Vandet fra templet bliver **sundt** (*nirpᵊʔû*, ordret »helbredes«, Ez 47,8-11).
+
 ## Store entries
 
 <!-- store:begin (generated by scripts/wiki.py sync from profile/; change the store, not this block) -->
@@ -2367,4 +2412,634 @@ Daniel-stilarkene og de ensretninger review-oversigterne har gennemført.
   - answers: igen og igen
   - Sending persistently.
   - agent:2ch036, 2026-10-31
-<!-- store:end sha=c7b58b01 -->
+- **`term:hayyot_ezk`** חַיּוֹת (Ez 1; 10) → **livsvæsener** [high, decided, attested]
+  - gloss: חַיָּה: חַיּ֑וֹת (EZK 1:5) — English (generated): living creatures
+  - NT: EZK 1:5 *livsvæsener*; EZK 1:13 *livsvæsener*; REV 4:6 *livsvæsener*
+  - answers: livsvæsener
+  - The living creatures of Ezekiel's vision; DFB Rev 4:6-8 'livsvæsener'. Neuter: 'hvert', 'det'.
+  - agent:ezk001, 2026-10-31
+- **`term:raqia_ezk`** רָקִיעַ → **hvælving** [high, decided, attested]
+  - gloss: רָקִיעַ: רָקִ֔יעַ (EZK 1:22) — English (generated): expanse
+  - NT: EZK 1:22 *hvælving*; EZK 1:23 *hvælving*; GEN 1:7 *hvælving*
+  - answers: hvælving
+  - Expanse above the creatures, as DFB Gen 1:6-8.
+  - agent:ezk001, 2026-10-31
+- **`term:hashmal`** חַשְׁמַל → **skinnende metal** [medium, decided, attested]
+  - gloss: חַשְׁמַל: חַשְׁמַ֖ל (EZK 1:4) — English (generated): like amber
+  - NT: EZK 1:4 *skinnende metal*; EZK 1:27 *skinnende metal*
+  - answers: skinnende metal
+  - Meaning uncertain (amber/electrum); {E:} at 1:4.
+  - agent:ezk001, 2026-10-31
+- **`term:ofan`** אוֹפַן → **hjul** [high, decided, attested]
+  - gloss: אוֹפָן: אוֹפַ֨ן (EZK 1:15) — English (generated): wheel
+  - NT: EZK 1:15 *hjul*; EZK 1:16 *hjul*; EZK 1:19 *hjul*
+  - answers: hjul
+  - The wheels of the vision; gabbot = fælge (1:18).
+  - agent:ezk001, 2026-10-31
+- **`term:nogah_ezk`** נֹגַהּ → **lysglans** [high, decided, attested]
+  - gloss: נֹגַהּ: נֹ֥גַֽהּ (EZK 1:4) — English (generated): and brilliant light
+  - NT: EZK 1:4 *lysglans*; EZK 1:27 *lysglans*; EZK 1:28 *lysglans*
+  - answers: lysglans
+  - Brilliant light around the vision.
+  - agent:ezk001, 2026-10-31
+- **`term:bet_meri`** בֵּית מְרִי → **et genstridigt hus** [high, decided, attested]
+  - gloss: מְרִי: מְרִ֖י (EZK 2:5) — English (generated): are a rebellious
+  - NT: EZK 2:5 *et genstridigt hus*; EZK 2:6 *et genstridigt hus*; EZK 2:8 *et genstridigt hus*
+  - answers: et genstridigt hus
+  - Ezekiel's name for Israel; DFB 'genstridig'.
+  - agent:ezk002, 2026-10-31
+- **`term:rasha_ezk`** רָשָׁע (Ez 3; 18; 33) → **den ugudelige** [high, decided, attested]
+  - gloss: רָשָׁע: רָשָׁע֙ (EZK 3:18) — English (generated): to the wicked man
+  - NT: EZK 3:18 *den ugudelige*; EZK 3:19 *den ugudelige*
+  - answers: den ugudelige
+  - The wicked; resha/rish'ah = ugudelighed; DFB 'ugudelig' 185x. Saddiq = den retfærdige.
+  - agent:ezk003, 2026-10-31
+- **`term:hizhir`** הִזְהִיר → **advare** [high, decided, attested]
+  - gloss: זָהַר: הִזְהַרְתָּ֥ (EZK 3:17) — English (generated): give them a warning
+  - NT: EZK 3:17 *advare*; EZK 3:18 *advare*; EZK 3:21 *advare*
+  - answers: advare
+  - Warn (watchman passages 3; 33).
+  - agent:ezk003, 2026-10-31
+- **`term:mikshol`** מִכְשׁוֹל → **anstødssten** [high, decided, attested]
+  - gloss: מִכְשׁוֹל: מִכְשׁ֛וֹל (EZK 3:20) — English (generated): a stumbling block
+  - NT: EZK 3:20 *anstødssten*
+  - answers: anstødssten
+  - Stumbling block; DFB 4x.
+  - agent:ezk003, 2026-10-31
+- **`term:nasa_avon_ezk`** נָשָׂא עָוֹן → **bære skylden** [high, decided, attested]
+  - gloss: נָשָׂא: תִּשָּׂ֖א (EZK 4:4) — English (generated): You are to bear
+  - NT: EZK 4:4 *bære skylden*; EZK 4:5 *bære skylden*; EZK 4:6 *bære skylden*
+  - answers: bære skylden
+  - Bear iniquity; 'skylden fra Israels hus' avoids a genitive after 'hus'.
+  - agent:ezk004, 2026-10-31
+- **`term:huqqot_mishpatim_ezk`** חֻקּוֹת / מִשְׁפָּטִים (Ez) → **forordninger** [high, decided, attested]
+  - gloss: חֻקָּה: חֻקּוֹתַ֔ (EZK 5:6) — English (generated): against My statutes
+  - NT: EZK 5:6 *forordninger*; EZK 5:7 *forordninger*; EZK 36:27 *forordninger*
+  - answers: forordninger
+  - huqqot = forordninger, mishpatim = love (DFB Ezek 36:27 'vandrer efter mine forordninger og overholder mine love').
+  - agent:ezk005, 2026-10-31
+- **`term:shefatim_ezk`** שְׁפָטִים → **straffedomme** [high, decided, attested]
+  - gloss: שֶׁפֶט: שְׁפָטִ֔ים (EZK 5:10) — English (generated): judgments
+  - NT: EZK 5:10 *straffedomme*; EZK 5:15 *straffedomme*; EXO 7:4 *straffedomme*
+  - answers: straffedomme
+  - 'fuldbyrde straffedomme' (asah shefatim); DFB Exo 7:4.
+  - agent:ezk005, 2026-10-31
+- **`term:triad_ezk`** חֶרֶב רָעָב דֶּבֶר → **sværd, hungersnød og pest** [high, decided, attested]
+  - gloss: רָעָב: רָעָב֙ (EZK 5:12) — English (generated): by famine
+  - NT: EZK 5:12 *hungersnød*; EZK 5:17 *hungersnød*
+  - answers: sværd, hungersnød og pest
+  - Ezekiel's triad; DFB Jer 'sværdet, hungersnøden og pesten'. af/hemah/qin'ah = vrede/harme/nidkærhed.
+  - agent:ezk005, 2026-10-31
+- **`term:hare_israel`** הָרֵי יִשְׂרָאֵל → **Israels bjerge** [high, decided, attested]
+  - gloss: הַר: הָרֵ֣י (EZK 6:2) — English (generated): the mountains
+  - NT: EZK 6:2 *Israels bjerge*; EZK 6:3 *Israels bjerge*; EZK 34:13 *Israels bjerge*
+  - answers: Israels bjerge
+  - DFB Ezek 34:13-14.
+  - agent:ezk006, 2026-10-31
+- **`term:hillel_ezk`** חִלֵּל → **vanhellige** [high, decided, attested]
+  - gloss: חָלַל: חִלְּלֽוּ (EZK 7:21) — English (generated): who will defile them
+  - NT: EZK 7:21 *vanhellige*; EZK 7:22 *vanhellige*
+  - answers: vanhellige
+  - Defile/profane (holy things, sabbaths); 'vanhellige'.
+  - agent:ezk007, 2026-10-31
+- **`term:semel_haqqinah`** סֵמֶל הַקִּנְאָה → **skinsygens gudebillede** [medium, decided, attested]
+  - gloss: סֶמֶל: סֵ֖מֶל (EZK 8:3) — English (generated): the idol
+  - NT: EZK 8:3 *skinsygens gudebillede*; EZK 8:5 *skinsygens gudebillede*
+  - answers: skinsygens gudebillede
+  - The image of jealousy; semel = gudebillede (2 Chr 33:7); {T:} on qin'ah.
+  - agent:ezk008, 2026-10-31
+- **`term:hatser_ezk`** חָצֵר (tempel) → **forgård** [high, decided, attested]
+  - gloss: חָצֵר: חֲצַ֣ר (EZK 8:16) — English (generated): court
+  - NT: EZK 8:7 *forgård*; EZK 8:16 *forgård*; 1KI 6:36 *forgård*
+  - answers: forgård
+  - Temple court; 'den indre forgård' (DFB 1 Kgs 6:36); ulam = forhallen; hekal YHWH = HERRENS tempel.
+  - agent:ezk008, 2026-10-31
+- **`term:ulam_ezk`** אוּלָם → **forhallen** [high, decided, attested]
+  - gloss: אֵילָם: אוּלָם֙ (EZK 8:16) — English (generated): the portico
+  - NT: EZK 8:16 *forhallen*; 1KI 6:3 *forhallen*
+  - answers: forhallen
+  - Portico (DFB 1 Kgs 6:3).
+  - agent:ezk008, 2026-10-31
+- **`term:lavush_baddim`** לָבֻשׁ בַּדִּים / קֶסֶת הַסֹּפֵר → **klædt i linned** [high, decided, attested]
+  - gloss: בַּד: בַּדִּ֔ים (EZK 9:2) — English (generated): in linen
+  - NT: EZK 9:2 *klædt i linned*; EZK 9:3 *klædt i linned*; EZK 9:11 *klædt i linned*
+  - answers: klædt i linned
+  - The man in linen with 'skrivetøj ved sin hofte' (Ezek 9-10).
+  - agent:ezk009, 2026-10-31
+- **`term:kerub_ezk`** כְּרוּב / כְּרֻבִים → **keruben** [high, decided, attested]
+  - gloss: כְּרוּב: כְּרוּב֙ (EZK 9:3) — English (generated): the cherubim
+  - NT: EZK 9:3 *keruben*
+  - answers: keruben
+  - Cherub(im): kerub / keruber (DFB).
+  - agent:ezk009, 2026-10-31
+- **`term:taw_mark`** תָּו → **mærke** [high, decided, attested]
+  - gloss: תָּו: תָּ֜ו (EZK 9:4) — English (generated): a mark
+  - NT: EZK 9:4 *mærke*; EZK 9:6 *mærke*
+  - answers: mærke
+  - The letter taw as a mark on the forehead; {T:} at 9:4.
+  - agent:ezk009, 2026-10-31
+- **`term:galgal_ezk`** גַּלְגַּל (Ez 10) → **hjulværket** [high, decided, attested]
+  - gloss: גַּלְגַּל: גַּלְגַּ֜ל (EZK 10:2) — English (generated): the wheelwork
+  - NT: EZK 10:2 *hjulværket*; EZK 10:6 *hjulværket*; EZK 10:13 *hjulværket*
+  - answers: hjulværket
+  - The 'whirl' of wheels, kept apart from ofan 'hjul'; {T:} at 10:13.
+  - agent:ezk010, 2026-10-31
+- **`term:el_shaddai_ezk`** אֵל שַׁדַּי (Ez 10,5) → **Gud den Almægtige** [high, decided, attested]
+  - gloss: שַׁדַּי: שַׁדַּ֖י (EZK 10:5) — English (generated): Almighty
+  - NT: EZK 10:5 *Gud den Almægtige*
+  - answers: Gud den Almægtige
+  - As term:H7706; shaddai alone (1:24) 'Den Almægtige'.
+  - agent:ezk010, 2026-10-31
+- **`term:kele_golah`** כְּלֵי גוֹלָה → **eksilbagage** [high, decided, attested]
+  - gloss: גּוֹלָה: גוֹלָ֔ה (EZK 12:3) — English (generated): for exile
+  - NT: EZK 12:3 *eksilbagage*; EZK 12:4 *eksilbagage*; EZK 12:7 *eksilbagage*
+  - answers: eksilbagage
+  - Baggage for exile; galah = 'gå i eksil' (DFB Jer 1:3).
+  - agent:ezk012, 2026-10-31
+- **`term:mofet_ezk`** מוֹפֵת (Ez 12; 24) → **tegn** [high, decided, attested]
+  - gloss: מוֹפֵת: מוֹפֵ֥ת (EZK 12:6) — English (generated): a sign
+  - NT: EZK 12:6 *tegn*; EZK 12:11 *tegn*
+  - answers: tegn
+  - The prophet as a sign (also 24:24.27).
+  - agent:ezk012, 2026-10-31
+- **`term:nasi_ezk`** נָשִׂיא (Ez) → **fyrsten** [high, decided, attested]
+  - gloss: נָשִׂיא: נָּשִׂ֞יא (EZK 12:10) — English (generated): the prince
+  - NT: EZK 12:10 *fyrsten*; EZK 12:12 *fyrsten*; EZK 44:3 *fyrsten*
+  - answers: fyrsten
+  - Ezekiel's word for the king (also 34; 44-48).
+  - agent:ezk012, 2026-10-31
+- **`term:mashal_ezk`** מָשָׁל → **ordsprog** [high, decided, attested]
+  - gloss: מָשָׁל: מָּשָׁ֤ל (EZK 12:22) — English (generated): proverb
+  - NT: EZK 12:22 *ordsprog*; EZK 12:23 *ordsprog*
+  - answers: ordsprog
+  - Proverb/saying (12:22-23; 18:2-3).
+  - agent:ezk012, 2026-10-31
+- **`term:tuah_tafel`** טוּחַ תָּפֵל → **kalker** [high, decided, attested]
+  - gloss: טוּחַ: טָחִ֥ים (EZK 13:10) — English (generated): and whitewashing
+  - NT: EZK 13:10 *kalker*; EZK 13:11 *kalker*; EZK 13:14 *kalker*; EZK 13:15 *kalker*
+  - answers: kalker
+  - Whitewash: 'kalke med kalk' (also 22:28).
+  - agent:ezk013, 2026-10-31
+- **`term:hinni_alekem`** הִנְנִי אֲלֵיכֶם → **jeg er imod jer** [high, decided, attested]
+  - gloss: הִנֵּה: הִנְ (EZK 13:8)
+  - NT: EZK 13:8 *jeg er imod jer*; EZK 13:20 *jeg er imod jer*
+  - answers: jeg er imod jer
+  - 'se, jeg er imod jer/dig' for the challenge formula (also 5:8; 26:3; 28:22; 29:3; 38:3).
+  - agent:ezk013, 2026-10-31
+- **`term:qesem_kazav`** קֶסֶם כָּזָב → **løgnagtig spådom** [high, decided, attested]
+  - gloss: קֶסֶם: קֶ֣סֶם (EZK 13:6) — English (generated): divinations
+  - NT: EZK 13:6 *løgnagtig spådom*; EZK 13:7 *løgnagtig spådom*
+  - answers: løgnagtig spådom
+  - With hazah shav 'skue falskhed' (13:6-9.23; 21:34; 22:28).
+  - agent:ezk013, 2026-10-31
+- **`term:mikshol_awon`** מִכְשׁוֹל עֲוֹנָם → **anstødssten til skyld** [high, decided, attested]
+  - gloss: מִכְשׁוֹל: מִכְשׁ֣וֹל (EZK 14:3) — English (generated): stumbling blocks
+  - NT: EZK 14:3 *anstødssten til skyld*; EZK 14:4 *anstødssten til skyld*; EZK 14:7 *anstødssten til skyld*
+  - answers: anstødssten til skyld
+  - As 7:19 'en anstødssten til skyld'; also 18:30; 44:12.
+  - agent:ezk014, 2026-10-31
+- **`term:darash_ezk`** דָּרַשׁ (Ez 14; 20) → **rådspørge** [high, decided, attested]
+  - gloss: דָּרַשׁ: דְרָשׁ (EZK 14:7) — English (generated): to inquire
+  - NT: EZK 14:3 *rådspørge*; EZK 14:7 *rådspørge*
+  - answers: rådspørge
+  - Inquire of the LORD: 'rådspørge'; niphal 'lade mig rådspørge' (14:3; 20:3.31).
+  - agent:ezk014, 2026-10-31
+- **`term:ets_hagefen`** עֵץ הַגֶּפֶן → **vinstokkens træ** [high, decided, attested]
+  - gloss: גֶּפֶן: גֶּ֖פֶן (EZK 15:2) — English (generated): of the vine
+  - NT: EZK 15:2 *vinstokkens træ*; EZK 15:6 *vinstokkens træ*
+  - answers: vinstokkens træ
+  - The vine's wood; gefen = vinstok (DFB).
+  - agent:ezk015, 2026-10-31
+- **`term:zanah_ezk`** זָנָה / תַּזְנוּת (Ez 16; 23) → **utugt** [high, decided, attested]
+  - gloss: תַּזְנוּת: תַּזְנוּתַ֛יִ (EZK 16:15) — English (generated): your favors
+  - NT: EZK 16:15 *utugt*; EZK 16:25 *utugt*; EZK 16:33 *utugt*
+  - answers: utugt
+  - zanah 'hore', taznut 'utugt', zonah 'skøge', etnan 'skøgeløn', meahavim 'elskere' (DFB Hos 2-4).
+  - agent:ezk016, 2026-10-31
+- **`term:etnan`** אֶתְנַן → **skøgeløn** [high, decided, attested]
+  - gloss: אֶתְנַן: אֶתְנָֽן (EZK 16:31) — English (generated): payment
+  - NT: EZK 16:31 *skøgeløn*; EZK 16:34 *skøgeløn*; EZK 16:41 *skøgeløn*
+  - answers: skøgeløn
+  - As DFB Hos 2:14.
+  - agent:ezk016, 2026-10-31
+- **`term:zimmah_ezk`** זִמָּה (Ez) → **skamløshed** [high, decided, attested]
+  - gloss: זִמָּה: זִּמָּ֔ה (EZK 16:43) — English (generated): this lewdness
+  - NT: EZK 16:43 *skamløshed*; EZK 16:58 *skamløshed*
+  - answers: skamløshed
+  - Lewdness; adjective 'skamløs' (16:27); also 22:9; 23:21 ff.
+  - agent:ezk016, 2026-10-31
+- **`term:gab_ramah`** גַּב / רָמָה (Ez 16) → **forhøjning** [high, decided, attested]
+  - gloss: גַּב: גֶּ֑ב (EZK 16:24) — English (generated): a mound
+  - NT: EZK 16:24 *forhøjning*; EZK 16:31 *forhøjning*; EZK 16:39 *forhøjning*
+  - answers: forhøjning
+  - gab 'forhøjning', ramah 'høj'; kept apart from bamah 'offerhøj'.
+  - agent:ezk016, 2026-10-31
+- **`term:shuv_shevut_ezk`** שׁוּב שְׁבוּת (Ez) → **vender** [high, decided, attested]
+  - gloss: שְׁבוּת: שְׁב֤וּת (EZK 16:53)
+  - NT: EZK 16:53 *vender*
+  - answers: vender
+  - 'vende deres skæbne' ({T:} 'fører dem tilbage fra fangenskabet'); also 29:14; 39:25.
+  - agent:ezk016, 2026-10-31
+- **`term:kelimmah_ezk`** כְּלִמָּה (Ez) → **vanære** [high, decided, attested]
+  - gloss: כְּלִמָּה: כְלִמָּתֵ֗ (EZK 16:52) — English (generated): your disgrace
+  - NT: EZK 16:52 *vanære*; EZK 16:54 *vanære*; EZK 16:63 *vanære*
+  - answers: vanære
+  - 'bære din vanære'; bosh/niklam 'skamme sig'.
+  - agent:ezk016, 2026-10-31
+- **`term:neshek_tarbit`** נֶשֶׁךְ / תַּרְבִּית → **rente** [high, decided, attested]
+  - gloss: נֶשֶׁךְ: נֶּ֣שֶׁךְ (EZK 18:8) — English (generated): in usury
+  - NT: EZK 18:8 *rente*; EZK 18:13 *rente*; EZK 18:17 *rente*
+  - answers: rente
+  - 'låne ud mod rente og tage åger' (tarbit = åger); also 22:12.
+  - agent:ezk018, 2026-10-31
+- **`term:qinah_ezk`** קִינָה (Ez) → **klagesang** [high, decided, attested]
+  - gloss: קִינָה: קִינָ֔ה (EZK 19:1) — English (generated): a lament
+  - NT: EZK 19:1 *klagesang*; EZK 19:14 *klagesang*
+  - answers: klagesang
+  - 'stemme i en klagesang' (also 26:17; 27:2.32; 28:12; 32:2.16).
+  - agent:ezk019, 2026-10-31
+- **`term:kefir_ezk`** כְּפִיר → **ungløve** [high, decided, attested]
+  - gloss: כְּפִיר: כְּפִ֣יר (EZK 19:3) — English (generated): a young lion
+  - NT: EZK 19:3 *ungløve*; EZK 19:5 *ungløve*; EZK 19:6 *ungløve*
+  - answers: ungløve
+  - As DFB 'ungløve'; lion 'løve', lioness 'løvinde', cubs 'hvalpe'.
+  - agent:ezk019, 2026-10-31
+- **`term:shabbtotai_ezk`** שַׁבְּתוֹתַי → **mine sabbatter** [high, decided, attested]
+  - gloss: שַׁבָּת: שַׁבְּתוֹתַ (EZK 20:12) — English (generated): My Sabbaths
+  - NT: EZK 20:12 *mine sabbatter*; EZK 20:13 *mine sabbatter*; EZK 20:16 *mine sabbatter*
+  - answers: mine sabbatter
+  - As DFB; 'et tegn mellem mig og dem'.
+  - agent:ezk020, 2026-10-31
+- **`term:hittif_ezk`** הַטֵּף (Ez 21) → **lad dit ord strømme** [high, decided, attested]
+  - gloss: נָטַף: הַטֵּ֖ף (EZK 21:2) — English (generated): preach
+  - NT: EZK 21:2 *lad dit ord strømme*; EZK 21:7 *lad dit ord strømme*
+  - answers: lad dit ord strømme
+  - 'Let (words) drip' = preach; {T:} at 21:2.
+  - agent:ezk021, 2026-10-31
+- **`term:teraphim_ezk`** תְּרָפִים → **husguderne** [high, decided, attested]
+  - gloss: תְּרָפִים: תְּרָפִ֔ים (EZK 21:26) — English (generated): the idols
+  - NT: EZK 21:26 *husguderne*
+  - answers: husguderne
+  - As DFB.
+  - agent:ezk021, 2026-10-31
+- **`term:ir_haddamim`** עִיר הַדָּמִים → **blodbyen** [high, decided, attested]
+  - gloss: דָּם: דָּמִ֑ים (EZK 22:2) — English (generated): of bloodshed
+  - NT: EZK 22:2 *blodbyen*
+  - answers: blodbyen
+  - Also 24:6.9.
+  - agent:ezk022, 2026-10-31
+- **`term:sig_kur`** סִיג / כּוּר → **slagger** [high, decided, attested]
+  - gloss: סִיג: סִ֑יג (EZK 22:18) — English (generated): dross
+  - NT: EZK 22:18 *slagger*; EZK 22:19 *slagger*
+  - answers: slagger
+  - kûr = smelteovn.
+  - agent:ezk022, 2026-10-31
+- **`term:naqa_nefesh`** וַתֵּקַע נַפְשָׁהּ מֵהֶם → **med lede** [high, decided, attested]
+  - gloss: נקע: תֵּ֥קַע (EZK 23:17) — English (generated): in disgust
+  - NT: EZK 23:17 *med lede*; EZK 23:18 *med lede*; EZK 23:22 *med lede*; EZK 23:28 *med lede*
+  - answers: med lede
+  - 'vendte sig fra … med lede'.
+  - agent:ezk023, 2026-10-31
+- **`term:agab`** עָגְבָה → **liderlig** [high, decided, attested]
+  - gloss: עָגַב: עָֽגְבָ֛ה (EZK 23:7) — English (generated): she lusted
+  - NT: EZK 23:7 *liderlig*; EZK 23:9 *liderlig*; EZK 23:12 *liderlig*
+  - answers: liderlig
+  - 'var liderlig efter'.
+  - agent:ezk023, 2026-10-31
+- **`term:pahot_seganim`** פַּחוֹת וּסְגָנִים → **statholdere og forstandere** [high, decided, attested]
+  - gloss: סָגָן: סְגָנִ֔ים (EZK 23:6) — English (generated): and commanders
+  - NT: EZK 23:6 *statholdere og forstandere*; EZK 23:12 *statholdere og forstandere*; EZK 23:23 *statholdere og forstandere*
+  - answers: statholdere og forstandere
+  - agent:ezk023, 2026-10-31
+- **`term:helah_ezk`** חֶלְאָתָהּ → **rust** [high, decided, attested]
+  - gloss: חֶלְאָה: חֶלְאָתָ֣ (EZK 24:6) — English (generated): now rusted
+  - NT: EZK 24:6 *rust*; EZK 24:11 *rust*; EZK 24:12 *rust*
+  - answers: rust
+  - agent:ezk024, 2026-10-31
+- **`term:mahmad_enayim`** מַחְמַד עֵינֶיךָ → **dine øjnes lyst** [high, decided, attested]
+  - gloss: מַחְמָד: מַחְמַ֥ד (EZK 24:16) — English (generated): the desire
+  - NT: EZK 24:16 *dine øjnes lyst*; EZK 24:21 *dine øjnes lyst*; EZK 24:25 *dine øjnes lyst*
+  - answers: dine øjnes lyst
+  - agent:ezk024, 2026-10-31
+- **`term:lehem_anashim`** לֶחֶם אֲנָשִׁים → **sørgebrød** [high, decided, attested]
+  - gloss: לֶחֶם: לֶ֥חֶם (EZK 24:17) — English (generated): the bread
+  - NT: EZK 24:17 *sørgebrød*; EZK 24:22 *sørgebrød*
+  - answers: sørgebrød
+  - {T:} literal 'bread of men'.
+  - agent:ezk024, 2026-10-31
+- **`term:palit_ezk`** הַפָּלִיט → **flygtning** [high, decided, attested]
+  - gloss: פָּלִיט: פָּלִ֖יט (EZK 24:26) — English (generated): a fugitive
+  - NT: EZK 24:26 *flygtning*
+  - answers: flygtning
+  - Also 33:21 (not in DFB's partial chapter).
+  - agent:ezk024, 2026-10-31
+- **`term:bne_qedem_ezk`** בְנֵי־קֶדֶם → **Østens sønner** [high, decided, attested]
+  - gloss: קֶדֶם: קֶ֜דֶם (EZK 25:4) — English (generated): of the East
+  - NT: EZK 25:4 *Østens sønner*; EZK 25:10 *Østens sønner*
+  - answers: Østens sønner
+  - As DFB.
+  - agent:ezk025, 2026-10-31
+- **`term:shet_nefesh`** שְׁאָט בְּנֶפֶשׁ → **foragt i sjælen** [high, decided, attested]
+  - gloss: שְׁאָט: שָֽׁאטְ (EZK 25:6) — English (generated): of contempt
+  - NT: EZK 25:6 *foragt i sjælen*; EZK 25:15 *foragt i sjælen*
+  - answers: foragt i sjælen
+  - Also 36:5 (DFB).
+  - agent:ezk025, 2026-10-31
+- **`term:iyyim_ezk`** הָאִיִּים → **kystlandene** [high, decided, attested]
+  - gloss: אִי: אִיִּֽים (EZK 26:15) — English (generated): the coastlands
+  - NT: EZK 26:15 *kystlandene*; EZK 26:18 *kystlandene*
+  - answers: kystlandene
+  - agent:ezk026, 2026-10-31
+- **`term:mishtah_haramim`** מִשְׁטַח חֲרָמִים → **Et sted hvor man breder net ud** [high, decided, attested]
+  - gloss: חֵרֶם: חֲרָמִ֤ים (EZK 26:5) — English (generated): nets
+  - NT: EZK 26:5 *Et sted hvor man breder net ud*; EZK 26:14 *Et sted hvor man breder net ud*
+  - answers: Et sted hvor man breder net ud
+  - Also 47:10.
+  - agent:ezk026, 2026-10-31
+- **`term:kelilat_yofi`** כְּלִילַת יֹפִי → **fuldkommen i skønhed** [high, decided, attested]
+  - gloss: יֳפִי: יֹֽפִי (EZK 27:3) — English (generated): in beauty
+  - NT: EZK 27:3 *fuldkommen i skønhed*
+  - answers: fuldkommen i skønhed
+  - Also 28:12.
+  - agent:ezk027, 2026-10-31
+- **`term:izbonim_maarav`** עִזְבוֹנַיִךְ / מַעֲרָבֵךְ → **varer** [high, decided, attested]
+  - gloss: עִזְבֹונִים: עִזְבוֹנָֽיִ (EZK 27:12) — English (generated): for your wares
+  - NT: EZK 27:12 *varer*; EZK 27:14 *varer*; EZK 27:22 *varer*
+  - answers: varer
+  - maʕărāb = byttevare(r).
+  - agent:ezk027, 2026-10-31
+- **`term:hovlim_ezk`** חֹבְלָיִךְ → **styrmænd** [high, decided, attested]
+  - gloss: חֹבֵל: חֹבְלָֽיִ (EZK 27:8) — English (generated): as your captains
+  - NT: EZK 27:8 *styrmænd*; EZK 27:27 *styrmænd*; EZK 27:28 *styrmænd*
+  - answers: styrmænd
+  - šāṭîm roere, mallāḥîm sømænd.
+  - agent:ezk027, 2026-10-31
+- **`term:mote_arelim`** מוֹתֵי עֲרֵלִים → **De uomskårnes død** [high, decided, attested]
+  - gloss: עָרֵל: עֲרֵלִ֛ים (EZK 28:10) — English (generated): of the uncircumcised
+  - NT: EZK 28:10 *De uomskårnes død*
+  - answers: De uomskårnes død
+  - ʕărēlîm 'de uomskårne', also 31:18; 32:19-32.
+  - agent:ezk028, 2026-10-31
+- **`term:kerub_sokek`** כְּרוּב מִמְשַׁח הַסּוֹכֵךְ → **kerub** [high, decided, attested]
+  - gloss: כְּרוּב: כְּר֔וּב (EZK 28:14) — English (generated): cherub
+  - NT: EZK 28:14 *kerub*; EZK 28:16 *kerub*
+  - answers: kerub
+  - 'en salvet kerub der dækkede'.
+  - agent:ezk028, 2026-10-31
+- **`term:avne_esh`** אַבְנֵי־אֵשׁ → **ildsten** [high, decided, attested]
+  - gloss: אֶבֶן: אַבְנֵי (EZK 28:14) — English (generated): stones
+  - NT: EZK 28:14 *ildsten*; EZK 28:16 *ildsten*
+  - answers: ildsten
+  - agent:ezk028, 2026-10-31
+- **`term:tannim_ezk`** הַתַּנִּים הַגָּדוֹל → **store uhyre** [high, decided, attested]
+  - gloss: תַּנִּים: תַּנִּים֙ (EZK 29:3) — English (generated): monster
+  - NT: EZK 29:3 *store uhyre*
+  - answers: store uhyre
+  - Also 32:2; {T:} crocodile.
+  - agent:ezk029, 2026-10-31
+- **`term:yeor_ezk`** יְאֹרֶיךָ → **Nilarme** [high, decided, attested]
+  - gloss: יְאֹר: יְאֹרֶ֖י (EZK 29:4) — English (generated): of your streams
+  - NT: EZK 29:4 *Nilarme*; EZK 29:5 *Nilarme*; EZK 29:10 *Nilarme*
+  - answers: Nilarme
+  - Singular = Nilen.
+  - agent:ezk029, 2026-10-31
+- **`term:hamon_ezk`** הֲמוֹן מִצְרַיִם → **larmende skare** [high, decided, attested]
+  - gloss: הָמוֹן: הֲמ֣וֹן (EZK 30:10) — English (generated): to the hordes
+  - NT: EZK 30:10 *larmende skare*; EZK 30:15 *larmende skare*
+  - answers: larmende skare
+  - Egypt's hămôn; also 31:2.18; 32.
+  - agent:ezk030, 2026-10-31
+- **`term:geon_uzzah`** גְּאוֹן עֻזָּהּ → **stolte styrke** [high, decided, attested]
+  - gloss: גָּאוֹן: גְּא֣וֹן (EZK 30:6) — English (generated): and her proud
+  - NT: EZK 30:6 *stolte styrke*; EZK 30:18 *stolte styrke*
+  - answers: stolte styrke
+  - Also 24:21 'jeres stolte styrke'.
+  - agent:ezk030, 2026-10-31
+- **`term:sheol_ezk`** שְׁאוֹלָה → **dødsriget** [high, decided, attested]
+  - gloss: שְׁאוֹל: שְׁא֨וֹלָ (EZK 31:15) — English (generated): to Sheol
+  - NT: EZK 31:15 *dødsriget*; EZK 31:16 *dødsriget*; EZK 31:17 *dødsriget*
+  - answers: dødsriget
+  - As DFB; also 32:21.27.
+  - agent:ezk031, 2026-10-31
+- **`term:erets_tahtit`** אֶרֶץ תַּחְתִּית → **dybets land** [high, decided, attested]
+  - gloss: תַּחְתִּי: תַּחְתִּ֗ית (EZK 31:14) — English (generated): the depths
+  - NT: EZK 31:14 *dybets land*; EZK 31:16 *dybets land*; EZK 31:18 *dybets land*
+  - answers: dybets land
+  - Also 26:20; 32:18.24.
+  - agent:ezk031, 2026-10-31
+- **`term:avotim_ezk`** עֲבֹתִים → **skyerne** [high, decided, attested]
+  - gloss: עֲבֹות: עֲבֹתִ֔ים (EZK 31:3) — English (generated): the clouds
+  - NT: EZK 31:3 *skyerne*; EZK 31:10 *skyerne*; EZK 31:14 *skyerne*
+  - answers: skyerne
+  - 'blandt skyerne'; {T:} or thick boughs.
+  - agent:ezk031, 2026-10-31
+- **`term:kelimmah_nasa`** וַיִּשְׂאוּ כְלִמָּתָם → **bærer deres vanære** [high, decided, attested]
+  - gloss: כְּלִמָּה: כְלִמָּתָ֖ (EZK 32:24) — English (generated): their disgrace
+  - NT: EZK 32:24 *bærer deres vanære*; EZK 32:25 *bærer deres vanære*; EZK 32:30 *bærer deres vanære*
+  - answers: bærer deres vanære
+  - agent:ezk032, 2026-10-31
+- **`term:shemamah_meshammah`** שְׁמָמָה וּמְשַׁמָּה → **ødemark og ørk** [high, decided, attested]
+  - gloss: מְשַׁמָּה: מְשַׁמָּֽה (EZK 35:3) — English (generated): waste
+  - NT: EZK 35:3 *ødemark og ørk*
+  - answers: ødemark og ørk
+  - Also 6:14; 33:28-29; 35:7.
+  - agent:ezk035, 2026-10-31
+- **`term:nesi_rosh`** נְשִׂיא רֹאשׁ → **øverste fyrste** [high, decided, attested]
+  - gloss: רֹאשׁ: רֹ֖אשׁ (EZK 38:2) — English (generated): the chief
+  - NT: EZK 38:2 *øverste fyrste*; EZK 38:3 *øverste fyrste*
+  - answers: øverste fyrste
+  - 'den øverste fyrste over Meshek og Tubal'; {T:} Rosh. Also 39:1.
+  - agent:ezk038, 2026-10-31
+- **`term:yarkete_tsafon`** יַרְכְּתֵי צָפוֹן → **det yderste nord** [high, decided, attested]
+  - gloss: יַרְכָה: יַרְכְּתֵ֥י (EZK 38:6) — English (generated): from the far
+  - NT: EZK 38:6 *det yderste nord*; EZK 38:15 *det yderste nord*
+  - answers: det yderste nord
+  - Also 39:2.
+  - agent:ezk038, 2026-10-31
+- **`term:histir_panim_ezk`** וָאַסְתִּר פָּנַי מֵהֶם → **skjulte jeg mit ansigt for dem** [high, decided, attested]
+  - gloss: סָתַר: אַסְתִּ֥ר (EZK 39:23) — English (generated): So I hid
+  - NT: EZK 39:23 *skjulte jeg mit ansigt for dem*; EZK 39:24 *skjulte jeg mit ansigt for dem*; EZK 39:29 *skjulte jeg mit ansigt for dem*
+  - answers: skjulte jeg mit ansigt for dem
+  - agent:ezk039, 2026-10-31
+- **`term:ruhi_ezk`** אֶת־רוּחִי → **min Ånd** [high, decided, attested]
+  - gloss: רוּחַ: רוּחִ (EZK 39:29) — English (generated): My Spirit
+  - NT: EZK 39:29 *min Ånd*
+  - answers: min Ånd
+  - Capital Å for the divine Spirit as DFB Ezek 36:27; 37:14.
+  - agent:ezk039, 2026-10-31
+- **`term:zevah_ezk39`** זִבְחִי → **offermåltid** [high, decided, attested]
+  - gloss: זֶבַח: זִבְחִ֗ (EZK 39:17) — English (generated): the sacrificial feast
+  - NT: EZK 39:17 *offermåltid*; EZK 39:19 *offermåltid*
+  - answers: offermåltid
+  - HERREN's sacrificial feast for birds and beasts.
+  - agent:ezk039, 2026-10-31
+- **`term:ta_ezk`** תָּא → **vagtrum** [high, decided, attested]
+  - gloss: תָּא: תָּ֗א (EZK 40:7) — English (generated): Each gate chamber
+  - NT: EZK 40:7 *vagtrum*; EZK 40:10 *vagtrum*; EZK 40:21 *vagtrum*
+  - answers: vagtrum
+  - Gate chamber in Ezekiel's temple gates.
+  - agent:ezk040, 2026-10-31
+- **`term:ayil_ezk`** אַיִל → **piller** [high, decided, attested]
+  - gloss: אַיִל: אֵילָ֖י (EZK 40:9) — English (generated): and its jambs
+  - NT: EZK 40:9 *piller*; EZK 40:10 *piller*; EZK 40:16 *piller*
+  - answers: piller
+  - Architectural jamb/pillar (not the ram).
+  - agent:ezk040, 2026-10-31
+- **`term:elam_ezk`** אֵלָם → **forhal** [high, decided, attested]
+  - gloss: אֵילָם: אֵֽלַמּ֑וֹת (EZK 40:16) — English (generated): The porticos
+  - NT: EZK 40:16 *forhal*; EZK 40:21 *forhal*; EZK 40:22 *forhal*
+  - answers: forhal
+  - Portico of the gates; ulam of the temple = forhallen (DFB 1 Kgs 6:3).
+  - agent:ezk040, 2026-10-31
+- **`term:timorim_ezk`** תִּמֹרִים → **palmer** [high, decided, attested]
+  - gloss: תִּמֹרָה: תִּמֹרִֽים (EZK 40:16) — English (generated): was decorated with palm trees
+  - NT: EZK 40:16 *palmer*; EZK 40:26 *palmer*; EZK 40:31 *palmer*
+  - answers: palmer
+  - Palm ornaments.
+  - agent:ezk040, 2026-10-31
+- **`term:lishkah_ezk`** לְשָׁכוֹת → **kamre** [high, decided, attested]
+  - gloss: לִשְׁכָּה: לְשָׁכוֹת֙ (EZK 40:17) — English (generated): were chambers
+  - NT: EZK 40:17 *kamre*; EZK 40:38 *kamre*; EZK 40:44 *kamre*
+  - answers: kamre
+  - Temple chambers.
+  - agent:ezk040, 2026-10-31
+- **`term:ritspah_ezk`** רִצְפָה → **brolægning** [high, decided, attested]
+  - gloss: רִצְפָּה: רִֽצְפָ֔ה (EZK 40:17) — English (generated): and a pavement
+  - NT: EZK 40:17 *brolægning*; EZK 40:18 *brolægning*
+  - answers: brolægning
+  - Pavement of the outer court.
+  - agent:ezk040, 2026-10-31
+- **`term:qaneh_middah`** קְנֵה הַמִּדָּה → **målestang** [high, decided, attested]
+  - gloss: קָנֶה: קְנֵ֣ה (EZK 40:3) — English (generated): rod
+  - NT: EZK 40:3 *målestang*; EZK 40:5 *målestang*
+  - answers: målestang
+  - Measuring rod; as a measure 'stang'.
+  - agent:ezk040, 2026-10-31
+- **`term:shomre_mishmeret_ezk`** שֹׁמְרֵי מִשְׁמֶרֶת → **varetager tjenesten** [high, decided, attested]
+  - gloss: שָׁמַר: שֹׁמְרֵ֖י (EZK 40:45) — English (generated): who keep
+  - NT: EZK 40:45 *varetager tjenesten*; EZK 40:46 *varetager tjenesten*
+  - answers: varetager tjenesten
+  - Priests who keep charge of the temple / altar.
+  - agent:ezk040, 2026-10-31
+- **`term:hekal_ezk40`** הַהֵיכָל → **Tempelhallen** [high, decided, attested]
+  - gloss: הֵיכָל: הֵיכָ֑ל (EZK 41:1) — English (generated): the outer sanctuary
+  - NT: EZK 41:1 *Tempelhallen*; EZK 41:4 *Tempelhallen*; EZK 41:20 *Tempelhallen*
+  - answers: Tempelhallen
+  - Temple vision (Ezek 40-48): hekal as DFB 1 Kgs 6; in Ezek 8 'HERRENS tempel' stays.
+  - agent:ezk041, 2026-10-31
+- **`term:qodesh_qodashim_ezk`** קֹדֶשׁ הַקֳּדָשִׁים → **Allerhelligste** [high, decided, attested]
+  - gloss: קֹדֶשׁ: קֹ֥דֶשׁ (EZK 41:4) — English (generated): is the Most Holy Place
+  - NT: EZK 41:4 *Allerhelligste*
+  - answers: Allerhelligste
+  - 'det Allerhelligste' as DFB 1 Kgs 6:16.
+  - agent:ezk041, 2026-10-31
+- **`term:tsela_ezk`** הַצֵּלָע → **siderummenes** [high, decided, attested]
+  - gloss: צֵלָע: צֵּלָע֩ (EZK 41:5) — English (generated): side room
+  - NT: EZK 41:5 *siderummenes*; EZK 41:6 *siderummenes*; EZK 41:26 *siderummenes*
+  - answers: siderummenes
+  - Side rooms, 'siderum' as DFB 1 Kgs 6:5.
+  - agent:ezk041, 2026-10-31
+- **`term:gizrah_ezk`** הַגִּזְרָה → **afspærrede plads** [high, decided, attested]
+  - gloss: גִּזְרָה: גִּזְרָ֜ה (EZK 41:12) — English (generated): the temple courtyard
+  - NT: EZK 41:12 *afspærrede plads*; EZK 41:13 *afspærrede plads*; EZK 41:14 *afspærrede plads*
+  - answers: afspærrede plads
+  - 'den afspærrede plads'; BSB courtyard.
+  - agent:ezk041, 2026-10-31
+- **`term:qodshe_qodashim_ezk`** קָדְשֵׁי הַקֳּדָשִׁים → **højhellige** [high, decided, attested]
+  - gloss: קֹדֶשׁ: קֹּ֗דֶשׁ (EZK 42:13) — English (generated): are the holy
+  - NT: EZK 42:13 *højhellige*
+  - answers: højhellige
+  - 'de højhellige gaver' as DFB.
+  - agent:ezk042, 2026-10-31
+- **`term:holl_qodesh_ezk`** בֵּין הַקֹּדֶשׁ לְחֹל → **mellem helligt og almindeligt** [high, decided, attested]
+  - gloss: חֹל: חֹֽל (EZK 42:20) — English (generated): from the common
+  - NT: EZK 42:20 *mellem helligt og almindeligt*; EZK 22:26 *mellem helligt og almindeligt*
+  - answers: mellem helligt og almindeligt
+  - agent:ezk042, 2026-10-31
+- **`term:azarah_ezk`** הָעֲזָרָה → **afsats** [high, decided, attested]
+  - gloss: עֲזָרָה: עֲזָרָ֤ה (EZK 43:14) — English (generated): ledge
+  - NT: EZK 43:14 *afsats*; EZK 43:17 *afsats*; EZK 43:20 *afsats*
+  - answers: afsats
+  - Ledge of the altar.
+  - agent:ezk043, 2026-10-31
+- **`term:harel_ezk`** הַהַרְאֵל → **Alterherden** [high, decided, attested]
+  - gloss: הַרְאֵל: הַרְאֵ֖ל (EZK 43:15) — English (generated): The altar hearth
+  - NT: EZK 43:15 *Alterherden*; EZK 43:16 *Alterherden*
+  - answers: Alterherden
+  - Altar hearth; {T:} in 43:15.
+  - agent:ezk043, 2026-10-31
+- **`term:torat_habbayit`** תּוֹרַת הַבָּיִת → **templets lov** [high, decided, attested]
+  - gloss: תּוֹרָה: תּוֹרַ֣ת (EZK 43:12) — English (generated): is the law
+  - NT: EZK 43:12 *templets lov*
+  - answers: templets lov
+  - agent:ezk043, 2026-10-31
+- **`term:hitte_kipper_ezk`** וְחִטֵּאתָ … וְכִפַּרְתָּהוּ → **skaffe soning** [high, decided, attested]
+  - gloss: כִּפֶּר: כִפַּרְתָּֽ (EZK 43:20) — English (generated): the altar and make atonement for it
+  - NT: EZK 43:20 *skaffe soning*; EZK 43:26 *skaffe soning*
+  - answers: skaffe soning
+  - 'rense det for synd og skaffe soning for det' (DFB 'skaffe soning').
+  - agent:ezk043, 2026-10-31
+- **`term:torot_ezk`** תּוֹרֹתָיו → **bestemmelser** [high, decided, attested]
+  - gloss: תּוֹרָה: תּֽוֹרֹתָ֑י (EZK 44:5) — English (generated): laws
+  - NT: EZK 44:5 *bestemmelser*; EZK 44:24 *bestemmelser*; EZK 43:11 *bestemmelser*
+  - answers: bestemmelser
+  - Plural toroth 'bestemmelser'; huqqot 'forordninger', mishpatim 'love' (Ezek 5).
+  - agent:ezk044, 2026-10-31
+- **`term:terumah_ezk`** תְּרוּמַת → **afgift** [high, decided, attested]
+  - gloss: תְּרוּמָה: תְּר֣וּמַת (EZK 44:30) — English (generated): contribution
+  - NT: EZK 44:30 *afgift*; EXO 25:2 *afgift*
+  - answers: afgift
+  - As DFB Exod 25:2-3.
+  - agent:ezk044, 2026-10-31
+- **`term:arle_lev_ezk`** עַרְלֵי לֵב וְעַרְלֵי בָשָׂר → **uomskårne på hjerte og uomskårne på kød** [high, decided, attested]
+  - gloss: עָרֵל: עַרְלֵי (EZK 44:7) — English (generated): uncircumcised
+  - NT: EZK 44:7 *uomskårne på hjerte og uomskårne på kød*; EZK 44:9 *uomskårne på hjerte og uomskårne på kød*
+  - answers: uomskårne på hjerte og uomskårne på kød
+  - agent:ezk044, 2026-10-31
+- **`term:terumat_haqqodesh_ezk`** תְּרוּמַת הַקֹּדֶשׁ → **det hellige stykke land** [high, decided, attested]
+  - gloss: תְּרוּמָה: תְּרוּמַ֣ת (EZK 45:6) — English (generated): district
+  - NT: EZK 45:6 *det hellige stykke land*; EZK 45:7 *det hellige stykke land*
+  - answers: det hellige stykke land
+  - teruma of land in Ezek 45-48; teruma of goods = 'afgift'.
+  - agent:ezk045, 2026-10-31
+- **`term:migrash_ezk`** מִגְרָשׁ → **græsgange** [high, decided, attested]
+  - gloss: מִגְרָשׁ: מִגְרָ֥שׁ (EZK 45:2) — English (generated): for open land
+  - NT: EZK 45:2 *græsgange*
+  - answers: græsgange
+  - As the project's Joshua.
+  - agent:ezk045, 2026-10-31
+- **`term:ahuzzat_hair`** אֲחֻזַּת הָעִיר → **byens ejendom** [high, decided, attested]
+  - gloss: אֲחֻזָּה: אֲחֻזַּ֨ת (EZK 45:6) — English (generated): As the property
+  - NT: EZK 45:6 *byens ejendom*; EZK 45:7 *byens ejendom*
+  - answers: byens ejendom
+  - agent:ezk045, 2026-10-31
+- **`term:olat_tamid_ezk`** עוֹלַת תָּמִיד → **det daglige brændoffer** [high, decided, attested]
+  - gloss: תָּמִיד: תָּמִֽיד (EZK 46:15) — English (generated): as a regular
+  - NT: EZK 46:15 *det daglige brændoffer*
+  - answers: det daglige brændoffer
+  - As DFB.
+  - agent:ezk046, 2026-10-31
+- **`term:shenat_deror`** שְׁנַת הַדְּרוֹר → **frigivelsesåret** [high, decided, attested]
+  - gloss: דְּרוֹר: דְּר֔וֹר (EZK 46:17) — English (generated): of freedom
+  - NT: EZK 46:17 *frigivelsesåret*
+  - answers: frigivelsesåret
+  - Year of liberty (jubilee); {T:}.
+  - agent:ezk046, 2026-10-31
+- **`term:bet_mevashshelim`** בֵּית הַמְבַשְּׁלִים → **kogehusene** [high, decided, attested]
+  - gloss: בָּשַׁל: מְבַשְּׁלִ֔ים (EZK 46:24)
+  - NT: EZK 46:24 *kogehusene*
+  - answers: kogehusene
+  - agent:ezk046, 2026-10-31
+- **`term:nirpu_ezk`** וְנִרְפּוּ → **sundt** [high, decided, attested]
+  - gloss: רפה: נִרְפּ֥וּ (EZK 47:8) — English (generated): becomes fresh
+  - NT: EZK 47:8 *sundt*; EZK 47:9 *sundt*
+  - answers: sundt
+  - Water 'healed' = becomes fresh; {T:}.
+  - agent:ezk047, 2026-10-31
+- **`term:tribe_portion_ezk`** דָּן אֶחָד → **én del** [high, decided, attested]
+  - gloss: אֶחָד: אֶחָֽד (EZK 48:1) — English (generated): will have one portion
+  - NT: EZK 48:1 *én del*; EZK 48:2 *én del*; EZK 48:23 *én del*
+  - answers: én del
+  - Schema: 'Ved Dans grænse, fra østsiden til vestsiden: Asher, én del.'
+  - agent:ezk048, 2026-10-31
+<!-- store:end sha=1fdf750a -->

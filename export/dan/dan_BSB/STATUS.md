@@ -1,13 +1,14 @@
 # Status: Danish (dansk)
 
-334 chapters: **334 draft**, 0 in review, 0 published.
+431 chapters: **431 draft**, 0 in review, 0 published.
 
 > **Udkast.** Oversat med AI-agenter direkte fra hebraisk og græsk, med Berean Standard Bible (BSB) som eneste hjælpeoversættelse; endnu ikke gennemset eller godkendt af et sprogteam. Ikke til brug som udgivet bibeltekst. Fri af ophavsret (CC0).
 
 | Book | Chapters | Status | Existing edition |
 |---|---|---|---|
 | Genesis (`gen`) | 30 | draft: 20–27, 29–50 | den-frie-bibel (public-domain) has chapters 1–19, 28: ours continue it |
-| Leviticus (`lev`) | 1 | draft: 1 | den-frie-bibel (public-domain) has chapters 19: ours continue it |
+| Leviticus (`lev`) | 26 | draft: 1–18, 20–27 | den-frie-bibel (public-domain) has chapters 19: ours continue it |
+| Deuteronomy (`deu`) | 28 | draft: 1–5, 7, 9, 11–17, 19–23, 25–29, 31–34 | den-frie-bibel (public-domain) has chapters 6, 8, 10, 18, 24, 30: ours continue it |
 | Joshua (`jos`) | 24 | draft: 1–24 | — |
 | 1 Samuel (`1sa`) | 31 | draft: 1–31 | — |
 | 2 Samuel (`2sa`) | 22 | draft: 1–10, 13–24 | den-frie-bibel (public-domain) has chapters 11–12: ours continue it |
@@ -21,6 +22,7 @@
 | Proverbs (`pro`) | 30 | draft: 1–2, 4–31 | den-frie-bibel (public-domain) has chapters 3: ours continue it |
 | Ecclesiastes (`ecc`) | 10 | draft: 1–2, 4–7, 9–12 | den-frie-bibel (public-domain) has chapters 3, 8: ours continue it |
 | Song of Songs (`sng`) | 8 | draft: 1–8 | — |
+| Ezekiel (`ezk`) | 44 | draft: 1–32, 35, 38–48 | den-frie-bibel (public-domain) has chapters 33–34, 36–37: ours continue it |
 | Daniel (`dan`) | 12 | draft: 1–12 | — |
 | Hosea (`hos`) | 14 | draft: 1–14 | — |
 | Joel (`jol`) | 3 | draft: 1–2, 4 | den-frie-bibel (public-domain) has chapters 3: ours continue it |

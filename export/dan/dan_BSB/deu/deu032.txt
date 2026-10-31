@@ -1,0 +1,321 @@
+!!<Modenhed: Udkast>!!
+!!<Oversættelse: Maskinudkast fra grundteksten (orig/heb/deu032.txt), sammenholdt med Berean Standard Bible>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Endnu ikke sket>!!
+!!<Dato for denne version: 31.10.2026>!!
+
+===Femte Mosebog, kapitel 32===
+
+
+==Moses' sang==
+
+//1 v1 Lyt, himmel, og jeg vil tale;
+
+//2 og hør, jord, min munds ord!
+
+//1 v2 Min lære skal dryppe som regn,
+
+//2 min tale skal sive ned som dug,
+
+//1 som regnbyger på det grønne græs,
+
+//2 og som regnskyl på urterne.
+
+//1 v3 For jeg vil udråbe HERRENS navn.
+
+//2 Giv vores Gud storhed!
+
+//1 v4 Klippen{T: Hebraisk *ṣûr*, et gudsnavn som går igen i sangen (v. 15, 18, 30-31, 37).} – hans værk er fuldkomment,
+
+//2 for alle hans veje er ret.
+
+//1 En trofast Gud uden svig,
+
+//2 retfærdig og oprigtig er han.
+
+//1 v5 De har handlet fordærveligt mod ham;
+
+//2 de er ikke hans børn, det er deres skamplet{T: Teksten er usikker; ordret: >>han fordærvede for sig, ikke hans børn, deres lyde<<.},
+
+//2 en fordrejet og forkvaklet slægt{E: Jf. Fil 2,15: »en fordrejet og fordærvet slægt«.}.
+
+//1 v6 Er det sådan I gengælder HERREN,
+
+//2 du tåbelige og uvise folk?
+
+//1 Er han ikke din far som har skabt dig?
+
+//2 Han har gjort dig og grundfæstet dig.
+
+//1 v7 Husk de gamle dage,
+
+//2 tænk over årene slægt efter slægt!
+
+//1 Spørg din far, og han vil fortælle dig,
+
+//2 dine ældste, og de vil sige dig det.
+
+//1 v8 Da Den Højeste gav folkene deres arv,
+
+//2 da han skilte menneskenes børn ad,
+
+//1 satte han folkenes grænser
+
+//2 efter Israels sønners antal{T: Sådan den masoretiske tekst; Dødehavsrullerne: >>Guds sønners<<; Septuaginta: >>Guds engles<<.}.
+
+//1 v9 Men HERRENS del er hans folk,
+
+//2 Jakob er hans arvelod.
+
+//1 v10 Han fandt ham i et ørkenland,
+
+//2 og i det øde, hylende ødeland.
+
+//1 Han omsluttede ham, han tog sig af ham,
+
+//2 han vogtede ham som sin øjesten.
+
+//1 v11 Som en ørn der vækker sin rede
+
+//2 og svæver over sine unger,
+
+//1 bredte han sine vinger ud, tog ham
+
+//2 og bar ham på sine svingfjer.
+
+//1 v12 HERREN alene ledte ham,
+
+//2 og ingen fremmed gud var med ham.
+
+//1 v13 Han lod ham fare frem over landets høje,
+
+//2 og han spiste markens afgrøde.
+
+//1 Han lod ham suge honning af klippen
+
+//2 og olie af den hårde klippegrund,
+
+//1 v14 kvægets fløde og fårenes mælk
+
+//2 med fedt af lam,
+
+//1 og væddere fra Bashan og bukke
+
+//2 med den fineste hvede{T: Ordret: >>hvedens nyrefedt<<.},
+
+//1 og druens blod drak du
+
+//2 som skummende vin.
+
+//1 v15 Så blev Jeshurun{T: Et kælenavn for Israel, af *yāšār*, >>retskaffen<<.} fed og sparkede bagud –
+
+//2 du blev fed, tyk og mæsket –
+
+//1 og han forlod Gud som skabte ham
+
+//2 og foragtede sin frelses Klippe.
+
+//1 v16 De gjorde ham nidkær med fremmede guder,
+
+//2 med vederstyggeligheder vakte de hans harme.
+
+//1 v17 De ofrede til dæmoner der ikke er Gud,
+
+//2 til guder de ikke kendte,
+
+//1 nye guder der nylig var kommet,
+
+//2 som jeres fædre ikke gøs for.
+
+//1 v18 Klippen som fødte dig, forsømte du,
+
+//2 og du glemte Gud som bar dig frem med veer.
+
+//1 v19 Det så HERREN, og han forkastede dem,
+
+//2 fordi hans sønner og døtre krænkede ham.
+
+//1 v20 Og han sagde: Jeg vil skjule mit ansigt for dem
+
+//2 og se hvad deres endeligt bliver.
+
+//1 For de er en fordærvet slægt,
+
+//2 børn som der ingen troskab er i.
+
+//1 v21 De har gjort mig nidkær med det der ikke er Gud,
+
+//2 vakt min harme med deres tomme afguder.
+
+//1 Så vil jeg gøre dem nidkære med dem der ikke er et folk,
+
+//2 med et tåbeligt folk vil jeg vække deres harme{E: Paulus citerer verset i Rom 10,19.}.
+
+//1 v22 For en ild er blusset op i min vrede,
+
+//2 og den brænder helt ned til det dybeste dødsrige;
+
+//1 og den fortærer jorden og dens afgrøde
+
+//2 og sætter ild til bjergenes grundvolde.
+
+//1 v23 Jeg vil dynge ulykker op over dem,
+
+//2 mine pile vil jeg bruge op på dem.
+
+//1 v24 De skal udtæres af sult
+
+//2 og fortæres af feberglød og bitter pest;
+
+//1 og vilde dyrs tænder sender jeg imod dem
+
+//2 sammen med gift fra dem der kryber i støvet.
+
+//1 v25 Udenfor skal sværdet gøre dem barnløse,
+
+//2 og i kamrene skal rædslen herske,
+
+//1 både for den unge mand og den unge kvinde,
+
+//2 for den diende og den grå olding.
+
+//1 v26 Jeg sagde: Jeg vil blæse dem bort{T: Hebraisk *ʔapʔêhem*, kun her; betydningen er usikker.},
+
+//2 jeg vil udslette deres minde blandt mennesker,
+
+//1 v27 hvis jeg ikke frygtede fjendens hån,
+
+//2 at deres modstandere skulle misforstå det
+
+//1 og sige: >>Vores hånd var stærk,
+
+//2 det var ikke HERREN der gjorde alt dette.<<
+
+//1 v28 For de er et folk uden råd,
+
+//2 og der er ingen forstand i dem.
+
+//1 v29 Var de bare vise, ville de fatte dette,
+
+//2 de ville forstå hvad deres endeligt bliver.
+
+//1 v30 Hvordan kunne én jage tusind
+
+//2 og to drive titusind på flugt,
+
+//1 hvis ikke deres Klippe havde solgt dem
+
+//2 og HERREN givet dem til pris?
+
+//1 v31 For deres klippe er ikke som vores Klippe;
+
+//2 og det må selv vores fjender dømme{T: Teksten er dunkel; Septuaginta: >>vores fjender er uforstandige<<.}.
+
+//1 v32 For deres vinstok stammer fra Sodomas vinstok
+
+//2 og fra Gomorras marker.
+
+//1 Deres druer er giftdruer,
+
+//2 de har bitre klaser.
+
+//1 v33 Deres vin er slangers gift
+
+//2 og kobraers grusomme gift.
+
+//1 v34 Er dette ikke gemt hos mig,
+
+//2 forseglet i mine forrådskamre?
+
+//1 v35 Hævnen hører mig til, og gengældelsen{E: Jf. Rom 12,19 og Hebr 10,30: »Hævnen hører mig til, jeg vil gengælde«.},
+
+//2 til den tid da deres fod glider.
+
+//1 For deres ulykkesdag er nær,
+
+//2 og det der venter dem, kommer hastigt.
+
+//1 v36 For HERREN skal skaffe sit folk ret
+
+//2 og forbarme sig over sine tjenere,
+
+//1 når han ser at deres kraft er borte
+
+//2 og der ingen er tilbage, hverken træl eller fri{T: Ordret: >>den lukkede inde og den forladte<<, dvs. alle og enhver.}.
+
+//1 v37 Da skal han sige: Hvor er deres guder,
+
+//2 klippen som de søgte tilflugt hos,
+
+//1 v38 de som åd fedtet af deres slagtofre
+
+//2 og drak vinen af deres drikofre?
+
+//1 Lad dem rejse sig og hjælpe jer,
+
+//2 lad dem være et skjul for jer!
+
+//1 v39 Se nu at jeg, kun jeg, er det,
+
+//2 og der er ingen gud ved siden af mig.
+
+//1 Jeg slår ihjel og gør levende,
+
+//2 jeg har såret, og jeg helbreder,
+
+//1 og der er ingen
+
+//2 der redder af min hånd.
+
+//1 v40 For jeg løfter min hånd mod himlen
+
+//2 og siger: Så sandt jeg lever til evig tid,
+
+//1 v41 når jeg har hvæsset mit lynende sværd
+
+//2 og min hånd griber om retten,
+
+//1 vil jeg tage hævn over mine modstandere
+
+//2 og gengælde dem der hader mig.
+
+//1 v42 Jeg vil beruse mine pile med blod,
+
+//2 og mit sværd skal æde kød,
+
+//1 med de faldnes og fangernes blod,
+
+//2 fra fjendens langhårede høvdinger{T: Usikkert; også >>fjendens førere<<.}.
+
+//1 v43 Fryd jer, I folk, over hans folk{E: Paulus citerer Septuagintas form i Rom 15,10: »Fryd jer, I folk, sammen med hans folk«; Hebr 1,6 citerer en linje som kun Septuaginta og Dødehavsrullerne har her.},
+
+//2 for han hævner sine tjeneres blod;
+
+//1 og han tager hævn over sine modstandere
+
+//2 og skaffer soning for sit land, sit folk.
+
+==Moses' sidste formaning==
+
+v44 Så kom Moses og fremsagde alle denne sangs ord for
+folkets ører, han og Hosea{T: Dvs. Josva; jf. 4 Mos 13,16.}, Nuns søn. v45 Da
+Moses var færdig med at tale alle disse ord til hele Israel,
+v46 sagde han til dem: Læg jer alle de ord på hjerte som jeg
+i dag vidner for jer, så I kan pålægge jeres børn
+at omhyggeligt følge alle denne lovs ord. v47 For det er
+ikke et tomt ord for jer; nej, det er jeres liv, og ved dette
+ord skal I leve længe i det land som I går over
+Jordan til for at tage det i besiddelse.
+
+==Moses skal dø på Nebo-bjerget==
+
+v48 Netop den dag talte HERREN til Moses og sagde: v49 >>Gå op
+på Abarimbjerget her, Nebo-bjerget, som ligger i Moabs land
+over for Jeriko, og se Kana’ans land som jeg giver
+Israels børn til ejendom. v50 Og du skal dø på det bjerg som du går
+op på, og samles til dit folk, sådan som din bror Aron døde
+på bjerget Hor og blev samlet til sit folk, v51 fordi I var
+troløse mod mig blandt Israels børn ved Meribas vand i Kadesh i Sins
+ørken, fordi I ikke helligede mig blandt Israels børn.
+v52 For på afstand skal du se landet, men dér skal du ikke
+komme ind i det land som jeg giver Israels børn.<<

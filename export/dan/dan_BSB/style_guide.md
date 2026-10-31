@@ -583,6 +583,383 @@ Bogspecifikke stilark ligger i bogmapperne (fx `jos/jos_style_guide.md`). Denne 
 | נִתַּךְ (vrede) | udøst | 2 Krøn 34,21 |
 | פְּסָחִים | påskeofre (ental: påskelammet) | 2 Krøn 35,7 |
 | חֲסָדִים (gerninger) | fromme gerninger | 2 Krøn 32,32 |
+| חַיּוֹת (Ez 1) | livsvæsener (DFB Åb 4) | Ez 1 |
+| רָקִיעַ (Ez 1) | hvælving | Ez 1 |
+| חַשְׁמַל | skinnende metal ({E:}) | Ez 1 |
+| אוֹפַן / גַּבֹּת | hjul / fælge | Ez 1 |
+| נֹגַהּ | lysglans | Ez 1 |
+| תַּרְשִׁישׁ (sten) | krysolit | Ez 1 |
+| כְּבוֹד יְהוָה | HERRENS herlighed | Ez 1 |
+| נְהַר כְּבָר | Kebarfloden | Ez 1 |
+| בֶּן־אָדָם (tiltale) | menneskesøn (DFB Ez 33; 37) | Ez 2 |
+| כֹּה אָמַר אֲדֹנָי יְהוִה | Så siger Herren HERREN: (DFB Ez 37) | Ez 2 |
+| נְאֻם אֲדֹנָי יְהוִה (Ez) | siger Herren HERREN | Ez 2 |
+| וִידַעְתֶּם כִּי־אֲנִי יְהוָה | og I skal erkende at jeg er HERREN (DFB Ez 37) | Ez 2 |
+| בֵּית מְרִי | et genstridigt hus | Ez 2 |
+| צֹפֶה (Ez 3) | vægter | Ez 3 |
+| רָשָׁע / רֶשַׁע (Ez) | den ugudelige / ugudelighed | Ez 3 |
+| הִזְהִיר | advare | Ez 3 |
+| דָּמוֹ מִיָּדְךָ אֲבַקֵּשׁ | hans blod vil jeg kræve af din hånd | Ez 3 |
+| מִכְשׁוֹל | anstødssten | Ez 3 |
+| תֵּל אָבִיב | Tel-Abib | Ez 3 |
+| אֲהָהּ אֲדֹנָי יְהוִה | Ak, Herre HERRE! | Ez 4 |
+| שָׁבַר מַטֵּה־לֶחֶם | bryde brødets stav | Ez 4 |
+| דָּיֵק / סֹלְלָה / כָּרִים | belejringsmur / vold / stormbukke | Ez 4 |
+| אֲנִי יְהוָה דִּבַּרְתִּי | Jeg, HERREN, har talt | Ez 5 |
+| לֹא־תָחוֹס עֵינִי וְלֹא אֶחְמוֹל | mit øje skal ikke vise medlidenhed, og jeg vil ikke skåne | Ez 5 |
+| חֻקּוֹת / מִשְׁפָּטִים (Ez) | forordninger / love (DFB Ez 36,27) | Ez 5 |
+| עָשָׂה שְׁפָטִים | fuldbyrde straffedomme | Ez 5 |
+| חֶרֶב / רָעָב / דֶּבֶר | sværd / hungersnød / pest | Ez 5 |
+| אַף / חֵמָה / קִנְאָה | vrede / harme / nidkærhed | Ez 5 |
+| שִׂים פָּנֶיךָ אֶל | sæt dit ansigt mod | Ez 6 |
+| הִנָּבֵא | profetér | Ez 6 |
+| הָרֵי יִשְׂרָאֵל | Israels bjerge (DFB Ez 34) | Ez 6 |
+| דִּבְלָתָה | Dibla ({T:} Ribla) | Ez 6 |
+| קֵץ בָּא | Enden kommer | Ez 7 |
+| חִלֵּל | vanhellige | Ez 7 |
+| צְפִירָה | undergangen ({E:}) | Ez 7 |
+| סֵמֶל הַקִּנְאָה | skinsygens gudebillede | Ez 8 |
+| חָצֵר (tempel) | forgård (DFB 1 Kong 6) | Ez 8 |
+| אוּלָם | forhallen (DFB 1 Kong 6) | Ez 8 |
+| מִקְטֶרֶת | røgelseskar | Ez 8 |
+| לָבֻשׁ בַּדִּים | klædt i linned | Ez 9 |
+| קֶסֶת הַסֹּפֵר | skrivetøj | Ez 9 |
+| תָּו | mærke ({T:} tāw) | Ez 9 |
+| גַּלְגַּל (Ez 10) | hjulværket | Ez 10 |
+| כְּרוּב / כְּרֻבִים | kerub / keruber (DFB) | Ez 10 |
+| לֵב הָאֶבֶן / לֵב בָּשָׂר | stenhjertet / et hjerte af kød (DFB Ez 36) | Ez 11 |
+| וְהָיוּ לִי לְעָם … לֵאלֹהִים | de skal være mit folk, og jeg vil være Gud for dem (DFB Ez 36) | Ez 11 |
+| כַּשְׂדִּימָה | Kaldæa | Ez 11 |
+| כְּלֵי גוֹלָה | eksilbagage | Ez 12 |
+| נָשִׂיא (Ez) | fyrsten | Ez 12 |
+| מָשָׁל | ordsprog | Ez 12 |
+| חֲזוֹן שָׁוְא / מִקְסַם | falsk syn / spådom | Ez 12 |
+| טוּחַ תָּפֵל | kalke med kalk | Ez 13 |
+| הִנְנִי אֲלֵיכֶם | se, jeg er imod jer | Ez 13 |
+| קֶסֶם כָּזָב / חָזָה שָׁוְא | løgnagtig spådom / skue falskhed | Ez 13 |
+| מִכְשׁוֹל עָוֹן | anstødssten til skyld | Ez 14 |
+| דָּרַשׁ (Ez) | rådspørge | Ez 14 |
+| נֹחַ דָּנִאֵל וְאִיּוֹב | Noa, Daniel og Job | Ez 14 |
+| עֵץ הַגֶּפֶן | vinstokkens træ | Ez 15 |
+| זָנָה / תַּזְנוּת / זוֹנָה / אֶתְנַן | hore / utugt / skøge / skøgeløn (DFB Hos) | Ez 16 |
+| זִמָּה | skamløshed | Ez 16 |
+| גַּב / רָמָה | forhøjning / høj | Ez 16 |
+| כְּלִמָּה | vanære | Ez 16 |
+| שׁוּב שְׁבוּת | vende … skæbne | Ez 16 |
+| חוּד חִידָה וּמְשֹׁל מָשָׁל | fremsæt en gåde, og fortæl en lignelse | Ez 17 |
+| חַי־אָנִי … אִם־לֹא | så sandt jeg lever … Sandelig | Ez 17 |
+| אֲנִי יְהוָה דִּבַּרְתִּי וְעָשִׂיתִי | Jeg, HERREN, har talt, og jeg gør det | Ez 17 |
+| הַנֶּפֶשׁ הַחֹטֵאת הִיא תָמוּת | Den sjæl der synder, den skal dø | Ez 18 |
+| עָשָׂה מִשְׁפָּט וּצְדָקָה | øve ret og retfærdighed | Ez 18 |
+| נֶשֶׁךְ / תַּרְבִּית | rente / åger | Ez 18 |
+| קִינָה | klagesang | Ez 19 |
+| כְּפִיר | ungløve (DFB) | Ez 19 |
+| נָשָׂא יָד (Ez 20) | løfte min hånd til ed | Ez 20 |
+| לְמַעַן שְׁמִי | for mit navns skyld | Ez 20 |
+| בְּיָד חֲזָקָה וּבִזְרוֹעַ נְטוּיָה | med stærk hånd og med udstrakt arm (DFB) | Ez 20 |
+| הַטֵּף אֶל | lad dit ord strømme mod | Ez 21 |
+| תְּרָפִים | husguderne (DFB) | Ez 21 |
+| עֵת עֲוֹן קֵץ | i tiden hvor skylden når sin ende | Ez 21 |
+| עִיר הַדָּמִים | blodbyen | Ez 22 |
+| סִיג / כּוּר | slagger / smelteovn | Ez 22 |
+| בֵּין־קֹדֶשׁ לְחֹל | mellem helligt og almindeligt | Ez 22 |
+| אָהֳלָה / אָהֳלִיבָה | Ohola / Oholiba | Ez 23 |
+| עָגַב | var liderlig efter | Ez 23 |
+| פַּחוֹת וּסְגָנִים | statholdere og forstandere | Ez 23 |
+| חֶלְאָה | rust | Ez 24 |
+| מַחְמַד עֵינַיִם | øjnes lyst | Ez 24 |
+| לֶחֶם אֲנָשִׁים | sørgebrød | Ez 24 |
+| פָּלִיט | flygtning | Ez 24 |
+| יַעַן … לָכֵן | Fordi … derfor | Ez 25 |
+| בְּנֵי קֶדֶם | Østens sønner (DFB) | Ez 25 |
+| שְׁאָט בְּנֶפֶשׁ | foragt i sjælen | Ez 25 |
+| אִיִּים | kystlandene | Ez 26 |
+| יוֹרְדֵי בוֹר | dem der farer ned i graven (DFB) | Ez 26 |
+| מִשְׁטַח חֲרָמִים | et sted hvor man breder net ud | Ez 26 |
+| בְּלֵב יַמִּים | i havenes hjerte | Ez 27 |
+| כְּלִילַת יֹפִי | fuldkommen i skønhed | Ez 27 |
+| עִזְבוֹנִים / מַעֲרָב | varer / byttevarer | Ez 27 |
+| כְּרוּב מִמְשַׁח הַסּוֹכֵךְ | en salvet kerub der dækkede | Ez 28 |
+| אַבְנֵי־אֵשׁ | ildsten | Ez 28 |
+| מוֹתֵי עֲרֵלִים | de uomskårnes død | Ez 28 |
+| תַּנִּים (Ez 29,3; 32,2) | det store uhyre | Ez 29 |
+| יְאֹר / יְאֹרִים | Nilen / Nilarme | Ez 29 |
+| סְוֵנֵה | Syene | Ez 29 |
+| הֲמוֹן (Egypten) | larmende skare | Ez 30 |
+| גְּאוֹן עֻזָּהּ | stolte styrke | Ez 30 |
+| נֹף / צֹעַן / נֹא | Nof / Soan / No (DFB) | Ez 30 |
+| שְׁאוֹל | dødsriget (DFB) | Ez 31 |
+| אֶרֶץ תַּחְתִּית | dybets land | Ez 31 |
+| עֲבֹתִים (Ez 31) | skyerne | Ez 31 |
+| חַלְלֵי חֶרֶב | dræbt med sværd | Ez 32 |
+| נָתְנוּ חִתִּית בְּאֶרֶץ חַיִּים | udbredte rædsel i de levendes land | Ez 32 |
+| נָשְׂאוּ כְלִמָּתָם | bærer deres vanære | Ez 32 |
+| הַר שֵׂעִיר | Se'ir-bjerget | Ez 35 |
+| שְׁמָמָה וּמְשַׁמָּה | ødemark og ørk | Ez 35 |
+| גּוֹג … מָגוֹג | Gog i Magogs land | Ez 38 |
+| נְשִׂיא רֹאשׁ | den øverste fyrste | Ez 38 |
+| יַרְכְּתֵי צָפוֹן | det yderste nord | Ez 38 |
+| גֵּיא הֲמוֹן גּוֹג | Hamon-Gog-dalen | Ez 39 |
+| רוּחִי (Guds) | min Ånd (DFB) | Ez 39 |
+| הִסְתִּיר פָּנִים | skjule sit ansigt | Ez 39 |
+| תָּא | vagtrum | Ez 40 |
+| אַיִל (arkitektur) | pille | Ez 40 |
+| אֵילָם / אוּלָם | forhal | Ez 40 |
+| לִשְׁכָּה | kammer | Ez 40 |
+| רִצְפָה | brolægning | Ez 40 |
+| קְנֵה הַמִּדָּה | målestang | Ez 40 |
+| הֵיכָל (Ez 40-48) | Tempelhallen | Ez 41 |
+| קֹדֶשׁ הַקֳּדָשִׁים | det Allerhelligste | Ez 41 |
+| צֵלָע (bygning) | siderum | Ez 41 |
+| גִּזְרָה | den afspærrede plads | Ez 41 |
+| קָדְשֵׁי הַקֳּדָשִׁים | de højhellige gaver | Ez 42 |
+| מִנְחָה | afgrødeoffer | Ez 42 |
+| עֲזָרָה (alter) | afsats | Ez 43 |
+| הַרְאֵל / אֲרִיאֵל | alterherden | Ez 43 |
+| כִּפֵּר | skaffe soning for | Ez 43 |
+| שְׁלָמִים | takofre | Ez 43 |
+| תּוֹרֹת (fl.) | bestemmelser | Ez 44 |
+| חֻקּוֹת | forordninger | Ez 44 |
+| נָשִׂיא (Ez 44-48) | fyrsten | Ez 44 |
+| תְּרוּמָה | afgift (DFB) | Ez 44 |
+| תְּרוּמַת הַקֹּדֶשׁ | det hellige stykke land | Ez 45 |
+| מִגְרָשׁ | græsgange | Ez 45 |
+| נֶסֶךְ | drikoffer | Ez 45 |
+| עוֹלַת תָּמִיד | det daglige brændoffer | Ez 46 |
+| שְׁנַת הַדְּרוֹר | frigivelsesåret | Ez 46 |
+| נְדָבָה | frivilligt offer / frivillig gave | Ez 46 |
+| רָפָא (om vand) | blive sundt | Ez 47 |
+| הַיָּם הַגָּדוֹל | Det Store Hav | Ez 47 |
+| מֵי מְרִיבוֹת קָדֵשׁ | Meribas vand i Kadesh | Ez 47 |
+| יְהוָה שָׁמָּה | HERREN er dér | Ez 48 |
+| דָּן אֶחָד (stammedel) | Dan, én del | Ez 48 |
+| מִנְחָה (offer) | afgrødeoffer | Lev 2 |
+| סֹלֶת | fint mel | Lev 2 |
+| לְבֹנָה | røgelse | Lev 2 |
+| אַזְכָּרָה | erindringsoffer (DFB 4 Mos 5,26) | Lev 2 |
+| קֹדֶשׁ קָדָשִׁים (offer) | højhellig (»en højhellig del af HERRENS ildofre«) | Lev 2 |
+| חָמֵץ / שְׂאֹר | syrnet / surdej | Lev 2 |
+| (bogtitel) | Tredje Mosebog (DFB lev019) | Lev 2 |
+| זֶבַח שְׁלָמִים | takoffer | Lev 3 |
+| הַחֵלֶב הַמְכַסֶּה אֶת־הַקֶּרֶב … | fedtet som dækker indvoldene, og alt fedtet som er på indvoldene, de to nyrer og fedtet som er på dem, det som er ved lænderne, og hinden over leveren; den skal han tage bort sammen med nyrerne | Lev 3 |
+| אַלְיָה | fedthalen | Lev 3 |
+| חֻקַּת עוֹלָם לְדֹרֹתֵיכֶם | en evig forordning for jeres efterkommere | Lev 3 |
+| חַטָּאת (offer) | syndoffer | Lev 4 |
+| בִּשְׁגָגָה | af vanvare | Lev 4 |
+| הַכֹּהֵן הַמָּשִׁיחַ | den salvede præst | Lev 4 |
+| וְכִפֶּר עָלָיו הַכֹּהֵן … וְנִסְלַח לוֹ | Således skal præsten skaffe soning for ham, og det bliver ham tilgivet | Lev 4 |
+| עֵדָה / קָהָל | menighed / forsamling | Lev 4 |
+| נָשִׂיא (3-4 Mos) | stammeleder | Lev 4 |
+| אָשֵׁם | blive skyldig | Lev 4 |
+| פָּרֹכֶת הַקֹּדֶשׁ | helligdommens forhæng | Lev 4 |
+| יְסוֹד מִזְבַּח הָעֹלָה | brændofferalterets sokkel | Lev 4 |
+| מָעַל מַעַל | være troløs | Lev 5 |
+| קׇדְשֵׁי יְהוָה | HERRENS hellige ting | Lev 5 |
+| בְּעֶרְכְּךָ … בְּשֶׁקֶל הַקֹּדֶשׁ | efter din vurdering … efter helligdommens sekel | Lev 5 |
+| הִתְוַדָּה | bekende | Lev 5 |
+| נָשָׂא עֲוֺנוֹ | bære sin skyld | Lev 5 |
+| אָשָׁם (bod, 3 Mos 5,6-7) | bod | Lev 5 |
+| זֹאת תּוֹרַת … | Dette er loven for … (DFB 4 Mos 6,21) | Lev 6 |
+| חָק־עוֹלָם (præsternes andel) | evig rettighed | Lev 6 |
+| חֲצַר אֹהֶל מוֹעֵד | forsamlingsteltets forgård | Lev 6 |
+| כָּלִיל | heloffer / brændes helt | Lev 6 |
+| מִכְנְסֵי־בַד | linnedbukser (DFB 2 Mos 28,42) | Lev 6 |
+| וְנִכְרְתָה הַנֶּפֶשׁ הַהִוא מֵעַמֶּיהָ | den sjæl skal udryddes fra sit folk (DFB 2 Mos 12; 31) | Lev 7 |
+| תְּנוּפָה | svingningsoffer; svingningsbryststykket | Lev 7 |
+| תְּרוּמָה (offer) | afgift; afgiftskøllen | Lev 7 |
+| שׁוֹק הַיָּמִין / חָזֶה | den højre kølle / bryststykket | Lev 7 |
+| תּוֹדָה (Lev) | lovprisningsoffer | Lev 7 |
+| נֶדֶר / נְדָבָה | løfteoffer / frivilligt offer | Lev 7 |
+| פִּגּוּל | urent offerkød ({T:}) | Lev 7 |
+| נְבֵלָה / טְרֵפָה | selvdødt / sønderrevet dyr | Lev 7 |
+| מִלּוּאִים | indsættelsesofferet | Lev 7 |
+| כַּאֲשֶׁר צִוָּה יְהוָה אֶת־מֹשֶׁה | sådan som HERREN havde befalet Moses | Lev 8 |
+| מִלֻּאִים / מִלֵּא יָד | indsættelses- / fylde hånden ({E:}) | Lev 8 |
+| מִשְׁכָּן | boligen | Lev 8 |
+| שֶׁמֶן הַמִּשְׁחָה | salvningsolien | Lev 8 |
+| כֻּתֹּנֶת / אַבְנֵט / מְעִיל / אֵפוֹד / חֹשֶׁן / מִצְנֶפֶת / מִגְבָּעוֹת | kjortel / bælte / kappe / efod / brystskjold / turban / huer (DFB 2 Mos 29) | Lev 8 |
+| הָאוּרִים וְהַתֻּמִּים | Urim og Tummim | Lev 8 |
+| צִיץ הַזָּהָב נֵזֶר הַקֹּדֶשׁ | guldpladen, det hellige diadem | Lev 8 |
+| בְּנֵי־שָׁנָה | årgamle | Lev 9 |
+| חֲלָבִים | fedtstykkerne | Lev 9 |
+| נָדָב / אֲבִיהוּא / אֶלְעָזָר / אִיתָמָר | Nadab / Abihu / Eleazar / Itamar (DFB) | Lev 10 |
+| מִישָׁאֵל / אֶלְצָפָן / עֻזִּיאֵל | Mishael / Elsafan / Uzziel | Lev 10 |
+| אֵשׁ זָרָה | fremmed ild (DFB 4 Mos 3,4) | Lev 10 |
+| מַחְתָּה | røgelseskar | Lev 10 |
+| יַיִן וְשֵׁכָר | vin og øl | Lev 10 |
+| שֶׁקֶץ / שִׁקֵּץ | afskyelig / afsky | Lev 11 |
+| נְבֵלָה | ådsel | Lev 11 |
+| טָמֵא עַד־הָעָרֶב | uren indtil aftenen | Lev 11 |
+| מַעֲלַת גֵּרָה / מַפְרֶסֶת פַּרְסָה | tygger drøv / har klove | Lev 11 |
+| נִדָּה | menstruation (Lev 12) | Lev 12 |
+| יְמֵי טָהֳרָה | renselsesdage | Lev 12 |
+| צָרַעַת (hud) / נֶגַע צָרַעַת | spedalskhed / spedalsk sygdom ({T:} 13,2) | Lev 13 |
+| צָרַעַת (klæder, huse) | skimmel | Lev 13 |
+| נֶגַע | sygdom, det syge sted, den syge; (klæder) angrebet | Lev 13 |
+| טִמֵּא / טִהַר (pi.) | erklære uren / erklære ren | Lev 13 |
+| הִסְגִּיר | isolere | Lev 13 |
+| שְׂאֵת / סַפַּחַת / בַּהֶרֶת | hævelse / skorpe / lys plet | Lev 13 |
+| שְׁתִי / עֵרֶב | kæde / islæt | Lev 13 |
+| מַיִם חַיִּים | rindende vand | Lev 14 |
+| עֵץ אֶרֶז / שְׁנִי תוֹלַעַת / אֵזֹב | cedertræ / skarlagenrødt garn / isop | Lev 14 |
+| לֹג | log{N: gt-mål} | Lev 14 |
+| הַמִּטַּהֵר | den der skal renses | Lev 14 |
+| זוֹב / זָב | udflåd / den der har udflåd | Lev 15 |
+| שִׁכְבַת זֶרַע | sædudtømmelse | Lev 15 |
+| נִדָּה (tilstanden) | månedlige urenhed | Lev 15 |
+| כַּפֹּרֶת / פָּרֹכֶת | sonedækket / forhænget (DFB) | Lev 16 |
+| עֲזָאזֵל | Azazel ({T:}) | Lev 16 |
+| עִנָּה נֶפֶשׁ | ydmyge jer ({T:} faste) | Lev 16 |
+| שַׁבַּת שַׁבָּתוֹן | en sabbat, en fuldkommen hviledag | Lev 16 |
+| שְׂעִירִם (afguder) | bukkedæmonerne | Lev 17 |
+| נֶפֶשׁ (blod) | liv ({T:} »sjæl«) | Lev 17 |
+| נְבֵלָה / טְרֵפָה | selvdødt / sønderrevet dyr | Lev 17 |
+| זֶבַח | slagtoffer | Lev 17 |
+| גִּלָּה עֶרְוָה | have samleje med ({T:} »afdække nøgenhed«) | Lev 18 |
+| מֹלֶךְ | Molok (DFB) | Lev 18 |
+| תּוֹעֵבָה | vederstyggelighed | Lev 18 |
+| מִשְׁפָּטִים / חֻקּוֹת | love / forordninger | Lev 18 |
+| וָחַי בָּהֶם | skal leve ved dem (DFB Rom 10,5) | Lev 18 |
+| מוֹת יוּמָת | skal afgjort lide døden (DFB 2 Mos 21) | Lev 20 |
+| אוֹב / יִדְּעֹנִי | dødes ånder / spiritistiske medier (DFB 5 Mos 18,11) | Lev 20 |
+| דָּמָיו בּוֹ | hans blod er over ham | Lev 20 |
+| מוּם | legemsfejl | Lev 21 |
+| לֶחֶם אֱלֹהָיו | sin Guds mad | Lev 21 |
+| זֹנָה / חֲלָלָה / גְּרוּשָׁה | skøge / vanæret / forstødt | Lev 21 |
+| קֳדָשִׁים | de hellige gaver | Lev 22 |
+| רָצוֹן | godtaget | Lev 22 |
+| זָר (præst) | (nogen) udefra | Lev 22 |
+| מוֹעֲדִים | højtider | Lev 23 |
+| מִקְרָא קֹדֶשׁ | hellig sammenkomst | Lev 23 |
+| מְלֶאכֶת עֲבֹדָה | dagligt arbejde | Lev 23 |
+| עֹמֶר | neg | Lev 23 |
+| יוֹם הַכִּפֻּרִים | soningsdagen | Lev 23 |
+| חַג הַסֻּכּוֹת / סֻכּוֹת | løvhyttefest / hytter | Lev 23 |
+| עֲצֶרֶת | festsamling | Lev 23 |
+| מְנֹרָה | lysestage | Lev 24 |
+| נָקַב שֵׁם | spotte Navnet | Lev 24 |
+| שְׁלֹמִית, דִּבְרִי | Shelomit, Dibri | Lev 24 |
+| יוֹבֵל | jubelår | Lev 25 |
+| דְּרוֹר | frigivelse | Lev 25 |
+| גֹּאֵל / גָּאַל | løser / indløse | Lev 25 |
+| אֲחֻזָּה | ejendom | Lev 25 |
+| נֶשֶׁךְ / תַּרְבִּית | rente / overpris | Lev 25 |
+| בְּפָרֶךְ | med hårdhed | Lev 25 |
+| אֱלִילִים / פֶּסֶל / אֶבֶן מַשְׂכִּית | afguder / gudebillede / billedsten | Lev 26 |
+| הָלַךְ עִם … קֶרִי | gå imod | Lev 26 |
+| גָּעַל (נֶפֶשׁ) | (sjæl) væmmes ved | Lev 26 |
+| רָצָה (שַׁבָּתוֹת) | få erstatning for | Lev 26 |
+| עֵרֶךְ (עֶרְכְּךָ) | (din) vurdering | Lev 27 |
+| תְּמוּרָה | det der byttes for det | Lev 27 |
+| חֵרֶם / הֶחֱרִים | lagt band på / lægge band på | Lev 27 |
+| שְׂדֵה אֲחֻזָּה | arvejord | Lev 27 |
+| (Moses' taler i 5 Mos) | uden anførselstegn; hans citater >>…<< | 5 Mos 1 |
+| בְּנֵי עֲנָקִים | anakitter | 5 Mos 1 |
+| שֹׁטְרִים (5 Mos) | tilsynsmænd | 5 Mos 1 |
+| הִכִּיר פָּנִים | være partisk | 5 Mos 1 |
+| קָדֵשׁ בַּרְנֵעַ, חָרְמָה | Kadesh-Barnea, Horma | 5 Mos 1 |
+| רְפָאִים (folk) | refaitter | 5 Mos 2 |
+| אֵמִים, זַמְזֻמִּים, עַוִּים, כַּפְתֹּרִים | emitter, zamzummitter, avvitter, kaftoritter | 5 Mos 2 |
+| נַחַל זֶרֶד / נַחַל אַרְנֹן | Zered-dalen / Arnondalen | 5 Mos 2 |
+| הִתְגָּרָה | give sig i strid med | 5 Mos 2 |
+| חֶבֶל אַרְגֹּב | Argob-egnen | 5 Mos 3 |
+| הַמִּישׁוֹר | højsletten | 5 Mos 3 |
+| חֲלוּצִים | bevæbnede | 5 Mos 3 |
+| בֵּית פְּעוֹר, הַפִּסְגָּה | Bet-Peor, Pisga | 5 Mos 3 |
+| אֵל קַנָּא | en passioneret Gud (DFB 2 Mos 20,5) | 5 Mos 4 |
+| תְּמוּנָה / תַּבְנִית | skikkelse / billede | 5 Mos 4 |
+| בְּיָד חֲזָקָה וּבִזְרוֹעַ נְטוּיָה | med stærk hånd og udstrakt arm | 5 Mos 4 |
+| הָעֵדֹת | vidnesbyrd(ene) | 5 Mos 4 |
+| אֵין עוֹד | der er ingen anden | 5 Mos 4 |
+| (De ti Ord, 5 Mos 5,6-21) | som DFB 2 Mos 20; »Hold sabbatsdagen« | 5 Mos 5 |
+| עֶבֶד (i budene) | ansatte (DFB 2 Mos 20) | 5 Mos 5 |
+| עֵד שָׁוְא | et falsk vidne | 5 Mos 5 |
+| חָמַד / הִתְאַוָּה | begære / attrå | 5 Mos 5 |
+| עַם סְגֻלָּה | ejendomsfolk | 5 Mos 7 |
+| דָּגָן, תִּירוֹשׁ, יִצְהָר | korn, most, olie | 5 Mos 7 |
+| הִתְחַתֵּן | gifte sig ind i deres slægt | 5 Mos 7 |
+| עַם קְשֵׁה עֹרֶף | et stivnakket folk (DFB 2 Mos 33) | 5 Mos 9 |
+| הִקְצִיף | vække HERRENS harme | 5 Mos 9 |
+| מַמְרִים | genstridige | 5 Mos 9 |
+| תַּבְעֵרָה | Tabera | 5 Mos 9 |
+| יוֹרֶה וּמַלְקוֹשׁ | efterårsregn og forårsregn | 5 Mos 11 |
+| הַר גְּרִזִים / הַר עֵיבָל | Garizim-bjerget / Ebal-bjerget (DFB) | 5 Mos 11 |
+| הַיָּם הָאַחֲרוֹן | Vesthavet | 5 Mos 11 |
+| הַמָּקוֹם אֲשֶׁר יִבְחַר יְהוָה | det sted som HERREN udvælger | 5 Mos 12 |
+| לְשַׁכֵּן שְׁמוֹ שָׁם / לָשׂוּם שְׁמוֹ שָׁם | lade sit navn bo dér / sætte sit navn dér | 5 Mos 12 |
+| תְּרוּמַת יָד | det jeres hånd yder | 5 Mos 12 |
+| בְּכָל אַוַּת נַפְשְׁךָ | så meget du har lyst til | 5 Mos 12 |
+| וּבִעַרְתָּ הָרָע מִקִּרְבֶּךָ | du skal fjerne det onde fra din midte | 5 Mos 13 |
+| חֹלֵם חֲלוֹם | en der har drømme / drømmer | 5 Mos 13 |
+| כָּלִיל | helhedsoffer | 5 Mos 13 |
+| יַחְמוּר, אַקּוֹ, דִּישֹׁן, תְּאוֹ, זֶמֶר | dådyr, vildged, stenbuk, antilope, bjergfår | 5 Mos 14 |
+| הַגֵּר וְהַיָּתוֹם וְהָאַלְמָנָה | den fremmede, den faderløse og enken | 5 Mos 14 |
+| נְבֵלָה | noget selvdødt | 5 Mos 14 |
+| שְׁמִטָּה | eftergivelse; eftergivelsesåret | 5 Mos 15 |
+| אֶבְיוֹן / עָנִי | fattig / hårdt stillet | 5 Mos 15 |
+| מַרְצֵעַ | syl (DFB 2 Mos 21) | 5 Mos 15 |
+| חֹדֶשׁ הָאָבִיב | måneden abib (DFB) | 5 Mos 16 |
+| לֶחֶם עֹנִי | nødens brød | 5 Mos 16 |
+| חַג הַמַּצּוֹת / חַג הַשָּׁבֻעוֹת / חַג הַסֻּכּוֹת | de usyrede brøds fest / ugefesten / løvhyttefesten | 5 Mos 16 |
+| שֹׁחַד | bestikkelse | 5 Mos 16 |
+| הַתּוֹרָה הַזֹּאת (5 Mos) | denne lov | 5 Mos 17 |
+| מִשְׁנֵה הַתּוֹרָה | en afskrift af loven | 5 Mos 17 |
+| הַכֹּהֲנִים הַלְוִיִּם | de levitiske præster | 5 Mos 17 |
+| זָדוֹן | overmod | 5 Mos 17 |
+| גֹּאֵל הַדָּם | blodhævneren | 5 Mos 19 |
+| רֹצֵחַ (uden forsæt) | drabsmand | 5 Mos 19 |
+| דָּם נָקִי | uskyldigt blod | 5 Mos 19 |
+| עֵד חָמָס | et voldsvidne | 5 Mos 19 |
+| הָעָם (som hær) | hæren | 5 Mos 20 |
+| שָׂרֵי צְבָאוֹת | hærførere | 5 Mos 20 |
+| מַס | tvangsarbejdere | 5 Mos 20 |
+| סוֹרֵר וּמוֹרֶה | stædig og genstridig | 5 Mos 21 |
+| זוֹלֵל וְסֹבֵא | en frådser og en dranker (DFB Matt 11,19) | 5 Mos 21 |
+| אֲהוּבָה / שְׂנוּאָה | elsket / forsmået | 5 Mos 21 |
+| קִלְלַת אֱלֹהִים תָּלוּי | en der hænger er forbandet af Gud | 5 Mos 21 |
+| הִתְעַלֵּם | se bort fra | 5 Mos 22 |
+| גְּדִלִים | kvaster (DFB 4 Mos 15) | 5 Mos 22 |
+| נְבָלָה (בְּיִשְׂרָאֵל) | skændselsgerning | 5 Mos 22 |
+| מְאֹרָשָׂה | forlovet | 5 Mos 22 |
+| הוֹצִיא שֵׁם רָע | bringe i vanry | 5 Mos 22 |
+| קְהַל יְהוָה | HERRENS forsamling | 5 Mos 23 |
+| מַמְזֵר | født af en forbudt forbindelse | 5 Mos 23 |
+| קְדֵשָׁה / קָדֵשׁ | tempelkvinde / tempelmand (1 Mos 38) | 5 Mos 23 |
+| עֶרְוַת דָּבָר | noget skændigt | 5 Mos 23 |
+| יִבֵּם / יָבָם / יְבֵמֶת | indgå svogerægteskab / svoger / svigerinde (DFB Matt 22,24) | 5 Mos 25 |
+| אֶבֶן וָאָבֶן / אֵיפָה וְאֵיפָה | to slags vægtlodder / efa-mål | 5 Mos 25 |
+| זֵכֶר עֲמָלֵק | mindet om Amalek | 5 Mos 25 |
+| אֲרַמִּי אֹבֵד אָבִי | Min far var en omflakkende aramæer | 5 Mos 26 |
+| טֶנֶא | kurv | 5 Mos 26 |
+| הֶאֱמִיר | lade sige | 5 Mos 26 |
+| אָרוּר … אָמֵן | Forbandet være … Amen! | 5 Mos 27 |
+| שִׂיד | kalk | 5 Mos 27 |
+| אֲבָנִים שְׁלֵמוֹת | hele sten | 5 Mos 27 |
+| בָּרוּךְ / אָרוּר אַתָּה | Velsignet / Forbandet er du | 5 Mos 28 |
+| מִשְׁאֶרֶת | dejtrug (DFB 2 Mos 12,34) | 5 Mos 28 |
+| לְרֹאשׁ וְלֹא לְזָנָב | til hoved og ikke til hale | 5 Mos 28 |
+| שִׁדָּפוֹן וְיֵרָקוֹן | skimmel og rust (DFB 1 Kong 8,37) | 5 Mos 28 |
+| שְׁחִין | bylder (DFB 2 Mos 9,9) | 5 Mos 28 |
+| מָצוֹר וּמָצוֹק | belejring og nød | 5 Mos 28 |
+| אָלָה | ed / forbandelse | 5 Mos 29 |
+| רֹאשׁ וְלַעֲנָה | gift og malurt | 5 Mos 29 |
+| שְׁרִרוּת לֵב | hjertets stædighed | 5 Mos 29 |
+| הַנִּסְתָּרֹת / הַנִּגְלֹת | det skjulte / det åbenbarede | 5 Mos 29 |
+| לֹא יַרְפְּךָ וְלֹא יַעַזְבֶךָּ | han svigter dig ikke og forlader dig ikke (Jos 1,5) | 5 Mos 31 |
+| חִזְקוּ וְאִמְצוּ | Vær stærke og modige | 5 Mos 31 |
+| עַמּוּד עָנָן | skysøjle (DFB) | 5 Mos 31 |
+| יֵצֶר | tanker | 5 Mos 31 |
+| צוּר (om Gud) | Klippen | 5 Mos 32 |
+| יְשֻׁרוּן | Jeshurun | 5 Mos 32 |
+| שֵׁדִים | dæmoner (DFB 1 Kor 10,20) | 5 Mos 32 |
+| לִי נָקָם וְשִׁלֵּם | Hævnen hører mig til, og gengældelsen | 5 Mos 32 |
+| הַר הָעֲבָרִים / הַר נְבוֹ | Abarimbjerget / Nebo-bjerget | 5 Mos 32 |
+| נֶאֱסַף אֶל־עַמָּיו | blive samlet til sit folk | 5 Mos 32 |
+| אִישׁ הָאֱלֹהִים | Guds mand (DFB) | 5 Mos 33 |
+| תֻּמִּים וְאוּרִים | Tummim og Urim (DFB) | 5 Mos 33 |
+| מֶגֶד | det kostelige (som 1 Mos 49,26) | 5 Mos 33 |
+| עֶבֶד יְהוָה (Moses) | HERRENS tjener | 5 Mos 34 |
+| עִיר הַתְּמָרִים | Palmebyen | 5 Mos 34 |
 
 ## Projektregler (bindende, 22.10.2026)
 

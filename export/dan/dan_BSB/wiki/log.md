@@ -260,3 +260,100 @@ title: Log
 - 2026-10-31 agent:2ch034: Anden Krønikebog 34 oversat (Josija, lovbogen, Hulda; projektets 2 Kong 22-23).
 - 2026-10-31 agent:2ch035: Anden Krønikebog 35 oversat (Josijas påske og død; projektets 2 Kong 23).
 - 2026-10-31 agent:2ch036: Anden Krønikebog 36 oversat (de sidste konger, Kyros' påbud; projektets 2 Kong 23-25 og Ezra 1). Bogen færdig.
+- 2026-10-31 agent:ezk001: Ezekiels Bog 1 oversat (synet ved Kebarfloden: livsvæsener, hjul, hvælving, HERRENS herlighed).
+- 2026-10-31 agent:ezk002: Ezekiels Bog 2 oversat (kaldet: menneskesøn, et genstridigt hus, bogrullen; »Så siger Herren HERREN«).
+- 2026-10-31 agent:ezk003: Ezekiels Bog 3 oversat (bogrullen spises, Tel-Abib, vægteren, stumheden).
+- 2026-10-31 agent:ezk004: Ezekiels Bog 4 oversat (belejringen spilles, de 390 og 40 dage, det urene brød).
+- 2026-10-31 agent:ezk005: Ezekiels Bog 5 oversat (håret, Jerusalem midt blandt folkene, sværd, hungersnød og pest).
+- 2026-10-31 agent:ezk006: Ezekiels Bog 6 oversat (dom over Israels bjerge; en rest skal huske HERREN).
+- 2026-10-31 agent:ezk007: Ezekiels Bog 7 oversat (»Enden kommer« (poesi): undergangen, HERRENS vredes dag).
+- 2026-10-31 agent:ezk008: Ezekiels Bog 8 oversat (tempelsynet begynder: skinsygens gudebillede, de 70 ældste, Tammuz, soldyrkerne).
+- 2026-10-31 agent:ezk009: Ezekiels Bog 9 oversat (de seks bødler, manden i linned, mærket på panden).
+- 2026-10-31 agent:ezk010: Ezekiels Bog 10 oversat (ilden mellem keruberne, keruberne og hjulene, herligheden ved østporten).
+- 2026-10-31 agent:ezk011: Ezekiels Bog 11 oversat (de 25 mænd, Pelatjas død, løftet om et nyt hjerte (DFB Ez 36,26-28), herligheden forlader byen).
+- 2026-10-31 agent:ezk012: Ezekiels Bog 12 oversat (eksilbagagen, fyrsten, ordsproget om synerne).
+- 2026-10-31 agent:ezk013: Ezekiels Bog 13 oversat (falske profeter og profetinder; kalken på muren; tredje citatniveau som indirekte tale).
+- 2026-10-31 agent:ezk014: Ezekiels Bog 14 oversat (de ældste med afgudsbillederne; de fire straffedomme; Noa, Daniel og Job).
+- 2026-10-31 agent:ezk015: Ezekiels Bog 15 oversat (vinstokkens træ).
+- 2026-10-31 agent:ezk016: Ezekiels Bog 16 oversat (Jerusalem som det udsatte barn og den utro hustru; Samaria og Sodoma; den evige pagt).
+- 2026-10-31 agent:ezk017: Ezekiels Bog 17 oversat (de to ørne og vinstokken; tydningen; cederkvisten).
+- 2026-10-31 agent:ezk018: Ezekiels Bog 18 oversat (de sure druer; den sjæl der synder, skal dø; vend om og lev).
+- 2026-10-31 agent:ezk019: Ezekiels Bog 19 oversat (klagesangen over Israels fyrster (løvinden, vinstokken)).
+- 2026-10-31 agent:ezk020: Ezekiels Bog 20 oversat (Israels historie som oprør; mine sabbatter; dom og genrejsning).
+- 2026-10-31 agent:ezk021: Ezekiels Bog 21 oversat (skoven i Negev; HERRENS sværd; sværdsangen; Babylons konge ved skillevejen; ammonitterne).
+- 2026-10-31 agent:ezk022: Ezekiels Bog 22 oversat (blodbyen; slagger i smelteovnen; landets ledere).
+- 2026-10-31 agent:ezk023: Ezekiels Bog 23 oversat (Ohola og Oholiba).
+- 2026-10-31 agent:ezk024: Ezekiels Bog 24 oversat (gryden; Ezekiels hustru dør).
+- 2026-10-31 agent:ezk025: Ezekiels Bog 25 oversat (folkeoraklerne: Ammon, Moab, Edom, filistrene).
+- 2026-10-31 agent:ezk026: Ezekiels Bog 26 oversat (dom over Tyrus).
+- 2026-10-31 agent:ezk027: Ezekiels Bog 27 oversat (klagesangen over skibet Tyrus; handelslisten).
+- 2026-10-31 agent:ezk028: Ezekiels Bog 28 oversat (Tyrus' fyrste og konge; Sidon).
+- 2026-10-31 agent:ezk029: Ezekiels Bog 29 oversat (Farao som det store uhyre; Egypten som Nebukadnesars løn).
+- 2026-10-31 agent:ezk030: Ezekiels Bog 30 oversat (HERRENS dag over Egypten; Faraos arme).
+- 2026-10-31 agent:ezk031: Ezekiels Bog 31 oversat (cederen i Libanon; ned i dødsriget).
+- 2026-10-31 agent:ezk032: Ezekiels Bog 32 oversat (klagesang over Farao; Egypten i graven blandt de uomskårne).
+- 2026-10-31 agent:ezk035: Ezekiels Bog 35 oversat (mod Se'ir-bjerget).
+- 2026-10-31 agent:ezk038: Ezekiels Bog 38 oversat (Gog fra Magogs land).
+- 2026-10-31 agent:ezk039: Ezekiels Bog 39 oversat (Gogs nederlag; Hamon-Gog; HERRENS offermåltid; min Ånd over Israel).
+- 2026-10-31 agent:ezk040: Ezekiels Bog 40 oversat (Templets syn begynder: porte, vagtrum, piller, forhaller, kamre, borde).
+- 2026-10-31 agent:ezk041: Ezekiels Bog 41 oversat (Templet: Tempelhallen, det Allerhelligste, siderum, udskæringer).
+- 2026-10-31 agent:ezk042: Ezekiels Bog 42 oversat (Præsternes hellige kamre; muren om området).
+- 2026-10-31 agent:ezk043: Ezekiels Bog 43 oversat (HERRENS herlighed vender tilbage; alteret og dets indvielse).
+- 2026-10-31 agent:ezk044: Ezekiels Bog 44 oversat (Den lukkede østport; levitterne og Sadoks sønner; præsternes forskrifter).
+- 2026-10-31 agent:ezk045: Ezekiels Bog 45 oversat (Det hellige stykke land; fyrstens del; mål og vægt; påske og fest).
+- 2026-10-31 agent:ezk046: Ezekiels Bog 46 oversat (Fyrstens ofre; det daglige brændoffer; fyrstens arvelod; kogehusene).
+- 2026-10-31 agent:ezk047: Ezekiels Bog 47 oversat (Floden fra templet; landets grænser; de fremmedes arv).
+- 2026-10-31 agent:ezk048: Ezekiels Bog 48 oversat (Stammernes dele; byens porte; »HERREN er dér« – Ezekiels Bog færdig).
+- 2026-10-31 agent:lev002: Tredje Mosebog 2 oversat (afgrødeofferet; citat over kapitelskift, ildoffer, fedtet, israelitterne, takoffer afgjort).
+- 2026-10-31 agent:lev003: Tredje Mosebog 3 oversat (takofferet; fedtformlen; fedt og blod).
+- 2026-10-31 agent:lev004: Tredje Mosebog 4 oversat (syndofferet; af vanvare; menighed/forsamling; stammeleder).
+- 2026-10-31 agent:lev005: Tredje Mosebog 5 oversat (syndoffer for særlige synder; skyldofferet; troløshed).
+- 2026-10-31 agent:lev006: Tredje Mosebog 6 oversat (loven for brændoffer, afgrødeoffer, præstens offer, syndoffer).
+- 2026-10-31 agent:lev007: Tredje Mosebog 7 oversat (skyldoffer, takoffer, fedt og blod, præsternes andel; offerloven afsluttet).
+- 2026-10-31 agent:lev008: Tredje Mosebog 8 oversat (præstevielsen; klæderne og indsættelsen som DFB 2 Mos 29).
+- 2026-10-31 agent:lev009: Tredje Mosebog 9 oversat (den ottende dag; Arons første ofre; ilden fra HERREN).
+- 2026-10-31 agent:lev010: Tredje Mosebog 10 oversat (Nadab og Abihu; vin og øl; præsternes andel).
+- 2026-10-31 agent:lev011: Tredje Mosebog 11 oversat (rene og urene dyr).
+- 2026-10-31 agent:lev012: Tredje Mosebog 12 oversat (renselse efter fødsel).
+- 2026-10-31 agent:lev013: Tredje Mosebog 13 oversat (spedalskhed og skimmel).
+- 2026-10-31 agent:lev014: Tredje Mosebog 14 oversat (renselse af den spedalske; skimmel i huse).
+- 2026-10-31 agent:lev015: Tredje Mosebog 15 oversat (udflåd).
+- 2026-10-31 agent:lev016: Tredje Mosebog 16 oversat (soningsdagen).
+- 2026-10-31 agent:lev017: Tredje Mosebog 17 oversat (slagtning ved teltet; blodet).
+- 2026-10-31 agent:lev018: Tredje Mosebog 18 oversat (forbudte forhold).
+- 2026-10-31 agent:lev020: Tredje Mosebog 20 oversat (straffe; hellighed).
+- 2026-10-31 agent:lev021: Tredje Mosebog 21 oversat (præsternes hellighed).
+- 2026-10-31 agent:lev022: Tredje Mosebog 22 oversat (de hellige gaver; lydefri ofre).
+- 2026-10-31 agent:lev023: Tredje Mosebog 23 oversat (højtiderne).
+- 2026-10-31 agent:lev024: Tredje Mosebog 24 oversat (lamperne, skuebrødet, gudsbespotteren).
+- 2026-10-31 agent:lev025: Tredje Mosebog 25 oversat (sabbatsåret og jubelåret).
+- 2026-10-31 agent:lev026: Tredje Mosebog 26 oversat (velsignelse og forbandelse).
+- 2026-10-31 agent:lev027: Tredje Mosebog 27 oversat (løfter og indløsning); bogen færdig.
+- 2026-10-31 agent:deu001: Femte Mosebog 1 oversat (Moses' første tale; spejderne).
+- 2026-10-31 agent:deu002: Femte Mosebog 2 oversat (Edom, Moab, Ammon; Sihon).
+- 2026-10-31 agent:deu003: Femte Mosebog 3 oversat (Og; landet øst for Jordan; Moses' bøn).
+- 2026-10-31 agent:deu004: Femte Mosebog 4 oversat (formaning; tilflugtsbyerne).
+- 2026-10-31 agent:deu005: Femte Mosebog 5 oversat (De ti Ord efter DFB 2 Mos 20).
+- 2026-10-31 agent:deu007: Femte Mosebog 7 oversat (et helligt folk).
+- 2026-10-31 agent:deu009: Femte Mosebog 9 oversat (guldkalven genfortalt).
+- 2026-10-31 agent:deu011: Femte Mosebog 11 oversat (velsignelse og forbandelse).
+- 2026-10-31 agent:deu012: Femte Mosebog 12 oversat (det sted HERREN udvælger).
+- 2026-10-31 agent:deu013: Femte Mosebog 13 oversat (falske profeter; hebr. 13,1 = BSB 12,32).
+- 2026-10-31 agent:deu014: Femte Mosebog 14 oversat (rene dyr; tienden).
+- 2026-10-31 agent:deu015: Femte Mosebog 15 oversat (eftergivelsesåret; trælle).
+- 2026-10-31 agent:deu016: Femte Mosebog 16 oversat (de tre fester; dommere).
+- 2026-10-31 agent:deu017: Femte Mosebog 17 oversat (domstol; kongeloven).
+- 2026-10-31 agent:deu019: Femte Mosebog 19 oversat (tilflugtsbyer; vidner).
+- 2026-10-31 agent:deu020: Femte Mosebog 20 oversat (krigslove).
+- 2026-10-31 agent:deu021: Femte Mosebog 21 oversat (drab, fange, førstefødsel, søn, den hængte).
+- 2026-10-31 agent:deu022: Femte Mosebog 22 oversat (forskellige love; ægteskab).
+- 2026-10-31 agent:deu023: Femte Mosebog 23 oversat (HERRENS forsamling; hebr. 23,1 = BSB 22,30).
+- 2026-10-31 agent:deu025: Femte Mosebog 25 oversat (svogerægteskab; Amalek).
+- 2026-10-31 agent:deu026: Femte Mosebog 26 oversat (førstegrøden; bekendelsen).
+- 2026-10-31 agent:deu027: Femte Mosebog 27 oversat (stenene ved Ebal; de tolv forbandelser).
+- 2026-10-31 agent:deu028: Femte Mosebog 28 oversat (velsignelser og forbandelser; hebr. 28,69 = BSB 29,1).
+- 2026-10-31 agent:deu029: Femte Mosebog 29 oversat (pagten i Moab; hebr. 29,1-28 = BSB 29,2-29).
+- 2026-10-31 agent:deu031: Femte Mosebog 31 oversat (Josva; loven ved arken; sangen indledes).
+- 2026-10-31 agent:deu032: Femte Mosebog 32 oversat (Moses' sang som poesi; Nebo-bjerget).
+- 2026-10-31 agent:deu033: Femte Mosebog 33 oversat (Moses' velsignelse som poesi).
+- 2026-10-31 agent:deu034: Femte Mosebog 34 oversat (Moses' død); bogen færdig.

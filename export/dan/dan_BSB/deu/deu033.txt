@@ -1,0 +1,227 @@
+!!<Modenhed: Udkast>!!
+!!<Oversættelse: Maskinudkast fra grundteksten (orig/heb/deu033.txt), sammenholdt med Berean Standard Bible>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Endnu ikke sket>!!
+!!<Dato for denne version: 31.10.2026>!!
+
+===Femte Mosebog, kapitel 33===
+
+
+==Moses velsigner stammerne==
+
+v1 Og dette er den velsignelse som Moses, Guds mand, velsignede Israels
+børn med før sin død.
+
+v2 Og han sagde:
+
+//1 HERREN kom fra Sinaj
+
+//2 og strålede frem fra Se’ir for dem;
+
+//1 han lyste frem fra Parans bjerg
+
+//2 og kom fra de hellige titusinder;
+
+//1 fra hans højre hånd brændte en ild af lov for dem{T: Hebraisk *ʔēšdāt*, usikkert: >>ild-lov<< eller >>flammende ild<<; teksten i v. 2-3 er vanskelig.}.
+
+//1 v3 Ja, han elsker folkene{T: Eller >>folket<<, dvs. Israels stammer.};
+
+//2 alle hans hellige er i din hånd.
+
+//1 Og de sidder ved dine fødder
+
+//2 og modtager dine ord.
+
+//1 v4 Moses gav os en lov,
+
+//2 en arv for Jakobs forsamling.
+
+//1 v5 Og han blev konge i Jeshurun,
+
+//2 da folkets overhoveder samledes,
+
+//2 Israels stammer sammen.
+
+//1 v6 Ruben skal leve og ikke dø,
+
+//2 men hans mænd skal være få{T: Ordret: >>og hans mænd være et tal<<, dvs. til at tælle.}.
+
+v7 Og dette sagde han om Juda:
+
+//1 Hør, HERRE, Judas røst,
+
+//2 og før ham til hans folk!
+
+//1 Med sine hænder kæmper han for sig;
+
+//2 og vær du en hjælp mod hans fjender!
+
+v8 Og om Levi sagde han:
+
+//1 Dine Tummim og dine Urim tilhører din trofaste mand,
+
+//2 ham som du prøvede ved Massa,
+
+//2 som du stredes med ved Meribas vand.
+
+//1 v9 Han sagde om sin far og sin mor: Jeg har ikke set dem;
+
+//2 og sine brødre kendte han ikke ved,
+
+//2 og sine børn ville han ikke vide af.
+
+//1 For de holdt dit ord
+
+//2 og vogtede din pagt{E: Jf. 2 Mos 32,26-29.}.
+
+//1 v10 De skal lære Jakob dine love
+
+//2 og Israel din lov.
+
+//1 De skal lægge røgelse for dit ansigt
+
+//2 og helhedsofre på dit alter.
+
+//1 v11 Velsign, HERRE, hans kraft,
+
+//2 og hav behag i hans hænders værk!
+
+//1 Knus lænderne på dem der rejser sig mod ham
+
+//2 og på dem der hader ham, så de ikke rejser sig igen!
+
+v12 Om Benjamin sagde han:
+
+//1 HERRENS elskede skal bo trygt hos ham;
+
+//2 han skærmer ham hele dagen,
+
+//2 og han bor mellem hans skuldre.
+
+v13 Og om Josef sagde han:
+
+//1 Velsignet af HERREN er hans land
+
+//2 med det kostelige fra himlen, med dug,
+
+//2 og med dybet der ligger nedenunder,
+
+//1 v14 og med det kostelige som solen bringer frem,
+
+//2 og med det kostelige som månederne lader spire,
+
+//1 v15 og med det bedste fra de ældgamle bjerge
+
+//2 og med det kostelige fra de evige høje,
+
+//1 v16 og med det kostelige fra jorden og alt hvad den rummer,
+
+//2 og med hans velbehag som bor i tornebusken.
+
+//1 Det skal komme over Josefs hoved,
+
+//2 og over issen på den indviede blandt sine brødre{E: Jf. 2 Mos 3,2-4 (tornebusken) og Jakobs velsignelse i 1 Mos 49,25-26.}.
+
+//1 v17 Hans førstefødte tyr – han har herlighed,
+
+//2 og hans horn er vildoksens horn.
+
+//1 Med dem stanger han folkene,
+
+//2 alle sammen, til jordens ender.
+
+//1 Og sådan er Efraims titusinder,
+
+//2 og sådan er Manasses tusinder.
+
+v18 Og om Zebulon sagde han:
+
+//1 Glæd dig, Zebulon, når du drager ud,
+
+//2 og du, Issakar, i dine telte!
+
+//1 v19 Folk kalder de til bjerget;
+
+//2 dér ofrer de rette ofre{T: Ordret: >>retfærdigheds slagtofre<<.}.
+
+//1 For de suger havenes rigdom til sig
+
+//2 og de skatte der er skjult i sandet.
+
+v20 Og om Gad sagde han:
+
+//1 Velsignet være han der giver Gad rum!
+
+//2 Som en løvinde ligger han
+
+//2 og river arm og isse over.
+
+//1 v21 Og han udså sig det første land,
+
+//2 for dér var en førers lod gemt.
+
+//1 Og han kom med folkets overhoveder;
+
+//2 han fuldbyrdede HERRENS retfærdighed
+
+//2 og hans domme sammen med Israel{T: Jf. 4 Mos 32 og Jos 22,1-4.}.
+
+v22 Og om Dan sagde han:
+
+//1 Dan er en løveunge
+
+//2 som springer frem fra Bashan.
+
+v23 Og om Naftali sagde han:
+
+//1 Naftali, mæt af velbehag
+
+//2 og fuld af HERRENS velsignelse,
+
+//2 tag havet og Syden i besiddelse!
+
+v24 Og om Asher sagde han:
+
+//1 Velsignet blandt sønnerne er Asher;
+
+//2 han skal være vellidt af sine brødre
+
+//2 og dyppe sin fod i olie.
+
+//1 v25 Af jern og kobber er dine slåer,
+
+//2 og din styrke{T: Hebraisk *dobʔekā*, kun her; betydningen er usikker.} skal være som dine dage.
+
+//1 v26 Ingen er som Gud, Jeshurun,
+
+//2 han der farer over himlen for at hjælpe dig
+
+//2 og i sin højhed over skyerne.
+
+//1 v27 Den evige Gud er en bolig,
+
+//2 og nedenunder er de evige arme.
+
+//1 Og han drev fjenden bort foran dig
+
+//2 og sagde: Udryd!
+
+//1 v28 Så bor Israel trygt,
+
+//2 Jakobs kilde for sig selv,
+
+//1 i et land med korn og most,
+
+//2 ja, hans himmel drypper dug.
+
+//1 v29 Salig er du, Israel! Hvem er som du,
+
+//2 et folk frelst ved HERREN,
+
+//1 dit hjælpes skjold
+
+//2 og som er dit højheds sværd!
+
+//1 Og dine fjender skal krybe for dig,
+
+//2 og du skal træde på deres høje.

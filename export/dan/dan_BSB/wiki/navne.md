@@ -2205,6 +2205,110 @@ Shadaj – se [spørgsmålssiden](spoergsmaal.md).
   - answers: Karkemish
   - As DFB Jer 46:2.
   - agent:2ch035, 2026-10-31
+- **`name:kebar`** נְהַר כְּבָר → **Kebarfloden** [high, decided, attested]
+  - gloss: כְּבָר: כְּבָ֑ר (EZK 1:1) — English (generated): Kebar
+  - NT: EZK 1:1 *Kebarfloden*; EZK 1:3 *Kebarfloden*
+  - answers: Kebarfloden
+  - River Kebar, like Kedronbækken.
+  - agent:ezk001, 2026-10-31
+- **`name:ezekiel`** יְחֶזְקֵאל → **Ezekiel** [high, decided, attested]
+  - gloss: יְחֶזְקֵאל: יְחֶזְקֵ֨אל (EZK 1:3) — English (generated): Ezekiel
+  - NT: EZK 1:3 *Ezekiel*
+  - answers: Ezekiel
+  - As DFB's book title (Ezekiels Bog, Ez 33-37).
+  - agent:ezk001, 2026-10-31
+- **`name:tel_abib`** תֵּל אָבִיב → **Tel-Abib** [high, decided, attested]
+  - gloss: תֵּל אָבִיב: תֵּ֣ל (EZK 3:15) — English (generated): at Tel abib
+  - NT: EZK 3:15 *Tel-Abib*
+  - answers: Tel-Abib
+  - Settlement of the exiles.
+  - agent:ezk003, 2026-10-31
+- **`name:diblah`** דִּבְלָתָה → **Dibla** [medium, decided, attested]
+  - gloss: דִּבְלָה: דִּבְלָ֔תָ (EZK 6:14) — English (generated): to Diblah
+  - NT: EZK 6:14 *Dibla*
+  - answers: Dibla
+  - MT Diblah; many read Riblah ({T:}).
+  - agent:ezk006, 2026-10-31
+- **`name:kaldaea`** כַּשְׂדִּימָה → **Kaldæa** [high, decided, attested]
+  - gloss: כַּשְׂדִּים: כַשְׂדִּ֨ימָ (EZK 11:24) — English (generated): to Chaldea
+  - NT: EZK 11:24 *Kaldæa*
+  - answers: Kaldæa
+  - Chaldea as a land; people = kaldæerne.
+  - agent:ezk011, 2026-10-31
+- **`name:oholah`** אָהֳלָה → **Ohola** [high, decided, attested]
+  - gloss: אׇהֳלָה: אָהֳלָ֤ה (EZK 23:4) — English (generated): Oholah
+  - NT: EZK 23:4 *Ohola*; EZK 23:5 *Ohola*; EZK 23:36 *Ohola*
+  - answers: Ohola
+  - Samaria.
+  - agent:ezk023, 2026-10-31
+- **`name:oholibah`** אָהֳלִיבָה → **Oholiba** [high, decided, attested]
+  - gloss: אׇהֳלִיבָה: אָהֳלִיבָ֣ה (EZK 23:4) — English (generated): Oholibah
+  - NT: EZK 23:4 *Oholiba*; EZK 23:11 *Oholiba*; EZK 23:22 *Oholiba*
+  - answers: Oholiba
+  - Jerusalem.
+  - agent:ezk023, 2026-10-31
+- **`name:kerethim_ezk`** כְּרֵתִים → **kreterne** [high, decided, attested]
+  - gloss: כְּרֵתִי: כְּרֵתִ֑ים (EZK 25:16) — English (generated): the Cherethites
+  - NT: EZK 25:16 *kreterne*
+  - answers: kreterne
+  - As DFB.
+  - agent:ezk025, 2026-10-31
+- **`name:syene`** סְוֵנֵה → **Syene** [high, decided, attested]
+  - gloss: סְוֵנֵה: סְוֵנֵ֖ה (EZK 29:10) — English (generated): to Syene
+  - NT: EZK 29:10 *Syene*
+  - answers: Syene
+  - Also 30:6.
+  - agent:ezk029, 2026-10-31
+- **`name:nof_ezk`** נֹף → **Nof** [high, decided, attested]
+  - gloss: נֹף: נֹּ֔ף (EZK 30:13) — English (generated): in Memphis
+  - NT: EZK 30:13 *Nof*; EZK 30:16 *Nof*
+  - answers: Nof
+  - Memphis; DFB form; {T:}.
+  - agent:ezk030, 2026-10-31
+- **`name:tahpanhes_ezk`** תְחַפְנְחֵס → **Takpankes** [high, decided, attested]
+  - gloss: תַּחְפַּנְחֵס: תְחַפְנְחֵס֙ (EZK 30:18) — English (generated): in Tahpanhes
+  - NT: EZK 30:18 *Takpankes*
+  - answers: Takpankes
+  - DFB Jer 43.
+  - agent:ezk030, 2026-10-31
+- **`name:har_seir_ezk`** הַר שֵׂעִיר → **Se'ir-bjerget** [high, decided, attested]
+  - gloss: שֵׂעִיר: שֵׂעִ֑יר (EZK 35:2) — English (generated): Seir
+  - NT: EZK 35:2 *Se'ir-bjerget*; EZK 35:3 *Se'ir-bjerget*; EZK 35:7 *Se'ir-bjerget*; EZK 35:15 *Se'ir-bjerget*
+  - answers: Se'ir-bjerget
+  - As 2 Chr in this project.
+  - agent:ezk035, 2026-10-31
+- **`name:gog`** גּוֹג → **Gog** [high, decided, attested]
+  - gloss: גּוֹג: גּוֹג֙ (EZK 38:2) — English (generated): Gog
+  - NT: EZK 38:2 *Gog*; EZK 38:3 *Gog*; EZK 38:14 *Gog*
+  - answers: Gog
+  - 'Gog i Magogs land'.
+  - agent:ezk038, 2026-10-31
+- **`name:hamon_gog`** גֵּיא הֲמוֹן גּוֹג → **Hamon-Gog-dalen** [high, decided, attested]
+  - gloss: גַּיְא: גֵּ֤י (EZK 39:11) — English (generated): the Valley
+  - NT: EZK 39:11 *Hamon-Gog-dalen*; EZK 39:15 *Hamon-Gog-dalen*
+  - answers: Hamon-Gog-dalen
+  - {T:} 'Gogs skares dal'.
+  - agent:ezk039, 2026-10-31
+- **`name:en_eglajim`** עֵין עֶגְלַיִם → **En-Eglajim** [high, decided, attested]
+  - gloss: עֵין עֶגְלַיִם: עֵ֣ין (EZK 47:10) — English (generated): from En gedi
+  - NT: EZK 47:10 *En-Eglajim*
+  - answers: En-Eglajim
+  - agent:ezk047, 2026-10-31
+- **`name:hetlon`** חֶתְלֹן → **Hetlon** [high, decided, attested]
+  - gloss: חֶתְלֹן: חֶתְלֹ֖ן (EZK 47:15) — English (generated): of Hethlon
+  - NT: EZK 47:15 *Hetlon*
+  - answers: Hetlon
+  - agent:ezk047, 2026-10-31
+- **`name:hauran`** חַוְרָן → **Hauran** [high, decided, attested]
+  - gloss: חַוְרָן: חַוְרָֽן (EZK 47:16) — English (generated): of Hauran
+  - NT: EZK 47:16 *Hauran*; EZK 47:18 *Hauran*
+  - answers: Hauran
+  - agent:ezk047, 2026-10-31
+- **`name:hasar_hattikon`** חָצֵר הַתִּיכוֹן → **Hasar-Hattikon** [high, decided, attested]
+  - gloss: חָצֵר: חָצֵר֙ (EZK 47:16) — English (generated): as far as Hazer hatticon
+  - NT: EZK 47:16 *Hasar-Hattikon*
+  - answers: Hasar-Hattikon
+  - agent:ezk047, 2026-10-31
 - **`letter:shin`** **šin → sh** [high, observed]
   - NT: GEN 20:1 *Kadesh*; GEN 30:13 *Asher*; GEN 35:26 *Asher*
   - Bashan, Shilo, Shittim, Kadesh, Asher; men husformer går forud (Sinear, Sikem).
@@ -2249,4 +2353,4 @@ Shadaj – se [spørgsmålssiden](spoergsmaal.md).
 - **`letter:known_forms`** **indarbejdede danske former bruges uændret: Jerusalem, Betlehem, Jordan, Libanon, Egypten, Gilead, Efraim, Manasse, Juda, Ruben, Gad, Zebulon, Issakar, Asher, Naftali, Dan, Benjamin, Simeon, Levi** [high, decided]
   - NT: DAN 1:1 *Jerusalem*; DAN 5:2 *Jerusalem*
   - agent:memory-setup, 2026-10-14
-<!-- store:end sha=ab300ed7 -->
+<!-- store:end sha=3a3701c7 -->
