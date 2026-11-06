@@ -1,6 +1,6 @@
 ---
 title: Entscheide AT-Wortschatz
-entries: [term:H2617, term:H1350, term:H2205, term:H3618, term:H2545, term:H8184, term:H2406, term:H7105, term:H7641, term:H1637, term:H5401, formula:weep_aloud, term:H2009, term:H3247, term:H4487, term:H2904, term:H7021, term:royal_robe, term:H1254, formula:in_the_beginning, formula:tohu_wabohu, term:H8415, term:H7549, formula:evening_morning, formula:and_it_was_so, formula:that_it_was_good, formula:after_its_kind, term:nefesh_chayah, term:H120, term:H5175, term:H6174, term:H779, term:H1288, term:H3999, term:H8392, term:H7198, term:H1285, term:H2555, term:H4135, term:H8198, term:H1616, term:H2233, term:H6666, term:gebiret, term:H3045_sex, term:H436, term:H520, term:H8255, formula:gathered_to_people, formula:here_i_am, formula:and_he_died, term:H5631, term:H953, term:captain_guard, term:H4676, term:H2748, term:H8441, term:H6629, term:H3701, term:H6485, term:rech_nichoach, term:midwife, formula:fear_god, term:chayah_piel, term:brick_clay, term:perek, term:forced_labor, term:store_cities, term:nile, term:newborn_son_daughter, formula:the_more_the_more, term:qutz_dread, term:chayot, term:deal_shrewdly, term:sharats, term:title_exodus, term:tebah_basket, term:H1573_papyrus, term:tar_pitch, term:H5488_reeds, term:hebrew_adj, term:H2896_beautiful, term:H3243_nurse, term:H4871_draw_out, term:H584_groan, term:H5647_avodah_work, formula:named_him, term:ruler_judge, term:H5572_bush, term:H5927_bring_up, term:H7342_spacious, term:days_journey, formula:milk_honey, formula:peoples_list, formula:ehyeh, formula:god_of_fathers, term:H2859_father_in_law, term:H2205_elders_israel, term:H5337_plunder, term:H4294_staff, term:H6879_leprous, term:H8210_pour, formula:harden_hzq, term:H1060_firstborn, term:bridegroom_blood, formula:bow_worship, term:H3881_levite, formula:go_in_peace, term:H2436_bosom, term:H7860_foremen, term:H8401_straw, formula:thus_says_yhwh, formula:let_my_people_go, term:H1698_pestilence, term:H7503_lazy, term:H3843_bricks, term:H4940_clan, term:numbers_hundert, term:outstretched_arm, formula:ani_yhwh, formula:harden_qsh, term:H5186_hand, term:H3784_sorcerer, term:H887_stink, term:H4723_reservoir, term:H2658_dig, term:H8574_oven, formula:as_commanded, formula:as_said, term:H2691_court, term:H6279_pray, term:H6303_finger_of_god, term:H8441_abomination, term:H1259_hail, term:H6368_soot, term:H7822_boils, term:livestock_kinds, term:crops_ex9, term:H2388_hold, term:H7307_wind, term:H3680_cover, term:H3418_green, term:H2077_sacrifice, term:H697_locust, term:H7453_neighbor, term:H7347_handmill, formula:firstborn_range, term:H6453_passover, term:H4682_matzah, term:H2557_leavened, term:H4201_doorpost, term:H5414_strike_blood, term:H1616_native, term:ordinals_days, term:H2146_memorial, term:passover_food, term:lamb_defect, term:ex12_misc, formula:karet, formula:everlasting_ordinance, term:H5982_pillar, term:H2146_sign, term:H6299_redeem, term:H2145_male, term:H6202_neck, term:joseph_bones, term:H7393_chariot, term:H2342_misc14, term:H3004_dry, term:H2346_wall, formula:gain_glory, term:song_sea, formula:sea_song_refrain, term:H7495_heal, term:H8085_listen, term:H3885_grumble, term:H4478_manna, term:H6016_omer, term:H7676_sabbath, term:H3899_manna_misc, term:H4550_stages, term:H7378_quarrel, formula:moses_staff_nile, term:H7812_bow, term:H8269_officials, term:ex18_misc, term:H5459_treasured, formula:kingdom_priests, term:H7782_shofar, formula:stone_to_death, term:ex19_misc, formula:decalogue, term:H7453_neighbor_law, formula:jealous_god, term:H8002_peace_offering, term:ex20_misc, formula:put_to_death, formula:eye_for_eye, term:H5650_slave_law, term:H4941_ordinances, term:H3724_ransom, term:ex21_law, term:ex22_law, formula:leader_curse, term:H5307_widow_orphan, term:H1601_bloodguilt, term:ex23_law, term:H7810_bribe, formula:three_feasts, formula:kid_milk, formula:blood_covenant, term:H3871_tablets, formula:forty_days, term:H5288_young_men, term:tabernacle_materials, term:tabernacle_parts, term:ex25_misc, formula:pattern_mountain, term:tabernacle_parts_26, term:ex26_misc, term:tabernacle_parts_27, formula:tent_of_meeting, term:H8081_olive_oil, term:priestly_garments, term:breastpiece_stones, term:ex28_misc, term:H4394_ordination, term:offering_kinds, term:H3722_atone, term:ex29_misc, term:ex29_imper, term:H7004_incense, term:H3724_ransom_census, term:anointing_oil_spices, term:ex30_misc, term:sabbath_sign, term:ex31_misc, formula:golden_calf_gods, formula:ex32_6, term:golden_calf, term:H5162_relent, term:stiff_necked, term:book_blot, term:ex32_misc, formula:ex33_19, term:H6440_presence, term:ex33_misc, formula:ex34_6_7, term:moses_face_shone, term:ex34_misc, term:ex35_gifts, term:ex36_misc, term:ex38_inventory, formula:as_commanded_moses, term:ex39_misc, term:ex40_setup]
+entries: [term:H2617, term:H1350, term:H2205, term:H3618, term:H2545, term:H8184, term:H2406, term:H7105, term:H7641, term:H1637, term:H5401, formula:weep_aloud, term:H2009, term:H3247, term:H4487, term:H2904, term:H7021, term:royal_robe, term:H1254, formula:in_the_beginning, formula:tohu_wabohu, term:H8415, term:H7549, formula:evening_morning, formula:and_it_was_so, formula:that_it_was_good, formula:after_its_kind, term:nefesh_chayah, term:H120, term:H5175, term:H6174, term:H779, term:H1288, term:H3999, term:H8392, term:H7198, term:H1285, term:H2555, term:H4135, term:H8198, term:H1616, term:H2233, term:H6666, term:gebiret, term:H3045_sex, term:H436, term:H520, term:H8255, formula:gathered_to_people, formula:here_i_am, formula:and_he_died, term:H5631, term:H953, term:captain_guard, term:H4676, term:H2748, term:H8441, term:H6629, term:H3701, term:H6485, term:rech_nichoach, term:midwife, formula:fear_god, term:chayah_piel, term:brick_clay, term:perek, term:forced_labor, term:store_cities, term:nile, term:newborn_son_daughter, formula:the_more_the_more, term:qutz_dread, term:chayot, term:deal_shrewdly, term:sharats, term:title_exodus, term:tebah_basket, term:H1573_papyrus, term:tar_pitch, term:H5488_reeds, term:hebrew_adj, term:H2896_beautiful, term:H3243_nurse, term:H4871_draw_out, term:H584_groan, term:H5647_avodah_work, formula:named_him, term:ruler_judge, term:H5572_bush, term:H5927_bring_up, term:H7342_spacious, term:days_journey, formula:milk_honey, formula:peoples_list, formula:ehyeh, formula:god_of_fathers, term:H2859_father_in_law, term:H2205_elders_israel, term:H5337_plunder, term:H4294_staff, term:H6879_leprous, term:H8210_pour, formula:harden_hzq, term:H1060_firstborn, term:bridegroom_blood, formula:bow_worship, term:H3881_levite, formula:go_in_peace, term:H2436_bosom, term:H7860_foremen, term:H8401_straw, formula:thus_says_yhwh, formula:let_my_people_go, term:H1698_pestilence, term:H7503_lazy, term:H3843_bricks, term:H4940_clan, term:numbers_hundert, term:outstretched_arm, formula:ani_yhwh, formula:harden_qsh, term:H5186_hand, term:H3784_sorcerer, term:H887_stink, term:H4723_reservoir, term:H2658_dig, term:H8574_oven, formula:as_commanded, formula:as_said, term:H2691_court, term:H6279_pray, term:H6303_finger_of_god, term:H8441_abomination, term:H1259_hail, term:H6368_soot, term:H7822_boils, term:livestock_kinds, term:crops_ex9, term:H2388_hold, term:H7307_wind, term:H3680_cover, term:H3418_green, term:H2077_sacrifice, term:H697_locust, term:H7453_neighbor, term:H7347_handmill, formula:firstborn_range, term:H6453_passover, term:H4682_matzah, term:H2557_leavened, term:H4201_doorpost, term:H5414_strike_blood, term:H1616_native, term:ordinals_days, term:H2146_memorial, term:passover_food, term:lamb_defect, term:ex12_misc, formula:karet, formula:everlasting_ordinance, term:H5982_pillar, term:H2146_sign, term:H6299_redeem, term:H2145_male, term:H6202_neck, term:joseph_bones, term:H7393_chariot, term:H2342_misc14, term:H3004_dry, term:H2346_wall, formula:gain_glory, term:song_sea, formula:sea_song_refrain, term:H7495_heal, term:H8085_listen, term:H3885_grumble, term:H4478_manna, term:H6016_omer, term:H7676_sabbath, term:H3899_manna_misc, term:H4550_stages, term:H7378_quarrel, formula:moses_staff_nile, term:H7812_bow, term:H8269_officials, term:ex18_misc, term:H5459_treasured, formula:kingdom_priests, term:H7782_shofar, formula:stone_to_death, term:ex19_misc, formula:decalogue, term:H7453_neighbor_law, formula:jealous_god, term:H8002_peace_offering, term:ex20_misc, formula:put_to_death, formula:eye_for_eye, term:H5650_slave_law, term:H4941_ordinances, term:H3724_ransom, term:ex21_law, term:ex22_law, formula:leader_curse, term:H5307_widow_orphan, term:H1601_bloodguilt, term:ex23_law, term:H7810_bribe, formula:three_feasts, formula:kid_milk, formula:blood_covenant, term:H3871_tablets, formula:forty_days, term:H5288_young_men, term:tabernacle_materials, term:tabernacle_parts, term:ex25_misc, formula:pattern_mountain, term:tabernacle_parts_26, term:ex26_misc, term:tabernacle_parts_27, formula:tent_of_meeting, term:H8081_olive_oil, term:priestly_garments, term:breastpiece_stones, term:ex28_misc, term:H4394_ordination, term:offering_kinds, term:H3722_atone, term:ex29_misc, term:ex29_imper, term:H7004_incense, term:H3724_ransom_census, term:anointing_oil_spices, term:ex30_misc, term:sabbath_sign, term:ex31_misc, formula:golden_calf_gods, formula:ex32_6, term:golden_calf, term:H5162_relent, term:stiff_necked, term:book_blot, term:ex32_misc, formula:ex33_19, term:H6440_presence, term:ex33_misc, formula:ex34_6_7, term:moses_face_shone, term:ex34_misc, term:ex35_gifts, term:ex36_misc, term:ex38_inventory, formula:as_commanded_moses, term:ex39_misc, term:ex40_setup, term:H7133_offering, term:H6629_flock_cult, term:lev001_forms, term:H234_memorial, term:lev002_forms, formula:fat_kidneys_liver, term:lev003_forms, formula:atonement_forgiven, term:H7684_unintentional, term:lev004_forms, term:H817_guilt_offering, term:H4604_unfaithful, term:lev005_forms, term:H8451_law_of, term:lev006_forms, term:H8426_thank_offering, term:H5307_cut_off, term:lev007_forms, term:lev008_forms, term:lev009_forms, term:H2114_strange_fire, term:lev010_forms, term:H8318_swarming, term:lev011_animals, term:lev011_forms, term:lev012_forms, term:H6883_leprosy, term:H5061_affliction, term:lev013_forms, term:H3849_log, term:lev014_forms, term:H2101_discharge, term:lev015_forms, name:azazel, term:lev016_forms, term:H8163_goat_demons, term:H5315_life_blood, term:lev017_forms, term:H6172_nakedness, name:molech, term:lev018_forms, formula:love_neighbor, term:lev019_forms, formula:mot_yumat, term:lev020_forms, term:H3971_defect, term:lev021_forms, term:H6944_holy_gifts, term:lev022_forms, term:H4150_feasts, term:lev023_forms, name:shelomith, name:dibri, term:H5344_blaspheme, term:lev024_forms, term:H3104_jubilee, term:lev025_forms, term:H7136_hostility, term:lev026_forms, term:H2764_devoted, term:H6187_valuation, term:lev027_forms, name:num001_leaders, term:H6485_census, term:num001_forms, term:num002_forms, name:levite_clans, term:num003_forms, term:num004_forms, term:H7065_jealousy, term:num005_forms, term:H5139_nazirite, formula:priestly_blessing, term:num006_forms, term:H2598_dedication, formula:num007_gift, term:num007_forms, term:num008_forms, term:num009_forms, term:H2689_trumpet, name:hobab, term:num010_forms, name:num011_places, term:H5012_prophesy, term:num011_forms, term:num012_forms, name:num013_spies, name:num013_places, term:num013_forms, formula:slow_to_anger, formula:as_i_live, name:hormah, term:num014_forms, term:H6734_tassel, term:num015_forms, name:korah, term:num016_forms, term:num017_forms, term:H4643_tithe, term:num018_forms, term:H5079_impurity_water, term:num019_forms, name:num020_places, term:num020_forms, name:num021_places, term:num021_forms, name:balaam, term:num022_forms, term:H4912_oracle, term:num023_forms, term:H5002_utterance, term:num024_forms, name:num025_people, term:num025_forms, name:num026_clans, term:num026_forms, term:num027_forms, term:H8548_regular_offering, term:num028_forms, term:num029_forms, term:H5088_vow, term:num030_forms, term:num031_forms, name:num032_places, term:num032_forms, name:num033_stations, term:num033_forms, name:num034_borders, term:num034_forms, term:H4733_refuge, term:num035_forms, term:num036_forms]
 ---
 # Entscheide AT-Wortschatz (Genesis, Rut, Jona)
 
@@ -49,6 +49,11 @@ Kap. 35-40 übernehmen den Wortlaut von 25-31. Grundlage: Bietenhard Hebr 8,5; 9
 - **Rouchopferaltar, Becki, Salböl, Röucherwärch (30 = 37,25-29; 38,8):** Rouchopferaltar (Lk 1,11) us Akazieholz, viereggig, mit Hörner, luters Guld, guldige Chranz, Ring und Stange; wohlriechends Röucherwärch, röuchere; Becki us Bronze mit sym Gstell (כִּיּוֹר, כֵּן); ds heilige Salböl (flüssigi Myrrhe, wohlriechende Zimet, Gwürzrohr, Kassia, Olivenöl; Salbimischer); Röucherwärch us Staktetropfe, Röuchermuschle, Galbanum und luterem Weihrouch, gsalze; Lösgäld: e halbe Schekel nach em Schekel vom Heiligtum (zwänzg Gera).
 - **Handwärker (31 = 35,30-36,1):** der Bezalel und der Oholiab, mit em Geischt vo Gott erfüllt, mit Wysheit, Verstand und Wüsse; Kunschtwärch entwärfe, Steine schnyde und yzfasse, Holz schnitze; Liste vo allem, wo si mache: Zält vo der Begägnig, Lade vom Zügnis, Gnadestuel, Tisch, lutere Lüüchter, Rouchopferaltar, Brandopferaltar, Becki und Gstell, gwobene und heilige Chleider, Salböl, wohlriechends Röucherwärch.
 - **Mengen (38,24-31):** Guld vo der Abgab nüünezwänzg Talänt und sibehundertdryssg Schekel; Silber vo de Gmusterete hundert Talänt und tuusigsibehundertfüfesibezg Schekel (e Beka uf e Chopf = e halbe Schekel; sächshundertdrütuusigfüfhundertfüfzg Manne); Bronze sibezg Talänt und zwöituusigvierhundert Schekel; Becki und Gstell us de Spiegel vo de Froue (38,8).
+
+## Levitikus (3. Mose)
+
+- Buchtitel »Ds dritte Buech Mose« (offen wie 2Mo). Opfer- und Heiligtumswörter aus 2Mo 25-40 gelten weiter (Brandopfer, Füüropfer, »e feine Duft für e HERR«, »la in Rouch ufgah«, »Sühne schaffe«, »ds Zält vo der Begägnig«).
+- קָרְבָּן »Opfergab« (Korpus 8×); צֹאן im Opfergesetz »Chlyveh« (3Mo 1,2.10); רָצוֹן »aagno wärde« (1,3-4).
 
 ## Store entries
 
@@ -279,11 +284,12 @@ Kap. 35-40 übernehmen den Wortlaut von 25-31. Grundlage: Bietenhard Hebr 8,5; 9
   - answers: shekel, shekels
   - Mit Gramm-Angabe (GEN 24:22). Kein Korpusbeleg.
   - agent:memory-setup, 2026-10-14
-- **`formula:gathered_to_people`** וַיֵּאָסֶף אֶל־עַמָּיו → **isch zu syne Vorfahre heiggange** [high, decided, attested]
-  - NT: GEN 25:8 *Vorfahre heiggange*; GEN 25:17 *Vorfahre heiggange*
+- **`formula:gathered_to_people`** אָסַף → **נֶאֱסַף אֶל־עַמָּיו »zu syne Vorfahre heigah«** [high, decided, by-rule]
+  - gloss: אָסַף: יֵאָסֵ֤ף (NUM 20:24) — English (generated): will be gathered
+  - NT: NUM 20:24 *zu syne Vorfahre heigah*
   - answers: gathered to his people
-  - GEN 25:8.17; 35:29; 49:29.33; Alternative »zu sym Volk« offen (gen_review_overview Kap. 22-50 A 8).
-  - agent:memory-setup, 2026-10-14
+  - Wie 1Mo 25,8; 49,33 im Projekt (»isch zu syne Vorfahre heiggange«). Auch 4Mo 27,13; 31,2; 5Mo 32,50; Ri 2,10.
+  - agent:num020, 2026-11-05
 - **`formula:here_i_am`** הִנֵּנִי → **Da bin i** [high, decided, attested]
   - NT: GEN 31:11 *Da bin i*; GEN 27:1 *Da bin i*
   - answers: here i am
@@ -851,12 +857,14 @@ Kap. 35-40 übernehmen den Wortlaut von 25-31. Grundlage: Bietenhard Hebr 8,5; 9
   - answers: firstborn of pharaoh
   - Gleich in 11,5 und 12,29 (dort: »vom Gfangene im Loch«).
   - agent:exo011, 2026-10-30
-- **`term:H6453_passover`** פֶּסַח → **ds Passa / ds Passalamm / ds Passaopfer** [high, decided, attested]
-  - gloss: פֶּסַח: פֶּ֥סַח (EXO 12:11) — English (generated): Passover
-  - NT: EXO 12:11 *ds Passa vom HERR*; LUK 22:7 *ds Passalamm metzge*
-  - answers: passover, passover lamb
-  - Wie Bietenhard (Lk 22,7; 1Kor 5,7): Passa, Passalamm; זֶבַח־פֶּסַח »ds Passaopfer« (12,27).
-  - agent:exo012, 2026-10-30
+- **`term:H6453_passover`** פֶּסַח → **פֶּסַח »ds Passa«; עָשָׂה פֶסַח »ds Passa fyre«; בֵּין הָעַרְבַּיִם »gäge Aabe«; בְּמֹעֲדוֹ »zur bestimmte Zyt«** [high, decided, by-rule]
+  - gloss: פֶּסַח: פָּ֖סַח (NUM 9:2) — English (generated): the Passover
+  - gloss: עֶרֶב: עֲרְבַּ֛יִם (NUM 9:3) — English (generated): twilight
+  - gloss: מוֹעֵד: מוֹעֲדֽ (NUM 9:2) — English (generated): at its appointed time
+  - NT: NUM 9:2 *ds Passa fyre*; NUM 9:3 *gäge Aabe*
+  - answers: Passover, twilight, appointed time
+  - Wie 2Mo 12 (»Passa«, »gäge Aabe«); 3Mo 23,5. Auch Jos 5; 2Kön 23; 2Chr 30; 35; Esr 6.
+  - agent:num009, 2026-11-05
 - **`term:H4682_matzah`** מַצָּה → **ungsüürts Brot / ds Fescht vom ungsüürete Brot** [high, decided, attested]
   - gloss: מַצָּה: מַצּ֔וֹת (EXO 12:8) — English (generated): along with unleavened bread
   - NT: EXO 12:8 *ungsüürts Brot*; LUK 22:7 *vom ungsüürete Brot*
@@ -1552,4 +1560,1059 @@ Kap. 35-40 übernehmen den Wortlaut von 25-31. Grundlage: Bietenhard Hebr 8,5; 9
   - answers: set up, cloud, glory, journeys
   - 40,1-33 mit den Teilnamen aus 25-31 und 35-39; Kehrvers formula:as_commanded_moses (7x); 40,34-38 Wulche/Füür wie 13,21-22.
   - agent:exo040, 2026-10-30
-<!-- store:end sha=704359cb -->
+- **`term:H7133_offering`** קׇרְבָּן → **Opfergab** [high, decided, attested]
+  - gloss: קׇרְבָּן: קָרְבָּ֖ן (LEV 1:2) — English (generated): an offering
+  - NT: LEV 1:2 *e Opfergab*
+  - answers: offering
+  - קָרְבָּן in 3.-5. Mose überall »Opfergab« (Korpus opfergab 8×); הִקְרִיב »bringe«.
+  - agent:lev001, 2026-11-05
+- **`term:H6629_flock_cult`** צֹאן → **Chlyveh** [medium, decided, by-rule]
+  - gloss: צֹאן: צֹּ֨אן (LEV 1:10) — English (generated): the flock
+  - NT: LEV 1:2 *vom Chlyveh*; LEV 1:10 *vom Chlyveh*
+  - answers: flock
+  - צֹאן in den Opfergesetzen »Chlyveh« (Schaf und Geiss), weil 1,10 »Schaf oder Geisse« unterteilt; in der Erzählung bleibt »Schaf« (2Mo).
+  - agent:lev001, 2026-11-05
+- **`term:lev001_forms`** עָרַךְ → **schichte; abdrääje; usdrückt; Chropf; Inhalt; usenäh; ufrysse; ds Fäll abzie; männlechs Tier ohni Fähler; für dass er vor em HERR aagno wird** [medium, decided, by-rule]
+  - gloss: עָרַךְ: עָרְכ֥וּ (LEV 1:7) — English (generated): and arrange
+  - gloss: מָלַק: מָלַק֙ (LEV 1:15) — English (generated): twist off
+  - gloss: מֻרְאָה: מֻרְאָת֖ (LEV 1:16) — English (generated): the crop
+  - gloss: שָׁסַע: שִׁסַּ֨ע (LEV 1:17) — English (generated): He shall tear it open
+  - NT: LEV 1:7 *Holz schichte*; LEV 1:15 *der Chopf abdrääje*; LEV 1:16 *der Chropf*
+  - answers: arrange, wring off, drained out, crop, remove, tear open, skin, unblemished male, accepted
+  - Brandopfer 3Mo 1: עָרַךְ »schichte«, מָלַק »der Chopf abdrääje«, נִמְצָה »usdrückt wärde«, מֻרְאָה »Chropf«, שִׁסַּע »ufrysse«, הִפְשִׁיט »ds Fäll abzie«; רָצוֹן »aagno wärde« (gleich in 3Mo).
+  - agent:lev001, 2026-11-05
+- **`term:H234_memorial`** אַזְכָּרָה → **Andänketeil** [medium, decided, by-rule]
+  - gloss: אַזְכָּרָה: אַזְכָּרָתָ (LEV 2:2) — English (generated): as a memorial portion
+  - NT: LEV 2:2 *der Andänketeil*
+  - answers: memorial portion
+  - אַזְכָּרָה beim Speisopfer »der Andänketeil« (3Mo 2,2.9.16; 5,12; 6,8; 24,7).
+  - agent:lev002, 2026-11-05
+- **`term:lev002_forms`** קָמַץ → **Hampfele; Bachplatte; ungsüürt; Stückli; gröschtet; zerstampfti Chörner; zerstampfte; d Pfanne; als Opfergab vom Erschte; ds Salz vom Bund** [medium, decided, by-rule]
+  - gloss: קָמַץ: קָמַ֨ץ (LEV 2:2) — English (generated): shall take a handful
+  - gloss: מַחֲבַת: מַּחֲבַ֖ת (LEV 2:5) — English (generated): a griddle
+  - gloss: מַרְחֶשֶׁת: מַרְחֶ֖שֶׁת (LEV 2:7) — English (generated): in a pan
+  - gloss: גֶּרֶשׂ: גֶּ֣רֶשׂ (LEV 2:14) — English (generated): crushed
+  - NT: LEV 2:2 *e Hampfele*; LEV 2:5 *vo der Bachplatte*; LEV 2:14 *zerstampfti Chörner*
+  - answers: handful, griddle, unleavened, pieces, roasted, crushed, pan, firstfruits, salt of the covenant
+  - Speisopfer 3Mo 2: מִנְחָה »Speisopfer«, סֹלֶת »fyns Wizemähl«, לְבֹנָה »Weihrouch« (Korpus), קֹמֶץ »e Hampfele«, מַחֲבַת »Bachplatte«, מַרְחֶשֶׁת »Pfanne«, שְׂאֹר »Suurteigg«, רֵאשִׁית »ds Erschte«, בִּכּוּרִים »Erschtertrag«.
+  - agent:lev002, 2026-11-05
+- **`formula:fat_kidneys_liver`** כֶּסֶל → **ds Fett, wo ds Ygweid deckt, und alls Fett, wo am Ygweid isch, beidi Niere und ds Fett, wo dra isch, bi de Lände, und der Lappe vo der Läbere; dä söll er mit de Niere usenäh** [high, decided, by-rule]
+  - gloss: כֶּסֶל: כְּסָלִ֑ים (LEV 3:4) — English (generated): the loins
+  - gloss: יֹתֶרֶת: יֹּתֶ֨רֶת֙ (LEV 3:4) — English (generated): the lobe
+  - gloss: כָּבֵד: כָּבֵ֔ד (LEV 3:4) — English (generated): the liver
+  - NT: LEV 3:4 *bi de Lände*; LEV 3:10 *Lappe vo der Läbere*
+  - answers: the fat that covers the entrails, both kidneys, lobe of the liver
+  - Fettteile beim Gmeinschaftsopfer 3Mo 3,3-4.9-10.14-15; gleich in 4,8-9; 7,3-4 (nach 2Mo 29,13.22).
+  - agent:lev003, 2026-11-05
+- **`term:lev003_forms`** נְקֵבָה → **wyblechs; Lände; Rüggrat; abtrenne; Geiss; Spys; e Ornig für geng, dür alli öiji Generatione, a allne Orte, wo dihr wohnet** [medium, decided, by-rule]
+  - gloss: נְקֵבָה: נְקֵבָ֔ה (LEV 3:1) — English (generated): female
+  - gloss: עָצֶה: עָצֶ֖ה (LEV 3:9) — English (generated): the backbone
+  - gloss: עֵז: עֵ֖ז (LEV 3:12) — English (generated): is a goat
+  - gloss: חֻקָּה: חֻקַּ֤ת (LEV 3:17) — English (generated): statute
+  - NT: LEV 3:1 *es wyblechs Tier*; LEV 3:9 *bim Rüggrat*; LEV 3:17 *e Ornig für geng*
+  - answers: female, loins, backbone, goat, food, permanent statute
+  - זֶבַח שְׁלָמִים »Gmeinschaftsopfer« (term:H8002_peace_offering); לֶחֶם אִשֶּׁה »Spys, es Füüropfer«; חֻקַּת עוֹלָם לְדֹרֹתֵיכֶם בְּכֹל מוֹשְׁבֹתֵיכֶם fest (3,17; 7,36; 23,14.21.31).
+  - agent:lev003, 2026-11-05
+- **`formula:atonement_forgiven`** כִּפֶּר → **So schaffet der Prieschter Sühne für ne, und es wird ihm vergä** [high, decided, by-rule]
+  - gloss: כִּפֶּר: כִפֶּ֧ר (LEV 4:20) — English (generated): will make atonement
+  - gloss: סָלַח: נִסְלַ֥ח (LEV 4:20) — English (generated): and they will be forgiven
+  - NT: LEV 4:26 *es wird ihm vergä*
+  - answers: the priest will make atonement, he will be forgiven
+  - וְכִפֶּר עָלָיו הַכֹּהֵן … וְנִסְלַח לוֹ (3Mo 4,20.26.31.35; 5,10.13.16.18.26; 19,22); Plural »für se … ne vergä«. Korpus vergä 43×.
+  - agent:lev004, 2026-11-05
+- **`term:H7684_unintentional`** שְׁגָגָה → **שְׁגָגָה / בִּשְׁגָגָה »us Versehe«; שָׁגָה »us Versehe fähle«; בְּיָד רָמָה »mit erhobener Hand«** [high, decided, by-rule]
+  - gloss: שְׁגָגָה: שְׁגָגָה֒ (NUM 15:24) — English (generated): unintentionally
+  - gloss: רום: רָמָ֗ה (NUM 15:30)
+  - NT: NUM 15:27 *us Versehe*; NUM 15:30 *mit erhobener Hand*
+  - answers: unintentionally, defiantly
+  - Wie 3Mo 4 (»us Versehe«); 4Mo 35,11.15 (Zufluchtsstädte); Jos 20.
+  - agent:num015, 2026-11-05
+- **`term:lev004_forms`** טָבַל → **usenimmt; tunke; Äschehuufe; a ne subere Ort; Geissbock; Bock; übrigs Bluet; der gsalbet Prieschter; wo der HERR i syne Gebot verbotte het; ds eifache Volk** [medium, decided, by-rule]
+  - gloss: טָבַל: טָבַ֧ל (LEV 4:6) — English (generated): is to dip
+  - gloss: דֶּשֶׁן: דֶּ֔שֶׁן (LEV 4:12) — English (generated): the ashes
+  - gloss: שָׂעִיר: שְׂעִ֥יר (LEV 4:23) — English (generated): male goat
+  - gloss: מָשִׁיחַ: מָּשִׁ֛יחַ (LEV 4:3) — English (generated): the anointed
+  - NT: LEV 4:6 *sy Finger … tunke*; LEV 4:12 *a Äschehuufe*; LEV 4:23 *e Geissbock*
+  - answers: remove, dip, ash heap, clean place, male goat, rest of the blood, anointed priest, forbidden, common people
+  - Sündopfer 3Mo 4: עֵדָה »Gmeind«, קָהָל »Versammlig« (wie 2Mo 12), נָשִׂיא »e Vorgsetzte« (wie 2Mo 22,27), עַם הָאָרֶץ »ds eifache Volk«, יְסוֹד »Fuess vom Altar« (2Mo 29,12), עוֹר »Hut«, פֶּרֶשׁ »Mischt«, פָּרֹכֶת »Vorhang«.
+  - agent:lev004, 2026-11-05
+- **`term:H817_guilt_offering`** אָשָׁם → **Schuldopfer** [high, decided, by-rule]
+  - gloss: אָשָׁם: אֲשָׁמ֨ (LEV 5:15) — English (generated): his guilt offering
+  - NT: LEV 5:15 *als Schuldopfer*; LEV 5:25 *sys Schuldopfer*
+  - answers: guilt offering
+  - אָשָׁם »Schuldopfer« (3Mo 5-7; 14; 19); אָשֵׁם »schuldig wärde«; עֶרְכְּךָ »nach dyr Schätzig«; חֲמִישִׁית »e Füftel«.
+  - agent:lev005, 2026-11-05
+- **`term:H4604_unfaithful`** מָעַל → **untröi wärde** [medium, decided, attested]
+  - gloss: מָעַל: תִמְעֹ֣ל (LEV 5:15) — English (generated): acts
+  - NT: LEV 5:15 *untröi wird*
+  - answers: acts unfaithfully, unfaithful
+  - מָעַל מַעַל »untröi wärde« (Korpus untröi 2×); a de heilige Gabe vom HERR (קָדְשֵׁי יְהוָה).
+  - agent:lev005, 2026-11-05
+- **`term:lev005_forms`** בטא → **irgend; Schätzig; unüberleit; Füftel; zum Ufbewahre; erpresst; Gwürm; Silberschekel; indäm; aalügt; Gstolenem; öppis Verlorenigs; zrüggä; Usuberi** [medium, decided, by-rule]
+  - gloss: בטא: בַטֵּ֨א (LEV 5:4) — English (generated): thoughtlessly
+  - gloss: שֶׁרֶץ: שֶׁ֣רֶץ (LEV 5:2) — English (generated): crawling creature
+  - gloss: פִּקָּדוֹן: פִקָּד֗וֹן (LEV 5:21) — English (generated): in regard to a deposit
+  - gloss: עָשַׁק: עָשַׁ֥ק (LEV 5:21) — English (generated): if he extorts
+  - gloss: אֲבֵדָה: אֲבֵדָ֛ה (LEV 5:22) — English (generated): lost property
+  - NT: LEV 5:4 *unüberleit schwört*; LEV 5:2 *usuberem Gwürm*; LEV 5:21 *zum Ufbewahre*
+  - answers: any, valuation, rashly, fifth, deposit, extorts, swarming things, shekels, deceiving, stolen, lost property, return, uncleanness
+  - 3Mo 5: טָמֵא »usuber« (term:unclean), נְבֵלָה »Aas« (Korpus 2×), שֶׁרֶץ »Gwürm«, הִתְוַדָּה »bekenne«, אָלָה »Fluech«.
+  - agent:lev005, 2026-11-05
+- **`term:H8451_law_of`** תּוֹרָה → **Das isch ds Gsetz vom …** [high, decided, attested]
+  - gloss: תּוֹרָה: תּוֹרַ֖ת (LEV 6:2) — English (generated): is the law
+  - NT: LEV 6:2 *ds Gsetz vom Brandopfer*; LEV 6:18 *ds Gsetz vom Sündopfer*
+  - answers: this is the law of
+  - זֹאת תּוֹרַת … in 3Mo 6-7; 11,46; 12,7; 13,59; 14,2.32.54.57; 15,32 »Das isch ds Gsetz vom/vo der …« (Korpus Gsetz).
+  - agent:lev006, 2026-11-05
+- **`term:lev006_forms`** מוֹקְדָה → **Befiel; Füürstell; Lynechleid; drufläge; Tongschirr; Bronzegschirr; fegge; usschwänke; ds tägleche Speisopfer** [medium, decided, by-rule]
+  - gloss: מוֹקְדָה: מוֹקְדָ֨ה (LEV 6:2) — English (generated): the hearth
+  - gloss: מַד: מִדּ֣ (LEV 6:3) — English (generated): robe
+  - gloss: חֶרֶשׂ: חֶ֛רֶשׂ (LEV 6:21) — English (generated): The clay
+  - gloss: מָרַק: מֹרַ֥ק (LEV 6:21) — English (generated): must be scoured
+  - NT: LEV 6:2 *uf der Füürstell*; LEV 6:21 *Tongschirr*; LEV 6:21 *fegge*
+  - answers: command, hearth, linen robe, add, clay pot, bronze pot, scoured, rinsed, regular grain offering
+  - 3Mo 6 (= BSB 6,8-30): צַו »Befiel«, מוֹקְדָה »Füürstell«, תָּמִיד »geng«, חָצֵר »Vorhof«, מְחַטֵּא »als Sündopfer darbringe«.
+  - agent:lev006, 2026-11-05
+- **`term:H8426_thank_offering`** תּוֹדָה → **Dankopfer** [medium, decided, by-rule]
+  - gloss: תּוֹדָה: תּוֹדָה֮ (LEV 7:12) — English (generated): thanksgiving
+  - NT: LEV 7:12 *als Dankopfer*
+  - answers: thanksgiving, thank offering
+  - תּוֹדָה beim Gmeinschaftsopfer »Dankopfer«; נֶדֶר »Glübd« (Korpus 3×), נְדָבָה »freiwilligi Gab« (2Mo 35).
+  - agent:lev007, 2026-11-05
+- **`term:H5307_cut_off`** כָּרַת → **dä söll us sym Volk usgrottet wärde** [high, decided, attested]
+  - gloss: כָּרַת: נִכְרְתָ֛ה (LEV 7:20) — English (generated): must be cut off
+  - NT: LEV 7:20 *usgrottet wärde*
+  - answers: cut off from his people
+  - וְנִכְרְתָה הַנֶּפֶשׁ הַהִוא מֵעַמֶּיהָ (3Mo 7,20.21.25.27; 17-23) wie 2Mo 12,15; 30,33.
+  - agent:lev007, 2026-11-05
+- **`term:lev007_forms`** פִּגּוּל → **Abschüülechs; tröche; Zwäcke; schwinge; härebracht; Opfergabe; ds Opfer vo der Amtsyysetzig** [medium, decided, by-rule]
+  - gloss: פִּגּוּל: פִּגּ֣וּל (LEV 7:18) — English (generated): an abomination
+  - gloss: שֶׁקֶץ: שֶׁ֣קֶץ (LEV 7:21) — English (generated): detestable thing
+  - gloss: חָרֵב: חֲרֵבָ֑ה (LEV 7:10) — English (generated): whether dry
+  - gloss: מִלֻּאִים: מִּלּוּאִ֔ים (LEV 7:37) — English (generated): the ordination offering
+  - NT: LEV 7:18 *Abschüülechs*; LEV 7:10 *tröche*
+  - answers: abomination, detestable, dry, purpose, wave, presented, offerings, ordination offering
+  - 3Mo 7: פִּגּוּל und שֶׁקֶץ »Abschüülechs«; טְרֵפָה »verrisses Tier«; חָזֶה »Bruscht«, שׁוֹק הַיָּמִין »di rächti Keule« (2Mo 29); מָנָה / חֹק »Aateil«.
+  - agent:lev007, 2026-11-05
+- **`term:lev008_forms`** חָגַר → **gürtet; versammlet; zerleit; ds Amt übergä; d Tag vo öier Amtsyysetzig** [medium, decided, by-rule]
+  - gloss: חָגַר: יַּחְגֹּ֤ר (LEV 8:7) — English (generated): around him
+  - gloss: קָהַל: תִּקָּהֵל֙ (LEV 8:4) — English (generated): gathered
+  - gloss: נָתַח: נִתַּ֖ח (LEV 8:20) — English (generated): cut
+  - gloss: מָלֵא: מְלֹ֔את (LEV 8:33) — English (generated): are complete
+  - NT: LEV 8:7 *mit em Gurt gürtet*; LEV 8:4 *het sech … versammlet*; LEV 8:20 *i Stück zerleit*
+  - answers: tied, assembled, cut into pieces, ordain
+  - 3Mo 8 als Ausführung von 2Mo 29 im Perfekt, Wortlaut von 2Mo 29 (Lybrock, Gurt, Mantel, Efod, Bruschtschild, Urim und Tummim, Turban, Stirnblatt, ds heilige Diadem, Ohrläppli, Duume, grossi Zeche); Kehrvers »wi der HERR em Mose befole het«.
+  - agent:lev008, 2026-11-05
+- **`term:lev009_forms`** חֵלֶב → **Fettstück; junges Chalb; jährig; tunkt; zuesätzlech; gjublet; schaff Sühne; darbracht** [medium, decided, by-rule]
+  - gloss: חֵלֶב: חֲלָבִ֑ים (LEV 9:24) — English (generated): and the fat portions
+  - gloss: עֵגֶל: עֵ֣גֶל (LEV 9:2) — English (generated): a young bull
+  - gloss: טָבַל: יִּטְבֹּ֤ל (LEV 9:9) — English (generated): and he dipped
+  - gloss: רָנַן: יָּרֹ֔נּוּ (LEV 9:24) — English (generated): they shouted for joy
+  - NT: LEV 9:24 *d Fettstück*; LEV 9:9 *i ds Bluet tunkt*; LEV 9:24 *hei si gjublet*
+  - answers: fat portions, young calf, a year old, dipped, in addition to, shouted for joy, make atonement, presented
+  - 3Mo 9: הִקְרִיב im Bericht »darbracht« (wie 2Mo 32; 40); Imperativ an Aaron »schaff Sühne«; הַחֲלָבִים »d Fettstück«.
+  - agent:lev009, 2026-11-05
+- **`term:H2114_strange_fire`** זָר → **frömds Füür** [medium, decided, by-rule]
+  - gloss: זָר: זָרָ֔ה (LEV 10:1) — English (generated): unauthorized
+  - NT: LEV 10:1 *frömds Füür*
+  - answers: unauthorized fire, strange fire
+  - אֵשׁ זָרָה (3Mo 10,1; 4Mo 3,4; 26,61): »frömds Füür«, wie »frömds Röucherwärch« 2Mo 30,9.
+  - agent:lev010, 2026-11-05
+- **`term:lev010_forms`** יָתַר → **bblibne; bbliben; dryta; erwysen; Unggle; verschrysset; aazündt; Bier; göht; Gwöhnlechem; Stätt; wägznäh; ynebbracht** [medium, decided, by-rule]
+  - gloss: יָתַר: נּֽוֹתָרִים֒ (LEV 10:12) — English (generated): and his remaining
+  - gloss: דּוֹד: דֹּ֣ד (LEV 10:4) — English (generated): uncle
+  - gloss: פָּרַם: תִפְרֹ֨מוּ֙ (LEV 10:6) — English (generated): tear
+  - gloss: שֵׁכָר: שֵׁכָ֞ר (LEV 10:9) — English (generated): or strong drink
+  - gloss: חֹל: חֹ֑ל (LEV 10:10) — English (generated): and the common
+  - NT: LEV 10:9 *Wy oder Bier*; LEV 10:4 *em Unggle vom Aaron*; LEV 10:10 *Heiligem und Gwöhnlechem*
+  - answers: remaining, put in, reveal, uncle, tear, ignited, strong drink, enter, common, place, take away, brought inside
+  - 3Mo 10: שֵׁכָר »Bier« (berauschendes Getränk); חֹל »Gwöhnlechs«; פָּרַע רֹאשׁ »d Haar offe la hange«; פָּרַם בְּגָדִים »d Chleider verschrysse«.
+  - agent:lev010, 2026-11-05
+- **`term:H8318_swarming`** שֶׁרֶץ → **Gwimmel; wimmle; wimmlet** [high, decided, by-rule]
+  - gloss: שֶׁרֶץ: שֶׁ֣רֶץ (LEV 11:10) — English (generated): the teeming
+  - gloss: שֶׁרֶץ: שֶּׁ֖רֶץ (LEV 11:29) — English (generated): creatures
+  - NT: LEV 11:41 *Alls Gwimmel*; LEV 11:29 *uf em Bode wimmlet*
+  - answers: swarming things, teeming, creatures that move along the ground
+  - שֶׁרֶץ / שָׁרַץ »Gwimmel, wimmle« (3Mo 11; vgl. 1Mo 1,20); שֶׁקֶץ »Gröiel«, שִׁקֵּץ »als Gröiel aaluege«.
+  - agent:lev011, 2026-11-05
+- **`term:lev011_animals`** שָׁפָן → **Klippdachs; Haas; Schwyn; Bartgyr; Mönchsgyr; Milan; Falk; Strouss; Nachtschwalbe; Möwe; Habicht; Chüzli; Kormoran; Uhu; Schleiereule; Pelikan; Aasgyr; Reiher; Wiedhopf; Fledermuus; Fäldheuschrecke; Grille; Grashüpfer; Wiseli; Muus; Dornschwanzechse; Gecko; Waran; Eidechsli; Skink; Chamäleon** [medium, decided, by-rule]
+  - gloss: שָׁפָן: שָּׁפָ֗ן (LEV 11:5) — English (generated): The rock badger
+  - gloss: אַרְנֶבֶת: אַרְנֶ֗בֶת (LEV 11:6) — English (generated): The rabbit
+  - gloss: חֲזִיר: חֲזִיר (LEV 11:7) — English (generated): the pig
+  - gloss: עֲטַלֵּף: עֲטַלֵּֽף (LEV 11:19) — English (generated): the bat
+  - gloss: עַכְבָּר: עַכְבָּ֖ר (LEV 11:29) — English (generated): the mouse
+  - NT: LEV 11:5 *der Klippdachs*; LEV 11:19 *d Fledermuus*
+  - answers: rock badger, hare, pig, bearded vulture, black vulture, kite, falcon, ostrich, nighthawk, gull, hawk, little owl, cormorant, great owl, white owl, desert owl, osprey, heron, hoopoe, bat, katydid, cricket, grasshopper, mole, mouse, great lizard, gecko, monitor lizard, lizard, skink, chameleon
+  - Tiernamen 3Mo 11 (= 5Mo 14); viele Bestimmungen unsicher (Fussnote). אַרְבֶּה »Höigümper« wie 2Mo 10; נֶשֶׁר »Adler«, עֹרֵב »Rabe«, חֲסִידָה »Storch« schon im Store.
+  - agent:lev011, 2026-11-05
+- **`term:lev011_forms`** גֵּרָה → **widerchöie; widerchöit; Chlaue; gspalte; gspaltni; gspaltne; dürgspalte; vieri; Flosse; Schuppe; Flügle; Bäch; Läbewäse; Gschirr; chrücht; Sprungbei; Tatze; louffe; göh; dryne; drufchunnt; Getränk; Bachofe; Chochherd; Zischterne; übergosse; Saatguet** [medium, decided, by-rule]
+  - gloss: גֵּרָה: גֵּרָ֖ה (LEV 11:3) — English (generated): the cud
+  - gloss: פַּרְסָה: פַּרְסָ֗ה (LEV 11:3) — English (generated): hoof
+  - gloss: סְנַפִּיר: סְנַפִּ֨יר (LEV 11:9) — English (generated): with fins
+  - gloss: קַשְׂקֶשֶׂת: קַשְׂקֶ֜שֶׂת (LEV 11:9) — English (generated): and scales
+  - gloss: תַּנּוּר: תַּנּ֧וּר (LEV 11:35) — English (generated): If it is an oven
+  - gloss: בּוֹר: ב֛וֹר (LEV 11:36) — English (generated): or cistern
+  - NT: LEV 11:3 *wo widerchöie*; LEV 11:9 *Flosse und Schuppe*; LEV 11:42 *uf em Buuch chrücht*
+  - answers: chews the cud, split hoof, all fours, fins, scales, wings, streams, living creatures, vessel, crawls, jointed legs, paws, into it, oven, stove, cistern, seed
+  - 3Mo 11: מַעֲלֵה גֵרָה »widerchöie«; מַפְרִיס פַּרְסָה »gspaltni Chlaue«; נְבֵלָה »Aas«; טָמֵא עַד־הָעָרֶב »usuber bis am Aabe«.
+  - agent:lev011, 2026-11-05
+- **`term:lev012_forms`** יָלַד → **gebärt; Monetsblüetig; Vorhut; drüedryssg; sächsesächzg; Bluetfluss; vermag** [medium, decided, by-rule]
+  - gloss: יָלַד: יָלְדָ֖ה (LEV 12:2) — English (generated): and gives birth to
+  - gloss: נִדָּה: נִדַּ֥ת (LEV 12:2) — English (generated): of her menstruation
+  - gloss: עׇרְלָה: עָרְלָתֽ (LEV 12:3) — English (generated): of foreskin
+  - gloss: מָקוֹר: מְּקֹ֣ר (LEV 12:7) — English (generated): from her flow
+  - NT: LEV 12:2 *Monetsblüetig*; LEV 12:3 *Vorhut*; LEV 12:8 *nid vermag*
+  - answers: gives birth, menstruation, foreskin, thirty-three, sixty-six, flow of blood, cannot afford
+  - 3Mo 12: נִדָּה »Monetsblüetig«; דְּמֵי טָהֳרָה »d Reinigung vom Bluet«; זָכָר / נְקֵבָה beim Kind »Bueb / Meitschi«.
+  - agent:lev012, 2026-11-05
+- **`term:H6883_leprosy`** צָרַעַת → **Ussatz; Ussatzbefall; ussätzig** [high, decided, by-rule]
+  - gloss: צָרַעַת: צָרָ֑עַת (LEV 13:2) — English (generated): an infectious
+  - gloss: צָרַע: צָר֥וּעַ (LEV 13:44) — English (generated): is diseased
+  - NT: LEV 13:8 *Es isch Ussatz*; LEV 13:44 *e ussätzige Maa*
+  - answers: skin disease, leprous, leprosy, mildew
+  - צָרַעַת »Ussatz« (Korpus Ussatz 4×, Ussätzige 7×), auch bei Kleidern und Häusern (3Mo 13,47-59; 14,33-57); נֶגַע צָרַעַת »Ussatzbefall«. Fussnote in 13,2.
+  - agent:lev013, 2026-11-05
+- **`term:H5061_affliction`** נֶגַע → **Befall; Befallene** [medium, decided, by-rule]
+  - gloss: נֶגַע: נֶּ֣גַע (LEV 13:3) — English (generated): the infection
+  - NT: LEV 13:3 *der Befall*
+  - answers: infection, sore, diseased, contamination, mark
+  - נֶגַע in 3Mo 13-14 »Befall«; טִמֵּא / טִהַר (Piel deklarativ) »für usuber / suber erkläre«; הִסְגִּיר »absondere«; פָּשָׂה »sech usbreite«; כֵּהָה »verblasse«.
+  - agent:lev013, 2026-11-05
+- **`term:lev013_forms`** שְׂאֵת → **töiffer; absondere; Chette; Ytrag; Gschwulscht; helle; helli; hell; Gägestand; verblasst; rötlech; Stirnglatze; Glatze; Glatzchopf; usbroche; bedeckt; Vorschyn; Narbe; schwarzes; usfallt; frässende; Frässfläck; entsteit; gälblech; gälbs; gälbe; dünn; Grind; Grindbefall; blass; harmlose; verschrissni; Schnouz; elei; grüenlech; Ussehe; Vordersyte; useryse** [medium, decided, by-rule]
+  - gloss: שְׂאֵת: שְׂאֵ֤ת (LEV 13:2) — English (generated): a swelling
+  - gloss: נֶתֶק: נֶ֣תֶק (LEV 13:30) — English (generated): is a scaly outbreak
+  - gloss: שְׁתִי: שְׁתִי֙ (LEV 13:48) — English (generated): any weave
+  - gloss: עֵרֶב: עֵ֔רֶב (LEV 13:48) — English (generated): knit
+  - gloss: גִּבֵּחַ: גִּבֵּ֥חַ (LEV 13:41) — English (generated): is bald on his forehead
+  - gloss: שָׂפָם: שָׂפָ֖ם (LEV 13:45) — English (generated): his mouth
+  - gloss: מָאַר: מַמְאֶ֛רֶת (LEV 13:51) — English (generated): is a harmful
+  - NT: LEV 13:30 *Es isch Grind*; LEV 13:48 *a der Chette*; LEV 13:45 *der Schnouz zuedecke*
+  - answers: deeper, isolate, warp, woof, swelling, bright spot, faded, reddish, bald forehead, bald, scar, itch, scaly outbreak, yellow, thin, upper lip, alone, greenish, destructive mildew
+  - 3Mo 13: שְׂאֵת »Gschwulscht«, סַפַּחַת »Usschlag«, בַּהֶרֶת »helle Fläck«, שְׁחִין »Gschwür«, מִחְיַת בָּשָׂר חַי »wilds Fleisch«, נֶתֶק »Grind«, שְׁתִי / עֵרֶב »Chette / Ytrag«, צָרַעַת מַמְאֶרֶת »frässende Ussatz«.
+  - agent:lev013, 2026-11-05
+- **`term:H3849_log`** לֹג → **Log** [medium, decided, by-rule]
+  - gloss: לֹג: לֹ֥ג (LEV 14:10) — English (generated): log
+  - NT: LEV 14:10 *es Log Öl*
+  - answers: log of oil
+  - לֹג Hohlmass für Öl (etwa ein Drittel Liter), nur 3Mo 14; Fussnote 14,10.
+  - agent:lev014, 2026-11-05
+- **`term:lev014_forms`** אֶרֶז → **Zedereholz; tünke; abschäre; Verputz; verputze; früschem; bsprütze; offene; bade; Wänd; abchratze; abgchratzt; Ougbraue; dünkt; usruume; Vertiefige; bildet; verschliesse; verschlosse; usebräche; usebroche; rundume; gmetzgete** [medium, decided, by-rule]
+  - gloss: אֶרֶז: אֶ֔רֶז (LEV 14:4) — English (generated): cedar
+  - gloss: טָבַל: טָבַ֨ל (LEV 14:6) — English (generated): and dip
+  - gloss: עָפָר: עָפָר֙ (LEV 14:41) — English (generated): and the plaster
+  - gloss: גַּב: גַּבֹּ֣ת (LEV 14:9) — English (generated): his eyebrows
+  - gloss: שְׁקַעֲרוּרָה: שְׁקַֽעֲרוּרֹת֙ (LEV 14:37) — English (generated): depressions
+  - NT: LEV 14:4 *Zedereholz*; LEV 14:42 *nöi verputze*; LEV 14:35 *Es dünkt mi*
+  - answers: cedar wood, dip, shave off, plaster, fresh water, sprinkle, open field, bathe, walls, scrape, eyebrows, it seems, cleared, depressions, close up, torn out, all around
+  - 3Mo 14: מַיִם חַיִּים »früsches Wasser«; שְׁנִי תוֹלַעַת »scharlachroti Wulle« (2Mo 25); אֵזֹב »Ysop«; חִטֵּא אֶת־הַבַּיִת »ds Huus vo der Sünd reinige«; הַמִּטַּהֵר »dä, wo sech la reinige«.
+  - agent:lev014, 2026-11-05
+- **`term:H2101_discharge`** זוּב → **Usfluss; Fluss** [medium, decided, by-rule]
+  - gloss: זוּב: זָ֣ב (LEV 15:2) — English (generated): discharge
+  - NT: LEV 15:2 *e Usfluss*; LEV 15:4 *dä mit em Usfluss*
+  - answers: discharge, bodily discharge, flow
+  - זוֹב / זָב »Usfluss«, »dä mit em Usfluss« (3Mo 15; 22,4; 4Mo 5,2); bei der Frau ausserhalb der Regel »Bluetfluss« (vgl. Mk 5,25); נִדָּה »Monetsblüetig« (12,2); שִׁכְבַת זֶרַע »Same abgeit«.
+  - agent:lev015, 2026-11-05
+- **`term:lev015_forms`** חָתַם → **während; zrügghaltet; Sattel; abgspüelt; Holzgschirr; usspüele; Monetsbluet; fernhalte** [medium, decided, by-rule]
+  - gloss: חָתַם: הֶחְתִּ֤ים (LEV 15:3) — English (generated): blocks it
+  - gloss: מֶרְכָּב: מֶּרְכָּ֗ב (LEV 15:9) — English (generated): saddle
+  - gloss: שָׁטַף: שָׁטַ֣ף (LEV 15:11) — English (generated): first rinsing
+  - gloss: נָזַר: הִזַּרְתֶּ֥ם (LEV 15:31) — English (generated): You must keep
+  - NT: LEV 15:9 *jede Sattel*; LEV 15:31 *fernhalte*
+  - answers: during, stopped, saddle, rinsed, wooden vessel, menstrual flow, keep separate
+  - 3Mo 15: Kehrvers »söll syni Chleider wäsche und sech im Wasser bade und isch usuber bis am Aabe«.
+  - agent:lev015, 2026-11-05
+- **`name:azazel`** עֲזָאזֵל → **Asasel** [medium, decided, by-rule]
+  - gloss: עֲזָאזֵל: עֲזָאזֵֽל (LEV 16:8) — English (generated): for the scapegoat
+  - NT: LEV 16:8 *für der Asasel*
+  - answers: Azazel, scapegoat
+  - עֲזָאזֵל als Name »der Asasel« (3Mo 16,8.10.26), nicht »Sündenbock«; Fussnote 16,8.
+  - agent:lev016, 2026-11-05
+- **`term:lev016_forms`** שָׂעִיר → **Geissböck; träte; erschynen; gürte; Glüet; Sühneschaffe; abgläges; zähnte; Einheimisch; Versöhnigstag** [medium, decided, by-rule]
+  - gloss: שָׂעִיר: שְׂעִירֵ֥י (LEV 16:5) — English (generated): male goats
+  - gloss: גַּחַל: גַּֽחֲלֵי (LEV 16:12) — English (generated): coals
+  - gloss: גְּזֵרָה: גְּזֵרָ֑ה (LEV 16:22) — English (generated): a solitary
+  - gloss: אֶזְרָח: אֶזְרָ֔ח (LEV 16:29) — English (generated): whether the native
+  - NT: LEV 16:12 *voll Glüet*; LEV 16:22 *es abgläges Land*
+  - answers: goats, approached, appear, fasten, burning coals, atoning, solitary land, tenth, native, Day of Atonement
+  - 3Mo 16: כַּפֹּרֶת »Gnadestuel« (2Mo 25), פָּרֹכֶת »Vorhang«; עִנָּה נֶפֶשׁ »sech demüetige«; שַׁבַּת שַׁבָּתוֹן »e Sabbat, e ganze Ruetag«; גֵּר »Frömd«, אֶזְרָח »Einheimisch« (2Mo 12,19).
+  - agent:lev016, 2026-11-05
+- **`term:H8163_goat_demons`** שָׂעִיר → **Bocksgeischter** [medium, decided, by-rule]
+  - gloss: שָׂעִיר: שְּׂעִירִ֕ם (LEV 17:7) — English (generated): to the goat demons
+  - NT: LEV 17:7 *de Bocksgeischter*
+  - answers: goat demons, goat idols
+  - שְׂעִירִים als Götzen (3Mo 17,7; 2Chr 11,15; Jes 13,21; 34,14) »Bocksgeischter«; זָנָה אַחֲרֵי »hinder … här huere«.
+  - agent:lev017, 2026-11-05
+- **`term:H5315_life_blood`** נֶפֶשׁ → **ds Läbe vom Fleisch isch im Bluet** [medium, decided, by-rule]
+  - gloss: נֶפֶשׁ: נֶ֣פֶשׁ (LEV 17:11) — English (generated): the life
+  - NT: LEV 17:11 *ds Läbe vom Fleisch*
+  - answers: the life of the flesh is in the blood
+  - נֶפֶשׁ הַבָּשָׂר בַּדָּם (3Mo 17,11.14; 5Mo 12,23): נֶפֶשׁ hier »ds Läbe«; Fussnote 17,11.
+  - agent:lev017, 2026-11-05
+- **`term:lev017_forms`** חָשַׁב → **aarächne; huere; richten; rotte; uslaufe; Verrisses; badet; Bluetschuld; darzbringe** [medium, decided, by-rule]
+  - gloss: חָשַׁב: יֵחָשֵׁ֞ב (LEV 17:4) — English (generated): shall incur
+  - gloss: זָנָה: זֹנִ֖ים (LEV 17:7) — English (generated): have prostituted
+  - gloss: טְרֵיפָה: טְרֵפָ֔ה (LEV 17:15) — English (generated): or mauled by wild beasts
+  - NT: LEV 17:4 *als Bluetschuld aarächne*; LEV 17:13 *la uslaufe*
+  - answers: considered, prostitute, set my face, cut off, pour out, torn by wild animals, bathe, guilty of bloodshed
+  - 3Mo 17: נָתַתִּי פָנַי בְּ »gäge … richten i mys Gsicht« (auch 20,3.5.6; 26,17).
+  - agent:lev017, 2026-11-05
+- **`term:H6172_nakedness`** עֶרְוָה → **d Blössi ufdecke** [medium, decided, by-rule]
+  - gloss: עֶרְוָה: עֶרְוָ֑ה (LEV 18:6)
+  - gloss: גָּלָה: גַלּ֣וֹת (LEV 18:6) — English (generated): to have sexual relations
+  - NT: LEV 18:7 *d Blössi … ufdecke*
+  - answers: have sexual relations, uncover nakedness
+  - גִּלָּה עֶרְוָה (3Mo 18; 20) wörtlich »d Blössi ufdecke« (Korpus Blössi 2Mo 20,26; 28,42), Fussnote 18,6: = mit öpperem schlafe; שְׁאֵר בָּשָׂר »nöchschti Verwandtschaft«; זִמָּה »Schandtat«; תֶּבֶל »Schand«.
+  - agent:lev018, 2026-11-05
+- **`name:molech`** מֹלֶךְ → **Molech** [medium, decided, by-rule]
+  - gloss: מֹלֶךְ: מֹּ֑לֶךְ (LEV 18:21) — English (generated): to Molech
+  - NT: LEV 18:21 *em Molech*
+  - answers: Molech
+  - Gottheit, der Kinder geopfert wurden (3Mo 18,21; 20,2-5; 1Kön 11,7; 2Kön 23,10; Jer 32,35).
+  - agent:lev018, 2026-11-05
+- **`term:lev018_forms`** דֹּודָה → **nöchschti; nöchschte; ufzdecke; usgspöit; usspöie; befolge; befolgt; dernah; Tante; Schandtat; Näbefrou; paare; irgendöppis; vertrybe; heigsuecht; Bewohner; gröielige; mitmachet** [medium, decided, by-rule]
+  - gloss: דֹּודָה: דֹּדָֽתְ (LEV 18:14) — English (generated): your aunt
+  - gloss: צָרַר: צְרֹ֗ר (LEV 18:18) — English (generated): as a rival wife
+  - gloss: קִיא: תָּקִ֥א (LEV 18:25) — English (generated): will vomit out
+  - gloss: פָּקַד: אֶפְקֹ֥ד (LEV 18:25) — English (generated): so I am punishing it
+  - NT: LEV 18:25 *usgspöit*; LEV 18:18 *als Näbefrou*
+  - answers: close relative, vomit out, follow, aunt, wickedness, rival wife, driving out, punished, inhabitants, detestable customs
+  - 3Mo 18: מִשְׁפָּטִים »Rächtsornige«, חֻקּוֹת »Ornige« (2Mo 21,1); תּוֹעֵבָה »Gröiel« (term:H8441_abomination); »I bi der HERR, öie Gott« (formula:ani_yhwh).
+  - agent:lev018, 2026-11-05
+- **`formula:love_neighbor`** אָהֵב → **du söllsch dy Mitmönsch lieb ha wi di sälber** [high, decided, by-rule]
+  - gloss: אָהֵב: אָֽהַבְתָּ֥ (LEV 19:18) — English (generated): but love
+  - NT: LEV 19:18 *wi di sälber*
+  - answers: love your neighbor as yourself
+  - וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ (3Mo 19,18; 19,34 vom Frömde) mit Bietenhards »Mitmönsch« und »lieb ha« (Mt 22,39; Mk 12,31); רֵעַ / עָמִית im Gesetz »Mitmönsch« (term:H7453_neighbor_law).
+  - agent:lev019, 2026-11-05
+- **`term:lev019_forms`** עָשַׁק → **unterdrücke; unbeschnitte; gossne; yfahret; abärne; zämeläse; ablääre; ufläse; betrüege; beroube; verfluechte; Hindernis; begünschtige; Verleumder; umegah; zrächt; ladsch; nachetrage; aasääie; Gwäb; freiglah; bestrafe; töttet; Fruchtböim; Ärtrag; Schläfe; rundum; abschnyde; verstümmle; ytätowiere; entheilig; Hurerei; Totebeschwörer; Wahrsäger; graue; ufstah; Längemass; Hohlmass; Waage; Gwichtsteine** [medium, decided, by-rule]
+  - gloss: עָשַׁק: תַעֲשֹׁ֥ק (LEV 19:13) — English (generated): defraud
+  - gloss: מִכְשׁוֹל: מִכְשֹׁ֑ל (LEV 19:14) — English (generated): a stumbling block
+  - gloss: רָכִיל: רָכִיל֙ (LEV 19:16) — English (generated): about spreading slander
+  - gloss: שַׁעַטְנֵז: שַֽׁעַטְנֵ֔ז (LEV 19:19) — English (generated): of material
+  - gloss: קַעֲקַע: קַֽעֲקַ֔ע (LEV 19:28) — English (generated): tattoo
+  - gloss: אוֹב: אֹבֹת֙ (LEV 19:31) — English (generated): mediums
+  - gloss: מֹאזְנַיִם: מֹ֧אזְנֵי (LEV 19:36) — English (generated): scales
+  - NT: LEV 19:14 *kes Hindernis*; LEV 19:31 *de Totebeschwörer*; LEV 19:36 *grächti Waage*
+  - answers: oppress, forbidden fruit, cast metal, reap, glean, strip bare, deal falsely, rob, curse, stumbling block, favor, slanderer, rebuke, bear a grudge, sow, fabric, freed, punishment, fruit trees, yield, sides of head, cut, tattoo, prostitution, mediums, spiritists, gray hair, measures, scales, weights
+  - 3Mo 19: אֱלִילִים »Götze«; פִּגּוּל »Abschüülechs« (7,18); אוֹב / יִדְּעֹנִי »Totebeschwörer / Wahrsäger«; זָנָה »Hurerei trybe«; Wybärg (Korpus), lüge, underdrücke.
+  - agent:lev019, 2026-11-05
+- **`formula:mot_yumat`** מוּת → **dä söll tödt wärde** [high, decided, by-rule]
+  - gloss: מוּת: מ֣וֹת (LEV 20:2) — English (generated): must be put to death
+  - NT: LEV 20:2 *söll tödt wärde*
+  - answers: must surely be put to death
+  - מוֹת יוּמָת wie 2Mo 21,12-17 (Entwürfe): »dä söll tödt wärde«; דְּמֵיהֶם בָּם »ires Bluet chunnt über se«; Vatter (Korpus 412×, nicht Vater).
+  - agent:lev020, 2026-11-05
+- **`term:lev020_forms`** בָּדַל → **usgsünderet; blossgleit; zuemache; zuewändet; Bluetquelle; usspöit; besitzet** [medium, decided, by-rule]
+  - gloss: בָּדַל: הִבְדַּ֥לְתִּי (LEV 20:24) — English (generated): has set you apart
+  - gloss: עָרָה: הֶֽעֱרָ֔ה (LEV 20:18) — English (generated): he has exposed
+  - NT: LEV 20:24 *usgsünderet*
+  - answers: set apart, exposed, close eyes, turn to, source of blood, vomit out, possess
+  - 3Mo 20: נָאַף »d Eh bräche«, Ehebrächer/Ehebrächere; עֲרִירִים »ohni Chinder«; קוּץ »es het mi gruuset«.
+  - agent:lev020, 2026-11-05
+- **`term:H3971_defect`** מאוּם → **Makel** [medium, decided, by-rule]
+  - gloss: מאוּם: מ֔וּם (LEV 21:17) — English (generated): a physical defect
+  - NT: LEV 21:17 *e Makel*
+  - answers: defect, blemish
+  - מוּם an Prieschter (3Mo 21) »Makel«; bei Opfertiere 3Mo 22 ebenfalls »Makel« (תָּמִים »ohni Fähler«, term:lamb_defect). לֶחֶם אֱלֹהָיו »d Spys vo sym Gott«.
+  - agent:lev021, 2026-11-05
+- **`term:lev021_forms`** גִּבֵּן → **Makel; nöch; Salbungsöl; Ehemaa; entehrt; huert; verrysse; hingah; Weihi; Verstosseni; Entehrti; entstellts; unglychmässige; broches; brochni; Buggel; verchümmeret; Chrätze; Uusschlag; zerdrückti; Hode; hochheilige; Heiligtümer** [medium, decided, by-rule]
+  - gloss: גִּבֵּן: גִבֵּ֣ן (LEV 21:20) — English (generated): who is a hunchback
+  - gloss: נֵזֶר: נֵ֠זֶר (LEV 21:12) — English (generated): the consecration
+  - gloss: חָלָל: חֲלָלָה֙ (LEV 21:7) — English (generated): defiled
+  - NT: LEV 21:20 *e Buggel*; LEV 21:12 *d Weihi*
+  - answers: near, anointing oil, defiled, tear, consecration, divorced, disfigured, deformed, broken, hunchback, dwarf, itch, scabs, crushed testicles, most holy
+  - 3Mo 21: מִלֵּא יָד »ds Amt übercho« (8,33); פָּרַע רֹאשׁ »ds Haar la zottle« (10,6).
+  - agent:lev021, 2026-11-05
+- **`term:H6944_holy_gifts`** קֹדֶשׁ → **di heilige Gabe** [medium, decided, by-rule]
+  - gloss: קֹדֶשׁ: קָּדְשֵׁ֣י (LEV 22:2) — English (generated): the sacred offerings
+  - NT: LEV 22:2 *de heilige Gabe*
+  - answers: sacred offerings, holy things
+  - קָדָשִׁים als Gaben, die Israeliten weihen (3Mo 22): »di heilige Gabe«; Einzahl קֹדֶשׁ »öppis Heiligs / ds Heilige«; זָר »Frömde« (Laie); תְּרוּמָה »Abgabe«.
+  - agent:lev022, 2026-11-05
+- **`term:lev022_forms`** יַבֶּלֶת → **weihe; umgah; entheiligi; naachunnt; Aagsicht; abgange; Usuberkeit; bimne; choufft; verhüratet; Abgabe; ufläde; blinds; verletzts; verstümmlets; eitrige; Rind; zerquetschte; zerschlagne; abgrissne; abgschnittne; verdorbe; gehrt** [medium, decided, by-rule]
+  - gloss: יַבֶּלֶת: יַבֶּ֗לֶת (LEV 22:22) — English (generated): anything with a running sore
+  - gloss: מָעַךְ: מָע֤וּךְ (LEV 22:24) — English (generated): bruised
+  - gloss: מָשְׁחָת: מָשְׁחָתָ֤ (LEV 22:25) — English (generated): they are deformed
+  - NT: LEV 22:24 *zerquetschte*; LEV 22:25 *verdorbe*
+  - answers: dedicate, deal respectfully, approach, presence, emission, uncleanness, buys, married, contribution, blind, injured, maimed, running sore, bruised, crushed, torn, cut, deformed, sanctified
+  - 3Mo 22: נִדָּר »Glübd«, נְדָבָה »freiwilligi Gab«; שְׁגָגָה »us Versehe« (4,2).
+  - agent:lev022, 2026-11-05
+- **`term:H4150_feasts`** מוֹעֵד → **d Feschtzyte vom HERR; heiligi Versammlig; Alltagsarbeit** [high, decided, by-rule]
+  - gloss: מוֹעֵד: מוֹעֲדֵ֣י (LEV 23:2) — English (generated): the feasts
+  - gloss: מִקְרָא: מִקְרָאֵ֣י (LEV 23:2) — English (generated): assemblies
+  - gloss: עֲבֹדָה: עֲבֹדָ֖ה (LEV 23:7) — English (generated): regular
+  - NT: LEV 23:2 *d Feschtzyte*; LEV 23:7 *kei Alltagsarbeit*
+  - answers: appointed feasts, holy convocation, regular work
+  - 3Mo 23 (für 4Mo 28-29 und 5Mo 16 gleich): מוֹעֲדֵי יְהוָה »d Feschtzyte vom HERR«; מִקְרָא קֹדֶשׁ »e heiligi Versammlig«; מְלֶאכֶת עֲבֹדָה »Alltagsarbeit«, מְלָאכָה allein »Arbeit«; שַׁבָּתוֹן »Ruetag«; עֲצֶרֶת »Feschtversammlig«; יוֹם הַכִּפֻּרִים »Versöhnigstag«; עִנָּה נֶפֶשׁ »sech demüetige«; זִכְרוֹן תְּרוּעָה »es Gedänke mit Posuuneschall«; חַג הַסֻּכּוֹת »ds Loubhüttefescht« (Bietenhard Joh 7,2), סֻכָּה »Loubhütte«; עֹמֶר »Garbe«; בִּכּוּרִים »Erschtlinge«.
+  - agent:lev023, 2026-11-05
+- **`term:lev023_forms`** קָלִי → **Alltagsarbeit; Feschtzyte; füfzähte; Loubhütte; schwinget; gröschteti; volli; Wohnorte; Erschtlingsgab; Erschtlinge; Gedänke; Posuuneschall; demüetiget; nüünte; Feschtversammlig; freiwillige; gäbet; ygsammlet; dichtbelaubte; Bachwyde; freue** [medium, decided, by-rule]
+  - gloss: קָלִי: קָלִ֨י (LEV 23:14) — English (generated): or roasted
+  - gloss: תְּרוּעָה: תְּרוּעָ֖ה (LEV 23:24) — English (generated): by blasts
+  - gloss: עֲרָבָה: עַרְבֵי (LEV 23:40) — English (generated): and of willows
+  - gloss: עֲצֶרֶת: עֲצֶ֣רֶת (LEV 23:36) — English (generated): a solemn assembly
+  - NT: LEV 23:40 *Bachwyde*; LEV 23:24 *Posuuneschall*
+  - answers: fifteenth, booths, roasted grain, complete, settlements, firstfruits, memorial, trumpet blasts, humble, ninth, solemn assembly, gathered, leafy, willows, rejoice
+  - 3Mo 23: מִנְחָה »Speisopfer« (wie 3Mo 2); עִשָּׂרוֹן סֹלֶת »Zächtel Efa fyns Wizemähl« (14,10).
+  - agent:lev023, 2026-11-05
+- **`name:shelomith`** שְׁלֹמִית → **Schelomit** [medium, decided, by-rule]
+  - gloss: שְׁלֹמִית: שְׁלֹמִ֥ית (LEV 24:11) — English (generated): was Shelomith
+  - NT: LEV 24:11 *Schelomit*
+  - answers: Shelomith
+  - 3Mo 24,11; andere Personen gleichen Namens in 1Chr und Esra gleich schreiben.
+  - agent:lev024, 2026-11-05
+- **`name:dibri`** דִּבְרִי → **Dibri** [medium, decided, by-rule]
+  - gloss: דִּבְרִי: דִּבְרִ֖י (LEV 24:11) — English (generated): of Dibri
+  - NT: LEV 24:11 *vom Dibri*
+  - answers: Dibri
+  - 3Mo 24,11.
+  - agent:lev024, 2026-11-05
+- **`term:H5344_blaspheme`** נָקַב → **der Name läschtere; Fluecher** [medium, decided, by-rule]
+  - gloss: נָקַב: יִּקֹּב (LEV 24:11) — English (generated): blasphemed
+  - gloss: קָלַל: מְקַלֵּ֗ל (LEV 24:14) — English (generated): the blasphemer
+  - NT: LEV 24:16 *läschteret*; LEV 24:14 *dä Fluecher*
+  - answers: blaspheme, blasphemer
+  - נָקַב שֵׁם »der Name läschtere« (Bietenhard läschtere); קִלֵּל »verfluechte«, הַמְקַלֵּל »der Fluecher«; שֶׁבֶר תַּחַת שֶׁבֶר »Bruch für Bruch, Oug für Oug, Zahn für Zahn« (2Mo 21,24 »Oug gägen Oug«: dort Exodus-Wortlaut, hier תַּחַת mit »für«).
+  - agent:lev024, 2026-11-05
+- **`term:lev024_forms`** חַלָּה → **erschlat; reine; reins; Israelitin; Fluecher; Verletzig; Bruch; zuegfüegt; zuefüegt; gstampfte; Belüüchtig; Ringbrot; Hochheiligs; ussegange; Gwahrsam** [medium, decided, by-rule]
+  - gloss: חַלָּה: חַלּ֑וֹת (LEV 24:5) — English (generated): loaves
+  - gloss: מִשְׁמָר: מִּשְׁמָ֑ר (LEV 24:12) — English (generated): in custody
+  - gloss: כָּתִית: כָּתִ֖ית (LEV 24:2) — English (generated): of pressed
+  - NT: LEV 24:5 *zwölf Ringbrot*; LEV 24:12 *i Gwahrsam*
+  - answers: kills, pure, Israelite woman, blasphemer, injury, fracture, beaten, light, loaves, memorial portion, custody
+  - 3Mo 24: מְנֹרָה »Lüüchter«, נֵר »Lampe« (term:tabernacle_parts); אַזְכָּרָה »Andänketeil« (term:H234_memorial).
+  - agent:lev024, 2026-11-05
+- **`term:H3104_jubilee`** יוֹבֵל → **ds Jubeljahr** [high, decided, by-rule]
+  - gloss: יוֹבֵל: יוֹבֵ֥ל (LEV 25:10) — English (generated): Jubilee
+  - NT: LEV 25:10 *es Jubeljahr*
+  - answers: Jubilee, Year of Jubilee
+  - יוֹבֵל (3Mo 25; 27; 4Mo 36,4) »ds Jubeljahr«; שׁוֹפָר »ds Horn« (2Mo 19 Posuune nur für Bläser im NT); דְּרוֹר »Freiheit usrüefe« (Jes 61,1; Jer 34); גְּאֻלָּה »Lösrächt / Uslösig«, גֹּאֵל »Löser« (term:H1350); אֲחֻזָּה »Eigetum«; תּוֹשָׁב »Bysäss«; שְׁנַת שַׁבָּתוֹן »Ruejahr«.
+  - agent:lev025, 2026-11-05
+- **`term:lev025_forms`** תּוֹשָׁב → **Jubeljahr; Bysäss; Bysässe; zrüggchere; verarmet; Mittel; Uslösig; Chöifer; Härti; herrsche; ysammle; nachewachst; ungschnittene; Rebe; Sabbatjahr; erschalle; füfzigschte; sääie; sääiet; desto; uusglöst; uuslöst; grächnet; Ruezyt; yfahre; Ruejahr; Narig; nüünevierzg; Ärntejahr; Ärnte; befolget; ygfahre; zämerächne; fingt; zrüggzzale; Wohnhuus; ringsum; bsitze; verchoufte; Wydland; Wuecher; usleihe; furtgah; vererbe; nöche; entsprächende; Chouffprys** [medium, decided, by-rule]
+  - gloss: תּוֹשָׁב: תוֹשָׁ֣בְ (LEV 25:6) — English (generated): or foreigner
+  - gloss: מוּךְ: יָמ֣וּךְ (LEV 25:25) — English (generated): becomes impoverished
+  - gloss: פֶּרֶךְ: פָ֑רֶךְ (LEV 25:43) — English (generated): harshly
+  - gloss: מִגְרָשׁ: מִגְרַ֥שׁ (LEV 25:34) — English (generated): pastureland
+  - gloss: תַּרְבִּית: תַרְבִּ֔ית (LEV 25:36) — English (generated): or profit
+  - NT: LEV 25:43 *mit Härti*; LEV 25:34 *ds Wydland*
+  - answers: temporary resident, return, becomes poor, means, redemption, buyer, harshness, rule, aftergrowth, untended vines, sabbath year, trumpet, fiftieth, pastureland, profit, lend, bequeath
+  - 3Mo 25: עֶבֶד bei fremden Sklaven »Sklav/Sklavin«, bei Israel als Gottes Knechte »Chnächte«; נֶשֶׁךְ »Zins« (term:H5392), תַּרְבִּית »Wuecher«.
+  - agent:lev025, 2026-11-05
+- **`term:H7136_hostility`** קְרִי → **feindlech begägne** [medium, decided, by-rule]
+  - gloss: קְרִי: קֶ֔רִי (LEV 26:21) — English (generated): in hostility
+  - NT: LEV 26:24 *feindlech*
+  - answers: walk in hostility, contrary
+  - הָלַךְ עִם … קֶרִי (3Mo 26,21-41) durchgehend »… feindlech begägne«; שֶׁבַע »sibemal meh«; בָּמוֹת »Opferhöche«; חַמָּנִים »Röucheraltär«; גִּלּוּלִים »Götze«; מַטֵּה לֶחֶם »Vorrat a Brot«.
+  - agent:lev026, 2026-11-05
+- **`term:lev026_forms`** מַצֵּבָה → **Widderhorn; feindlech; feindlecher; verfolgt; Trübeläsete; jage; begägnen; Lyche; Trümmer; verwüeschte; verwüeschtet; nachehole; überig; obschon; verchüme; Gschnitzts; Steisüüle; Bildwärk; abezbücke; Dröschet; Ussaat; fruchtbar; verabscheue; Schwindsucht; verschmachte; briche; stolze; Übermuet; Yse; verbrucht; wöit; schlan; rouben; leer; zrüggziet; Pescht; zerbriche; Opferhöche; Röucheraltär; entsetze; verströie; zieh; Verzagtheit; verwäite; Flucht; stogle; standhalte; gönt; Untröii; holt; verachten** [medium, decided, by-rule]
+  - gloss: מַצֵּבָה: מַצֵּבָה֙ (LEV 26:1) — English (generated): or sacred pillar
+  - gloss: שַׁחֶפֶת: שַּׁחֶ֣פֶת (LEV 26:16) — English (generated): wasting disease
+  - gloss: חַמָּן: חַמָּ֣נֵי (LEV 26:30) — English (generated): your incense altars
+  - gloss: מֹרֶךְ: מֹ֨רֶךְ֙ (LEV 26:36) — English (generated): a faintness
+  - gloss: מַעַל: מַעֲלָ֖ (LEV 26:40) — English (generated): in the unfaithfulness
+  - NT: LEV 26:30 *Röucheraltär*; LEV 26:36 *Verzagtheit*
+  - answers: hostility, pursue, grape harvest, corpses, ruins, make desolate, remain, waste away, carved image, sacred pillar, threshing, sowing, abhor, wasting disease, pride, iron, pestilence, high places, incense altars, scatter, faintness, windblown leaf, stumble, treachery
+  - 3Mo 26 (Säge und Fluech): Yse (Korpus), Töchtere, Lyche.
+  - agent:lev026, 2026-11-05
+- **`term:H2764_devoted`** חֵרֶם → **bannet; Bannguet** [medium, decided, by-rule]
+  - gloss: חֵרֶם: חֵ֡רֶם (LEV 27:28) — English (generated): sets apart
+  - gloss: חֵרֶם: חֵ֡רֶם (LEV 27:28) — English (generated): sets apart
+  - NT: LEV 27:28 *alls Bannguet*
+  - answers: devoted, devoted to destruction
+  - חֵרֶם / הֶחֱרִים (3Mo 27; 4Mo 21; 5Mo 7; 13; 20; Jos 6-7; 1Sam 15) »bannet« / »Bannguet«: ganz Gott übergeben, im Krieg zur Vernichtung. In Josua/Samuel prüfen, ob »em HERR zum Untergang gweiht« deutlicher ist.
+  - agent:lev027, 2026-11-05
+- **`term:H6187_valuation`** עֵרֶךְ → **Schätzig; schetze** [medium, decided, by-rule]
+  - gloss: עֵרֶךְ: עֶרְכְּ (LEV 27:2) — English (generated): involving the value
+  - gloss: עֵרֶךְ: עֶרְכֶּ֔ (LEV 27:8) — English (generated): the valuation
+  - NT: LEV 27:3 *dyni Schätzig*
+  - answers: valuation, assess
+  - עֶרְכְּךָ »dyni Schätzig« (wie 3Mo 5,15); הֶעֱרִיךְ »schetze«; מַעֲשֵׂר »Zähnte«; גֵּרָה »Gera«; חֹמֶר »Homer«.
+  - agent:lev027, 2026-11-05
+- **`term:lev027_forms`** תְּמוּרָה → **weiht; ersetzt; Ersatztier; gschetzte; berächne; drissg; uswächsle; schetzisch; Homer; uslöst; ererbte; Betrag; Erschtgeburt; Hirtestab; Bueb; Meitschi** [medium, decided, by-rule]
+  - gloss: תְּמוּרָה: תְמוּרָת֖ (LEV 27:10) — English (generated): and its substitute
+  - gloss: שֵׁבֶט: שָּׁ֑בֶט (LEV 27:32) — English (generated): the shepherd s rod
+  - gloss: חֹמֶר: חֹ֣מֶר (LEV 27:16) — English (generated): for every homer
+  - NT: LEV 27:32 *Hirtestab*; LEV 27:10 *Ersatztier*
+  - answers: consecrates, substitute, exchange, homer, calculate, firstborn, rod, male, female
+  - 3Mo 27: Bueb / Meitschi für זָכָר / נְקֵבָה bei Kindern.
+  - agent:lev027, 2026-11-05
+- **`name:num001_leaders`** אֱלִיצוּר → **Elizur, Schedeur; Schelumiël, Zurischaddai; Nachschon, Amminadab; Netanel, Zuar; Eliab, Helon; Elischama, Ammihud; Gamaliël, Pedazur; Abidan, Gideoni; Achiëser, Ammischaddai; Pagiël, Ochran; Eljasaf, Deuël; Achira, Enan** [high, decided, by-rule]
+  - gloss: אֱלִיצוּר: אֱלִיצ֖וּר (NUM 1:5) — English (generated): Elizur
+  - gloss: שְׁלֻמִיאֵל: שְׁלֻמִיאֵ֖ל (NUM 1:6) — English (generated): Shelumiel
+  - gloss: נְתַנְאֵל: נְתַנְאֵ֖ל (NUM 1:8) — English (generated): Nethanel
+  - gloss: אֲחִיעֶזֶר: אֲחִיעֶ֖זֶר (NUM 1:12) — English (generated): Ahiezer
+  - gloss: אֶלְיָסָף: אֶלְיָסָ֖ף (NUM 1:14) — English (generated): Eliasaph
+  - NT: NUM 1:5 *Elizur*; NUM 1:12 *Achiëser*
+  - answers: Elizur, Shelumiel, Nahshon, Nethanel, Eliab, Elishama, Gamaliel, Abidan, Ahiezer, Pagiel, Eliasaph, Ahira
+  - Die zwölf Stammesvorsteher (4Mo 1,5-15; wieder 2; 7; 10). Schreibung: שׁ sch, ח ch, צ z, ז s, אֵל nach Vokal »-iël« (wie Usiël); Stämme wie im Korpus: Ruben, Simeon, Juda, Issachar, Sebulon, Josef, Efraim, Manasse, Benjamin, Dan, Ascher, Gad, Naftali.
+  - agent:num001, 2026-11-05
+- **`term:H6485_census`** פָּקַד → **mustere; d Gmusterete; d Zahl ufnäh** [high, decided, by-rule]
+  - gloss: פָּקַד: תִּפְקְד֥וּ (NUM 1:3) — English (generated): are to number
+  - gloss: רֹאשׁ: רֹאשׁ֙ (NUM 1:2)
+  - NT: NUM 1:21 *de Gmusterete*
+  - answers: number, census, enrolled
+  - 4Mo 1-4; 26: פָּקַד »mustere«, פְּקוּדִים »d Gmusterete« (wie 2Mo 30; 38); נָשָׂא רֹאשׁ »d Zahl ufnäh«; לְגֻלְגְּלֹתָם »Chopf für Chopf«; תּוֹלְדֹת »Abstammig«; בֵּית אָבוֹת »Familie«; יֹצֵא צָבָא »wo i Chrieg chöi zieh«; צְבָאוֹת »Heerschare«; דֶּגֶל »Fähnli«; אַלְפֵי יִשְׂרָאֵל »Tuusigschafte«.
+  - agent:num001, 2026-11-05
+- **`term:num001_forms`** קָרָא → **Abstammig; mustere; Berüefene; Oberhöupter; Tuusigschafte; Lischte; ytrage; sächsevierzgtuusig; nüünefüfzgtuusig; füfevierzgtuusig; sächshundertfüfzg; vieresibezgtuusig; vierefüfzgtuusig; sibenefüfzgtuusig; vierzgtuusig; zwöiedrissgtuusig; füfedrissgtuusig; zwöiesächzgtuusig; sibehundert; einevierzgtuusig; drüefüfzgtuusig; dagsi; sächshundertdrütuusig; füfhundertfüfzg; ufbricht; abbräche; zuechechunnt; ufschla; Fähnli; Zorn** [medium, decided, by-rule]
+  - gloss: קָרָא: קְרוּאֵ֣י (NUM 1:16) — English (generated): were appointed
+  - gloss: דֶּגֶל: דִּגְל֖ (NUM 1:52) — English (generated): his own standard
+  - gloss: קֶצֶף: קֶ֔צֶף (NUM 1:53) — English (generated): wrath
+  - NT: NUM 1:52 *Fähnli*; NUM 1:16 *Tuusigschafte*
+  - answers: lineage, called, heads, clans, register, sets out, take down, approaches, pitch camp, standard, wrath
+  - Zahlen in Wörtern, Tausender als ein Wort (»sächsevierzgtuusig füfhundert«).
+  - agent:num001, 2026-11-05
+- **`term:num002_forms`** נָשִׂיא → **Vorgsetzt; lageret; lagere; glageret; chly; Sunneufgang; hundertsächsedachzgtuusig; hunderteinefüfzgtuusig; hundertachttuusig; hundertsibenefüfzgtuusig; Dritti; Reuël** [medium, decided, by-rule]
+  - gloss: נָשִׂיא: נָשִׂיא֙ (NUM 2:3) — English (generated): The leader
+  - gloss: חָנָה: חֹנִים֙ (NUM 2:3) — English (generated): are to camp
+  - gloss: רְעוּאֵל: רְעוּאֵֽל (NUM 2:14) — English (generated): of Deuel
+  - NT: NUM 2:3 *Der Vorgsetzt*; NUM 2:14 *vom Reuël*
+  - answers: leader, camp, sunrise, third, Reuel
+  - 4Mo 2: Lagerordnung; Himmelsrichtungen Oschte (קֵדְמָה, מִזְרָח), Süde (תֵּימָן), Weschte (יָם), Norde (צָפוֹן); נָשִׂיא »Vorgsetzt(e)«; 2,14 Hebräisch Reuël (1,14 Deuël), Fussnote.
+  - agent:num002, 2026-11-05
+- **`name:levite_clans`** גֵּרְשׁוֹן → **Gerschon, Kehat, Merari; Libni, Schimi; Amram, Jizhar, Hebron, Usiël; Machli, Muschi; d Gerschoniter, Kehatiter, Merariter; Libniter, Schimiter, Amramiter, Jizhariter, Hebroniter, Usiëliter, Machliter, Muschiter; Eljasaf, Laël; Elizafan; Zuriël, Abihajil** [high, decided, by-rule]
+  - gloss: גֵּרְשׁוֹן: גֵּרְשׁ֕וֹן (NUM 3:17) — English (generated): Gershon
+  - gloss: קְהָת: קְהָ֖ת (NUM 3:17) — English (generated): Kohath
+  - gloss: שִׁמְעִי: שִׁמְעִֽי (NUM 3:18) — English (generated): and Shimei
+  - gloss: מַחְלִי: מַחְלִ֣י (NUM 3:20) — English (generated): were Mahli
+  - gloss: לָאֵל: לָאֵֽל (NUM 3:24) — English (generated): of Lael
+  - gloss: צוּרִיאֵל: צוּרִיאֵ֖ל (NUM 3:35) — English (generated): was Zuriel
+  - NT: NUM 3:17 *Gerschon*; NUM 3:21 *de Gerschoniter*
+  - answers: Gershon, Kohath, Merari, Libni, Shimei, Izhar, Mahli, Mushi, Gershonites, Kohathites, Lael, Elizaphan, Zuriel, Abihail
+  - Levitensippen (4Mo 3-4; 26; 1Chr 6; 23). Gentilizia auf »-iter« (Libniter, Kehatiter …). 2Mo 6 im Projekt: Gerschon, Kehat, Merari, Jizhar, Usiël (gleich). אֱלִיצָפָן »Elizafan« (3Mo 10,4 אֶלְצָפָן »Elzafan«).
+  - agent:num003, 2026-11-05
+- **`term:num003_forms`** כֹּהֵן → **derfür; Prieschterdienscht; muster; zwöiezwänzgtuusig; zwöihundertdrüesibezg; Erschtgeborni; gsalbete; Mueterschoss; ufmacht; achttuusig; Ufsicht; sächstuusig; tuusigdrühundertfüfesächzg; Lösgäld** [medium, decided, by-rule]
+  - gloss: כֹּהֵן: כֹּהֲנִ֖ים (NUM 3:3) — English (generated): priests
+  - gloss: רֶחֶם: רֶ֖חֶם (NUM 3:12) — English (generated): from the womb
+  - gloss: פִּדְיוֹם: פִּדְי֑וֹם (NUM 3:49) — English (generated): the redemption
+  - NT: NUM 3:12 *Mueterschoss*; NUM 3:49 *ds Lösgäld*
+  - answers: serve as priests, anointed, opens the womb, oversight, ransom money
+  - 4Mo 3: מִשְׁמֶרֶת »der Dienscht versorge«; פְּדוּיִם »Lösgäld« (2Mo 30,12); מָסָךְ »Türvorhang«; Brätter, Riegel, Süüle, Sockel, Pflöck, Seili (2Mo 26-27).
+  - agent:num003, 2026-11-05
+- **`term:num004_forms`** מוֹט → **ystecke; blaus; ynega; zuewyse; Tragbahre; zwöituusig; abschirmt; abenäh; scharlachrots; Ölgfäss; versorgt; wägnäh; purpurrots; Löt; Laschte; Gägeständ; sibehundertfüfzg; sächshundertdrissg; füfhundertachzg** [medium, decided, by-rule]
+  - gloss: מוֹט: מּֽוֹט (NUM 4:10) — English (generated): the carrying frame
+  - gloss: בַּד: בַּדָּֽי (NUM 4:6) — English (generated): its poles
+  - gloss: מַשָּׂא: מַשָּׂאֽ (NUM 4:19) — English (generated): and what he is to carry
+  - NT: NUM 4:10 *d Tragbahre*; NUM 4:6 *ystecke*
+  - answers: insert, blue, go in, assign, carrying frame, screening, take down, scarlet, oil vessels, take away ashes, purple, burden, items
+  - 4Mo 4: עוֹר תַּחַשׁ »Decki us fynem Läder« (2Mo 26,14); בֶּגֶד כְּלִיל תְּכֵלֶת »es Tuech ganz us blauer Wulle«; מוֹט »Tragbahre«; בַּדִּים »Stange«; מַשָּׂא »Laschte / trage«; קֹדֶשׁ הַקֳּדָשִׁים »ds Hochheilige«.
+  - agent:num004, 2026-11-05
+- **`term:H7065_jealousy`** קִנְאָה → **קִנְאָה »Yfersucht«; קִנֵּא »yfersüchtig wärde«; מִנְחַת קְנָאֹת »Speisopfer vo der Yfersucht«; מֵי הַמָּרִים הַמְאָרְרִים »ds bittere Wasser, wo der Fluech bringt«; שָׂטָה »abwäg gah«** [medium, decided, by-rule]
+  - gloss: קִנְאָה: קִנְאָ֛ה (NUM 5:14) — English (generated): of jealousy
+  - gloss: קָנָא: קִנֵּ֥א (NUM 5:14) — English (generated): and he suspects
+  - gloss: שָׂטָה: תִשְׂטֶ֣ה (NUM 5:12) — English (generated): goes astray
+  - NT: NUM 5:14 *vo der Yfersucht*; NUM 5:18 *ds bittere Wasser*
+  - answers: jealousy, jealous, grain offering of jealousy, water of bitterness, go astray
+  - 4Mo 5,11-31 (Yfersuchtsprob).
+  - agent:num005, 2026-11-05
+- **`term:num005_forms`** יָרֵךְ → **abwäg; Schänkel; usechicke; erinnere; schwindet; Manne; begeit; Versöhnig; verborge; ertappt; Gärschtemähl; erinneret; Fluechschwur; schwinde; aaschwelle; aaschwillt; Flüech; schwillt; unbeschadet; aawände** [medium, decided, by-rule]
+  - gloss: יָרֵךְ: יְרֵכֵ (NUM 5:21) — English (generated): your thigh
+  - gloss: שְׂעֹרָה: שְׂעֹרִ֑ים (NUM 5:15) — English (generated): of barley
+  - gloss: אָלָה: אָלָה֒ (NUM 5:21) — English (generated): of the curse
+  - NT: NUM 5:21 *dy Schänkel*; NUM 5:15 *Gärschtemähl*
+  - answers: thigh, send away, remembrance, barley flour, curse, swell, immune
+  - 4Mo 5: אָשָׁם »Ersatz« (V. 8); גֹּאֵל »Löser«; אֵיל הַכִּפֻּרִים »Widder vo der Versöhnig«.
+  - agent:num005, 2026-11-05
+- **`term:H5139_nazirite`** נָזִיר → **נָזִיר »Naziräer«; נֶדֶר נָזִיר »Naziräerglübd«; נֵזֶר »Weihi«; הִזִּיר »sech em HERR weihe«** [medium, decided, by-rule]
+  - gloss: נָזִיר: נָזִ֔יר (NUM 6:2) — English (generated): of a Nazirite
+  - gloss: נָדַר: נְדֹּר֙ (NUM 6:2) — English (generated): vow
+  - gloss: נֵזֶר: נִזְר֑ (NUM 6:4) — English (generated): of his separation
+  - NT: NUM 6:13 *vom Naziräer*; NUM 6:4 *vo syr Weihi*
+  - answers: Nazirite, vow, separation, separate himself
+  - 4Mo 6 (auch Ri 13; 16; Am 2,11). נֶדֶר »Glübd« wie 3Mo 27.
+  - agent:num006, 2026-11-05
+- **`formula:priestly_blessing`** בָּרַךְ → **Der HERR sägni di / und bhüeti di! / Der HERR lass sys Aagsicht über dir lüüchte / und syg dir gnädig! / Der HERR heb sys Aagsicht uf di / und gäb dir Fride!** [high, decided, by-rule]
+  - gloss: בָּרַךְ: יְבָרֶכְ (NUM 6:24) — English (generated): bless you
+  - gloss: אוֹר: יָאֵ֨ר (NUM 6:25) — English (generated): to shine
+  - gloss: נָשָׂא: יִשָּׂ֨א (NUM 6:26) — English (generated): lift up
+  - NT: NUM 6:24 *Der HERR sägni di*
+  - answers: The LORD bless you
+  - Aaronitischer Segen 4Mo 6,24-26, in Gedichtzeilen. Anklänge (Ps 67,2 im Projekt: »er lass sys Gsicht über üüs lüüchte«; Ps 4,7; 80,4) nicht angleichen, aber die Wendung »lass sys Aagsicht … lüüchte« gilt.
+  - agent:num006, 2026-11-05
+- **`term:num006_forms`** עֵנָב → **gweihte; enthalte; Wyessig; Bieressig; Truubesaft; dürri; Truube; Wyschtock; Chärne; Weihiglübd; Schärmässer; kenem; ungsüürtem; Schultere; kochet; gschore; sägni; bhüeti** [medium, decided, by-rule]
+  - gloss: עֵנָב: עֲנָבִים֙ (NUM 6:3) — English (generated): grape
+  - gloss: תַּעַר: תַּ֖עַר (NUM 6:5) — English (generated): razor
+  - gloss: זְרוֹעַ: זְּרֹ֣עַ (NUM 6:19) — English (generated): shoulder
+  - NT: NUM 6:5 *kes Schärmässer*; NUM 6:3 *Truube*
+  - answers: consecrated, abstain, vinegar, grape juice, dried, grapes, vine, seeds, razor, shoulder, boiled, shaved, bless, keep
+  - 4Mo 6: שֵׁכָר »Bier« (wie 3Mo 10,9).
+  - agent:num006, 2026-11-05
+- **`term:H2598_dedication`** חֲנֻכָּה → **חֲנֻכַּת הַמִּזְבֵּחַ »d Ywyhig vom Altar«** [medium, decided, by-rule]
+  - gloss: חֲנֻכָּה: חֲנֻכַּ֣ת (NUM 7:10) — English (generated): for dedication
+  - NT: NUM 7:10 *zur Ywyhig vom Altar*
+  - answers: dedication
+  - 4Mo 7,10-88; später Esr 6,16; Neh 12,27; 2Chr 7,9; Ps 30,1.
+  - agent:num007, 2026-11-05
+- **`formula:num007_gift`** קְעָרָה → **Sy Opfergab isch gsi: ei silbrigi Platte, hundertdrissg Schekel schwär, ei silbrigi Sprützschale vo sibezg Schekel nach em Schekel vom Heiligtum, beidi voll Wizemähl, mit Öl aagmacht, für es Speisopfer; ei guldigi Schale vo zäh Schekel, voll Röucherwärch; e junge Stier, e Widder, es jährigs Lamm für ds Brandopfer; ei Geissbock für ds Sündopfer; und für ds Gmeinschaftsopfer zwöi Rinder, füf Widder, füf Böck, füf jährigi Lämmer.** [high, decided, by-rule]
+  - gloss: קְעָרָה: קַֽעֲרַת (NUM 7:13) — English (generated): platter
+  - gloss: מִזְרָק: מִזְרָ֤ק (NUM 7:13) — English (generated): bowl
+  - gloss: כַּף: כַּ֥ף (NUM 7:14) — English (generated): dish
+  - NT: NUM 7:13 *ei silbrigi Platte*; NUM 7:14 *ei guldigi Schale*
+  - answers: silver plate, silver basin, gold dish
+  - Zwölfmal gleich (4Mo 7,13-83); קְעָרָה »Platte«, מִזְרָק »Sprützschale«, כַּף »Schale« (wie 4Mo 4,7.14; 2Mo 25,29).
+  - agent:num007, 2026-11-05
+- **`term:num007_forms`** צָב → **silbrigi; hundertdrissg; Böck; Ywyhig; Oberhöupter; bedeckti; Vorgsetzti; elfte; zwölfte; ynegange; Gnadestuel** [medium, decided, by-rule]
+  - gloss: צָב: צָב֙ (NUM 7:3) — English (generated): covered
+  - gloss: עַתּוּד: עַתּוּדִ֣ים (NUM 7:17) — English (generated): male goats
+  - gloss: כַּפֹּרֶת: כַּפֹּ֨רֶת֙ (NUM 7:89) — English (generated): the mercy seat
+  - NT: NUM 7:17 *füf Böck*; NUM 7:89 *em Gnadestuel*
+  - answers: silver, male goats, covered carts, eleventh, twelfth
+  - 4Mo 7: כַּפֹּרֶת »Gnadestuel« (2Mo 25,17); עֲגָלָה »Wage«, Pl. »Wäge«.
+  - agent:num007, 2026-11-05
+- **`term:num008_forms`** חַטָּאת → **Ufgabe; ufsetzisch; Entsündigung; absöndere; ufmache; entsündiget; füfezwänzg; zrüggträtte** [medium, decided, by-rule]
+  - gloss: חַטָּאת: חַטָּ֑את (NUM 8:7) — English (generated): of purification
+  - gloss: בָּדַל: הִבְדַּלְתָּ֙ (NUM 8:14) — English (generated): In this way you shall separate
+  - gloss: חָטָא: יִּֽתְחַטְּא֣וּ (NUM 8:21) — English (generated): purified
+  - NT: NUM 8:7 *Wasser vo der Entsündigung*; NUM 8:25 *zrüggträtte*
+  - answers: duties, set up, purification, separate, purified, twenty-five, retire
+  - 4Mo 8: מֵי חַטָּאת »Wasser vo der Entsündigung«; הִתְחַטֵּא »sech entsündige«; תְּנוּפָה für Menschen »als Schwingopfer darbringe«; מִקְשָׁה »tribeni Arbeit« (2Mo 25,31).
+  - agent:num008, 2026-11-05
+- **`term:num009_forms`** חֻקָּה → **Satzig; Satzige; ufgschlage; zrügghalte; versuumt; häregsetzt; Mängisch** [medium, decided, by-rule]
+  - gloss: חֻקָּה: חֻקֹּתָ֥י (NUM 9:3) — English (generated): its statutes
+  - gloss: חָנָה: יַחֲנ֖וּ (NUM 9:17) — English (generated): would camp
+  - NT: NUM 9:14 *Ei Satzig*; NUM 9:18 *ires Lager ufgschlage*
+  - answers: statute, encamped, kept back, fails, settled
+  - 4Mo 9: חָנָה »ires Lager ufschlah«, נָסַע »ufbräche«; עַל פִּי יְהוָה »uf Befähl vom HERR«; שָׁמַר מִשְׁמֶרֶת יְהוָה »sech a d Ornig vom HERR halte«.
+  - agent:num009, 2026-11-05
+- **`term:H2689_trumpet`** חֲצֹצְרָה → **חֲצֹצְרָה »Trumpete« (silbrig, Prieschter); תָּקַע »blase«; תְּרוּעָה »Lärmsignal« / »Lärm blase«; שׁוֹפָר bleibt »Posuune«** [high, decided, by-rule]
+  - gloss: חֲצֹצְרָה: חֲצֽוֹצְרֹ֣ת (NUM 10:2) — English (generated): trumpets
+  - gloss: תָּקַע: תָקְע֖וּ (NUM 10:3) — English (generated): When both are sounded
+  - gloss: תְּרוּעָה: תְּרוּעָ֑ה (NUM 10:5) — English (generated): short blasts
+  - NT: NUM 10:2 *zwo silbrigi Trumpete*; NUM 10:5 *es Lärmsignal*
+  - answers: trumpet, blow, alarm
+  - 4Mo 10; 31,6; 2Kön 11,14; Chronik; Ps 98,6 im Projekt »Trumpete«. שׁוֹפָר »Posuune« (2Mo 19; 3Mo 25).
+  - agent:num010, 2026-11-05
+- **`name:hobab`** חֹבָב → **Hobab, der Sohn vom Reuel, der Midianiter; Paran (Wüeschti Paran)** [high, decided, by-rule]
+  - gloss: חֹבָב: חֹבָב (NUM 10:29) — English (generated): to Hobab
+  - gloss: פָּארָן: פָּארָֽן (NUM 10:12) — English (generated): of Paran
+  - NT: NUM 10:29 *zum Hobab*; NUM 10:12 *Wüeschti Paran*
+  - answers: Hobab, Reuel, Midianite, Paran
+  - Reuel wie 2Mo 2,18 im Projekt; »Schwigervatter« bezieht sich auf Mose (Ri 4,11 Hobab).
+  - agent:num010, 2026-11-05
+- **`term:num010_forms`** אָסַף → **blase; blast; Lärmsignal; zämerüeft; bedrängt; Lärm; Fröidetage; Erinnerig; zwänzigschte; Wägstück; abbroche; Nachhuet; Reiefolg; ufschlah; chunnsch; Ruehplatz; verstöberet; flieje; abgstellt; unzählige; Tuusige; giben** [medium, decided, by-rule]
+  - gloss: אָסַף: מְאַסֵּ֥ף (NUM 10:25) — English (generated): serving as the rear guard
+  - gloss: מְנוּחָה: מְנוּחָֽה (NUM 10:33) — English (generated): a resting place
+  - gloss: פּוּץ: יָפֻ֨צוּ֙ (NUM 10:35) — English (generated): be scattered
+  - NT: NUM 10:25 *d Nachhuet*; NUM 10:35 *verstöberet*
+  - answers: blow, alarm, rear guard, resting place, scattered, flee, countless thousands
+  - 4Mo 10,35-36 (Ladesprüche) in Gedichtzeilen; Ps 68,2 klingt an.
+  - agent:num010, 2026-11-05
+- **`name:num011_places`** תַּבְעֵרָה → **Tabera; Kibrot-Taawa; Hazerot; Eldad, Medad** [high, decided, by-rule]
+  - gloss: תַּבְעֵרָה: תַּבְעֵרָ֑ה (NUM 11:3) — English (generated): Taberah
+  - gloss: חֲצֵרוֹת: חֲצֵר֑וֹת (NUM 11:35) — English (generated): to Hazeroth
+  - gloss: אֶלְדָּד: אֶלְדָּ֡ד (NUM 11:26) — English (generated): Eldad
+  - gloss: מֵידָד: מֵידָ֜ד (NUM 11:26) — English (generated): Medad
+  - NT: NUM 11:3 *Tabera*; NUM 11:35 *Hazerot*
+  - answers: Taberah, Kibroth-hattaavah, Hazeroth, Eldad, Medad
+  - קִבְרוֹת הַתַּאֲוָה »Kibrot-Taawa« (»Gräber vo der Gluscht«), wieder 4Mo 33; 5Mo 9,22.
+  - agent:num011, 2026-11-05
+- **`term:H5012_prophesy`** נָבָא → **הִתְנַבֵּא / נִבָּא »prophezeie«; נָבִיא »Prophet«; רוּחַ (Gottes) »der Geischt«** [high, decided, by-rule]
+  - gloss: נָבָא: יִּֽתְנַבְּא֖וּ (NUM 11:25) — English (generated): they prophesied
+  - gloss: נָבִיא: נְבִיאִ֔ים (NUM 11:29) — English (generated): were prophets
+  - NT: NUM 11:25 *hei si prophezeit*
+  - answers: prophesied, prophets, Spirit
+  - Wie Bietenhards NT (»prophezeie«); 1Sam 10; 19 ebenso.
+  - agent:num011, 2026-11-05
+- **`term:num011_forms`** אֲסַפְסֻף → **entbrönnt; gsammlet; ufs; beklagt; erlosche; Gsindel; Gurke; Melone; Louch; Zibele; Chnoblouch; Chäle; uusgseh; Bdelliumharz; gmale; Mörser; zerstosse; heftig; leisch; empfange; Trag; Ammi; Süügling; zuegschwore; brieggen; umgeisch; Eltischti; häreschtelle; verworfe; zämebracht; Ufgschribene; grennt; Jugend; wehr; Sturmwind; nächscht; wenigschte; verzehrt; Mühli** [medium, decided, by-rule]
+  - gloss: אֲסַפְסֻף: אסַפְסֻף֙ (NUM 11:4) — English (generated): Meanwhile the rabble
+  - gloss: קִשֻּׁאָה: קִּשֻּׁאִ֗ים (NUM 11:5) — English (generated): along with the cucumbers
+  - gloss: בָּצָל: בְּצָלִ֖ים (NUM 11:5) — English (generated): onions
+  - gloss: אָמַן: אֹמֵן֙ (NUM 11:12) — English (generated): a nurse
+  - NT: NUM 11:4 *ds Gsindel*; NUM 11:5 *d Zibele*
+  - answers: rabble, cucumbers, melons, leeks, onions, garlic, bdellium, mortar, nurse, nursing infant, quail
+  - 4Mo 11: תַּאֲוָה »Gluscht«; בָּכָה »briegge«; מָן »Manna« und שְׂלָו »Wachtle« wie 2Mo 16; שֹׁטְרִים »Vorarbeiter« wie 2Mo 5.
+  - agent:num011, 2026-11-05
+- **`term:num012_forms`** כֻּשִׁי → **Kuschitin; Mund; ygschlosse; Wulchesüüle; füregcho; Rätsle; ewägzoge; gwändet; töricht; bege; totgeborenigs; verwese; ynenäh; wytergzoge** [medium, decided, by-rule]
+  - gloss: כֻּשִׁי: כֻּשִׁ֖ית (NUM 12:1) — English (generated): the Cushite
+  - gloss: חִידָה: חִידֹ֔ת (NUM 12:8) — English (generated): in riddles
+  - gloss: סָגַר: תִּסָּגֵ֞ר (NUM 12:14) — English (generated): Let her be confined
+  - NT: NUM 12:1 *der Kuschitin*; NUM 12:8 *nid i Rätsle*
+  - answers: Cushite, mouth, confined, riddles, foolishly, stillborn
+  - 4Mo 12: עָנָו »demüetig«; פֶּה אֶל פֶּה »Vo Mund zu Mund«; מְצֹרַעַת כַּשָּׁלֶג »vo Ussatz wyss wi Schnee« (wie 2Mo 4,6).
+  - agent:num012, 2026-11-05
+- **`name:num013_spies`** כָּלֵב → **Schammua, Sakkur; Schafat, Hori; Kaleb, Jefunne; Jigal, Josef; Hoschea (Josua), Nun; Palti, Rafu; Gaddiël, Sodi; Gaddi, Susi; Ammiël, Gemalli; Setur, Michaël; Nachbi, Wofsi; Geuël, Machi** [high, decided, by-rule]
+  - gloss: כָּלֵב: כָּלֵ֖ב (NUM 13:6) — English (generated): Caleb
+  - gloss: יְפֻנֶּה: יְפֻנֶּֽה (NUM 13:6) — English (generated): of Jephunneh
+  - gloss: הוֹשֵׁעַ: הוֹשֵׁ֥עַ (NUM 13:8) — English (generated): Hoshea
+  - gloss: יְהֹושֻׁעַ: יְהוֹשֻֽׁעַ (NUM 13:16) — English (generated): the name Joshua
+  - NT: NUM 13:6 *Kaleb*; NUM 13:16 *Josua*
+  - answers: Caleb, Jephunneh, Hoshea, Joshua
+  - Die zwölf Kundschafter (4Mo 13,4-15). Kaleb, der Sohn vom Jefunne, und Josua (Hoschea), der Sohn vom Nun, kehren oft wieder (4Mo 14; 26; 32; 34; 5Mo 1; Jos 14-15).
+  - agent:num013, 2026-11-05
+- **`name:num013_places`** צִן → **Zin (Wüeschti Zin); Rechob; Hamat (wo ’s uf Hamat zue geit); Hebron; Zoan; Tal Eschkol; Kadesch; Anak, d Nachkomme vom Anak; Achiman, Schesai, Talmai; d Nefilim** [high, decided, by-rule]
+  - gloss: צִן: צִ֥ן (NUM 13:21) — English (generated): of Zin
+  - gloss: רְחֹב: רְחֹ֖ב (NUM 13:21) — English (generated): far as Rehob
+  - gloss: חֲמָת: חֲמָֽת (NUM 13:21) — English (generated): toward Lebo hamath
+  - gloss: עָנָק: עֲנָ֑ק (NUM 13:22) — English (generated): of Anak
+  - gloss: אֶשְׁכֹּל: אֶשְׁכֹּ֗ל (NUM 13:23) — English (generated): of Eshcol
+  - gloss: נְפִילִים: נְּפִילִ֛ים (NUM 13:33) — English (generated): the Nephilim
+  - NT: NUM 13:23 *Tal Eschkol*; NUM 13:33 *d Nefilim*
+  - answers: Zin, Rehob, Hamath, Zoan, Eshcol, Kadesh, Anak, Nephilim
+  - לְבֹא חֲמָת »wo ’s uf Hamat zue geit« (Lebo-Hamat); Nefilim wie 1Mo 6,4 im Projekt.
+  - agent:num013, 2026-11-05
+- **`term:num013_forms`** תּוּר → **uszkundschafte; uskundschafte; uskundschaftet; stark; befestiget; Truubechübel; ufezie; styget; mager; bboue; ynäh; bewältige; verbreitet; düregange; Ywohner; gwaltiger; abstamme** [medium, decided, by-rule]
+  - gloss: תּוּר: יָתֻ֨רוּ֙ (NUM 13:2) — English (generated): to spy out
+  - gloss: אֶשְׁכֹּל: אֶשְׁכֹּ֗ל (NUM 13:23) — English (generated): of Eshcol
+  - gloss: דִּבָּה: דִּבַּ֤ת (NUM 13:32) — English (generated): a bad report
+  - NT: NUM 13:2 *uskundschafte*; NUM 13:23 *Truubechübel*
+  - answers: spy out, fortified, cluster, go up, lean, take possession, inhabitants
+  - 4Mo 13: תּוּר »uskundschafte«; דִּבָּה »schlächts Grücht«; אֶרֶץ זָבַת חָלָב וּדְבָשׁ »Land, wo Milch und Hung fliesst« (2Mo 3,8).
+  - agent:num013, 2026-11-05
+- **`formula:slow_to_anger`** אָרֵךְ → **Der HERR isch voll Geduld und rych a Tröiji; er vergit Schuld und Vergähe, aber er lat nid eifach ungstraft la ga: Er strafet d Schuld vo de Vätter a de Chinder bis is dritte und bis is vierte Glid.** [high, decided, by-rule]
+  - gloss: אָרֵךְ: אֶ֤רֶךְ (NUM 14:18) — English (generated): is slow
+  - gloss: חֶסֶד: חֶ֔סֶד (NUM 14:18) — English (generated): in loving devotion
+  - gloss: נָשָׂא: נֹשֵׂ֥א (NUM 14:18) — English (generated): forgiving
+  - gloss: פָּקַד: פֹּקֵ֞ד (NUM 14:18) — English (generated): He will visit
+  - NT: NUM 14:18 *rych a Tröiji*
+  - answers: slow to anger, abounding in loving devotion, forgiving iniquity, visiting the iniquity
+  - Gnadenformel nach 2Mo 34,6-7 im Projekt (»voll Geduld und rych a Tröiji …«); wieder Joel 2,13; Jona 4,2 (im Projekt prüfen); Ps 86,15; 103,8; 145,8; Neh 9,17; Nah 1,3. Wortlaut halten.
+  - agent:num014, 2026-11-05
+- **`formula:as_i_live`** חַי → **So wahr i läbe, seit der HERR (חַי אָנִי נְאֻם יְהוָה); חַי יְהוָה »so wahr der HERR läbt«** [high, decided, by-rule]
+  - gloss: חַי: חַי (NUM 14:28) — English (generated): live
+  - gloss: נְאֻם: נְאֻם (NUM 14:28) — English (generated): declares
+  - NT: NUM 14:28 *So wahr i läbe*
+  - answers: As surely as I live, declares the LORD
+  - Schwurformel; »so wahr der HERR läbt« wie Rut 3,13 im Projekt. נְאֻם יְהוָה »seit der HERR« (Propheten).
+  - agent:num014, 2026-11-05
+- **`name:hormah`** חׇרְמָה → **Horma; Schilfmeer (יַם סוּף)** [high, decided, by-rule]
+  - gloss: חׇרְמָה: חָרְמָֽה (NUM 14:45) — English (generated): to Hormah
+  - gloss: סוּף: סֽוּף (NUM 14:25) — English (generated): the Red
+  - NT: NUM 14:45 *bis Horma*
+  - answers: Hormah, Red Sea
+  - Horma wieder 4Mo 21,3; 5Mo 1,44; Jos 12,14; Ri 1,17.
+  - agent:num014, 2026-11-05
+- **`term:num014_forms`** לוּן → **Amalekiter; murre; gmurret; murret; Büt; umfalle; ufbegährt; umchöme; giengi; lehnet; fresse; umbringsch; abgschlachtet; strafet; nachegfolget; Schilfmeer; kenne; abchere; zämegrottet; wölle; gönget; stöh; abgwändet; vermässe** [medium, decided, by-rule]
+  - gloss: לוּן: יִּלֹּ֨נוּ֙ (NUM 14:2) — English (generated): grumbled
+  - gloss: בַּז: בַ֑ז (NUM 14:3) — English (generated): plunder
+  - gloss: עָפַל: יַּעְפִּ֕לוּ (NUM 14:44) — English (generated): But they dared
+  - NT: NUM 14:2 *hei … gmurret*; NUM 14:44 *sech vermässe*
+  - answers: grumbled, plunder, corpses fall, rebel, slaughtered, presumed
+  - 4Mo 14: לוּן »murre« (wie 2Mo 16); נָאַץ »verachte«; פְּגָרִים »Lyche«; אֶת־תְּנוּאָתִי »was ’s heisst, we i mi vo öich abchere«.
+  - agent:num014, 2026-11-05
+- **`term:H6734_tassel`** צִיצִת → **צִיצִת »Quaste«; כָּנָף (Gewand) »Zipfel«; פְּתִיל תְּכֵלֶת »e blaui Schnuer«** [medium, decided, by-rule]
+  - gloss: צִיצִת: צִיצִ֛ת (NUM 15:38) — English (generated): tassels
+  - gloss: כָּנָף: כַּנְפֵ֥י (NUM 15:38) — English (generated): the corners
+  - gloss: פָּתִיל: פְּתִ֥יל (NUM 15:38) — English (generated): cord
+  - NT: NUM 15:38 *Quaste*
+  - answers: tassels, corners, blue cord
+  - Vgl. 5Mo 22,12 גְּדִלִים »Zöttel«?
+  - agent:num015, 2026-11-05
+- **`term:num015_forms`** רֵאשִׁית → **Erschtling; darbringet; zwägmachsch; zwägmachet; drybringe; erhobener; aaluegit; nacheloufet; nachehuuret** [medium, decided, by-rule]
+  - gloss: רֵאשִׁית: רֵאשִׁית֙ (NUM 15:20) — English (generated): From the first
+  - gloss: זָנָה: זֹנִ֖ים (NUM 15:39) — English (generated): prostitute yourselves
+  - NT: NUM 15:20 *Als Erschtling*
+  - answers: firstfruits, prepare, prostitute yourselves
+  - 4Mo 15: Massangaben »es Zächtel Efa«, »e Viertel / es Drittel / es halbs Hin«; רֵיחַ נִיחֹחַ »e feine Duft« (wie 3Mo); עֲרִסָה »Teig«.
+  - agent:num015, 2026-11-05
+- **`name:korah`** קֹרַח → **Korach, der Sohn vom Jizhar; Datan und Abiram, d Sühn vom Eliab; On, der Sohn vom Pelet** [high, decided, by-rule]
+  - gloss: קֹרַח: קֹ֔רַח (NUM 16:1) — English (generated): Now Korah
+  - gloss: דָּתָן: דָתָ֨ן (NUM 16:1) — English (generated): Dathan
+  - gloss: אֲבִירָם: אֲבִירָ֜ם (NUM 16:1) — English (generated): and Abiram
+  - gloss: אוֹן: א֥וֹן (NUM 16:1) — English (generated): and On
+  - gloss: פֶּלֶת: פֶּ֖לֶת (NUM 16:1) — English (generated): of Peleth
+  - NT: NUM 16:1 *Der Korach*; NUM 16:12 *der Datan*
+  - answers: Korah, Dathan, Abiram, On, Peleth
+  - Korach wie 2Mo 6,21 im Projekt. עֵדָה (Korachs Anhang) »Rotte«.
+  - agent:num016, 2026-11-05
+- **`term:num016_forms`** עֵדָה → **verschluckt; uswählt; Berüefeni; aagsehnigi; überhebet; abgsöndert; stöht; Wybärge; Erbteil; usstäche; ploget; Söndere; nachegange; abefahre; ufgspalte; uftaa; Hushaltige; Habe; zuegmacht; gflohe; Rotte** [medium, decided, by-rule]
+  - gloss: עֵדָה: עֲדָת (NUM 16:5) — English (generated): his followers
+  - gloss: בָּלַע: בָלְעָ֤ה (NUM 16:30) — English (generated): and swallows
+  - gloss: שְׁאוֹל: שְׁאֹ֑לָ (NUM 16:30) — English (generated): into Sheol
+  - gloss: מַחְתָּה: מַחְתּ֔וֹת (NUM 16:6) — English (generated): censers
+  - NT: NUM 16:5 *syr ganze Rotte*; NUM 16:30 *is Toterych*
+  - answers: company, exalt yourselves, gouge out, swallowed, Sheol, censers
+  - 4Mo 16: מַחְתָּה »Pfännli« (3Mo 10; 16); שְׁאוֹל »Toterych« (term:H3247); בָּלַע »verschlucke«.
+  - agent:num016, 2026-11-05
+- **`term:num017_forms`** צִפּוּי → **Bschlag; verstreue; zahlt; breitgschlagene; Verbrönnte; breitgschlage; Erinnerigszeiche; umbracht; vierzähtuusig; uswähle; usschla; Chnöspe; Mandle; Ufrüerer; Stäb** [medium, decided, by-rule]
+  - gloss: צִפּוּי: צִפּ֣וּי (NUM 17:3) — English (generated): to overlay
+  - gloss: זִכָּרוֹן: זִכָּר֞וֹן (NUM 17:5) — English (generated): This was to be a reminder
+  - gloss: שָׁקֵד: שְׁקֵדִֽים (NUM 17:23) — English (generated): almonds
+  - gloss: מְרִי: מֶ֑רִי (NUM 17:25)
+  - NT: NUM 17:3 *als Bschlag*; NUM 17:23 *Mandle*
+  - answers: plating, scatter, hammered, reminder, sprout, buds, almonds, rebels, staffs
+  - 4Mo 17 (heb.): מַטֶּה »Stab«, Pl. »Stäb«; פָּרַח »usschla«; עֵדוּת »ds Zügnis«; עָצַר הַמַּגֵּפָה »d Plag het ufghört«.
+  - agent:num017, 2026-11-05
+- **`term:H4643_tithe`** מַעֲשֵׂר → **מַעֲשֵׂר »der Zähnte«; מַעֲשֵׂר מִן־הַמַּעֲשֵׂר »der Zähnte vom Zähnte«; תְּרוּמָה »Abgab«; חֵלֶק / נַחֲלָה »Aateil / Erbteil«** [high, decided, by-rule]
+  - gloss: מַעֲשֵׂר: מַֽעֲשֵׂ֥ר (NUM 18:21) — English (generated): the tithes
+  - gloss: חֵלֶק: חֵ֕לֶק (NUM 18:20) — English (generated): any portion
+  - gloss: נַחֲלָה: נַחֲלָ֣תְ (NUM 18:20) — English (generated): and your inheritance
+  - NT: NUM 18:26 *der Zähnte vom Zähnte*; NUM 18:20 *dys Erbteil*
+  - answers: tithe, offering, portion, inheritance
+  - Wie 3Mo 27,30 (»Zähnte«); 5Mo 14; 26; Neh 10; Mal 3,8-10. נַחֲלָה »Erbteil«, חֵלֶק »Aateil«.
+  - agent:num018, 2026-11-05
+- **`term:num018_forms`** יֶקֶב → **aaschliesse; Trotte; wäred; innerhalb; Erschtfrücht; verfallt; Erschtgeboren; unsubere; Salzbund; Verwaltig; Ertrag; entheilige** [medium, decided, by-rule]
+  - gloss: יֶקֶב: יָּֽקֶב (NUM 18:27) — English (generated): the winepress
+  - gloss: מֶלַח: מֶ֨לַח (NUM 18:19) — English (generated): of salt
+  - gloss: בִּכּוּרִים: בִּכּוּרֵ֞י (NUM 18:13) — English (generated): The firstfruits
+  - NT: NUM 18:19 *e Salzbund*; NUM 18:27 *vo der Trotte*
+  - answers: joined, winepress, firstfruits, covenant of salt
+  - 4Mo 18: לָוָה »sech aaschliesse« (Wortspiel mit Levi); בְּרִית מֶלַח »Salzbund« (3Mo 2,13 »Salz vom Bund«); יֶקֶב »Trotte«.
+  - agent:num018, 2026-11-05
+- **`term:H5079_impurity_water`** נִדָּה → **מֵי נִדָּה »ds Reinigungswasser«; פָּרָה אֲדֻמָּה »e roti Chue«; חַטָּאת (Asche) »Entsündigungsopfer«; הִתְחַטֵּא »sech entsündige«** [medium, decided, by-rule]
+  - gloss: נִדָּה: נִדָּ֖ה (NUM 19:9) — English (generated): of purification
+  - gloss: פָּרָה: פָרָ֨ה (NUM 19:2) — English (generated): heifer
+  - gloss: חָטָא: יִתְחַטָּא (NUM 19:12) — English (generated): must purify himself
+  - NT: NUM 19:13 *ds Reinigungswasser*; NUM 19:2 *e rote Chue*
+  - answers: water of purification, red heifer, purification offering, purify
+  - 4Mo 19; 31,23. Vgl. מֵי חַטָּאת 4Mo 8,7 »Wasser vo der Entsündigung«.
+  - agent:num019, 2026-11-05
+- **`term:num019_forms`** צָמִיד → **Reinigungswasser; Entsündigungsopfer; entsündige; schlachte; Unsuberkeit; offnige; Deckel; Mönscheknoche; früsches; tünkle; Erschlagene; Vordersyte; Mischt** [medium, decided, by-rule]
+  - gloss: צָמִיד: צָמִ֥יד (NUM 19:15) — English (generated): a lid
+  - gloss: טָבַל: טָבַ֣ל (NUM 19:18) — English (generated): dip
+  - gloss: פֶּרֶשׁ: פִּרְשָׁ֖ (NUM 19:5) — English (generated): its dung
+  - NT: NUM 19:15 *kei Deckel*; NUM 19:18 *tünkle*
+  - answers: heifer, lid, fresh water, dip, slain
+  - 4Mo 19: אֶרֶז, אֵזוֹב, שְׁנִי תוֹלַעַת »Zedereholz, Ysop, scharlachroti Wulle« (3Mo 14,4); »bis am Aabe« usuber.
+  - agent:num019, 2026-11-05
+- **`name:num020_places`** מְרִיבָה → **Meriba (ds Wasser vo Meriba); Edom; Bärg Hor; Kadesch** [high, decided, by-rule]
+  - gloss: מְרִיבָה: מְרִיבָ֔ה (NUM 20:13) — English (generated): of Meribah
+  - gloss: אֱדוֹם: אֱד֑וֹם (NUM 20:14) — English (generated): of Edom
+  - gloss: הֹר: הֹ֥ר (NUM 20:22) — English (generated): Hor
+  - NT: NUM 20:13 *vo Meriba*; NUM 20:22 *zum Bärg Hor*
+  - answers: Meribah, Edom, Mount Hor
+  - Meriba wie 2Mo 17,7 im Projekt; Bärg Hor wieder 4Mo 21; 33; 5Mo 32,50.
+  - agent:num020, 2026-11-05
+- **`term:num020_forms`** סֶלַע → **Felse; heigah; usebringe; Mühsal; abezoge; mitgspilt; Brünne; Chünigsstrass; gweigeret; Gipfel; Landstrass** [medium, decided, by-rule]
+  - gloss: סֶלַע: סֶּ֛לַע (NUM 20:8) — English (generated): the rock
+  - gloss: דֶּרֶךְ: דֶּ֧רֶךְ (NUM 20:17) — English (generated): Highway
+  - gloss: תְּלָאָה: תְּלָאָ֖ה (NUM 20:14) — English (generated): the hardship
+  - NT: NUM 20:17 *Uf der Chünigsstrass*; NUM 20:8 *zum Felse*
+  - answers: rock, hardship, king's highway, refused
+  - 4Mo 20: סֶלַע »Felse«; מֹרִים »Ufrüerer«; מַלְאָךְ »Ängel«.
+  - agent:num020, 2026-11-05
+- **`name:num021_places`** עֲרָד → **Arad; Atarim; Obot; Ije-Abarim; Tal Sered; Arnon; Waheb, Sufa; Ar; Beer; Mattana; Nahaliël; Bamot; Pisga; Sichon, der Chünig vo de Amoriter; Jahaz; Jabbok; d Ammoniter; Heschbon; Kemosch; Dibon; Nofach; Medeba; Jaser; Baschan; Og, der Chünig vo Baschan; Edrei** [high, decided, by-rule]
+  - gloss: עֲרָד: עֲרָד֙ (NUM 21:1) — English (generated): of Arad
+  - gloss: אַרְנוֹן: אַרְנוֹן֙ (NUM 21:13) — English (generated): of the Arnon
+  - gloss: סִיחוֹן: סִיחֹ֥ן (NUM 21:21) — English (generated): Sihon
+  - gloss: חֶשְׁבּוֹן: חֶשְׁבּ֖וֹן (NUM 21:25) — English (generated): including Heshbon
+  - gloss: כְּמוֹשׁ: כְּמ֑וֹשׁ (NUM 21:29) — English (generated): of Chemosh
+  - gloss: בָּשָׁן: בָּשָׁ֑ן (NUM 21:33) — English (generated): to Bashan
+  - gloss: עוֹג: עוֹג֩ (NUM 21:33) — English (generated): and Og
+  - gloss: פִּסְגָּה: פִּסְגָּ֑ה (NUM 21:20) — English (generated): of Pisgah
+  - NT: NUM 21:21 *zum Sichon*; NUM 21:33 *der Og*
+  - answers: Arad, Arnon, Sihon, Heshbon, Chemosh, Bashan, Og, Pisgah
+  - Ostjordanland; Sichon und Og kehren oft wieder (5Mo 1-3; 29; 31; Jos 2; 9; 12-13; Ri 11; Ps 135; 136; Neh 9). Jabbok wie 1Mo 32,23.
+  - agent:num021, 2026-11-05
+- **`term:num021_forms`** שָׂרָף → **gchriegt; bisse; Bachtäler; niderglah; ums; Frass; giftigi; Bronzeschlange; Abhang; Wohnsitz; erstreckt; aalähnt; Vornähme; ussegschuflet; Szepter; Steppe; abeluegt; Schärfi; Spruchdichter; ufbbout; Höchine; Flüchtling; preisggä; Amoriterchünig; nidergschosse; entgägezoge; Förcht; übrigblibe** [medium, decided, by-rule]
+  - gloss: שָׂרָף: שְּׂרָפִ֔ים (NUM 21:6) — English (generated): venomous
+  - gloss: נַחַל: נְּחָלִ֖ים (NUM 21:14) — English (generated): the wadis
+  - gloss: מָשַׁל: מֹּשְׁלִ֖ים (NUM 21:27) — English (generated): the poets
+  - gloss: חָקַק: מְחֹקֵ֖ק (NUM 21:18) — English (generated): with their scepters
+  - NT: NUM 21:9 *e bronzigi Schlange*; NUM 21:27 *d Spruchdichter*
+  - answers: fought, bit, wadis, poisonous snakes, bronze snake, poets, scepter, fugitives
+  - 4Mo 21: נְחָשִׁים שְׂרָפִים »giftigi Schlange«; לְפִי־חֶרֶב »mit der Schärfi vom Schwärt«; חָרַם »em Bann übergä«; Lieder 21,14-15.17-18.27-30 in Gedichtzeilen.
+  - agent:num021, 2026-11-05
+- **`name:balaam`** בִּלְעָם → **Bileam, der Sohn vom Beor; Balak, der Sohn vom Zippor, der Chünig vo Moab; Petor; Kirjat-Huzot; Bamot-Baal; d Steppe vo Moab (עַרְבוֹת מוֹאָב), äne am Jordan gägenüber vo Jericho** [high, decided, by-rule]
+  - gloss: בִּלְעָם: בִּלְעָ֣ם (NUM 22:5) — English (generated): Balaam
+  - gloss: בָּלָק: בָּלָ֖ק (NUM 22:2) — English (generated): Now Balak
+  - gloss: צִפּוֹר: צִפּ֑וֹר (NUM 22:2) — English (generated): of Zippor
+  - gloss: בְּעוֹר: בְּע֗וֹר (NUM 22:5) — English (generated): of Beor
+  - gloss: יְרִיחֹו יְרִחֹו: יְרֵחֽוֹ (NUM 22:1) — English (generated): Jericho
+  - NT: NUM 22:5 *zum Bileam*; NUM 22:2 *Der Balak*
+  - answers: Balaam, Balak, Zippor, Beor, Pethor, Jericho
+  - »Bileam« (herkömmliche deutsche Form) für בִּלְעָם; wieder 4Mo 23-24; 31; 5Mo 23; Jos 13; 24; Mi 6,5; Neh 13. עַרְבוֹת מוֹאָב »Steppe vo Moab« (4Mo 26; 31; 33; 35; 36; 5Mo 34; Jos 13).
+  - agent:num022, 2026-11-05
+- **`term:num022_forms`** אָתוֹן → **Eselin; verfluech; Widersacher; gritte; stah; zogne; Müürli; drückt; graut; verfluechisch; Wahrsägerlohn; nomal; Oberschti; vornähmeri; abhalte; usegah; gsattlet; Hohlwäg; änge; uszwyche; Narr; Gwohnheit; ufzhalte; chehren; zuusserscht** [medium, decided, by-rule]
+  - gloss: אָתוֹן: אֲתֹנ֑ (NUM 22:21) — English (generated): his donkey
+  - gloss: אָרַר: אָֽרָ (NUM 22:6) — English (generated): and put a curse
+  - gloss: שָׂטָן: שָׂטָ֣ן (NUM 22:22) — English (generated): to oppose
+  - gloss: קֶסֶם: קְסָמִ֖ים (NUM 22:7) — English (generated): with the fees for divination
+  - NT: NUM 22:21 *sy Eselin*; NUM 22:22 *als Widersacher*
+  - answers: donkey, curse, adversary, drawn sword, narrow path, fees for divination
+  - 4Mo 22: מַלְאַךְ יְהוָה »der Ängel vom HERR« (1Mo 16; 22 im Projekt); אָרַר/קָבַב »verflueche«; בָּרַךְ »sägne«; שָׂטָן »Widersacher«.
+  - agent:num022, 2026-11-05
+- **`term:H4912_oracle`** מָשָׁל → **מָשָׁל (Bileams Sprüche) »Spruch«; וַיִּשָּׂא מְשָׁלוֹ »het sy Spruch aagstimmt«** [high, decided, by-rule]
+  - gloss: מָשָׁל: מְשָׁל֖ (NUM 23:7) — English (generated): an oracle
+  - NT: NUM 23:7 *sy Spruch aagstimmt*
+  - answers: oracle, took up his oracle
+  - Wieder 4Mo 23,18; 24,3.15.20.21.23. Die Sprüche in Gedichtzeilen. אָרַר »verflueche«, זָעַם »verwünsche«.
+  - agent:num023, 2026-11-05
+- **`term:num023_forms`** זָעַם → **Spruch; aagstimmt; entgäge; kahli; verwünsch; verwünsche; verwünscht; trüülech; Späher; Mönschesohn; beröie; rückgängig; Unheil; Juubel; Löiin; verfluechsch** [medium, decided, by-rule]
+  - gloss: זָעַם: זֹעֲמָ֥ (NUM 23:7) — English (generated): denounce
+  - gloss: נָחַם: יִתְנֶחָ֑ם (NUM 23:19) — English (generated): that He should change His mind
+  - gloss: לָבִיא: לָבִ֣יא (NUM 23:24) — English (generated): like a lioness
+  - NT: NUM 23:24 *wi ne Löiin*; NUM 23:19 *’s tät beröie*
+  - answers: denounce, lie, change his mind, lioness, shout of a king
+  - 4Mo 23: שְׂדֵה צֹפִים »Fäld vo de Späher«; רְאֵם »Wildstier«.
+  - agent:num023, 2026-11-05
+- **`term:H5002_utterance`** נְאֻם → **נְאֻם (Bileams Einleitung) »Usspruch vom …«** [medium, decided, by-rule]
+  - gloss: נְאֻם: נְאֻ֤ם (NUM 24:3) — English (generated): the prophecy
+  - NT: NUM 24:3 *Usspruch vom Bileam*
+  - answers: oracle of, declares
+  - Bei den Propheten (נְאֻם־יְהוָה) eigens zu entscheiden (»seit der HERR«); hier in 24,3-4.15-16 »Usspruch«. שַׁדַּי »der Allmächtig« (1Mo 17,1 im Projekt); עֶלְיוֹן »der Höchscht«.
+  - agent:num024, 2026-11-05
+- **`term:num024_forms`** כּוֹכָב → **Usspruch; niderfallt; ufgschlosseni; dränge; Vorzeiche; usdehne; Gärte; Aloëboum; pflanzt; Eimere; vilem; Agag; erhöht; zerbricht; duckt; ane; ufschüüche; eigetem; späterne; aatuet; zerschmetteret; Schet; Überläbende; Keniter; Abbrenne; wägfüert; Kittäer** [medium, decided, by-rule]
+  - gloss: כּוֹכָב: כּוֹכָ֜ב (NUM 24:17) — English (generated): A star
+  - gloss: אָהָל: אֲהָלִים֙ (NUM 24:6) — English (generated): like aloes
+  - gloss: כִּתִּיִּים: כִּתִּ֔ים (NUM 24:24) — English (generated): of Cyprus
+  - gloss: קֵינִי: קֵּינִ֔י (NUM 24:21) — English (generated): the Kenites
+  - NT: NUM 24:17 *E Stärn*; NUM 24:24 *vo de Kittäer*
+  - answers: star, scepter, aloes, Kittim, Kenites, survivors
+  - 4Mo 24: Bileams dritter bis siebter Spruch in Gedichtzeilen; Se'ir wie name:seir.
+  - agent:num024, 2026-11-05
+- **`name:num025_people`** שִׁטִּים → **Schittim; Baal vo Peor (בַּעַל פְּעוֹר); Simri, der Sohn vom Salu; Kosbi, d Tochter vom Zur; d Midianiterin, d Midianiter; d Simeoniter** [high, decided, by-rule]
+  - gloss: שִׁטִּים: שִּׁטִּ֑ים (NUM 25:1) — English (generated): in Shittim
+  - gloss: זִמְרִי: זִמְרִ֖י (NUM 25:14) — English (generated): was Zimri
+  - gloss: כָּזְבִי: כָּזְבִּ֣י (NUM 25:15) — English (generated): was Cozbi
+  - gloss: צוּר: צ֑וּר (NUM 25:15) — English (generated): of Zur
+  - NT: NUM 25:3 *Baal vo Peor*; NUM 25:14 *Simri*
+  - answers: Shittim, Baal of Peor, Zimri, Cozbi, Zur
+  - Pinchas wie name:phinehas. Baal vo Peor wieder 5Mo 4,3; Hos 9,10; Ps 106,28.
+  - agent:num025, 2026-11-05
+- **`term:num025_forms`** חָרוֹן → **Midianiterin; Kosbi; Schittim; niderbückt; glüejig; abwändet; Zältchammere; dürbohrt; Vierezwänzgtuusig; Grimm; ewigem; Simri; Salu; Griffet; Liste; überlischtet** [medium, decided, by-rule]
+  - gloss: חָרוֹן: חֲר֥וֹן (NUM 25:4) — English (generated): fierce
+  - gloss: שָׁלוֹם: שָׁלֽוֹם (NUM 25:12) — English (generated): of peace
+  - gloss: רֹמַח: רֹ֖מַח (NUM 25:7) — English (generated): a spear
+  - NT: NUM 25:12 *my Bund vom Fride*; NUM 25:4 *der glüejig Zorn*
+  - answers: fierce anger, covenant of peace, spear, jealous
+  - 4Mo 25: קִנֵּא (Gott, Pinchas) »yfersüchtig sy« wie term:H7065_jealousy; כִּפֶּר »Sühne schaffe«; מַגֵּפָה »Plag«; זָנָה »Huerei trybe«.
+  - agent:num025, 2026-11-05
+- **`name:num026_clans`** חֲנֹכִי → **Sippennamen auf -iter: Hanochiter, Palluiter, Hezroniter, Karmiter, Rubeniter, Nemueliter, Jaminiter, Jachiniter, Serachiter, Schauliter, Zefoniter, Haggiter, Schuniter, Osniter, Eriter, Aroditer, Areliter, Schelaniter, Pereziter, Hamuliter, Tolaiter, Puniter, Jaschubiter, Schimroniter, Serediter, Eloniter, Jachleeliter, Sebuloniter, Machiriter, Gileaditer, Iëseriter, Helekiter, Asrieliter, Sichemiter, Schemidaiter, Heferiter, Schutelachiter, Becheriter, Tachaniter, Eraniter, Belaiter, Aschbeliter, Ahiramiter, Schufamiter, Hufamiter, Arditer, Naamiter, Schuhamiter, Jimnaiter, Jischwiter, Beriiter, Heberiter, Malkieliter, Jachzeeliter, Guniter, Jezeriter, Schillemiter; Libniter, Hebroniter, Machliter, Muschiter, Korachiter** [high, decided, by-rule]
+  - gloss: חֲנֹכִי: חֲנֹכִ֔י (NUM 26:5) — English (generated): The Hanochite
+  - gloss: צְלׇפְחָד: צְלָפְחָ֣ד (NUM 26:33) — English (generated): Now Zelophehad
+  - gloss: מַחְלָה: מַחְלָ֣ה (NUM 26:33) — English (generated): were Mahlah
+  - gloss: נֹעָה: נֹעָ֔ה (NUM 26:33) — English (generated): Noah
+  - gloss: חׇגְלָה: חָגְלָ֥ה (NUM 26:33) — English (generated): Hoglah
+  - gloss: מִלְכָּה: מִלְכָּ֖ה (NUM 26:33) — English (generated): Milcah
+  - gloss: תִּרְצָה: תִרְצָֽה (NUM 26:33) — English (generated): and Tirzah
+  - NT: NUM 26:5 *vo de Hanochiter*; NUM 26:33 *Zelofhad*
+  - answers: Hanochite clan, Zelophehad, Mahlah, Noah, Hoglah, Milcah, Tirzah
+  - Muster: »vom Hanoch d Sippe vo de Hanochiter«. Stammväter wie 1Mo 46 im Projekt. Zelofhads Töchter Machla, Noa, Hogla, Milka, Tirza wieder 4Mo 27; 36; Jos 17.
+  - agent:num026, 2026-11-05
+- **`term:num026_forms`** נֵס → **ufbegährt; Warnzeiche; Erbbsitz; chlynere; dargebracht; drüevierzgtuusig; vieresächzgtuusig; sächsesibezgtuusig; sächzgtuusig; zwöiefüfzgtuusig; zwöiedryssgtuusig; drüezwänzgtuusig; sächshunderteituusig** [medium, decided, by-rule]
+  - gloss: נֵס: נֵֽס (NUM 26:10) — English (generated): as a warning sign
+  - gloss: נַחֲלָה: נַחֲלָ֖ה (NUM 26:53) — English (generated): as an inheritance
+  - gloss: גּוֹרָל: גוֹרָ֕ל (NUM 26:55) — English (generated): by lot
+  - NT: NUM 26:10 *zu mene Warnzeiche*; NUM 26:55 *dür ds Los*
+  - answers: warning, inheritance, by lot
+  - 4Mo 26: Zahlwörter wie 4Mo 1-2 (»sächshunderteituusig sibehundertdryssg«); נַחֲלָה »Erbteil«; פְּקֻדִים »Gmusterete«.
+  - agent:num026, 2026-11-05
+- **`term:num027_forms`** חֻקָּה → **Zelofhad; Hefer; Machir; Machla; Noa; Hogla; Milka; Tirza; Rächtssatzig; Stig; uszieht; ynezieht; ynezie** [medium, decided, by-rule]
+  - gloss: חֻקָּה: חֻקַּ֣ת (NUM 27:11) — English (generated): a statutory
+  - gloss: רָעָה: רֹעֶֽה (NUM 27:17)
+  - NT: NUM 27:11 *e Rächtssatzig*; NUM 27:17 *kei Hirt*
+  - answers: statutory ordinance, go out and come in, sheep without a shepherd
+  - 4Mo 27: חֻקַּת מִשְׁפָּט »Rächtssatzig«; אוּרִים »Urim« (2Mo 28,30 im Projekt); »uszie und ynezie« für יָצָא/בּוֹא (Führung); אֱלֹהֵי הָרוּחֹת לְכָל־בָּשָׂר »Gott vo de Geischter vo allem Fleisch« (auch 16,22).
+  - agent:num027, 2026-11-05
+- **`term:H8548_regular_offering`** תָּמִיד → **עֹלַת הַתָּמִיד »ds tägleche Brandopfer«; עַל־עֹלַת הַתָּמִיד »zuesätzlech zum tägleche Brandopfer«** [high, decided, by-rule]
+  - gloss: תָּמִיד: תָמִֽיד (NUM 28:3) — English (generated): as a regular
+  - NT: NUM 28:6 *ds tägleche Brandopfer*; NUM 28:10 *zuesätzlech zum tägleche*
+  - answers: regular burnt offering, in addition to the regular burnt offering
+  - Wie 2Mo 29,42 (»ds täglech Brandopfer«). Opferkalender 4Mo 28-29; Lämmer בְּנֵי־שָׁנָה »jährigi«, תָּמִים »ohni Fähler«, רֵיחַ נִיחֹחַ »e feine Duft«, מִקְרָא־קֹדֶשׁ »e heiligi Versammlig«, מְלֶאכֶת עֲבֹדָה »Alltagsarbeit« wie 3Mo 23.
+  - agent:num028, 2026-11-05
+- **`term:num028_forms`** רֹאשׁ → **Mönet; aagordnet; starchem; usgiesse; Monetsaafang; zuesätzlech** [medium, decided, by-rule]
+  - gloss: רֹאשׁ: רָאשֵׁי֙ (NUM 28:11) — English (generated): At the beginning
+  - gloss: שֵׁכָר: שֵׁכָ֖ר (NUM 28:7) — English (generated): of fermented drink
+  - NT: NUM 28:14 *vom Monetsaafang*
+  - answers: beginning of your months, strong drink
+  - 4Mo 28: רָאשֵׁי חָדְשֵׁיכֶם »am Aafang vo öine Mönet«.
+  - agent:num028, 2026-11-05
+- **`term:num029_forms`** תְּרוּעָה → **drizäh; Glübdopfer; Posuuneschall; Feschtversammlig; Vorschrift; vorgschribe** [medium, decided, by-rule]
+  - gloss: תְּרוּעָה: תְּרוּעָ֖ה (NUM 29:1) — English (generated): to sound the trumpets
+  - gloss: עֲצֶרֶת: עֲצֶ֖רֶת (NUM 29:35) — English (generated): a solemn assembly
+  - gloss: נֶדֶר: נִּדְרֵי (NUM 29:39) — English (generated): your vow
+  - NT: NUM 29:1 *vom Posuuneschall*; NUM 29:35 *e Feschtversammlig*
+  - answers: day of blowing trumpets, solemn assembly, votive offerings
+  - 4Mo 29 wie 3Mo 23: תְּרוּעָה »Posuuneschall«, עֲצֶרֶת »Feschtversammlig«, עִנָּה נֶפֶשׁ »sech demüetige«; כַּמִּשְׁפָּט »wi ’s vorgschribe isch«.
+  - agent:num029, 2026-11-05
+- **`term:H5088_vow`** נָדַר → **נֶדֶר »Glübd«; אִסָּר »Verpflichtig« (sech öppis ufleite); הֵנִיא »dra hindere«; הֵפֵר »ungültig mache«; קוּם (Glübd) »gälte«** [high, decided, by-rule]
+  - gloss: נָדַר: יִדֹּ֨ר (NUM 30:3) — English (generated): makes
+  - gloss: אָסַר: אְסֹ֤ר (NUM 30:3) — English (generated): to obligate
+  - gloss: נוּא: הֵנִ֨יא (NUM 30:6) — English (generated): prohibits her
+  - gloss: פָּרַר: הֵפֵ֗ר (NUM 30:9) — English (generated): he nullifies
+  - NT: NUM 30:5 *iri Verpflichtig*; NUM 30:9 *ungültig*
+  - answers: vow, pledge, forbids, nullify, stand
+  - 4Mo 30 Glübdgsetz; נֶדֶר »Glübd« wie 3Mo 27 und 4Mo 6; מִבְטָא שְׂפָתֶיהָ »es unbedachts Wort vo irne Lippe«.
+  - agent:num030, 2026-11-05
+- **`term:num030_forms`** גָּרַשׁ → **Verpflichtig; Verpflichtige; hinderet; ghinderet; Vatters; unbedachts; unbedachte; Verstossene; verpflichtende** [medium, decided, by-rule]
+  - gloss: גָּרַשׁ: גְרוּשָׁ֑ה (NUM 30:10) — English (generated): or divorced woman
+  - gloss: מִבְטָא: מִבְטָ֣א (NUM 30:7) — English (generated): rash promise
+  - NT: NUM 30:10 *Verstossene*
+  - answers: divorced woman, rash promise
+  - 4Mo 30.
+  - agent:num030, 2026-11-05
+- **`term:num031_forms`** נְקָמָה → **Chriegslüt; Erbütete; erbütet; Hundertschafte; Weihgab; sächzähtuusig; rein; verseh; Persone; drühundertsibenedryssgtuusig; sächsedryssgtuusig; dryssgtuusig; vollstrecke; Alarmsignal; Ewi; Rekem; Reba; Zältlager; entgägeggange; glah; Geissehaar; Ise; Zinn; Zell; Familieoberhöupter; Helfte; erhebe; Chriegsvolk; sächshundertfüfesibezgtuusig; zwöiesibezgtuusig; einesächzgtuusig; sächshundertfüfesibezg; zwöiesibezg; einesächzg; zwöiedryssg; abgsünderet; Armspange; Armbänder; Siegelringe; Ohrringe; Halsbänder; gschaffeti; Andänke** [medium, decided, by-rule]
+  - gloss: נְקָמָה: נִקְמַת֙ (NUM 31:2)
+  - gloss: מַלְקוֹחַ: מַּלְק֑וֹחַ (NUM 31:11) — English (generated): spoils
+  - gloss: מֶכֶס: מֶ֜כֶס (NUM 31:28) — English (generated): a tribute
+  - gloss: תְּרוּמָה: תְּרוּמַ֥ת (NUM 31:29) — English (generated): as an offering
+  - gloss: חָטָא: תִּֽתְחַטְּא֞וּ (NUM 31:19) — English (generated): you are to purify
+  - NT: NUM 31:2 *Nimm Rach*; NUM 31:28 *e Abgab*
+  - answers: vengeance, plunder, tribute, contribution, purify
+  - 4Mo 31: נְקָמָה »Rach«; שָׁלָל/מַלְקוֹחַ »Büt, ds Erbütete«; מֶכֶס »Abgab«; תְּרוּמַת יְהוָה »Weihgab für e HERR«; הִתְחַטֵּא »sech entsündige«; מֵי נִדָּה »Reinigungswasser« (term:H5079_impurity_water). Midianiterkönige Ewi, Rekem, Zur, Hur, Reba.
+  - agent:num031, 2026-11-05
+- **`name:num032_places`** עֲטָרוֹת → **d Gaditer (בְּנֵי־גָד), d Rubeniter; Atarot, Dibon, Jaser, Nimra, Heschbon, Elale, Sebam, Nebo, Beon; Kadesch-Barnea; Aroër, Atrot-Schofan, Jogboha, Bet-Nimra, Bet-Haran, Kirjatajim, Baal-Meon, Sibma; Jaïr, Hawot-Jaïr; Nobach, Kenat** [high, decided, by-rule]
+  - gloss: עֲטָרוֹת: עֲטָר֤וֹת (NUM 32:3) — English (generated): Ataroth
+  - gloss: נְבוֹ: נְב֖וֹ (NUM 32:3) — English (generated): Nebo
+  - gloss: עֲרֹועֵר: עֲרֹעֵֽר (NUM 32:34) — English (generated): Aroer
+  - gloss: יָאִיר: יָאִ֤יר (NUM 32:41) — English (generated): Jair
+  - gloss: נֹבַח: נֹ֣בַח (NUM 32:42) — English (generated): And Nobah
+  - NT: NUM 32:41 *Hawot-Jaïr*; NUM 32:2 *d Gaditer*
+  - answers: Gadites, Ataroth, Nebo, Aroer, Jair, Havvoth-jair, Nobah
+  - בְּנֵי־גָד/בְּנֵי־רְאוּבֵן als Stammesgruppe »d Gaditer, d Rubeniter«. Ostjordanland; wieder 5Mo 3; Jos 13; Ri 10.
+  - agent:num032, 2026-11-05
+- **`term:num032_forms`** גְּדֵרָה → **Gaditer; Pferch; zrüggchehre; Gäged; hocke; umeirre; vergrössere; bereit; befestigete; befestigeti; gschützt; zuegfalle; befiehlt; Aawysig; überezie; nöji; Zältdörfer; Kenasiter** [medium, decided, by-rule]
+  - gloss: גְּדֵרָה: גִּדְרֹ֥ת (NUM 32:16) — English (generated): sheepfolds
+  - gloss: תַּרְבּוּת: תַּרְבּ֖וּת (NUM 32:14) — English (generated): you a brood
+  - NT: NUM 32:14 *e Brut*; NUM 32:16 *Pferch*
+  - answers: pens, brood of sinful men, be sure your sin will find you out
+  - 4Mo 32: נֹקִי »frei vo jeder Verpflichtig«; חֲלוּצִים »grüschtet«; חַוֹּת »Zältdörfer«.
+  - agent:num032, 2026-11-05
+- **`name:num033_stations`** דׇּפְקָה → **Lagerplätz: Ramses, Sukkot, Etam, Pi-Hachirot, Baal-Zefon, Migdol, Mara, Elim, Schilfmeer, Wüeschti Sin, Dofka, Alusch, Refidim, Wüeschti Sinai, Kibrot-Taawa, Hazerot, Ritma, Rimmon-Perez, Libna, Rissa, Kehelata, Bärg Schefer, Harada, Makhelot, Tachat, Terach, Mitka, Haschmona, Moserot, Bne-Jaakan, Hor-Gidgad, Jotbata, Abrona, Ezjon-Geber, Wüeschti Zin (Kadesch), Bärg Hor, Zalmona, Punon, Obot, Ije-Abarim (Ijim), Dibon-Gad, Almon-Diblatajim, d Bärge vo Abarim, Bet-Jeschimot, Abel-Schittim** [high, decided, by-rule]
+  - gloss: דׇּפְקָה: דָפְקָֽה (NUM 33:12) — English (generated): at Dophkah
+  - gloss: אָלוּשׁ: אָלֽוּשׁ (NUM 33:13) — English (generated): at Alush
+  - gloss: פּוּנֹן: פוּנֹֽן (NUM 33:42) — English (generated): at Punon
+  - NT: NUM 33:35 *z Ezjon-Geber*; NUM 33:42 *z Punon*
+  - answers: Dophkah, Alush, Ezion-geber, Punon, Abel-shittim
+  - Exodus-Namen wie 2Mo 12-17 im Projekt (Ramses, Sukkot, Etam, Pi-Hachirot, Mara, Elim, Refidim). Satzmuster: »Vo X sy si ufbroche und hei z Y ires Lager ufgschlage«.
+  - agent:num033, 2026-11-05
+- **`term:num033_forms`** מַסַּע → **Uufbrüch; Füerig; Palme; vierzgschte; hundertdrüezwänzg; Bildsteine; zerstöre; Opferhöchine; vertrybet; übrigblybe; Etappe; Tagreise; Stachle** [medium, decided, by-rule]
+  - gloss: מַסַּע: מַסְעֵ֣י (NUM 33:1) — English (generated): the journeys
+  - gloss: מַשְׂכִּית: מַשְׂכִּיֹּתָ֑ (NUM 33:52) — English (generated): their carved images
+  - gloss: בָּמָה: בָּמֹתָ֖ (NUM 33:52) — English (generated): their high places
+  - gloss: שֵׂךְ: שִׂכִּים֙ (NUM 33:55) — English (generated): barbs
+  - NT: NUM 33:1 *d Etappe*; NUM 33:52 *iri Opferhöchine*
+  - answers: stages, figured stones, high places, barbs, thorns
+  - 4Mo 33: מַסְּעֵי »Etappe/Uufbrüch«; בָּמוֹת »Opferhöchine«; מַסֵּכָה »gossni Götzebilder«; בְּיָד רָמָה »mit erhobener Hand« wie 2Mo 14,8.
+  - agent:num033, 2026-11-05
+- **`name:num034_borders`** מֶלַח → **Gränzpünkt: Salzmeer (יָם הַמֶּלַח); Skorpionepass (מַעֲלֵה עַקְרַבִּים); Kadesch-Barnea; Hazar-Addar; Azmon; Bach vo Ägypte; ds grosse Meer; Bärg Hor; Hamat; Zedad; Sifron; Hazar-Enan; Schefam; Ribla; Ajin; See Kinneret. Verteiler: Schemuel, Ammihud, Elidad, Kislon, Bukki, Jogli, Hanniel, Efod, Kemuel, Schiftan, Elizafan, Parnach, Paltiel, Assan, Ahihud, Schelomi, Pedahel** [high, decided, by-rule]
+  - gloss: מֶלַח: מֶּ֖לַח (NUM 34:3) — English (generated): of the Salt
+  - gloss: מַעֲלֵה עַקְרַבִּים: עַקְרַבִּים֙ (NUM 34:4) — English (generated): of the Ascent
+  - gloss: כִּנֶּרֶת: כִּנֶּ֖רֶת (NUM 34:11) — English (generated): of Chinnereth
+  - gloss: חֲמָת: חֲמָ֑ת (NUM 34:8) — English (generated): to Lebo hamath
+  - NT: NUM 34:3 *vom Salzmeer*; NUM 34:11 *See Kinneret*
+  - answers: Salt Sea, Ascent of Akrabbim, Sea of Chinnereth, Hamath
+  - Landesgrenzen 4Mo 34; vgl. Jos 15; Ez 47-48. לְבֹא חֲמָת »wo ’s uf Hamat geit«.
+  - agent:num034, 2026-11-05
+- **`term:num034_forms`** נֶגֶב → **Fürscht; abegah; Salzmeer; südlech; umbiege; Weschtgränze; Nordgränze; Südgränze; Oschtgränze; zuefallt; entlang; Skorpionepass; wytergah; usgah; östlech; nah; zuezteile** [medium, decided, by-rule]
+  - gloss: נֶגֶב: נֶ֛גֶב (NUM 34:3) — English (generated): southern
+  - gloss: יָם: יָ֔ם (NUM 34:6) — English (generated): western
+  - gloss: צָפוֹן: צָפ֑וֹן (NUM 34:7) — English (generated): northern
+  - gloss: קֵדֶם: קֵ֑דְמָ (NUM 34:10) — English (generated): And your eastern
+  - NT: NUM 34:6 *öiji Weschtgränze*; NUM 34:9 *öiji Nordgränze*
+  - answers: southern border, western boundary, northern border, eastern boundary
+  - 4Mo 34 Grenzbeschreibung.
+  - agent:num034, 2026-11-05
+- **`term:H4733_refuge`** מִקְלָט → **עִיר מִקְלָט »Fluchtstadt« (Pl. »Fluchtstedt«); רֹצֵחַ »Totschläger« (us Versehe) bzw. »Mörder« (V. 16-21); גֹּאֵל הַדָּם »Bluetrecher«; מִגְרָשׁ »Wydland«** [high, decided, by-rule]
+  - gloss: מִקְלָט: מִּקְלָ֔ט (NUM 35:6) — English (generated): of refuge
+  - gloss: רָצַח: רֹצֵ֑חַ (NUM 35:6) — English (generated): to which a manslayer
+  - gloss: גָּאַל: גֹּאֵ֑ל (NUM 35:12) — English (generated): from the avenger
+  - gloss: מִגְרָשׁ: מִגְרָ֗שׁ (NUM 35:2) — English (generated): and pasturelands
+  - NT: NUM 35:6 *sächs Fluchtstedt*; NUM 35:19 *Der Bluetrecher*
+  - answers: city of refuge, manslayer, avenger of blood, pastureland
+  - Wieder 5Mo 4,41-43; 19; Jos 20-21; 1Ch 6. מִגְרָשׁ »Wydland« wie 3Mo 25,34. בִּשְׁגָגָה »us Versehe« (term:H7684_unintentional). הַכֹּהֵן הַגָּדֹל »Hoheprieschter«.
+  - agent:num035, 2026-11-05
+- **`term:num035_forms`** כֹּפֶר → **Totschläger; Bluetrecher; Fluchtstadt; Fluchtstedt; gfloh; stüpft; wirft; Fyndschaft; Lösegäld; Stadtmuur; ussewärts; bestimmet; achtevierzg; ussueche; Hass; hinderhältig; unversehens; Hinderhalt; überschrytet; Züg; verunreinige** [medium, decided, by-rule]
+  - gloss: כֹּפֶר: כֹ֨פֶר֙ (NUM 35:31) — English (generated): a ransom
+  - gloss: עֵד: עֵדִ֔ים (NUM 35:30) — English (generated): of the witnesses
+  - gloss: חָנֵף: תַחֲנִ֣יפוּ (NUM 35:33) — English (generated): pollute
+  - NT: NUM 35:31 *kes Lösegäld*; NUM 35:30 *ei einzige Züg*
+  - answers: ransom, witness, pollute
+  - 4Mo 35: חָנַף »entheilige«, טִמֵּא »verunreinige«.
+  - agent:num035, 2026-11-05
+- **`term:num036_forms`** יָסַף → **zuegschlage; drihürate; übergah; zueteilte; Rächtsornige** [medium, decided, by-rule]
+  - gloss: יָסַף: נוֹסַ֕ף (NUM 36:3) — English (generated): and added
+  - gloss: סָבַב: תִסֹּ֤ב (NUM 36:7) — English (generated): may be transferred
+  - NT: NUM 36:7 *übergah*; NUM 36:3 *zuegschlage*
+  - answers: marry into, transferred from tribe to tribe
+  - 4Mo 36: הָיָה לְאִשָּׁה »hürate«; הַיֹּבֵל »Jubeljahr« wie 3Mo 25; מִצְוֹת וּמִשְׁפָּטִים »Gebot und Rächtsornige«.
+  - agent:num036, 2026-11-05
+<!-- store:end sha=a543e3b0 -->

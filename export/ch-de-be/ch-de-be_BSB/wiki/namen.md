@@ -268,12 +268,6 @@ Für griechische Namen, die das Korpus nicht hat, gelten seine Muster: -ος →
   - answers: jochebed
   - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël).
   - agent:exo006, 2026-10-30
-- **`name:korah`** קֹרַח → **Korach** [medium, decided, by-rule]
-  - gloss: קֹרַח: קֹ֥רַח (EXO 6:21) — English (generated): Korah
-  - NT: EXO 6:21 *Korach*; GEN 36:5 *Korach*
-  - answers: korah
-  - Stammbaum 2Mo 6; Umschrift nach der Projektregel (š → sch, ḥ → ch, ṣ → z, Trema bei -iël). Wie GEN 36:5.
-  - agent:exo006, 2026-10-30
 - **`name:nepheg`** נֶפֶג → **Nefeg** [medium, decided, by-rule]
   - gloss: נֶפֶג: נֶ֖פֶג (EXO 6:21) — English (generated): Nepheg
   - NT: EXO 6:21 *Nefeg*
@@ -940,4 +934,4 @@ Für griechische Namen, die das Korpus nicht hat, gelten seine Muster: -ος →
   - NT: ACT 4:36 *Zypere*
   - answers: cyprus
   - agent:curation-study, 2026-10-15
-<!-- store:end sha=9a0ac337 -->
+<!-- store:end sha=9afde101 -->

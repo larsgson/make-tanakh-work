@@ -49,3 +49,73 @@ Eine Zeile pro Änderung, neueste zuletzt: Datum, wer (agent:<Kapitel> oder ein 
 - 2026-10-30, agent:exo038: 2Mo 38 entworfen; Altar und Vorhof nach 27; Uflischtig vo de Metall
 - 2026-10-30, agent:exo039: 2Mo 39 entworfen; Priesterkleider nach 28; Kehrvers »wi der HERR em Mose befole het«
 - 2026-10-30, agent:exo040: 2Mo 40 entworfen; Aufstellung der Wohnig, Wulche und Herrlechkeit; Buch fertig
+- 2026-11-05, agent:lev001: 3Mo 1 entworfen; Opfergab, Chlyveh, Brandopferformel nach 2Mo 29
+- 2026-11-05, agent:lev002: 3Mo 2 entworfen; Speisopfer, Andänketeil, Hampfele
+- 2026-11-05, agent:lev003: 3Mo 3 entworfen; Gmeinschaftsopfer, Fettteile als feste Formel
+- 2026-11-05, agent:lev004: 3Mo 4 entworfen; Sündopfer, Sühne- und Vergebungsformel
+- 2026-11-05, agent:lev005: 3Mo 5 entworfen; Schuldopfer, usuber/Usuberi, Füftel, Schätzig
+- 2026-11-05, agent:lev006: 3Mo 6 entworfen; ds Gsetz vom Brandopfer / Speisopfer / Sündopfer
+- 2026-11-05, agent:lev007: 3Mo 7 entworfen; Schuld- und Gmeinschaftsopfer, Dankopfer, usgrottet wärde
+- 2026-11-05, agent:lev008: 3Mo 8 entworfen; Einsetzung nach dem Wortlaut von 2Mo 29
+- 2026-11-05, agent:lev009: 3Mo 9 entworfen; der achte Tag, Herrlechkeit vom HERR
+- 2026-11-05, agent:lev010: 3Mo 10 entworfen; Nadab und Abihu, frömds Füür
+- 2026-11-05, agent:lev011: 3Mo 11 entworfen; subere und usubere Tier, Gwimmel, Gröiel
+- 2026-11-05, agent:lev012: 3Mo 12 entworfen; Reinigung nach der Geburt
+- 2026-11-05, agent:lev013: 3Mo 13 entworfen; Ussatz, Befall, für usuber erkläre
+- 2026-11-05, agent:lev014: 3Mo 14 entworfen; Reinigung vom Ussatz, Ussatz a Hüser, Log
+- 2026-11-05, agent:lev015: 3Mo 15 entworfen; Usfluss, Monetsblüetig
+- 2026-11-05, agent:lev016: 3Mo 16 entworfen; Versöhnigstag, Asasel, Gnadestuel
+- 2026-11-05, agent:lev017: 3Mo 17 entworfen; Opferort, Bluet, Bocksgeischter
+- 2026-11-05, agent:lev018: 3Mo 18 entworfen; d Blössi ufdecke, Molech
+- 2026-11-05, agent:lev019: 3Mo 19 entworfen; Syt heilig, dy Mitmönsch lieb ha wi di sälber
+- 2026-11-05, agent:lev020: 3Mo 20 entworfen; söll tödt wärde, Vatter
+- 2026-11-05, agent:lev021: 3Mo 21 entworfen; Makel, d Spys vo irem Gott
+- 2026-11-05, agent:lev022: 3Mo 22 entworfen; di heilige Gabe, Opfertier ohni Makel
+- 2026-11-05, agent:lev023: 3Mo 23 entworfen; Feschtzyte, heiligi Versammlig, Loubhüttefescht
+- 2026-11-05, agent:lev024: 3Mo 24 entworfen; Lüüchter, Schoubrot, Gottesläschterer
+- 2026-11-05, agent:lev025: 3Mo 25 entworfen; Sabbatjahr, Jubeljahr, Löser, Lösrächt
+- 2026-11-05, agent:lev026: 3Mo 26 entworfen; Säge und Fluech, feindlech begägne
+- 2026-11-05, agent:lev027: 3Mo 27 entworfen; Schätzig, Bannguet, Zähnte
+- 2026-11-05, agent:num001: 4Mo 1 entworfen; Musterig, Stammesvorsteher
+- 2026-11-05, agent:num002: 4Mo 2 entworfen; Lagerornig, Fähnli, Himmelsrichtige
+- 2026-11-05, agent:num003: 4Mo 3 entworfen; Levite, Sippe, Lösgäld
+- 2026-11-05, agent:num004: 4Mo 4 entworfen; Dienscht vo de Levitesippe
+- 2026-11-05, agent:num005: 4Mo 5 entworfen; Yfersuchtsprob
+- 2026-11-05, agent:num006: 4Mo 6 entworfen; Naziräer, Prieschtersäge
+- 2026-11-05, agent:num006: 4Mo 6 Negation 6,3
+- 2026-11-05, agent:num007: 4Mo 7 entworfen; Gabe vo de Vorgsetzte
+- 2026-11-05, agent:num008: 4Mo 8 entworfen; Levite gweiht
+- 2026-11-05, agent:num009: 4Mo 9 entworfen; Passa, Wulche
+- 2026-11-05, agent:num010: 4Mo 10 entworfen; Trumpete, Ufbruch
+- 2026-11-05, agent:num010: 4Mo 10 blast ersetzt
+- 2026-11-05, agent:num011: 4Mo 11 entworfen; Wachtle, sibezg Eltischte
+- 2026-11-05, agent:num011: 4Mo 11,19 Negatione
+- 2026-11-05, agent:num012: 4Mo 12 entworfen; Mirjam
+- 2026-11-05, agent:num013: 4Mo 13 entworfen; Kundschafter
+- 2026-11-05, agent:num014: 4Mo 14 entworfen; Ufstand, Gnadeformle
+- 2026-11-05, agent:num015: 4Mo 15 entworfen; Opfer, Versehe, Quaste
+- 2026-11-05, agent:num016: 4Mo 16 entworfen; Korach
+- 2026-11-05, agent:num017: 4Mo 17 entworfen; Pfännli, Aarons Stab
+- 2026-11-05, agent:num018: 4Mo 18 entworfen; Prieschter, Zähnte
+- 2026-11-05, agent:num019: 4Mo 19 entworfen; roti Chue
+- 2026-11-05, agent:num020: 4Mo 20 entworfen; Meriba, Edom, Aarons Tod
+- 2026-11-05, agent:num021: 4Mo 21 entworfen; Schlange, Sichon und Og
+- 2026-11-05, agent:num021: 4Mo 21,15 Abhang
+- 2026-11-05, agent:num022: 4Mo 22 entworfen; Bileam und d Eselin
+- 2026-11-05, agent:num023: 4Mo 23 entworfen; Bileams erschte und zwöite Spruch
+- 2026-11-05, agent:num024: 4Mo 24 entworfen; Bileams Sprüch 3-7
+- 2026-11-05, agent:num025: 4Mo 25 entworfen; Baal vo Peor, Pinchas
+- 2026-11-05, agent:num026: 4Mo 26 entworfen; zwöiti Zellig
+- 2026-11-05, agent:num027: 4Mo 27 entworfen; Zelofhads Töchtere, Josua
+- 2026-11-05, agent:num028: 4Mo 28 entworfen; Opferkalender I
+- 2026-11-05, agent:num029: 4Mo 29 entworfen; Opferkalender II
+- 2026-11-05, agent:num030: 4Mo 30 entworfen; Glübd
+- 2026-11-05, agent:num030: 4Mo 30,1 Mose
+- 2026-11-05, agent:num031: 4Mo 31 entworfen; Rach a Midian, Büt
+- 2026-11-05, agent:num031: 4Mo 31 Tokens nachträge
+- 2026-11-05, agent:num032: 4Mo 32 entworfen; Ruben und Gad
+- 2026-11-05, agent:num032: 4Mo 32,29 Mose
+- 2026-11-05, agent:num033: 4Mo 33 entworfen; Lagerplätz
+- 2026-11-05, agent:num034: 4Mo 34 entworfen; Gränze vom Land
+- 2026-11-05, agent:num035: 4Mo 35 entworfen; Fluchtstedt
+- 2026-11-05, agent:num036: 4Mo 36 entworfen; Erbtöchtere; Buech fertig
