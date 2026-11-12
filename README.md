@@ -28,8 +28,9 @@ ones stay on the maintainer's machine, and work derived from them that may not b
 ## Working here
 
 The tools and their guide are the template's: [`docs/workflow.md`](docs/workflow.md),
-[`docs/onboarding.md`](docs/onboarding.md), and `CLAUDE.md` for Claude Code. Tool changes are not made here: they go to
-the template (as a fix) or to bcv-commons/make-tanakh-grammar (new tools), and come back with the next merged tag.
+[`docs/onboarding.md`](docs/onboarding.md), and `CLAUDE.md` for Claude Code. Tool changes are not made in this copy's
+`scripts/`: a fix goes to the template as a patch, a new tool is coordinated with the template and goes to it as a
+delivery (built here or in bcv-commons/make-tanakh-grammar), and both come back with the next merged tag.
 Template updates: `git fetch template --tags`, then merge the tag (`RELATIONS.md`, section 7: the checks after each
 merge).
 

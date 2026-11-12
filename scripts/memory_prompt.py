@@ -22,6 +22,7 @@ EXAMPLES = ("jam/jam_BSB", "dan/dan_BSB")   # finished memories shown as a worke
 sys.path.insert(0, os.path.join(CODE, "scripts"))
 from project import project, edition, project_dir, project_rel  # noqa: E402
 import modes, quotes  # noqa: E402
+import register as RG  # noqa: E402
 
 MARKS = """
 Tone marks, accents and other diacritics are part of the spelling. Survey which ones the corpus uses (count the combining
@@ -70,7 +71,7 @@ def init(pname, p):
            "decisions": "CC0-1.0 (single words and short phrases with references; quotations credited in ../CREDITS.md)"}
     for part in ("observations", "decisions"):
         f = os.path.join(pdir, "profile", f"{part}.json")
-        if not os.path.exists(f):
+        if not RG.exists(f):
             json.dump({"iso": p["language"].split("-")[0], "edition": os.path.basename(pname), "partition": part,
                        "licence": lic[part], "orthography": {"normalization": "NFC", "ignore_marks": []}, "entries": []},
                       open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
@@ -192,6 +193,8 @@ def main():
         + "\n- Hebrew and Greek in the store and the wiki come from the open text, never from `orig/heb/` (our BHSA copy, not "
           "free): a phrase from a clause package, or a verse from `python3 scripts/notes_hebrew.py show <code> <ch>:<v>` (the "
           "WLC, or the BGB).")
+    if not out_dir:                          # the project's own store a register: entries through register.py
+        out = RG.agent_wording(out.strip(), pname, long=True)
     print(out.strip())
 
 

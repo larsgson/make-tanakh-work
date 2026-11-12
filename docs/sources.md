@@ -150,6 +150,14 @@ Hebrew-numbered verse (checked on Jonah 2:1 = 1:17).
   question; the recipes in `docs/language-store/grambank_recipes.tsv` decide features from a Bible corpus. No
   Grambank language values enter a store.
 
+## docs/register/parameters.tsv: the register's questionnaire (in git)
+
+- **What:** 1,161 typological questions (id, question, codes, group, type, source) that a register `feature` entry's
+  `parameter` names (`docs/register.md`); questions only, no language values.
+- **From:** make-tanakh-grammar's `register/parameters.tsv` (commit aeff3c3), compiled from Grambank v1.0.2, WALS
+  Online, APiCS Online and AUTOTYP, plus make-tanakh's own questions.
+- **Licence:** per row (`source`): the four databases' rows CC BY 4.0 (credit the database), make-tanakh's own CC0.
+
 ## download/glottolog/: the Glottolog family tree
 
 - **What:** every languoid's name, ISO 639-3 code and level (`languages.csv`) and its classification, the path of its

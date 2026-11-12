@@ -50,6 +50,7 @@ import langtools as LT  # noqa: E402
 import vrs  # noqa: E402
 from project import project, project_dir  # noqa: E402
 from books import BY_CODE  # noqa: E402
+import register as RG  # noqa: E402
 
 HEB = os.path.join(ROOT, "orig", "heb.sqlite")
 POINTS = re.compile(r"[֑-ֽ֯׀׃-׆]")
@@ -111,8 +112,8 @@ def store_terms(pname, letter="H"):
     import json
     out = {}
     f = os.path.join(project_dir(pname), "profile", "decisions.json")
-    if os.path.exists(f):
-        for e in json.load(open(f, encoding="utf-8")).get("entries", []):
+    if RG.exists(f):
+        for e in RG.read(f).get("entries", []):
             m = re.fullmatch(letter + r"0*(\d+[a-z]?)", str(e.get("source", "")))
             if e.get("kind") == "term" and m and e.get("status") not in ("superseded", "rejected"):
                 out[m[1].zfill(4)] = e.get("value")

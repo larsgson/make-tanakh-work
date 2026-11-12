@@ -197,8 +197,9 @@ def spec_from_store(pname, mode=None):
     sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     import grammar
     import morphs
+    import register as RG
     f = os.path.join(grammar.profile_dir(pname), "observations.json")
-    d = json.load(open(f, encoding="utf-8")) if os.path.exists(f) else {}
+    d = RG.read(f) if RG.exists(f) else {}
     an = d.get("analysis") or {}
     mode = mode or an.get("model_text", "words")
     if mode != "morphs":
@@ -273,8 +274,9 @@ def generate(model, tok, lines, bos, max_len=200, max_new=256, beams=2, batch=16
 def grammar_entries(pname):
     import json
     import grammar
+    import register as RG
     f = os.path.join(grammar.profile_dir(pname), "observations.json")
-    return json.load(open(f, encoding="utf-8")).get("entries", []) if os.path.exists(f) else []
+    return RG.read(f).get("entries", []) if RG.exists(f) else []
 
 
 def main(a):

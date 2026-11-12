@@ -85,6 +85,7 @@ CODE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.path.abspath(os.environ.get("MAKE_TANAKH_ROOT") or CODE)   # the data root (books.py)
 sys.path.insert(0, os.path.join(CODE, "scripts"))
 import grammar  # noqa: E402
+import register as RG  # noqa: E402
 
 CH = lambda m: chr(int(m[2:], 16)) if m.upper().startswith("U+") else m
 
@@ -776,8 +777,8 @@ def load(pname, P=None, G=None):
         return None
     orth = {}
     f = os.path.join(P.profile, "observations.json")
-    if os.path.exists(f):
-        orth = json.load(open(f, encoding="utf-8")).get("orthography") or {}
+    if RG.exists(f):
+        orth = RG.read(f).get("orthography") or {}
     vocab = collections.Counter()
     for r in P.corpus():
         vocab.update(P.tok.tokens(r[4], exact=True))
@@ -946,7 +947,7 @@ def write_seed_claims(pname, P, res, same, skip, donor, by="script:morphs.py try
     or not measurable by the try (open); the seed stays as it is"""
     import json, datetime
     f = os.path.join(P.profile, "observations.json")
-    d = json.load(open(f, encoding="utf-8"))
+    d = RG.read(f)
     today = datetime.date.today().isoformat()
     NEXT = {"confirmed": "write the morph as the corpus has it (seed: this seed), or say why not",
             "refuted": "the form doesn't mark the category here: look for the language's own form of it",
@@ -977,8 +978,7 @@ def write_seed_claims(pname, P, res, same, skip, donor, by="script:morphs.py try
              "verdict": verdict, "next": NEXT[result], "confidence": "medium" if verdict == "confirmed" else "low",
              "method": "corpus-derived", "by": by, "date": today, "status": "observed"} | extra
         d["entries"] = [x for x in d["entries"] if x.get("id") != c["id"]] + [c]
-    json.dump(d, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    open(f, "a").write("\n")
+    RG.write(f, d, ensure_ascii=False, indent=1, newline=True)
     print(f"written: {len(rows)} seed claim(s) into {os.path.relpath(f)}")
 
 
@@ -1041,7 +1041,7 @@ def try_morphs(pname, ids, P, S, write=False, by="script:morphs.py", min_n=20, m
     if not write:
         return res
     f = os.path.join(P.profile, "observations.json")
-    d = json.load(open(f, encoding="utf-8"))
+    d = RG.read(f)
     today = datetime.date.today().isoformat()
     by_id = {x.get("id"): x for x in d["entries"]}
     for e, n, stems, lift, tl, odds, todds, verdict, refs, prod in res:
@@ -1074,15 +1074,13 @@ def try_morphs(pname, ids, P, S, write=False, by="script:morphs.py", min_n=20, m
             d["entries"] = [c if y.get("id") == c["id"] else y for y in d["entries"]]
         else:
             d["entries"].append(c)
-    json.dump(d, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    open(f, "a").write("\n")
+    RG.write(f, d, ensure_ascii=False, indent=1, newline=True)
     b = grammar.basis(pname, None, METHOD)       # after the write: the store as the test leaves it
     claims = {f"claim:morph.{e['id'].removeprefix('m:')}" for e, *_ in res}
     for y in d["entries"]:
         if y.get("id") in claims:
             y["basis"], y["basis_corpus"] = b, grammar.corpus(pname)
-    json.dump(d, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    open(f, "a").write("\n")
+    RG.write(f, d, ensure_ascii=False, indent=1, newline=True)
     print(f"written: {len(res)} morph(s) and their claims into {os.path.relpath(f)}")
     return res
 
@@ -1329,11 +1327,11 @@ def revive(pname, ids):
     a retired affix again (audit m:-tez:verb); None and [] when every named entry is live"""
     import json
     f = os.path.join(grammar.profile_dir(pname), "observations.json")
-    if not ids or not os.path.exists(f):
+    if not ids or not RG.exists(f):
         return None, []
     G = grammar.load(pname)
     live = {e["id"] for e in G.morphs}
-    old = [dict(e, status="superseded (revived for the audit)") for e in json.load(open(f, encoding="utf-8"))
+    old = [dict(e, status="superseded (revived for the audit)") for e in RG.read(f)
            .get("entries", []) if e.get("id") in ids and e["id"] not in live and e.get("kind") == "morph"]
     if not old:
         return None, []
@@ -1739,7 +1737,7 @@ def main(a):
             tok.update(P.tok.tokens(r[4], exact=True))
         prop, fig = detect_tone(tok)
         f = os.path.join(P.profile, "observations.json")
-        d = json.load(open(f, encoding="utf-8")) if os.path.exists(f) else {}
+        d = RG.read(f) if RG.exists(f) else {}
         have = (d.get("orthography") or {}).get("tone")
         print(f"{a[0]}: tone written as {prop['written']}" + (f", marks {' '.join(prop['marks'])} on {prop['vowels']}, a "
               f"missing mark {prop['absent']}" if prop["written"] == "marks" else ""))
@@ -1752,15 +1750,14 @@ def main(a):
             if have and "--force" not in a:
                 print("  kept the store's setting (--force replaces it)")
                 return
-            if not os.path.exists(f):
+            if not RG.exists(f):
                 raise SystemExit(f"{a[0]}: no store ({f})")
             o = d.setdefault("orthography", {})
             o["tone"] = {**prop, "derived": {"by": "script:morphs.py tone", "date": datetime.date.today().isoformat(),
                                              "figures": fig}}
             if prop["written"] == "marks" and not o.get("ignore_marks"):
                 o["ignore_marks"] = prop["marks"]
-            json.dump(d, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-            open(f, "a").write("\n")
+            RG.write(f, d, ensure_ascii=False, indent=1, newline=True)
             print("  written:", os.path.relpath(f, ROOT), "(grammar.py retest lists the tests this makes stale)")
         return
     if a[1] == "rates":

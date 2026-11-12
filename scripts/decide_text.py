@@ -28,6 +28,7 @@ import sys
 import unicodedata
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import register as RG  # noqa: E402
 
 RATIO_MAX = 13.0          # lexeme-aligner STEM_RATIO_THRESHOLD
 SAMPLE = 100_000          # lexeme-aligner _RATIO_SAMPLE_TOKENS
@@ -106,7 +107,7 @@ def run(pname, write=False):
     f = figures(toks, S, morphs.affix_entries(G), C)
     m, why = suggest(f)
     pf = os.path.join(P.profile, "observations.json")
-    d = json.load(open(pf, encoding="utf-8")) if os.path.exists(pf) else {}
+    d = RG.read(pf) if RG.exists(pf) else {}
     have = (d.get("analysis") or {}).get("model_text", "words")
     print(f"{pname}: {f['tokens']} tokens, {f['types']} types")
     print(f"  tokens per type (first {f['sample']} tokens; lexeme-aligner should_stem at <= {RATIO_MAX}): "
@@ -119,15 +120,14 @@ def run(pname, write=False):
               + (f"; {f['parts_per_word']:.2f} model tokens a word" if f["parts_per_word"] else ""))
     print(f"  suggested model_text: {m} ({why}); the store has: {have}")
     if write:
-        if not os.path.exists(pf):
+        if not RG.exists(pf):
             raise SystemExit(f"{pname}: no store ({pf})")
         fig = {k: (round(v, 4) if isinstance(v, float) else v) for k, v in f.items() if k != "decode_bad"}
         fig["decode_bad"] = len(f["decode_bad"]) if f["decode_bad"] is not None else None
         d.setdefault("analysis", {})["model_text_measured"] = {
             "suggestion": m, "reason": why, "figures": fig, "by": "script:morphs.py decide",
             "date": datetime.date.today().isoformat()}
-        json.dump(d, open(pf, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-        open(pf, "a").write("\n")
+        RG.write(pf, d, ensure_ascii=False, indent=1, newline=True)
         print(f"  recorded as analysis.model_text_measured; model_text stays {have}: a suggestion to train and compare "
               f"(scripts/nllb/data.py --model-text {m}), not a switch")
     return f, m, why

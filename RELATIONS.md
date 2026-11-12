@@ -9,7 +9,7 @@ how this repo, the work copy (larsgson/make-tanakh-work, until 2026-10-29 bsb-ad
 |---|---|---|---|
 | **bcv-commons/make-tanakh** | the toolkit and template | its own | public |
 | **make-tanakh-work** (this repo) | data: projects, drafts, language stores, alignments, the website | starts from make-tanakh v0.1.0 (2026-10-29, both histories reset) | public |
-| **bcv-commons/make-tanakh-grammar** | the rules-engine lab, the language analysis (bcv-commons/language-analysis), where tools start | its own | public, screened |
+| **bcv-commons/make-tanakh-grammar** | the rules-engine lab, the language analysis (bcv-commons/language-analysis) | its own | public, screened |
 
 ## 2. This repo's role
 
@@ -41,8 +41,9 @@ non-free texts and what is built from them (`local_output/`, git-ignored).
 
 ## 5. How a change travels
 
-A tool idea goes to make-tanakh-grammar (or straight to the template as a fix); it arrives here only with a merge of
-the template. A data change (a draft, a store entry, an alignment) is made here. The user commits and pushes.
+A new tool is coordinated with the template repo (user, 2026-11-12). It may be built here or in make-tanakh-grammar;
+built here, it goes back to the template as a delivery (patch and VERIFY file), and it arrives here, like any tool, only
+with a merge of the template. make-tanakh-grammar takes it from the template through its make-tanakh pin. A data change (a draft, a store entry, an alignment) is made here. The user commits and pushes.
 
 ## 6. Licences and what never moves
 
@@ -52,6 +53,6 @@ site derives the BHSA view at build time), TBTA data.
 
 ## 7. Version records
 
-- The template tag this repo stands on: v0.3.1 (02d75d3). Each later merge names its tag in the merge commit.
+- The template tag this repo stands on: v0.5.0 (02dc0cb). Each later merge names its tag in the merge commit.
 - The contract test after each merge (`docs/related-repos.md`, section 7): `git diff template/main -- scripts docs
   .claude` empty; `check_project.py` and `full_align.py check` on every project; `src.py stats`.

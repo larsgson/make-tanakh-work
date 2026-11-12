@@ -86,7 +86,13 @@ def mode_rules(pname, p, have):
         tag, rule = m_[1], re.sub(r"\n\s+", " ", m_[2]).strip()
         if tag and tag not in have:
             continue
-        out.append(re.sub(r"\{(\w+)\}", lambda x: fill.get(x[1], x[0]), rule))
+        rule = re.sub(r"\{(\w+)\}", lambda x: fill.get(x[1], x[0]), rule)
+        if tag == "store":                     # a register: entries go in through register.py
+            import register
+            rule = register.agent_wording(rule, pname)
+            if register.has_register(register.profile_of(pname)) and "register.py add" not in rule:
+                rule += " Write each entry " + register.ADD.format(project=pname) + "."
+        out.append(rule)
     return out
 
 

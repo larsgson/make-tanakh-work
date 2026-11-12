@@ -28,6 +28,7 @@ CODE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.path.abspath(os.environ.get("MAKE_TANAKH_ROOT") or CODE)   # the data root (books.py)
 sys.path.insert(0, os.path.join(CODE, "scripts"))
 from project import project, project_dir, project_rel  # noqa: E402
+import register as RG  # noqa: E402
 
 PAGE = "team-input.md"
 ITEM = re.compile(r"^### (T\d+) · (\d{4}-\d{2}-\d{2}) · ([^\n]+?)[ \t]*\n(?:Status: ([^\n]*)\n)?(.*?)(?=^### T\d+ · |^## |\Z)", re.M | re.S)
@@ -132,7 +133,7 @@ def main():
             raise SystemExit("no new items")
         rel = project_rel(pname)
         school = p.get("school_language") or "English"
-        print(f"""You curate the language team's input for the project {pname} (folder `{rel}/`). The team wrote items on
+        print(RG.agent_wording(f"""You curate the language team's input for the project {pname} (folder `{rel}/`). The team wrote items on
 `{rel}/wiki/{PAGE}`; these are new: {', '.join(it['id'] for it in new)}.
 
 Read first: `{rel}/wiki/{PAGE}`, `{rel}/wiki/index.md`, `{rel}/wiki/{questions_page(pname) or "questions.md"}`, and the store entries each item touches
@@ -164,7 +165,7 @@ Then run, and fix until clean:
 - `python3 scripts/wiki.py sync {pname}` then `python3 scripts/wiki.py lint {pname}`
 and add one line to `{rel}/wiki/log.md`.
 
-Report in under 120 words: per item, what you entered (ids) or asked back.""")
+Report in under 120 words: per item, what you entered (ids) or asked back.""", pname, long=True))
     else:
         raise SystemExit(__doc__)
 

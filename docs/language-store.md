@@ -1,5 +1,7 @@
 # The language store
 
+A project may keep the same entries as a register, one file per entry (`docs/register.md`); the tools read both.
+
 What a drafting agent has to know about a target language, recorded with evidence, so that the next chapter, book and
 project start from it. Each project keeps its store in `export/<project>/profile/`. Every entry cites the verses it
 was read off. Entries are appended, never silently overwritten. The store is CC0 for any edition, non-free ones
@@ -26,7 +28,7 @@ Required in every entry: `id`, `kind`, `value`, `confidence`, `method`, `by`, `d
 | field | values |
 |---|---|
 | `id` | unique among live entries (`speech_frame`, `term:H7458`, `name:naomi`, `m:<form>:<host>`, `c:<paradigm>:<bundle>`, `claim:<name>`, `w:<form>`) |
-| `kind` | `feature`, `letter`, `gap`, `morph`, `cell`, `claim`, `word`; `term`, `formula`, `name` |
+| `kind` | `feature`, `letter`, `gap`, `morph`, `cell`, `claim`, `word`; `term`, `formula`, `name`; `spelling` |
 | `value` | the finding: a string, or a small object for a formula; for terms, formulas and names the target language only |
 | `gloss` | terms, formulas, names (and their `alternatives`): the Greek or Hebrew word the value renders (below) |
 | `interlinear` | optional, a form built by rule with no source word: a Leipzig line, `1PL.HORT-go` |
@@ -70,6 +72,11 @@ Rules:
 - **`term`**, **`formula`**, **`name`**: a source lexeme, phrase or name → the target form. A `by-rule` name cites
   the letter entries' names; `by-rule` entries are for a speaker's review.
 - **`morph`**, **`cell`**, **`claim`**: the grammar (below); **`word`**: a protected word, never split (below).
+- **`spelling`** (decisions.json, id `spelling:<name>`): one respelling rule of the project, the corpus's words in the
+  project's spelling; fields `match`, `replace`, `context: {before, after, unless}`, `exceptions: [forms]`, `order`, `said`
+  (the one-sentence rule the drafter's prompt shows), `value` its short form (`l → u`). Only `decided` ones apply, in the order of
+  `orthography.respell`; each has its own status and `supersedes`. No evidence required (a rule may cite its source).
+  `docs/word-db.md`, *Respelling*.
 
 ### Glosses
 
@@ -183,6 +190,10 @@ Top-level fields of `observations.json`. A change makes the tests that depended 
 
 - **`orthography.ignore_marks`**: combining marks (`"U+0301"`) that search, alignment and the validator's matching
   ignore. Checks of the store's own spellings keep every mark.
+- **`orthography.respell`** (decisions.json): the ordered ids of the project's `spelling` entries, the rules that
+  write the corpus's words in the project's spelling (below; `docs/word-db.md`, *Respelling*).
+- **`orthography.keep_marks`**: the combining marks the word DB's `bare` form keeps (default: diaeresis, ring,
+  cedilla, ogonek); `docs/word-db.md`.
 - **`orthography.tone`**: `{"written": "marks" | "digits" | "letters" | "none", "marks": [...], "vowels": "...",
   "absent": "unknown" | "neutral"}`. With `digits` (Jyutping *si1*) the syllable is the unit; `letters` and `none`
   give no tone morphs; `absent: neutral` makes an unmarked vowel a tone of its own. `morphs.py tone --write` detects

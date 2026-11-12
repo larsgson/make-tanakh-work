@@ -31,6 +31,7 @@ ROOT = os.path.abspath(os.environ.get("MAKE_TANAKH_ROOT") or CODE)   # the data 
 sys.path.insert(0, os.path.join(CODE, "scripts"))
 import langtools as LT  # noqa: E402
 from books import BY_CODE  # noqa: E402
+import register as RG  # noqa: E402
 
 ENG_NEG = re.compile(r"\b(?:not|no|never|nor|neither|none|nothing|nobody|cannot|can't|won't|don't|didn't|isn't|wasn't|"
                      r"aren't|weren't|shouldn't|wouldn't|couldn't|mustn't|hasn't|haven't|hadn't|doesn't)\b", re.I)
@@ -84,7 +85,7 @@ def segmenter(P):
     import morphs
     if P.name not in _SEG:
         f = os.path.join(P.profile, "observations.json")
-        d = json.load(open(f, encoding="utf-8")) if os.path.exists(f) else {}
+        d = RG.read(f) if RG.exists(f) else {}
         _SEG[P.name] = (morphs.load(P.name, P), (d.get("analysis") or {}).get("match") == "morphs")
     S, on = _SEG[P.name]
     return S if (on if USE_MORPHS is None else USE_MORPHS) else None

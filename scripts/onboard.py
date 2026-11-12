@@ -60,6 +60,7 @@ from project import project_dir, project_rel  # noqa: E402
 import probe_language as PL  # noqa: E402
 import script_code as SC  # noqa: E402
 import usage  # noqa: E402
+import register as RG  # noqa: E402
 
 OPEN = FE.OPEN
 ARGS = sys.argv[1:]
@@ -925,8 +926,8 @@ def memory_built(pdir):
     n = 0
     for part in ("observations", "decisions"):
         f = os.path.join(pdir, "profile", f"{part}.json")
-        if os.path.exists(f):
-            n += sum(1 for e in json.load(open(f, encoding="utf-8")).get("entries", []) if not str(e.get("id", "")).startswith("slip:"))
+        if RG.exists(f):
+            n += sum(1 for e in RG.read(f).get("entries", []) if not str(e.get("id", "")).startswith("slip:"))
     return n > 0
 
 
@@ -1227,7 +1228,7 @@ def slips_to_store(pname, slips, school):
     P2 = PL.LT.Project(pname)
     vocab = PL.corpus_vocab(P2)
     f = os.path.join(P2.profile, "observations.json")
-    d = json.load(open(f, encoding="utf-8"))
+    d = RG.read(f)
     have = {e["id"] for e in d.get("entries", [])}
     text = SLIP_TEXT.get(school, SLIP_TEXT["English"])
     n = 0
@@ -1245,7 +1246,7 @@ def slips_to_store(pname, slips, school):
             "status": "observed", "words": [], "note": text[1]})
         have.add(eid)
         n += 1
-    json.dump(d, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    RG.write(f, d, ensure_ascii=False, indent=1)
     return n
 
 

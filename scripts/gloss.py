@@ -24,6 +24,7 @@ CODE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.path.abspath(os.environ.get("MAKE_TANAKH_ROOT") or CODE)   # the data root (books.py)
 sys.path.insert(0, os.path.join(CODE, "scripts"))
 from books import BY_CODE  # noqa: E402
+import register as RG  # noqa: E402
 
 LANGS = {"grc": "grc", "hbo": "heb", "arc": "heb"}
 REF = re.compile(r"^([1-3A-Z][A-Z0-9]{2}) (\d{1,3}):(\d{1,3})$")
@@ -428,9 +429,9 @@ def propose(pname, write=False):
     left = []
     for fn in ("decisions.json", "observations.json"):
         path = os.path.join(P.profile, fn)
-        if not os.path.exists(path):
+        if not RG.exists(path):
             continue
-        d = json.load(open(path, encoding="utf-8"))
+        d = RG.read(path)
         add = []
         for e in d.get("entries", []):
             if e.get("kind") not in KINDS or e.get("status") == "superseded":
@@ -481,7 +482,7 @@ def propose(pname, write=False):
                 print(f"{e['id']}: {value!r}" + "".join(f"\n    {line(g)}" for g in gs))
         if write and add:
             d["entries"] += add
-            json.dump(d, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+            RG.write(path, d, ensure_ascii=False, indent=1)
             print(f"{os.path.relpath(path, ROOT)}: {len(add)} entries with glosses appended (their old entries superseded)")
     print(f"{pname}: " + ", ".join(f"{k} {n}" for k, n in report.most_common()))
     if left:
@@ -497,8 +498,8 @@ def store_entries(pname):
     P = LT.Project(pname)
     for fn in ("observations.json", "decisions.json", "external.json"):
         f = os.path.join(P.profile, fn)
-        if os.path.exists(f):
-            yield from json.load(open(f, encoding="utf-8")).get("entries", [])
+        if RG.exists(f):
+            yield from RG.read(f).get("entries", [])
 
 
 def main():

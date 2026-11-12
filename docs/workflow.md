@@ -17,8 +17,8 @@ git push -u origin main
   `CHANGELOG.md` says what changed). Afterwards run the contract test (`docs/related-repos.md`, section 7).
 - **Tool changes don't happen here.** `scripts/`, `docs/` and `.claude/` stay identical to the template's: `git diff
   template/main -- scripts docs .claude` is empty. A fix goes to make-tanakh as a delivery: the patch (`git diff
-  template/main -- <path>`) and what it fixes; it comes back with the next merge. New tools start in
-  bcv-commons/make-tanakh-grammar.
+  template/main -- <path>`) and what it fixes; it comes back with the next merge. A new tool is coordinated with the
+  template: built here or in bcv-commons/make-tanakh-grammar, it goes to make-tanakh as a delivery too.
 - **Your content is data:** your projects in `export/`, your editions' metadata in `import/`, your website.
 - **The demos** (`export/dan/`, `export/jam/` and their editions) may be deleted. A later merge that changes them
   then conflicts; keep them deleted (`git rm` the conflicting files).
@@ -56,7 +56,9 @@ One agent per book drafts its chapters in order, in every mode. `python3 scripts
 - drafts with the chapter prompt (`make_prompt.py <project> <code> <chapter>`), tagged, Tanakh and NT: each word carries the
   numbers of the source words it renders, and `full_align.py split` makes the draft and its word alignment (`.align`);
 - runs `python3 scripts/chapter_check.py <project> <code> <chapter>`: it fixes the format, alignment and quotation
-  findings, and reviews the rest (negations, names, …), keeping one only with a line in the notes;
+  findings, and reviews the rest (negations, names, …; with a word DB, `docs/word-db.md`: decided store terms the
+  verse lacks, spellings the corpus writes otherwise, store forms included, and words whose usual corpus form is
+  missing), keeping one only with a line in the notes;
 - writes the store entries and the state file `<code>/<code>_state.md` (name forms, formulas, register, open threads,
   last verse, open questions).
 
@@ -76,6 +78,14 @@ Quarantine keeps an edition's text of a book away from the agents, so our draft 
 - `make_prompt.py` refuses until it is done; the prompt keeps agents out of `quarantined/` and `source/`.
 - Re-run `scripts/align.py` if the project has lexicons. Use **fresh** agents, not forks. Put reports that quote the
   book in `do_not_open:`.
+
+## When a decision changes
+
+A store decision made after chapters were drafted (a new spelling rule, a changed term) is not carried back by itself.
+With a register (`docs/register.md`), `python3 scripts/lifecycle.py stale <project> --verses` lists the chapters drafted
+before it and the verses it touches; `lifecycle.py migrate <project> --ids <id> ...` shows what would change (a dry run),
+`--apply` makes the mechanical changes (spellings; one-word term swaps the .align locates) with edit records, and lists
+the rest for review. Published chapters get proposals only.
 
 ## Draft status
 

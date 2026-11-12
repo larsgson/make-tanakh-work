@@ -30,6 +30,7 @@ CODE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.path.abspath(os.environ.get("MAKE_TANAKH_ROOT") or CODE)   # the data root (books.py)
 sys.path.insert(0, os.path.join(CODE, "scripts"))
 import langtools as LT  # noqa: E402
+import register as RG  # noqa: E402
 
 
 def show(rows, n, label):
@@ -63,8 +64,8 @@ def main():
     if cmd == "store":
         for fn in ("observations.json", "decisions.json"):
             f = os.path.join(P.profile, fn)
-            if os.path.exists(f):
-                for e in json.load(open(f, encoding="utf-8"))["entries"]:
+            if RG.exists(f):
+                for e in RG.read(f)["entries"]:
                     if re.search(arg, " ".join(str(e.get(k, "")) for k in ("id", "source", "value", "gloss")), re.I):
                         import gloss as G
                         print(json.dumps(e, ensure_ascii=False, indent=1))

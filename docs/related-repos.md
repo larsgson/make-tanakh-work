@@ -9,7 +9,7 @@ make-tanakh's copy. The others: `RELATIONS.md` in the work copy and in make-tana
 |---|---|---|---|
 | **bcv-commons/make-tanakh** (this repo) | the stable toolkit and template: scripts, formats, docs, skills | its own | public |
 | **make-tanakh-work** (larsgson/make-tanakh-work) | data only: projects, drafts, language stores, alignments, the website; a classical template copy | shared with make-tanakh | public |
-| **bcv-commons/make-tanakh-grammar** | the rules-engine lab (how source grammar is rendered in a target language, measured component by component), the language analysis published as bcv-commons/language-analysis, and the place where new tools start | its own | public, screened (no protected texts) |
+| **bcv-commons/make-tanakh-grammar** | the rules-engine lab (how source grammar is rendered in a target language, measured component by component), the language analysis published as bcv-commons/language-analysis, and a place where new tools are built and measured | its own | public, screened (no protected texts) |
 
 Any team can make its own work copy the same way (`docs/workflow.md`, *Your work copy*).
 
@@ -29,8 +29,9 @@ website's content, experiments and tools still being measured. Those live in a w
   (patches and VERIFY files). It is implemented here in this repo's way, not merged; the grammar repo then drops its
   copy and logs the move in its `PROMOTIONS.md`. make-tanakh never imports the grammar repo's code. If a tool here
   ever reads grammar's results, it reads them as a published dataset at a pinned version, like the sources below.
-- **From a work copy: fixes and demos.** A fix found while drafting comes as a patch (`git diff template/main --
-  <path>`), is applied here and goes back to the work copy with its next merge. The demo projects are copied from a
+- **From a work copy: fixes, tools and demos.** A fix found while drafting comes as a patch (`git diff template/main --
+  <path>`), is applied here and goes back to the work copy with its next merge. A tool built in a work copy comes as a
+  delivery, like a promoted one. The demo projects are copied from a
   work copy's published state, by file.
 - **From the rest of bcv-commons and the sources:** bcv-query's clause layouts and prepared source structures,
   compact-alignments' index, the speaker layer, the bibles catalogue, the BSB/MSB and the Greek texts, Grambank,
@@ -50,6 +51,8 @@ website's content, experiments and tools still being measured. Those live in a w
   | clause sidecars | `docs/clause-sidecar.md` | the tag |
   | the `.align` working format | `scripts/full_align.py` (docstring) | follows compact-alignments' `tokenizer_version` 2 and `text_fp_version` 1 |
   | the compact-alignments layer (`full_align.py export`) | `scripts/full_align.py` | `_layer.json` `version` 3, `tokenizer_version`, `text_fp_version` |
+  | the word DB (`_learn/words.db`) | `docs/word-db.md`, `scripts/words.py` (`SCHEMA`) | `meta.format` 1 |
+  | the register (`profile/register/`), the chapter stamp (`.tanakh/runs/`), migration records (`.tanakh/text-migrations/`) | `docs/register.md`, `scripts/register.py`, `scripts/lifecycle.py` | STORE.json `format` 2 |
   | `orig/heb.sqlite`, `orig/grc.sqlite` | `scripts/src.py` (docstring and `SCHEMA`), `docs/sources.md` | the source structure `v1` (`SRC_V` in `setup.py`) |
 
   Adding an optional field or a table is not a breaking change; renaming, removing or changing the meaning of one
@@ -62,12 +65,12 @@ website's content, experiments and tools still being measured. Those live in a w
 
 ## 5. How a change travels
 
-1. A new tool starts in make-tanakh-grammar and is measured there.
+1. A new tool is built and measured in make-tanakh-grammar or in a work copy, coordinated with the template.
 2. When it is ready, it comes to make-tanakh as one delivery; it is implemented here, checked, and committed.
 3. A release is tagged here.
 4. Each work copy merges `template/main` or the tag; its `scripts/`, `docs/` and `.claude/` stay identical to the
    template's.
-5. The grammar repo moves its pin to the new tag and drops its copy of the tool.
+5. The grammar repo moves its pin to the new tag and drops its copy of the tool (if it had one).
 
 A fix found in a work copy takes the short way: a patch to make-tanakh, then back with the next merge. The user
 commits in every repo; agents don't.

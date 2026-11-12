@@ -49,6 +49,22 @@
             "pattern": "^U\\+[0-9A-F]{4,6}$"
           },
           "description": "Combining marks the validator ignores when matching forms (e.g. tone marks)."
+        },
+        "keep_marks": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^U\\+[0-9A-F]{4,6}$"
+          },
+          "description": "Combining marks the word DB's bare forms keep (docs/word-db.md); default: diaeresis, ring, cedilla, ogonek."
+        },
+        "respell": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^spelling:"
+          },
+          "description": "The order of the project's spelling entries (kind spelling) that respell the corpus's words (docs/word-db.md, Respelling)."
         }
       }
     },
@@ -110,7 +126,8 @@
             "name",
             "morph",
             "cell",
-            "claim"
+            "claim",
+            "spelling"
           ]
         },
         "value": {

@@ -43,6 +43,7 @@ sys.path.insert(0, os.path.join(CODE, "scripts"))
 from books import BY_CODE  # noqa: E402
 from project import project, sources, edition, project_dir, project_rel  # noqa: E402
 import langtools as LT  # noqa: E402
+import register as RG  # noqa: E402
 
 COMMON = {"one", "said", "man", "men", "people", "place", "land", "day", "days", "came", "went", "come", "go", "give", "gave", "put", "made", "make", "took", "take", "see", "saw", "know", "like", "way", "thing", "things", "time", "hand", "house", "son", "sons", "name"}
 STOP = set("""a an the and or but of to in on at by for with from as is are was were be been being it its this that these
@@ -115,8 +116,8 @@ def load_profile(folder):
     entries = []
     for fn in ("observations.json", "decisions.json"):
         p = os.path.join(folder, fn)
-        if os.path.exists(p):
-            entries += json.load(open(p, encoding="utf-8")).get("entries", [])
+        if RG.exists(p):
+            entries += RG.read(p).get("entries", [])
     live = {}
     for e in entries:                      # the merged view: a later entry with the same id wins; superseded ones drop out
         live[e["id"]] = e
@@ -192,8 +193,8 @@ def main():
     marks = set()
     for fn in ("observations.json", "decisions.json"):
         pp = os.path.join(pdir, "profile", fn)
-        if os.path.exists(pp):
-            marks |= {chr(int(m[2:], 16)) for m in (json.load(open(pp, encoding="utf-8")).get("orthography") or {}).get("ignore_marks", [])}
+        if RG.exists(pp):
+            marks |= {chr(int(m[2:], 16)) for m in (RG.read(pp).get("orthography") or {}).get("ignore_marks", [])}
     norm = lambda s: strip_marks(s.lower(), marks) if marks else s.lower()
 
     terms = [e for e in prof if e["kind"] == "term"]

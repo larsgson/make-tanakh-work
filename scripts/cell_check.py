@@ -44,6 +44,7 @@ import langtools as LT  # noqa: E402
 import source_cells as SC  # noqa: E402
 import verse_analysis as VA  # noqa: E402
 from books import BY_CODE  # noqa: E402
+import register as RG  # noqa: E402
 
 
 def fold(w):
@@ -71,7 +72,7 @@ def view(P):
     import morphs
     if P.name not in _VIEWS:
         f = os.path.join(P.profile, "observations.json")
-        d = json.load(open(f, encoding="utf-8")) if os.path.exists(f) else {}
+        d = RG.read(f) if RG.exists(f) else {}
         S = morphs.load(P.name, P)
         _VIEWS[P.name] = (S, (d.get("analysis") or {}).get("match", "strings"))
     S, match = _VIEWS[P.name]
@@ -419,7 +420,7 @@ def write_tried(f, G, cell, res, by, where=None):
     agent tries it again unseen. Each claim records its `rerun` command and its `basis` (grammar.basis): when the store
     settings it depended on change, `grammar.py retest` reruns it"""
     import datetime, json
-    d = json.load(open(f, encoding="utf-8"))
+    d = RG.read(f)
     ce0 = VA.store_cell(G, *cell)[0]
     affixes = show({"value": ce0.get("value"), "alternatives": [x for x in ce0.get("alternatives", [])
                                                                 if not free_form(x.get("value")) and x.get("method") != "tested"]})
@@ -451,14 +452,12 @@ def write_tried(f, G, cell, res, by, where=None):
             d["entries"] = [e if x.get("id") == e["id"] else x for x in d["entries"]]
         else:
             d["entries"].append(e)
-    json.dump(d, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    open(f, "a").write("\n")
+    RG.write(f, d, ensure_ascii=False, indent=1, newline=True)
     b = grammar.basis(where or os.path.dirname(f), cell, METHOD)   # after the write: the store as the test now leaves it
     for e in d["entries"]:
         if e.get("rerun", [None])[:4] == ["cell_check.py", "try", cell[0], cell[1]] and e["rerun"][4] in {x for x, _, _ in res}:
             e["basis"], e["basis_corpus"] = b, grammar.corpus(where) if where else None
-    json.dump(d, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    open(f, "a").write("\n")
+    RG.write(f, d, ensure_ascii=False, indent=1, newline=True)
     return f
 
 
