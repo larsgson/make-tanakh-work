@@ -4,6 +4,76 @@ Tags are `vMAJOR.MINOR.PATCH`. A work copy merges a tag; make-tanakh-grammar pin
 Each entry has a **Format changes** section for the stable formats listed in `docs/related-repos.md`, section 4:
 what changed and how existing files move over. Before 1.0 a breaking format change raises the minor version.
 
+## v0.4.0
+
+Three deliveries from the work copy (2026-11-12), built on each other: the word DB, the register, the decisions'
+lifecycle. New tools are now coordinated with the template: one built in a work copy or in make-tanakh-grammar comes
+here as a delivery (`docs/related-repos.md`, *How a change travels*; `CLAUDE.md`, `README.md`, `docs/workflow.md`).
+
+**The word DB and its check.** `words.db` holds the style edition's words per Hebrew and Greek lexeme, from an
+alignment layer of exactly its text (`docs/word-db.md`). make-tanakh and make-tanakh-grammar share the format (grammar's
+`onboard/lexicon.py` schema, extended).
+
+- `scripts/words.py align | build | check | stats | show`:
+  - `align` runs lexeme-aligner's `align-text` on the style edition here, without LLM checking: the text stays on the
+    machine.
+  - `build` reads compact-alignments layers: a local run, `--layer`, or the published layer of `lang.py layers`.
+    `--eflomal` reads the old `align.py` links, as a marked transitional route.
+  - `check` reviews a chapter: decided store terms the verse lacks, spellings the corpus writes otherwise (one-rule
+    variants, store forms included; marks; the project's respelling), expected corpus forms that are missing, and the
+    figure found / checkable. Counts are recounted from the occurrences without the chapter checked. A decided entry
+    is checked in its `scope` (a book, chapter or range), or in the book its id ends in (`term:alah_deu`).
+- `chapter_check.py` adds the word check's REVIEW lines and an INFO figure when the project has a `words.db`.
+- `check_draft.py --spell`: a store form no longer counts as attested when the corpus writes a one-rule variant of it,
+  and the corpus is compared in the project's spelling.
+- A new store kind, `spelling`: one respelling rule per entry (`from, to, context, exceptions, order, said`), with
+  `orthography.respell` (their ordered ids) and `orthography.keep_marks`. The validator, its schema and `wiki.py`
+  accept it (`docs/language-store.md`).
+- `lang.py hbo <project> 639` finds H0639: the Strong's number is zero-padded as orig/heb.sqlite writes it.
+
+**The register.** A project's store can be `profile/register/`: one JSON file per entry (`<kind>/<slug>-<hex6>.json`),
+with `VERSION.json` and `REVISIONS.jsonl`, in make-tanakh-grammar's envelope with its 12 kinds plus `spelling`
+(`docs/register.md`).
+
+- `scripts/register.py convert | check | show | add | supersede | retire | status | bump`. A team's decision is binding:
+  only the team supersedes it.
+- Every store reader and writer goes through one loader (`register.read`, `write`, `exists`, `mtime`; `entries` for the
+  envelope view). It reads the old JSON store unchanged where a project has no register.
+- For a register project, the prompts tell agents to write with `register.py add` / `supersede` instead of editing
+  `profile/decisions.json`.
+- The questionnaire `docs/register/parameters.tsv` (1,161 questions; the Grambank, WALS, APiCS and AUTOTYP rows are
+  CC BY 4.0, credited per row and in `docs/sources.md`).
+
+**The decisions' lifecycle.** `scripts/lifecycle.py` (also `register.py stamp | stale | migrate`), for register
+projects only:
+
+- The chapter stamp `.tanakh/runs/<BOOK>_<CCC>.json`: `make_prompt.py` writes `drafted`, and `chapter_check.py` writes
+  `checked` when nothing is left to fix. Each records the register's revision.
+- `stale` lists the chapters older than a changed decision, with `--verses` the verses it touches.
+- `migrate` is a dry run by default. `--apply` rewrites the drafts for spelling rules and for term swaps the `.align`
+  locates, one token for one token, so the `.align` keeps its positions and only its `# text` fingerprint changes.
+  Every change goes to an edit record (make-tanakh-review's FORMAT.md section 10) under `.tanakh/edits/`, and the batch
+  to a migration record. `--undo` reverses a batch. Published chapters get proposals only.
+
+**Format changes:**
+- New: `words.db` format 1 (`meta.format`); the register (`VERSION.json` `format` 1); the chapter stamp and the
+  migration and edit records under `.tanakh/`. All are listed in `docs/related-repos.md`, section 4.
+- The store: a new kind `spelling`, and the optional fields `orthography.respell` and `orthography.keep_marks`.
+- `project.yaml`: an optional `words:` block (`keep_marks`, `variant_pairs`, `aligner`).
+- The register replaces `profile/decisions.json` and `profile/observations.json` once a project is converted. Until
+  then nothing changes: the JSON store is read as before, and outputs are byte-identical (tested on five projects).
+  The demos keep their JSON stores.
+
+**Migration for a work copy:**
+1. Merge the tag: `git fetch template && git merge v0.4.0`.
+2. Per project, when you choose to: `python3 scripts/register.py convert <project>`. It checks the round trip entry by
+   entry before it removes the two JSON files (`--keep` keeps them). Then `python3 scripts/register.py check <project>`
+   should report 0 errors.
+3. Commit the new `profile/register/` folder and the removal of the JSON files. The `.tanakh/` files that
+   `make_prompt.py` and `chapter_check.py` write from then on belong to the project too.
+4. Optional, per project: `python3 scripts/words.py align <project>` (needs a lexeme-aligner checkout) and
+   `python3 scripts/words.py build <project>`. `_learn/words.db` is git-ignored.
+
 ## v0.3.1
 
 **"Tanakh", not "OT", in the prose** (the work copy's request of 2026-10-30). "Old" is often heard as derogatory, so

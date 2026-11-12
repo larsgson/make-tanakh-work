@@ -40,8 +40,9 @@ sys.path.insert(0, os.path.join(CODE, "scripts"))
 from books import BY_CODE  # noqa: E402
 from project import project_dir  # noqa: E402
 from langtools import WORD_MARKS  # noqa: E402
+import register as RG  # noqa: E402
 
-KINDS = {"feature", "letter", "gap", "term", "formula", "name", "morph", "cell", "claim", "word"}
+KINDS = {"feature", "letter", "gap", "term", "formula", "name", "morph", "cell", "claim", "word", "spelling"}
 NEEDS_EVIDENCE = {"feature", "term", "formula", "name", "morph", "word"}
 SLOTS = {"prefix", "suffix", "infix", "clitic", "free", "tone"}
 VERDICTS = {"confirmed", "corpus-only", "contradicted", "new", "open"}
@@ -149,7 +150,7 @@ def main():
     if len(args) < 2 or args[0] != "check":
         raise SystemExit(__doc__)
     folder = args[1]
-    files = [f for f in ("observations.json", "decisions.json", "external.json") if os.path.exists(os.path.join(folder, f))]
+    files = [f for f in ("observations.json", "decisions.json", "external.json") if RG.exists(os.path.join(folder, f))]
     if not files:
         raise SystemExit(f"no profile files in {folder}")
     problems, notes, warnings = [], [], []
@@ -162,8 +163,9 @@ def main():
     entries, text, marks, links = {}, None, set(), []
     iso = edition = None
     team_ids, others, spelling = set(), [], []
+    respell_ids = []
     for fn in files:
-        prof = json.load(open(os.path.join(folder, fn), encoding="utf-8"))
+        prof = RG.read(os.path.join(folder, fn))
         for k in ("iso", "edition", "partition", "entries"):
             if k not in prof:
                 problems.append(f"{fn}: missing {k}")
@@ -171,6 +173,7 @@ def main():
             problems.append(f"{fn}: partition {prof.get('partition')!r}")
         iso, edition = prof.get("iso", iso), prof.get("edition", edition)
         marks |= {chr(int(m[2:], 16)) for m in (prof.get("orthography") or {}).get("ignore_marks", [])}
+        respell_ids += [(fn, i) for i in (prof.get("orthography") or {}).get("respell") or []]
         if text is None:
             try:
                 text = load_text(text_dir_of(args, iso, edition))
@@ -228,6 +231,21 @@ def main():
                     for c in al.get("cues") or []:
                         if c.get("form") not in fs or c.get("context") not in ("previous", "next", "lemma"):
                             problems.append(f"{where}: alternation cue {c.get('form')!r} {c.get('context')!r}")
+            if k == "spelling":                   # a respelling rule of the project (docs/word-db.md, *Respelling*)
+                if not str(eid).startswith("spelling:"):
+                    problems.append(f"{where}: a spelling entry's id is spelling:<name>")
+                if not isinstance(e.get("from"), str) or not isinstance(e.get("to"), str) or not e.get("said"):
+                    problems.append(f"{where}: a spelling entry needs from, to and said (context, exceptions, order optional)")
+                else:
+                    c = e.get("context") or {}
+                    for x in [e["from"], c.get("before"), c.get("after"), (c.get("unless") or {}).get("before"),
+                              (c.get("unless") or {}).get("after")]:
+                        try:
+                            re.compile(x or "")
+                        except re.error as err:
+                            problems.append(f"{where}: pattern {x!r}: {err}")
+                    if not isinstance(e.get("exceptions", []), list):
+                        problems.append(f"{where}: exceptions is a list of forms")
             if k == "word":                       # a protected word: one whole word, no affix sign
                 if not e.get("form"):
                     problems.append(f"{where}: a protected word needs form")
@@ -317,6 +335,9 @@ def main():
             entries[eid] = e
             if e.get("supersedes"):
                 links.append((where, e["supersedes"]))
+    for fn, i in respell_ids:              # orthography.respell: the order of the spelling entries
+        if entries.get(i, {}).get("kind") != "spelling":
+            problems.append(f"{fn}: orthography.respell names {i!r}, not a spelling entry")
     for where, target in links:
         if target not in entries:
             problems.append(f"{where}: supersedes unknown entry {target}")

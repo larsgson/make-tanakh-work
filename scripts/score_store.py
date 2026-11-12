@@ -8,6 +8,7 @@ Checklist (JSON): {"topics": {"<topic>": ["<regex>", ...], ...}}
     python3 scripts/score_store.py <store dir> <checklist.json> [--missing]
 """
 import json, os, re, sys, unicodedata
+import register as RG  # noqa: E402
 
 
 def fold(s):
@@ -19,8 +20,8 @@ def store_text(d):
     out = []
     for f in ("observations.json", "decisions.json"):
         p = os.path.join(d, f)
-        if os.path.exists(p):
-            for e in json.load(open(p, encoding="utf-8")).get("entries", []):
+        if RG.exists(p):
+            for e in RG.read(p).get("entries", []):
                 if e.get("status") in ("superseded", "rejected"):
                     continue
                 out.append(" ".join(str(e.get(k, "")) for k in ("id", "value", "note"))

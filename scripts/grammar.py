@@ -40,6 +40,7 @@ import collections, csv, datetime, json, os, re, sys
 CODE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.path.abspath(os.environ.get("MAKE_TANAKH_ROOT") or CODE)   # the data root (books.py)
 sys.path.insert(0, os.path.join(CODE, "scripts"))
+import register as RG  # noqa: E402
 GRAMMAR = ("morph", "cell", "claim")
 
 
@@ -69,7 +70,7 @@ class Grammar:
 
 
 def profile_dir(where):
-    if os.path.isdir(where) and os.path.exists(os.path.join(where, "observations.json")):
+    if os.path.isdir(where) and RG.exists(os.path.join(where, "observations.json")):
         return where
     from project import project_dir
     return os.path.join(project_dir(where), "profile")
@@ -77,7 +78,7 @@ def profile_dir(where):
 
 def load(where):
     f = os.path.join(profile_dir(where), "observations.json")
-    return Grammar(json.load(open(f, encoding="utf-8")).get("entries", []) if os.path.exists(f) else [])
+    return Grammar(RG.read(f).get("entries", []) if RG.exists(f) else [])
 
 
 # --- from-tsv -------------------------------------------------------------------------------------------------------
@@ -182,11 +183,11 @@ def from_tsv(src, dst, by, date):
             e["next"] = r["next"]
         out.append(e)
     f = os.path.join(dst, "observations.json")
-    prof = json.load(open(f, encoding="utf-8")) if os.path.exists(f) else {"iso": "", "edition": "", "partition": "observations", "entries": []}
+    prof = RG.read(f) if RG.exists(f) else {"iso": "", "edition": "", "partition": "observations", "entries": []}
     kept = [e for e in prof["entries"] if e.get("kind") not in GRAMMAR]
     prof["entries"] = kept + out
     os.makedirs(dst, exist_ok=True)
-    json.dump(prof, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    RG.write(f, prof, ensure_ascii=False, indent=1)
     n = {k: sum(1 for e in out if e["kind"] == k) for k in GRAMMAR}
     print(f"{f}: {len(kept)} other entries kept; " + ", ".join(f"{v} {k}s" for k, v in n.items()))
 
@@ -212,7 +213,7 @@ def questions():
 
 def entries(where):
     f = os.path.join(profile_dir(where), "observations.json")
-    return json.load(open(f, encoding="utf-8")).get("entries", []) if os.path.exists(f) else []
+    return RG.read(f).get("entries", []) if RG.exists(f) else []
 
 
 def gb_codes(es):
@@ -418,12 +419,12 @@ def run(where, only, write):
         print(f"{len(new)} features; --write puts them into the store")
         return
     f = os.path.join(profile_dir(where), "observations.json")
-    prof = json.load(open(f, encoding="utf-8"))
+    prof = RG.read(f)
     ids = {e["id"] for e in new}
     others = {e["id"] for e in prof["entries"] if e["id"] in ids and e.get("by") != "script:grammar.py"}
     prof["entries"] = [e for e in prof["entries"] if e["id"] not in ids or e["id"] in others] + \
         [e for e in new if e["id"] not in others]
-    json.dump(prof, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    RG.write(f, prof, ensure_ascii=False, indent=1)
     print(f"{f}: {len(new) - len(others)} features written" + (f"; kept the agent's or team's {sorted(others)}" if others else ""))
 
 
@@ -484,7 +485,7 @@ def basis(where, cell=None, method=""):
     (form, slot, host, tone pattern), the cell's own value and its alternatives that no test added, the checking
     method's version. The style corpus is recorded beside it (corpus()), as a profile folder alone doesn't name it"""
     import hashlib
-    d = json.load(open(os.path.join(profile_dir(where), "observations.json"), encoding="utf-8"))
+    d = RG.read(os.path.join(profile_dir(where), "observations.json"))
     G = Grammar(d.get("entries", []))
     parts = {"orthography": d.get("orthography") or {}, "analysis": d.get("analysis") or {}, "method": method,
              "morphs": sorted([e.get("form"), e.get("slot"), e.get("host"), e.get("tone_pattern")]

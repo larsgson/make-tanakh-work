@@ -20,6 +20,7 @@ sys.path.insert(0, os.path.join(CODE, "scripts"))
 from books import BY_CODE  # noqa: E402
 from project import project, sources, edition, project_dir  # noqa: E402
 import vrs  # noqa: E402
+import register as RG  # noqa: E402
 
 
 def _word_marks():
@@ -234,8 +235,8 @@ class Project:
         marks = []
         for fn in ("observations.json", "decisions.json"):
             f = os.path.join(self.profile, fn)
-            if os.path.exists(f):
-                marks += (json.load(open(f, encoding="utf-8")).get("orthography") or {}).get("ignore_marks", [])
+            if RG.exists(f):
+                marks += (RG.read(f).get("orthography") or {}).get("ignore_marks", [])
         self._marks = marks
         self._tok = None
         self.editions = [edition(e) for e in self.p["style_from"]]
@@ -286,8 +287,8 @@ class Project:
         out = set()
         for fn in ("observations.json", "decisions.json"):
             f = os.path.join(self.profile, fn)
-            if os.path.exists(f):
-                for e in json.load(open(f, encoding="utf-8")).get("entries", []):
+            if RG.exists(f):
+                for e in RG.read(f).get("entries", []):
                     if e.get("status") in ("superseded", "rejected") or e.get("kind") not in ("term", "formula", "name"):
                         continue
                     for v in [e.get("value")] + [a.get("value") for a in e.get("alternatives") or [] if isinstance(a, dict)]:
@@ -298,15 +299,42 @@ class Project:
         return out
 
     def spell_check(self, text):
-        """Spelling of a draft against the corpus, as the edition writes it (every mark kept).
+        """Spelling of a draft against the corpus, as the edition writes it (every mark kept), in the project's spelling
+        (the store's `orthography.respell` rules applied to the corpus's forms, scripts/words.py).
         Returns (marks, unknown): marks = [(form, n, corpus spellings)] for forms the corpus has only with other marks
-        (zøveqase -> zøveqasé), unknown = [(form, n)] for forms it doesn't have at all (new names, new words, typos).
-        The store's decided forms count as attested."""
+        (zøveqase -> zøveqasé), for a form written as the corpus writes it where the project respells it (aand -> ånd),
+        and for a store form the corpus writes in a one-rule variant (komer -> kommer: doubled consonant, y/i,
+        ä/e, long vowel, diphthong; words.variants); unknown = [(form, n)] for forms it doesn't have at all (new names,
+        new words, typos). The store's decided forms count as attested unless the corpus writes such a variant."""
+        import words as W
         sp, store = self.spellings(), self.store_forms()
+        R = W.Respeller(W.respell_rules(self), W.names_of(self))
+        changed = {}
+        if R:
+            sp2 = collections.defaultdict(collections.Counter)
+            for c in sp.values():
+                for x, k in c.items():
+                    r = R(x); sp2[self.tok.plain(r)][r] += k
+                    if r != x:
+                        changed[x] = r
+            sp = sp2
+        written = {x for c in sp.values() for x in c}
+        keep = W.keep_marks(self)
+        counts = collections.Counter()
+        for c in sp.values():
+            for x, k in c.items():
+                counts[W.bare(x, keep)] += k
         seen = collections.Counter(self.tok.tokens(text, exact=True))
         marks, unknown = [], []
         for w, n in seen.most_common():
-            if w in store:
+            if w in changed and w not in written:
+                marks.append((w, n, [changed[w]]))
+                continue
+            if w in store and w not in written:
+                vp = (self.p.get("words") or {}).get("variant_pairs")
+                var = W.corpus_variant(w, counts, keep, W.PAIRS if vp is None else [tuple(x) for x in vp])
+                if var:
+                    marks.append((w, n, [var[0]]))
                 continue
             c = sp.get(self.tok.plain(w))
             if not c:

@@ -23,6 +23,11 @@ To review (reported, not failed; each kept one explained in the chapter's notes)
     form, scripts/alternations.py (review)
   - names against the book so far (from the .align files, OT and NT): a name of the original rendered in this chapter
     otherwise than in the earlier chapters of the book (their most frequent rendering, seen at least twice)
+  - words (a project with export/<project>/_learn/words.db, scripts/words.py build; docs/word-db.md): a decided store
+    term whose source word is in the verse and whose value isn't; a draft form the corpus never writes while it writes
+    a one-rule variant (doubled consonant, y/i, ä/e, long vowel, diphthong), store forms included; other marks only;
+    a form in the corpus's spelling where the project respells it (`orthography.respell`); a content word whose usual
+    corpus form isn't in the verse. The chapter itself is left out of the counts. INFO: found/checkable
 
 Usage: python3 scripts/chapter_check.py <project> <code> <chapter>
 """
@@ -136,11 +141,23 @@ def main(a):
             review += morphs.chain_review(pname, code, ch)
     import alternations                           # forms told apart by their marks (tone): the store's cues
     review += alternations.review(pname, code, ch)
+    info = []
+    import words                                  # the corpus's words (words.db): decided terms, spelling, expected forms
+    if os.path.exists(words.db_file(pname)):
+        f = {}
+        review += words.review(pname, code, ch, figure=f)
+        info.append(words.figure_line(f))
     print(f"{pname} {code} {ch}: {len(fix)} to fix, {len(review)} to review")
     for l in fix:
         print(f"  FIX     {l}")
     for l in review:
         print(f"  REVIEW  {l}")
+    for l in info:
+        print(f"  INFO    {l}")
+    import register as RG
+    if not fix and RG.has_register(RG.profile_of(pname)):   # the stamp: checked against this register revision
+        import lifecycle
+        lifecycle.stamp(pname, code, ch, "checked")
     sys.exit(1 if fix else 0)
 
 

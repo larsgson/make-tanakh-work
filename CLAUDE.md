@@ -73,7 +73,7 @@ working; this file adds the rules that hold for any task here.
   along the clause lines and exports exact sidecars.
 - **Related repos** (`docs/related-repos.md`): this repo is the template (tools, formats, docs, skills, two small
   demos); projects live in work copies, which merge `template/main` and never change `scripts/`, `docs/` or
-  `.claude/` themselves; new tools start in bcv-commons/make-tanakh-grammar and arrive here as one delivery. The
+  `.claude/` themselves; new tools are coordinated with the template: one built in a work copy or in bcv-commons/make-tanakh-grammar comes here as a delivery. The
   stable formats listed there change only with a version note in `CHANGELOG.md`. Scripts take code from their own
   folder (`CODE`) and data from `ROOT`: `MAKE_TANAKH_ROOT` if set, else the same folder (`books.py`,
   `docs/configuration.md`).
@@ -125,7 +125,10 @@ python3 scripts/usage.py <project> add <code><nnn> --tokens N | summary # tokens
 python3 scripts/memory_prompt.py <project>           # prompt for an agent that builds the store and wiki, by mode
 python3 scripts/make_prompt.py <project> <code> <ch> [--end-align] # chapter prompt (tagged drafting; --end-align: the old way)
 python3 scripts/make_prompt.py <project> <code> --book [a-b] [--handoff N] # the book agent's prompt: chapters in order, handover after N
-python3 scripts/chapter_check.py <project> <code> <ch> # the checks inside the loop: to fix (format, alignment, quotes), to review (negations, names, copy)
+python3 scripts/chapter_check.py <project> <code> <ch> # the checks inside the loop: to fix (format, alignment, quotes), to review (negations, names, copy, words)
+python3 scripts/register.py convert|check|show|add|supersede|retire|status|bump <project> ... # the store as one entry per file (profile/register/, docs/register.md); agents add and change entries with it
+python3 scripts/register.py stale|migrate <project> ... [--apply|--undo REC] (also lifecycle.py) # which chapters predate a changed decision; carry decisions back (dry run by default; edit records)
+python3 scripts/words.py align|build|check|stats|show <project> ... # the word DB (_learn/words.db, docs/word-db.md): the edition's words per source lexeme from an alignment layer of exactly its text; check: decided terms, spelling (store forms too, the project's respelling), expected forms
 python3 scripts/package.py <project> <code> <ch>   # clause packages for a chapter (Tanakh: orig/heb.sqlite; NT: orig/grc.sqlite and the Greek NT clause layout; the project's .align, store, NT bridge; who: the participant ids)
 python3 scripts/check_draft.py <project> [code] [--spell] # verse/format checks of drafts; spelling against the corpus, marks kept
 python3 scripts/notes_hebrew.py <project> <code> <ch> | --all | show <code> <ch>:<v> # the notes' Hebrew/Greek from the WLC/BGB, with the credit line
@@ -184,4 +187,4 @@ python3 scripts/macula_to_tf.py <delivery dir>       # draft Text-Fabric dataset
 ```
 
 Sources, versions and licences: `docs/sources.md`. Config fields: `docs/configuration.md`. The language store's
-format: `docs/language-store.md`; the clause sidecars': `docs/clause-sidecar.md`.
+format: `docs/language-store.md`; the clause sidecars': `docs/clause-sidecar.md`; the word DB's: `docs/word-db.md`; the register's: `docs/register.md`.

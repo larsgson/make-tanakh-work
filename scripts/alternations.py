@@ -34,6 +34,7 @@ import collections, glob, os, sys, unicodedata
 CODE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.path.abspath(os.environ.get("MAKE_TANAKH_ROOT") or CODE)   # the data root (books.py)
 sys.path.insert(0, os.path.join(CODE, "scripts"))
+import register as RG  # noqa: E402
 GNTL = os.path.join(ROOT, "download", "greek-nt-clause-layout")
 # the feature names of each context (the Greek ones are lang.greek_features' plus lemma and class)
 CONTEXTS = {"near": {"next", "previous", "within 3", "position"},
@@ -389,12 +390,11 @@ def write_entries(pname, new):
     """add the entries to the store's observations.json; an id already live is left alone (reported)"""
     import json, langtools as LT
     f = os.path.join(LT.Project(pname).profile, "observations.json")
-    data = json.load(open(f, encoding="utf-8"))
+    data = RG.read(f)
     live = {e["id"] for e in data["entries"] if e.get("status") != "superseded"}
     added = [e for e in new if e["id"] not in live]
     data["entries"] += added
-    json.dump(data, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    open(f, "a", encoding="utf-8").write("\n")
+    RG.write(f, data, ensure_ascii=False, indent=1, newline=True)
     return added, [e["id"] for e in new if e["id"] in live]
 
 

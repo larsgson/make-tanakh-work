@@ -42,6 +42,7 @@ ROOT = os.path.abspath(os.environ.get("MAKE_TANAKH_ROOT") or CODE)   # the data 
 sys.path.insert(0, os.path.join(CODE, "scripts"))
 import langtools as LT  # noqa: E402
 from books import BY_CODE  # noqa: E402
+import register as RG  # noqa: E402
 
 GREEK = {"critical": "orig/grc", "majority": "orig/grc-rp", "tr": "orig/grc-rp"}
 
@@ -310,7 +311,7 @@ def main():
             print(f"WARNING: eflomal is not installed for {sys.executable}: aligning with the built-in IBM2 model "
                   "(less precise; docs/onboarding.md: External tools)", file=sys.stderr)
     obs = os.path.join(P.profile, "observations.json")
-    store = json.load(open(obs, encoding="utf-8")) if os.path.exists(obs) else {}
+    store = RG.read(obs) if RG.exists(obs) else {}
     affixes = any(e.get("kind") == "morph" and e.get("slot") in ("prefix", "infix", "suffix")
                   and e.get("status") in ("observed", "decided") for e in store.get("entries", []))
     unit = a[a.index("--by") + 1] if "--by" in a else (store.get("analysis") or {}).get(

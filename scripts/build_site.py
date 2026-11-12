@@ -22,6 +22,7 @@ sys.path.insert(0, os.path.join(CODE, "scripts"))
 import wiki  # noqa: E402
 import status  # noqa: E402
 from project import project, edition, LICENCE_CLASS, project_dir, project_rel  # noqa: E402
+import register as RG  # noqa: E402
 project_edition = edition
 
 UI = {   # interface strings by school language; the content stays as written
@@ -427,8 +428,8 @@ def next_steps(pname, p, tracked, od, ui, banner, built, nav, lc, rows, preview)
     n = 0
     for part in ("observations", "decisions"):
         f = os.path.join(pdir, "profile", f"{part}.json")
-        if os.path.exists(f):
-            n += len(J.load(open(f, encoding="utf-8")).get("entries", []))
+        if RG.exists(f):
+            n += len(RG.read(f).get("entries", []))
     pages = len([f for f in glob.glob(os.path.join(pdir, "wiki", "**", "*.md"), recursive=True)])
     if n:
         done.append(("The language memory", f"<p>{n} entries about the language and {pages} wiki pages, each with its "

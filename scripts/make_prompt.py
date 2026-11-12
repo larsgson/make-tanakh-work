@@ -20,6 +20,7 @@ import datetime, os, re, sys
 from books import BY_CODE, CODE
 from project import edition, project, sources, must_quarantine, missing_texts, ROOT, project_dir, project_rel, derived_dir
 import quotes, vrs
+import register as RG  # noqa: E402
 
 NAMES = {
     "orig/heb": ("Hebrew/Aramaic text (Hebrew verse numbering, one clause per line as `verse:indent text`)", "Hebrew"),
@@ -301,7 +302,7 @@ def main():
         # (a pack built in advance for a wave goes stale as soon as one chapter writes the store)
         vp = os.path.join(project_dir(pname), "_learn", "packs", f"{code}{nnn}.md")
         store = [os.path.join(project_dir(pname), "profile", f) for f in ("observations.json", "decisions.json")]
-        newest = max((os.path.getmtime(f) for f in store if os.path.exists(f)), default=0)
+        newest = max((RG.mtime(f) for f in store if RG.exists(f)), default=0)
         if os.path.exists(vp) and os.path.getmtime(vp) < newest:
             raise SystemExit(f"{os.path.relpath(vp, ROOT)} is older than the store: this project drafts one chapter after "
                              f"another (modes.py: sequential), with each pack built just in time. Wait for the chapter in "
@@ -315,6 +316,10 @@ def main():
     template = open(os.path.join(CODE, "docs", "prompts", "chapter_prompt.md"), encoding="utf-8").read()
     body = template.split("\n---\n", 1)[1]
     text = body.format(**fields)
+    if RG.has_register(RG.profile_of(pname)):   # the chapter's stamp: drafted against this register revision
+        import lifecycle
+        lifecycle.stamp(pname, code, chapter, "drafted")
+        text = RG.agent_wording(text, pname)
     print(re.sub(r"\n{3,}", "\n\n", text).strip())
 
 

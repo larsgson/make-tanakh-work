@@ -32,6 +32,7 @@ ROOT = os.path.abspath(os.environ.get("MAKE_TANAKH_ROOT") or CODE)   # the data 
 sys.path.insert(0, os.path.join(CODE, "scripts"))
 import langtools as LT  # noqa: E402
 from books import BY_CODE  # noqa: E402
+import register as RG  # noqa: E402
 
 HEB, GRC = os.path.join(ROOT, "orig", "heb.sqlite"), os.path.join(ROOT, "orig", "grc.sqlite")
 EDITION = {"critical": "bgb", "majority": "rp", "tr": "rp"}
@@ -340,7 +341,8 @@ def grc(pname, strong, nverses=2):
 
 def hbo(pname, lex, nverses=1):
     P, con = connect(pname)
-    lex = lex.lstrip("Hh")
+    m = re.fullmatch(r"[Hh]?0*(\d+)([a-z]?)", lex.strip())  # orig/heb.sqlite writes 4 digits: 639, H639 -> 0639
+    lex = f"{int(m[1]):04d}{m[2]}" if m else lex.lstrip("Hh")
     occ = con.execute("select count(*), max(lemma), max(gloss) from h.tokens where lexeme=?", (lex,)).fetchone()
     bridge = con.execute("select greekstrong, greek, n from h.lxx where lexeme=? order by n desc", (lex,)).fetchall()
     with_eq = sum(b[2] for b in bridge)
@@ -554,7 +556,7 @@ def derive(pname, quiet=False):
     #     two): the candidates for a grammatical tone morph's tone_pattern
     import json, morphs
     pf = os.path.join(P.profile, "observations.json")
-    spec = morphs.ToneSpec(json.load(open(pf, encoding="utf-8")).get("orthography") if os.path.exists(pf) else {})
+    spec = morphs.ToneSpec(RG.read(pf).get("orthography") if RG.exists(pf) else {})
 
     def tone_sig(raw):
         cl = morphs.clusters((raw or "").lower())

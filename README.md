@@ -77,8 +77,8 @@ a language the model doesn't know: Bodo Parja (CC BY, Odia script) and Zinza (CC
 
 This repo is the template: tools, formats, docs and skills, plus the two demos. Projects live in a **work copy**, a
 copy of the template that merges its updates and keeps only data (`docs/workflow.md`, *Your work copy*), so the
-template stays free of project data. New tools start in bcv-commons/make-tanakh-grammar and come here when they are
-measured. How the three relate, what each gives the others and how versions are pinned:
+template stays free of project data. New tools are coordinated with the template: built in a work copy or in
+bcv-commons/make-tanakh-grammar, they come here as a delivery when they are measured. How the three relate, what each gives the others and how versions are pinned:
 [`docs/related-repos.md`](docs/related-repos.md); the versions: [`CHANGELOG.md`](CHANGELOG.md).
 
 ## Layout
