@@ -94,7 +94,7 @@ def render(e):
     elif e.get("kind") == "word":
         head += f" `{e.get('form')}` (a protected word: never split)"
     elif e.get("kind") == "spelling":         # a respelling rule: its sentence
-        head = f"- **`{e['id']}`** `{e.get('from')}` → `{e.get('to')}`: {e.get('said', '')}"
+        head = f"- **`{e['id']}`** `{e.get('match')}` → `{e.get('replace')}`: {e.get('said', '')}"
     head += f" [{', '.join(t for t in tags if t)}]"
     if e.get("pattern"):
         head += f" — `{e['pattern']}`"

@@ -57,14 +57,18 @@ and the payload of its kind:
 | `orthography` | normalization, ignore_marks, tone, keep_marks, respell |
 | `answer` | text, ref, entries, who |
 | `question` | text, ref, unit, group, asked, answer |
-| `spelling` | from, to, context {before, after, unless}, exceptions, order, said (`docs/word-db.md`, *Respelling*) |
+| `spelling` | match, replace, context {before, after, unless}, exceptions, order, said (`docs/word-db.md`, *Respelling*) |
 
-**`store`**, the one field beyond grammar's: what the old store file needs for an exact round trip: `file` (the store
-file the entry was in), and only where they differ from what the envelope gives back, `id` (the store id), `kind`
-(the store kind), `status` (the store status), `rest` (store fields the envelope and payload have no place for:
-`method` where it isn't `team-decision`/`project-decision`/`external`, `confidence` outside features, `alternatives`
-fields beyond the renderings, `stats`, `tests`, `figures`, ...), `drop` and `keys` (the field order). It is
-bookkeeping for the old readers; an entry written by `register.py add` has only `file`.
+**The round trip** stays out of the entries: an entry holds only the envelope and its kind's payload, so
+make-tanakh-grammar's check accepts it as it is. The pointer to the old store is the envelope's `origin`
+(`store:<file>#<store id>`). What an exact round trip needs beyond it is kept in the conversion's sidecar, STORE.json,
+under `round_trip`, by entry id (the *store part*): `file` and `id` where `origin` doesn't give them, and, where they
+differ from what the envelope gives back, `kind` (the store kind), `status` (the store status), `rest` (store fields
+the envelope and payload have no place for: `method` where it isn't `team-decision`/`project-decision`/`external`,
+`confidence` outside features, `alternatives` fields beyond the renderings, `stats`, `tests`, `figures`, ...), `drop`
+and `keys` (the field order). It is bookkeeping for the old readers; an entry written by `register.py add` has none.
+STORE.json `format` 2; a v0.4.0 register (`format` 1) kept the store part in each entry as `store`: it is read as
+before; `register.py convert` run again moves the store parts to STORE.json (no new revision).
 
 ### The mapping from the store
 
@@ -73,17 +77,17 @@ bookkeeping for the old readers; an entry written by `register.py add` has only 
 | `id` `term:…`, `name:…`, `formula:…`, `letter:…`, `spelling:…` | the same id |
 | `m:…`, `w:…` | `morph:…`, `word:…` |
 | `gap:…`, kind `gap` | `choice:…` |
-| `claim:…`, kind `claim`; kind `cell`; a `feature` that isn't `gb:`/`gs:` | `rule:…` (store kind kept in `store.kind`) |
+| `claim:…`, kind `claim`; kind `cell`; a `feature` that isn't `gb:`/`gs:` | `rule:…` (the store kind kept in its store part) |
 | `gb:…` | `feature:…`; `gs:…` → `feature:gs:…` |
 | the orthography of a file | an `orthography` entry: `orthography:main` (a file whose orthography differs: `orthography:<partition>`) |
 | `method` `team-decision` / `project-decision` / `external` / other | `basis` `team` / `human` / `external` / `model` (by `agent:…`) or `derived` |
 | `status` `decided` (team or human) / `open` / `superseded` / `retired` / `observed` and the rest | the same / `proposed` (the store status kept) |
-| `date` | `when` (none: `1970-01-01`, `store.drop`) |
+| `date` | `when` (none: `1970-01-01`, the store part's `drop`) |
 | `value` + `alternatives` (term, name; formula with alternatives) | `value` + `renderings` (the value `preferred`, each alternative `admitted` or `deprecated`) |
 | `supersedes` (a store id) | the register id it maps to |
 
 This is grammar's `onboard/register.py seed` mapping, with two differences: nothing is left out (cells, alternation
-cues and superseded entries are kept: `seed` drops them as statistics), and every store field survives (`store`).
+cues and superseded entries are kept: `seed` drops them as statistics), and every store field survives (the store part).
 
 ## Reading and writing: one loader
 
@@ -121,10 +125,10 @@ python3 scripts/register.py status <project> <id> decided
 python3 scripts/register.py bump <project>                # a new revision (also a git tag name to suggest; no tag is made)
 ```
 
-**The rules** (`check`): an id is `<kind>:<name>`, unique; status, basis, `when` valid; no field outside the envelope,
-the payload and `store`; a rendering's status is preferred/admitted/deprecated, the value is the preferred one;
+**The rules** (`check`): an id is `<kind>:<name>`, unique; status, basis, `when` valid; no field outside the envelope
+and the payload; a rendering's status is preferred/admitted/deprecated, the value is the preferred one;
 `supersedes` names an entry of the register; **only the team supersedes the team's decided entry**; a spelling entry
-has `from`, `to`, `said` and patterns that compile; `orthography.respell` names spelling entries; each file's name is
+has `match`, `replace`, `said` and patterns that compile; `orthography.respell` names spelling entries; each file's name is
 `file_of(its id)`.
 
 ## Lifecycle

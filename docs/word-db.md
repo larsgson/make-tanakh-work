@@ -119,14 +119,14 @@ team can decide the rules one at a time, and a migration can name the rule it ap
 ```json
 {"id": "spelling:aa", "kind": "spelling", "value": "aa → å", "status": "decided", "method": "project-decision",
  "confidence": "medium", "by": "...", "date": "2026-11-12", "note": "...",
- "from": "aa", "to": "å",
+ "match": "aa", "replace": "å",
  "exceptions": ["baal"], "order": 1,
  "said": "aa is written å: Aand → Ånd, gaa → gå."}
 ```
 
-The payload (`from, to, context, exceptions, order, said`) stands beside the envelope, as in make-tanakh-grammar's
+The payload (`match, replace, context, exceptions, order, said`) stands beside the envelope, as in make-tanakh-grammar's
 register; `value` is its short form. `orthography.respell` in the same file holds only the ordered list of the spelling
-entries' ids (without it, they apply by `order`). `from` is a regular expression on the lower-case form;
+entries' ids (without it, they apply by `order`). `match` is a regular expression on the lower-case form, `replace` what it becomes;
 `context.before` must match the text before it (at its end), `context.after` the text after it (at its start; `$` = the
 word's end); `context.unless` (both parts) keeps a match; `exceptions` are forms left as they are (loanwords), also
 inside a compound (`baal` keeps `Baalspræst`). Names (the store's name values, and forms the corpus links mostly

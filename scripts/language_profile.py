@@ -234,11 +234,11 @@ def main():
             if k == "spelling":                   # a respelling rule of the project (docs/word-db.md, *Respelling*)
                 if not str(eid).startswith("spelling:"):
                     problems.append(f"{where}: a spelling entry's id is spelling:<name>")
-                if not isinstance(e.get("from"), str) or not isinstance(e.get("to"), str) or not e.get("said"):
-                    problems.append(f"{where}: a spelling entry needs from, to and said (context, exceptions, order optional)")
+                if not isinstance(e.get("match"), str) or not isinstance(e.get("replace"), str) or not e.get("said"):
+                    problems.append(f"{where}: a spelling entry needs match, replace and said (context, exceptions, order optional)")
                 else:
                     c = e.get("context") or {}
-                    for x in [e["from"], c.get("before"), c.get("after"), (c.get("unless") or {}).get("before"),
+                    for x in [e["match"], c.get("before"), c.get("after"), (c.get("unless") or {}).get("before"),
                               (c.get("unless") or {}).get("after")]:
                         try:
                             re.compile(x or "")

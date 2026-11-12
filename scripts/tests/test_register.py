@@ -29,7 +29,7 @@ DEC = {"iso": "toy", "edition": "toy_BSB", "partition": "decisions", "licence": 
             "status": "superseded"},
            {"id": "term:new", "kind": "term", "value": "bb", "supersedes": "term:old", "method": "project-decision",
             "by": "agent:z", "date": "2026-10-06", "status": "decided", "evidence": [{"ref": "GEN 1:1", "form": "bb"}]},
-           {"id": "spelling:ph", "kind": "spelling", "value": "ph → f", "from": "ph", "to": "f", "said": "ph is written f",
+           {"id": "spelling:ph", "kind": "spelling", "value": "ph → f", "match": "ph", "replace": "f", "said": "ph is written f",
             "method": "project-decision", "by": "agent:z", "date": "2026-10-07", "status": "decided"},
        ]}
 
@@ -56,8 +56,10 @@ assert t["basis"] == "team" and t["status"] == "decided" and t["renderings"][1] 
 assert E["term:new"]["supersedes"] == "term:old" and E["orthography:main"]["ignore_marks"] == ["U+0300"]
 assert E["orthography:decisions"]["normalization"] == "NFC"
 assert RG.sid_of(E["rule:x_y"]) == "claim:x y"
-err, warn = RG.check(list(E.values()))
+err, warn = RG.check(RG.load(RG.register_dir(d), store=False))     # the files as they are: no `store` in them
 assert not err, err
+assert all("store" not in x for x in RG.load(RG.register_dir(d), store=False))
+assert json.load(open(os.path.join(RG.register_dir(d), "STORE.json"), encoding="utf-8"))["round_trip"]
 assert not RG.check_files(RG.register_dir(d))
 assert RG.revision(d) == "register-1"
 
@@ -88,10 +90,10 @@ assert set(ch) == {"choice:bird", "term:H1288", "term:H1288.2", "choice:fish"} a
 rev, changed = RG.bump(d, "2026-11-12")
 assert rev == "register-2" and changed["term:H1288.2"] == "added" and changed["term:H1288"] == "added" and changed["choice:fish"] == "changed"
 assert RG.changed_since(d, "register-2") == {} and set(RG.changed_since(d, "register-1")) == set(ch)
-assert not RG.check(RG.entries(profile=d))[0]
+assert not RG.check(RG.load(RG.register_dir(d), store=False))[0]
 
 # the rules catch what they should
-bad = [dict(E["term:new"], id="term:new x"), dict(E["term:H639"], value="other"), {**E["spelling:ph"], "from": "("},
+bad = [dict(E["term:new"], id="term:new x"), dict(E["term:H639"], value="other"), {**E["spelling:ph"], "match": "("},
        dict(E["term:new"], id="term:z", supersedes="term:none")]
 err = RG.check(bad)[0]
 assert any("white space" in x for x in err) and any("preferred rendering" in x for x in err)

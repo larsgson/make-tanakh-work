@@ -123,18 +123,18 @@ def found(form, words):
 
 # --- respelling (the project's spelling of corpus forms) ----------------------
 
-SPELLING = ("from", "to", "context", "exceptions", "order", "said")   # a spelling entry's payload
+SPELLING = ("match", "replace", "context", "exceptions", "order", "said")   # a spelling entry's payload
 LIVE_SPELLING = ("decided",)                 # the statuses of a spelling entry that respell (open: proposed, not in force)
 
 
 def spelling_rules(store, statuses=LIVE_SPELLING):
     """the ordered respelling rules of a store, {"entries": [...], "orthography": {"respell": [ids]}}: its `spelling`
     entries (kind spelling, not superseded, of the given statuses), in the order of `orthography.respell` (the ids),
-    else by their `order`. A rule is the entry's payload, beside the envelope as in the register: {from, to, context:
+    else by their `order`. A rule is the entry's payload, beside the envelope as in the register: {match, replace, context:
     {before, after, unless: {before, after}}, exceptions: [forms], order, said}; `value` is its short form, `l → u`"""
     es = [e for e in store.get("entries", []) if e.get("kind") == "spelling"]
     gone = {e.get("supersedes") for e in store.get("entries", []) if e.get("supersedes")}
-    live = {e["id"]: e for e in es if e.get("status") in statuses and e["id"] not in gone and isinstance(e.get("from"), str)}
+    live = {e["id"]: e for e in es if e.get("status") in statuses and e["id"] not in gone and isinstance(e.get("match"), str)}
     ids = (store.get("orthography") or {}).get("respell")
     if ids is None:
         ids = sorted(live, key=lambda i: (live[i].get("order", 0), i))
@@ -169,7 +169,7 @@ class Respeller:
     def __init__(self, rules, names=()):
         def ctx(r):
             c = r.get("context") or {}; u = c.get("unless") or {}
-            return dict(r, rx=re.compile(r["from"]), b=re.compile(f"(?:{c['before']})$") if c.get("before") else None,
+            return dict(r, rx=re.compile(r["match"]), b=re.compile(f"(?:{c['before']})$") if c.get("before") else None,
                         a=re.compile(c["after"]) if c.get("after") else None,
                         ub=re.compile(f"(?:{u['before']})$") if u.get("before") else None,
                         ua=re.compile(u["after"]) if u.get("after") else None,
@@ -193,7 +193,7 @@ class Respeller:
             if ok and (r["ub"] or r["ua"]):
                 ok = not ((not r["ub"] or r["ub"].search(pre)) and (not r["ua"] or r["ua"].match(post)))
             if ok:
-                out += [w[last:m.start()], r["to"]]; last = m.end()
+                out += [w[last:m.start()], r["replace"]]; last = m.end()
         return "".join(out) + w[last:]
 
     def __call__(self, form):

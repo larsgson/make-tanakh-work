@@ -4,6 +4,31 @@ Tags are `vMAJOR.MINOR.PATCH`. A work copy merges a tag; make-tanakh-grammar pin
 Each entry has a **Format changes** section for the stable formats listed in `docs/related-repos.md`, section 4:
 what changed and how existing files move over. Before 1.0 a breaking format change raises the minor version.
 
+## v0.5.0
+
+**Two field names in the register, as make-tanakh-grammar decided** (the work copy's follow-up to v0.4.0,
+2026-11-12). With both, a converted entry passes grammar's check as it is.
+
+- **The spelling payload is `match, replace, context, exceptions, order, said`.** It was `from, to, …`, and that
+  `from` clashed with the envelope's `from` (the answers and questions an entry was made from). `register.py check`
+  no longer treats a spelling entry's `from` as a special case. Changed in `register.py`, `words.py`,
+  `language_profile.py`, `wiki.py`, the docs and the tests.
+- **The round trip to the old JSON store is out of the entries.** The pointer is the envelope's `origin`
+  (`store:<file>#<store id>`). What an exact round trip needs beyond it is kept in STORE.json's `round_trip`, by entry
+  id. The `store` field and `check`'s exemption for it are gone (`docs/register.md`, *The round trip*).
+
+**Format changes:**
+- The `spelling` kind: `from` → `match`, `to` → `replace`, in the JSON store and in the register. No reader accepts
+  the old names. A store with spelling entries renames the two keys by hand (none are known: the work copy has
+  none).
+- The register: STORE.json `format` 2, with `round_trip`. A v0.4.0 register (`format` 1, the `store` part inside each
+  entry) is still read exactly; `register.py convert` run again moves all its store parts to STORE.json (a single `add`,
+  `supersede` or `status` moves that entry's). Until then, `register.py check` reports `unknown keys ['store']`.
+
+**Migration for a work copy:** merge v0.5.0, then convert as v0.4.0's note says
+(`python3 scripts/register.py convert <project>`, then `check`). A project converted on v0.4.0: run `convert` again. It
+rewrites the entries in format 2 (round trip checked, no new revision); commit the changed entry files and STORE.json.
+
 ## v0.4.0
 
 Three deliveries from the work copy (2026-11-12), built on each other: the word DB, the register, the decisions'

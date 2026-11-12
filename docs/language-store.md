@@ -73,7 +73,7 @@ Rules:
   the letter entries' names; `by-rule` entries are for a speaker's review.
 - **`morph`**, **`cell`**, **`claim`**: the grammar (below); **`word`**: a protected word, never split (below).
 - **`spelling`** (decisions.json, id `spelling:<name>`): one respelling rule of the project, the corpus's words in the
-  project's spelling; fields `from`, `to`, `context: {before, after, unless}`, `exceptions: [forms]`, `order`, `said`
+  project's spelling; fields `match`, `replace`, `context: {before, after, unless}`, `exceptions: [forms]`, `order`, `said`
   (the one-sentence rule the drafter's prompt shows), `value` its short form (`l → u`). Only `decided` ones apply, in the order of
   `orthography.respell`; each has its own status and `supersedes`. No evidence required (a rule may cite its source).
   `docs/word-db.md`, *Respelling*.

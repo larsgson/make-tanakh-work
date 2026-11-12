@@ -115,7 +115,7 @@ def test_spelling_variants():
 
 
 def spelling(i, frm, to, status="decided", order=1, **ctx):
-    return {"id": f"spelling:{i}", "kind": "spelling", "status": status, "value": f"{frm} → {to}", "from": frm, "to": to,
+    return {"id": f"spelling:{i}", "kind": "spelling", "status": status, "value": f"{frm} → {to}", "match": frm, "replace": to,
             "context": ctx, "exceptions": ["phalanx"], "order": order, "said": f"{frm} is written {to}"}
 
 
@@ -154,7 +154,7 @@ if __name__ == "__main__":
             f()
     assert W.in_scope(None, "exo", 21) and W.in_scope("ALL", "gen", 1) and W.in_scope(["EXO 21-23", "LEV"], "exo", 22)
 assert W.in_scope("LEV", "lev", 5) and not W.in_scope(["EXO 21-23"], "exo", 24) and not W.in_scope("EXO", "gen", 1)
-R = W.Respeller([{"from": "l", "to": "u", "context": {"after": "[^aeiou]|$"}, "exceptions": ["altar"]}])
+R = W.Respeller([{"match": "l", "replace": "u", "context": {"after": "[^aeiou]|$"}, "exceptions": ["altar"]}])
 assert R("altar") == "altar" and R("brandopferaltar") == "brandopferaltar" and R("wält") == "wäut" and R("altarwält") == "altarwäut"
 assert W.id_scope("term:alah_deu") == "DEU" and W.id_scope("term:ets-est") == "EST" and W.id_scope("term:H639") is None
 assert W.id_scope("term:H5650_slave_law") is None

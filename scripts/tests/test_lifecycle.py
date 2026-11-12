@@ -37,7 +37,7 @@ assert LC.case_like("Wält", "wäut") == "Wäut" and LC.case_like("HERR", "herr"
 # a batch: Wält -> Wäut (both verses), voll -> vou
 LC.project_dir = lambda p: pdir
 LC.ROOT = d
-R = W.Respeller([{"from": "l", "to": "u", "context": {"before": "[äo]", "after": "t"}}, {"from": "ll$", "to": "u"}])
+R = W.Respeller([{"match": "l", "replace": "u", "context": {"before": "[äo]", "after": "t"}}, {"match": "ll$", "replace": "u"}])
 changes = []
 for v, p, a, b, cut in toks:
     w = DRAFT[a:b]; new = R(w.lower())

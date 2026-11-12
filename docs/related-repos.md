@@ -52,7 +52,7 @@ website's content, experiments and tools still being measured. Those live in a w
   | the `.align` working format | `scripts/full_align.py` (docstring) | follows compact-alignments' `tokenizer_version` 2 and `text_fp_version` 1 |
   | the compact-alignments layer (`full_align.py export`) | `scripts/full_align.py` | `_layer.json` `version` 3, `tokenizer_version`, `text_fp_version` |
   | the word DB (`_learn/words.db`) | `docs/word-db.md`, `scripts/words.py` (`SCHEMA`) | `meta.format` 1 |
-  | the register (`profile/register/`), the chapter stamp (`.tanakh/runs/`), migration records (`.tanakh/text-migrations/`) | `docs/register.md`, `scripts/register.py`, `scripts/lifecycle.py` | `VERSION.json` `format` 1 |
+  | the register (`profile/register/`), the chapter stamp (`.tanakh/runs/`), migration records (`.tanakh/text-migrations/`) | `docs/register.md`, `scripts/register.py`, `scripts/lifecycle.py` | STORE.json `format` 2 |
   | `orig/heb.sqlite`, `orig/grc.sqlite` | `scripts/src.py` (docstring and `SCHEMA`), `docs/sources.md` | the source structure `v1` (`SRC_V` in `setup.py`) |
 
   Adding an optional field or a table is not a breaking change; renaming, removing or changing the meaning of one

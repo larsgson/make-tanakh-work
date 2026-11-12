@@ -12,8 +12,9 @@
     python3 scripts/register.py bump <project> [--date D]        # a new revision: VERSION.json, REVISIONS.jsonl
 
 The envelope and the 13 kinds are make-tanakh-grammar's register (shared/register.py, 2026-11-12) plus `spelling`; the
-store's entries keep every field: what the envelope and the kind's payload have no place for is kept in `store` (the
-old file, id, kind, status and other fields), so `store_file()` gives back the old JSON exactly. Every reader of the
+store's entries keep every field: what the envelope and the kind's payload have no place for (the old file, id, kind,
+status and other fields) is kept in STORE.json's `round_trip`, never in the entry, so `store_file()` gives back the
+old JSON exactly. Every reader of the
 store reads through `store_file()` / `store_files()` (old JSON files or a register folder, whichever the project has),
 every writer through `save_store()`; `entries()` gives the register's own view.
 
@@ -23,7 +24,8 @@ import argparse, copy, datetime, hashlib, json, os, re, sys
 CODE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(CODE, "scripts"))
 
-FORMAT = 1
+FORMAT = 2                      # STORE.json `format`: 2 = the round trip in STORE.json (v0.5.0), 1 = in the entries
+ROUND_TRIP = "round_trip"       # STORE.json: {entry id: its store part}, what an exact round trip needs beyond origin
 FILES = ("observations.json", "decisions.json", "external.json")
 KINDS = {   # kind -> (plural, payload keys): grammar's 12 + spelling
     "feature": ("features", ("parameter", "confidence", "frequency", "examples")),
@@ -39,7 +41,7 @@ KINDS = {   # kind -> (plural, payload keys): grammar's 12 + spelling
     "orthography": ("orthography", ("normalization", "ignore_marks", "tone", "keep_marks", "respell")),
     "answer": ("answers", ("text", "ref", "entries", "who")),
     "question": ("questions", ("text", "ref", "unit", "group", "asked", "answer")),
-    "spelling": ("spellings", ("from", "to", "context", "exceptions", "order", "said")),
+    "spelling": ("spellings", ("match", "replace", "context", "exceptions", "order", "said")),
 }
 ENVELOPE = ("id", "kind", "value", "status", "basis", "by", "when", "supersedes", "scope", "evidence", "from", "origin", "note")
 REQUIRED = ("id", "kind", "value", "status", "basis", "by", "when")
@@ -220,24 +222,71 @@ def to_store(r, sids):
 
 # ------------------------------------------------------------------ the register folder
 
-def load(d):
-    """all entries of a register folder, kind by kind, by file name"""
+def load(d, store=True):
+    """all entries of a register folder, kind by kind, by file name; store: each with its `store` part (the round trip
+    to the old JSON files, kept in STORE.json's `round_trip`, never in the entry file), else exactly as the files hold
+    them. An entry file written by v0.4.0 holds its `store` part itself: read as before, moved out at the next write"""
+    rt = _layout(d).get(ROUND_TRIP) or {} if store else {}
     out = []
     for kind in KINDS:
         k = os.path.join(d, kind)
-        if os.path.isdir(k):
-            out += [json.load(open(os.path.join(k, f), encoding="utf-8")) for f in sorted(os.listdir(k)) if f.endswith(".json")]
+        for f in sorted(os.listdir(k)) if os.path.isdir(k) else []:
+            if f.endswith(".json"):
+                e = json.load(open(os.path.join(k, f), encoding="utf-8"))
+                if store:
+                    st = _full_store(e, e.pop("store", None) or rt.get(e.get("id")))
+                    if st:
+                        e["store"] = st
+                out.append(e)
     return out
+
+
+def _origin_file(e):
+    o = str(e.get("origin") or "")
+    return o[6:].split("#", 1)[0] if o.startswith("store:") else None
+
+
+def _full_store(e, st):
+    """an entry's `store` part, its file filled in from `origin`"""
+    st = dict(st or {})
+    if "file" not in st and _origin_file(e):
+        st["file"] = _origin_file(e)
+    return st
+
+
+def _small_store(e, st):
+    """what of an entry's `store` part STORE.json keeps: the file and id only where `origin` doesn't give them"""
+    st = dict(st or {})
+    if st.get("file") and st["file"] == _origin_file(e):
+        del st["file"]
+    if st.get("id") and st["id"] == sid_of(e):
+        o = str(e.get("origin") or "")
+        if o.startswith("store:") and o.split("#", 1)[-1] == st["id"]:
+            del st["id"]
+    return st
 
 
 def _dump(e):
     return json.dumps(e, ensure_ascii=False, indent=1) + "\n"
 
 
-def write_entry(d, e):
-    p = os.path.join(d, file_of(e["id"])); os.makedirs(os.path.dirname(p), exist_ok=True)
-    with open(p, "w", encoding="utf-8") as fh:
-        fh.write(_dump(e))
+def write_entry(d, e, lay=None, write=True):
+    """an entry's file, without its `store` part, which goes into the layout's `round_trip` (lay: the layout being built,
+    written by the caller; None: STORE.json read and written here); write=False: the round trip only"""
+    e = dict(e); small = _small_store(e, e.pop("store", None))
+    if write:
+        p = os.path.join(d, file_of(e["id"])); os.makedirs(os.path.dirname(p), exist_ok=True)
+        with open(p, "w", encoding="utf-8") as fh:
+            fh.write(_dump(e))
+    own = lay is None
+    lay = _layout(d) if own else lay
+    rt = lay.setdefault(ROUND_TRIP, {})
+    if small:
+        rt[e["id"]] = small
+    else:
+        rt.pop(e["id"], None)
+    if own:
+        _write_layout(d, lay)
     _CACHE.clear(); _STAMP.clear()
 
 
@@ -257,7 +306,7 @@ def write_store(d, files, when=None):
     header and order. The orthography becomes an entry, `orthography:main` (a file whose orthography differs gets
     `orthography:<partition>`)"""
     os.makedirs(d, exist_ok=True)
-    old = {e["id"]: e for e in load(d)}
+    old = {e["id"]: e for e in load(d, store=False)}      # the files as they are, to rewrite only what changes
     taken, keep, lay, ids = set(), set(), {"format": FORMAT, "files": {}}, {}
     plan = []
     for fn, data in files.items():
@@ -277,7 +326,7 @@ def write_store(d, files, when=None):
                 same = "orthography:main" if not orth else f"orthography:{data.get('partition') or fn.split('.')[0]}"
                 orth[same] = head["orthography"]
                 o = head["orthography"]
-                x = old.get(same) or {"id": same, "kind": "orthography", "value": "the language's writing", "status": "proposed",
+                x = dict(old.get(same) or {}) or {"id": same, "kind": "orthography", "value": "the language's writing", "status": "proposed",
                                       "basis": "derived", "by": "script:register.py", "when": when or datetime.date.today().isoformat()}
                 x = {k: v for k, v in x.items() if k not in KINDS["orthography"][1] and k != "store"}
                 extra = {k: v for k, v in o.items() if k not in KINDS["orthography"][1]}
@@ -286,13 +335,12 @@ def write_store(d, files, when=None):
                 if extra:
                     st["rest"] = extra
                 x["store"] = st
-                write_entry(d, x); keep.add(file_of(same))
+                write_entry(d, x, lay); keep.add(file_of(same))
             head["orthography"] = {"$entry": same}
         lay["files"][fn] = {"header": head, "keys": list(data), "entries": [rid for f, e, rid, k in plan if f == fn]}
     for fn, e, rid, kind in plan:
         r = from_store(e, fn, rid, kind, ids)
-        if old.get(rid) != r:
-            write_entry(d, r)
+        write_entry(d, r, lay, write=old.get(rid) != {k: v for k, v in r.items() if k != "store"})
         keep.add(file_of(rid))
     for kind in KINDS:
         k = os.path.join(d, kind)
@@ -528,7 +576,7 @@ def check(E, protected=False, params=None):
             err.append(f"{where}: basis {e['basis']}")
         if not DATE.match(str(e["when"])):
             err.append(f"{where}: when {e['when']}")
-        extra = set(e) - set(ENVELOPE) - set(KINDS[k][1]) - {"store"}
+        extra = set(e) - set(ENVELOPE) - set(KINDS[k][1])
         if extra:
             err.append(f"{where}: unknown keys {sorted(extra)}")
         for ev in e.get("evidence") or []:
@@ -541,11 +589,11 @@ def check(E, protected=False, params=None):
         if pref and e["value"] not in pref:
             err.append(f"{where}: the value is the preferred rendering ({pref[0]}), not {e['value']}")
         if k == "spelling":
-            if not isinstance(e.get("from"), str) or not isinstance(e.get("to"), str) or not e.get("said"):
-                err.append(f"{where}: a spelling entry needs from, to and said")
+            if not isinstance(e.get("match"), str) or not isinstance(e.get("replace"), str) or not e.get("said"):
+                err.append(f"{where}: a spelling entry needs match, replace and said")
             else:
                 c = e.get("context") or {}
-                for x in [e["from"], c.get("before"), c.get("after"), (c.get("unless") or {}).get("before"),
+                for x in [e["match"], c.get("before"), c.get("after"), (c.get("unless") or {}).get("before"),
                           (c.get("unless") or {}).get("after")]:
                     try:
                         re.compile(x or "")
@@ -558,7 +606,7 @@ def check(E, protected=False, params=None):
         elif s and ids[s]["basis"] == "team" and ids[s]["status"] in ("decided", "superseded") and e["basis"] != "team" \
                 and ids[s].get("status") == "decided":
             err.append(f"{e['id']}: only the team may supersede the team's decision {s}")
-        for f in (e.get("from") if isinstance(e.get("from"), list) else []):   # a spelling entry's `from` is its pattern
+        for f in e.get("from") or []:
             if f not in ids or ids[f]["kind"] not in ("answer", "question"):
                 warn.append(f"{e['id']}: from {f}, which is no answer or question of the register")
         if e["kind"] == "orthography":
@@ -609,7 +657,7 @@ def revisions(profile):
 def bump(profile, date=None):
     """a new revision: VERSION.json {revision, date, entries, sha256, digests}, a REVISIONS.jsonl line of the ids changed
     since the last one. The revision is also a suggested git tag name; no tag is made"""
-    d = register_dir(profile); v = version(d); E = load(d)
+    d = register_dir(profile); v = version(d); E = load(d, store=False)
     dig = {e["id"]: digest(e) for e in E}
     old = v.get("digests") or {}
     changed = {i: "added" for i in dig if i not in old} | {i: "changed" for i in dig if i in old and old[i] != dig[i]} \
@@ -635,7 +683,7 @@ def changed_since(profile, rev):
             out.update(r["changed"])
     if has_register(profile):
         d = register_dir(profile); dig = version(d).get("digests") or {}
-        for e in load(d):
+        for e in load(d, store=False):
             if dig.get(e["id"]) != digest(e):
                 out.setdefault(e["id"], "unreleased")
     return out
@@ -664,7 +712,7 @@ def add(profile, e, fn=None):
     e["store"] = {"file": fn, **({"id": e["id"]} if e["origin"] == f"store:{fn}#{e['id']}" else {})}
     if e["kind"] in ("term", "name") and isinstance(e.get("value"), str) and not e.get("renderings"):
         e["renderings"] = [{"form": e["value"], "status": "preferred"}]
-    err, _ = check(list(E.values()) + [e])
+    err, _ = check([{k: v for k, v in x.items() if k != "store"} for x in list(E.values()) + [e]])
     err = [x for x in err if x.startswith(e["id"] + ":")]
     if err:
         sys.exit("\n".join(err))
@@ -708,7 +756,7 @@ def set_status(profile, eid, status, note=None, by=None):
         sys.exit(f"no entry {eid}")
     if status not in STATUSES:
         sys.exit(f"status {status}: one of {STATUSES}")
-    e = json.load(open(p, encoding="utf-8")); e["status"] = status
+    e = next(x for x in load(d) if x["id"] == eid); e["status"] = status
     st = e.get("store") or {}
     st.pop("status", None)
     if note:
@@ -720,6 +768,9 @@ def set_status(profile, eid, status, note=None, by=None):
 # ------------------------------------------------------------------ commands
 
 def convert(profile, keep=False, when=None):
+    """the JSON store -> the register (round trip checked); on a project that has a register already, its entries are
+    written again in the current format (a v0.4.0 register's store parts move to STORE.json), with no new revision"""
+    first = not has_register(profile)
     files = store_files(profile)
     if not files:
         sys.exit(f"no store in {profile}")
@@ -729,7 +780,8 @@ def convert(profile, keep=False, when=None):
     for fn, data in files.items():
         if json.dumps(back[fn], ensure_ascii=False) != json.dumps(data, ensure_ascii=False):
             sys.exit(f"round trip failed for {fn}: the register is in {d}, the JSON files are kept")
-    bump(profile, when)                      # register-1: the store as it was converted
+    if first:
+        bump(profile, when)                  # register-1: the store as it was converted
     if not keep:
         for fn in files:
             if os.path.exists(os.path.join(profile, fn)):
@@ -777,7 +829,8 @@ def main():
         print(f"{sum(len(x.get('entries', [])) for x in files.values())} entries of {', '.join(files)} -> {d}"
               f" (round trip exact{'; JSON files kept' if a.keep else '; JSON files removed'})")
     elif a.cmd == "check":
-        E = entries(profile=prof)
+        E = load(register_dir(prof), store=False) if has_register(prof) else \
+            [{k: v for k, v in e.items() if k != "store"} for e in entries(profile=prof)]
         err, warn = check(E)
         if has_register(prof):
             err += check_files(register_dir(prof))
