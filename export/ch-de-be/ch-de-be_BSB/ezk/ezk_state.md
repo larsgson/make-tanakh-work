@@ -1,0 +1,133 @@
+# Ezechiel – Arbeitsstand (Tanakh-Lauf, Agent 5 von 5; 15.11.2026)
+
+Letztes fertiges Kapitel: **43** (15.11.2026).
+
+## Register und Stil
+- Kopf `===Ds Buech Ezechiel, Kapitel N===`. Ich-Bericht des Propheten im Perfekt; Gottesrede in „…“, Rede in der Rede ‚…‘.
+- Bietenhard-Punkte (12.11.2026): ga / nä / sta ohne h; abgetrennte Vorsilbe lang (uuf, uus, aa); »für e / dür e / uf e« + m. Nomen; »gäge / i / a« + blosses Nomen; wägem; dd- im Partizip (ddeckt); »heisse«, nie »nenne«; l bleibt.
+- Feste Formeln des Buches (im Store, sobald zuerst gebraucht):
+  - וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר »Ds Wort vom HERR isch zu mir cho:« (formula:word_came_to_me)
+  - בֶּן־אָדָם »Mönschesuhn« (Anrede »Du Mönschesuhn«; term:son_of_man)
+  - כֹּה אָמַר אֲדֹנָי יְהוִה »So seit der Herr, HERR« (formula:thus_says_yhwh)
+  - נְאֻם אֲדֹנָי יְהוִה »Usspruch vom Herr, HERR« (term:H5002_utterance)
+  - וִידַעְתֶּם כִּי־אֲנִי יְהוָה »De wärdet dihr erchenne, dass i der HERR bi« (formula:know_that_i_am_yhwh)
+  - חַי־אָנִי »So wahr i läbe« (formula:as_i_live)
+
+## Feste Wiedergaben (Kap.)
+- Kap. 1: יַד־יְהוָה »d Hand vom HERR isch uf ihm gsi«; חַיּוֹת »Wäse«; אוֹפַן »Rad/Räder«; רָקִיעַ »d Feschti« (term:H7549); חַשְׁמַל »Bärnstei«; כָּסָה »zuedecke«.
+- Kap. 2: בֶּן־אָדָם »Mönschesuhn« (formula:ben_adam); בֵּית מְרִי »es ufsässigs Huus« (formula:bet_meri); »So seit der Herr, HERR«; »ob si lose oder ’s la sy«; מְגִלַּת סֵפֶר »Buechrolle«.
+- Kap. 3: »Ds Wort vom HERR isch zu mir cho:« (formula:word_came_to_me); צֹפֶה »Wächter«; זָהַר »warne«; רָשָׁע »der Gottlos«; צַדִּיק »der Grächt«; בִּקְעָה »d Ebeni«.
+- Kap. 4: Zeichenhandlung: Ziegel, Belagerigsmuur, Damm, Murebrecher; »der Stab vom Brot«; Masse in Fussnoten (Schekel, Hin).
+- Kap. 5: »I, der HERR, ha ’s gseit« (formula:i_yhwh_have_spoken); שִׁקּוּצִים »gruusigi Götze«; גִּלּוּלִים »Götze«; לְכָל־רוּחַ »i alli Himelsrichtige«; מִשְׁפָּטִים »myni Rächt«, חֻקּוֹת »myni Ornige«; דֶּבֶר »Süüch«; חֵמָה »Wuet«; אַף »Töubi«; תַּעַר »Rasiermässer«.
+- Kap. 6: Erkenntnisformel »De wärdet dihr / wärde si erchenne, dass i der HERR bi« (formula:know_that_i_am_yhwh); בָּמוֹת »Opferhöchine«; חַמָּנִים »Röucheraltär«; גִּבְעָה »Höger«; רֵיחַ נִיחֹחַ »e feine Duft«.
+- Kap. 7: קֵץ »ds Ändi«; צְפִירָה »ds Verhängnis«; חָרוֹן »Wuet« (term:H2740); שָׁפַךְ »schütte … uus«; זְקֵנִים »Eltischte«; תָּקוֹעַ »Posuune«; Poesie V. 2b-27.
+- Kap. 8: סֵמֶל הַקִּנְאָה »ds Götzebild vo der Yfersucht«; אוּלָם »Vorhalle«; חָצֵר »Vorhof«; הֵיכָל »Tämpel«; מִקְטֶרֶת »Röucherpfanne«.
+- Kap. 9: לְבֻשׁ הַבַּדִּים »i Lyne aagleit«; קֶסֶת הַסֹּפֵר »Schrybzüüg«; תָּו »es Zeiche«; כְּרוּב »Cherub«.
+- Kap. 10: כְּרוּבִים »Cherube«; גַּלְגַּל »Räderwärch«; Ostor; Wortlaut der Thronvision wie Kap. 1.
+- Kap. 11: »Usspruch vom Herr, HERR« am Satzende (formula:declares_adonai_yhwh); Bundesformel »De sy si mys Volk, und i bi ire Gott«; »ds steinige Härz … es Härz us Fleisch«; סִיר »Hafe«.
+- Kap. 12: נָשִׂיא »Fürscht«; מַשָּׂא »Usspruch«; לֵאמֹר der Wortereignisformel als ^-6,7 vor »cho« (sonst Warnung der Alignment-Prüfung).
+- Kap. 13: תָּפֵל »Kalch«; כְּסָתוֹת »Zouberbänder«; שָׁוְא »Nichtigs«; רוּחַ סְעָרוֹת »Sturmwind« (nicht term:H7307_wind).
+- Kap. 14: מִכְשׁוֹל »Stolperstei«; Noach, Daniel und Hiob; פָּתָה »betöre«.
+- Kap. 15: גֶּפֶן »Räbstock«; »untröi worde« als Perfekt von term:H4604_unfaithful.
+- Kap. 16: זָנָה (Verb) »umehuere« (term:H2181_verb_umehuere), זוֹנָה »Proschtituierti«; »Blutti«; »ds Glück zrügg gä«; »en ewige Bund«.
+- Kap. 17: נֶשֶׁר »Adler«; אֶרֶז »Zeder«; אִם לֹא im Schwur bejahend; זֶרַע V. 5 »Same«.
+- Kap. 18: »nach Rächt und Grächtigkeit handle« (formula:mishpat_tsedaqa); רִשְׁעָה »Schlächtigkeit«; רֵעַ »Mitmönsch«; »söll am Läbe blybe«.
+- Kap. 19: קִינָה »Chlagelied« (als //1 //2); לְבִיָּא »Löiin«, כְּפִיר »junge Löi«.
+- Kap. 20: נָשָׂא יָד »my Hand zum Schwur ufha«; »um my Name wille«; »mit starcher Hand und usgstreckte Arm«; מָרָה »sech gäge … stelle«.
+- Kap. 21: »gschliffe und poliert« (Schwertlied); תְּרָפִים »Huusgötze«; חָלָל רָשָׁע »entweihte, gottlose«.
+- Kap. 22: עִיר הַדָּמִים »Bluetstadt«; סִיג »Schlacke«; יָתוֹם וְאַלְמָנָה »Waisechind und Witfroue«.
+- Kap. 23: עָגַב »vergaffet sy i«; זִמָּה »Schamlosigkeit«; Verb זָנָה »umehuere«.
+- Kap. 24: סִיר »Chessel«; חֶלְאָה »Roscht«; מַחְמַד עֵינֶיךָ »ds Liebschte vo dyne Ouge«.
+- Kap. 25: הֶאָח »Ätsch!«; בְּנֵי קֶדֶם »d Lüt vom Oschte«; נָטָה יָד »d Hand usstrecke«.
+- Kap. 26: מִשְׁטַח חֲרָמִים »Platz zum Netzusspreite«; בּוֹר (Unterwelt) »Grueb«; תְּהוֹם »d Tiefi«.
+- Kap. 27: Tyrus als Schiff: חֹבְלִים »Stüürmanne«, מַלָּחִים »Seelüt«, שָׁטִים »Ruederer«; רֹכֶלֶת »Handel trybe / handle«.
+- Kap. 28: נָגִיד »Herrscher«; כְּרוּב הַסּוֹכֵךְ »Cherub, wo beschützt«; Edelsteine wie Ex 28.
+- Kap. 29: תַּנִּים »Ungheuer«; יְאֹרִים »Nilarme«; מִשְׁעֶנֶת קָנֶה »Stab us Schilf«.
+- Kap. 30: אֱלִילִים »nichtigi Gottheite«; זְרוֹעַ »Arm«; Städtenamen Ägyptens.
+- Kap. 31: שְׁאוֹל »Toterych«; בּוֹר (Unterwelt) »Grueb«; אֶרֶץ תַּחְתִּית »Land drunde«.
+- Kap. 32: חַלְלֵי חֶרֶב »die, wo dür ds Schwärt erschlage sy«; עֲרֵלִים »Unbeschnitteni«; יוֹרְדֵי בוֹר »die, wo i d Grueb abe gö«.
+- Kap. 33: צֹפֶה »Wächter«; זָהַר »warne«; יָרַשׁ »i Bsitz nä«.
+- Kap. 34: רֹעֶה »Hirt«; צֹאן im Hirtenbild »Schaf / Härde«; בְּרִית שָׁלוֹם »Bund vom Fride«.
+- Kap. 35: הַר שֵׂעִיר »Bärgland Se'ir«; אֵיבַת עוֹלָם »uralti Findschaft«.
+- Kap. 36: לֵב חָדָשׁ וְרוּחַ חֲדָשָׁה »es nöis Härz und e nöie Geischt«; שֵׁם קָדְשִׁי »my heilige Name«.
+- Kap. 37: רוּחַ »Geischt«; עֵץ (Ez 37) »Stäcke«; בְּרִית שָׁלוֹם »Bund vom Fride«.
+- Kap. 38: נְשִׂיא רֹאשׁ »Oberfürscht«.
+- Kap. 39: גֵּיא הֲמוֹן גּוֹג »Hamon-Gog-Tal«.
+- Kap. 40: תָּא »Nische«; אַיִל »Pfyler«; אוּלָם »Vorhalle«; קְנֵה הַמִּדָּה »Mässruete«.
+- Kap. 41: הֵיכָל »Houptruum«; קֹדֶשׁ הַקֳּדָשִׁים »ds Allerheiligschte«; צֵלָע »Syteruum«.
+- Kap. 42: לִשְׁכָּה »Chammer«; קָדְשֵׁי הַקֳּדָשִׁים »ds Hochheilige«.
+- Kap. 43: כְּבוֹד יְהוָה »d Herrlechkeit vom HERR«; הַרְאֵל »Opferhärd«; חִטֵּא »entsündige«.
+- Kap. 44: נֵכָר »Frömdi«; מִכְשׁוֹל »Stolperstei«; חֵרֶם »Bannguet«; נָשִׂיא »Fürscht«.
+- Kap. 45: תְּרוּמָה »Abgab«; אֵיפָה »Efa«; בַּת »Bat«; חֹמֶר »Homer«.
+- Kap. 46: הִשְׁתַּחֲוָה »aabätte«; עֹלַת תָּמִיד »ds tägleche Brandopfer«; שְׁנַת הַדְּרוֹר »ds Jahr vo der Freilassig«.
+- Kap. 47: נַחַל »Strom«; גֵּר »Frömde«; גּוּר »z Gascht sy«.
+- Kap. 48: יְהוָה שָׁמָּה »Der HERR isch da«; תְּרוּמָה »Abgab«.
+- Kap. 43: כְּבוֹד יְהוָה »d Herrlechkeit vom HERR«; הַרְאֵל »Opferhärd«; חִטֵּא »entsündige«.
+
+## Namen
+- Kap. 1: Ezechiel, Busi, Kebar, Jojachin, Chaldäer
+- Kap. 3: Tel-Abib
+- Kap. 6: Dibla
+- Kap. 8: Jaasanja, Schafan, Tammus
+- Kap. 11: Asur, Pelatja, Benaja, Chaldäa
+- Kap. 12: Babel
+- Kap. 14: Hiob, Daniel, Noach
+- Kap. 16: Hetiterin, Assyrer, Aram, Samarie
+- Kap. 17: Libanon, Pharao
+- Kap. 20: Bama
+- Kap. 21: Negev, Rabba, Ammoniter
+- Kap. 23: Ohola, Oholiba, Pekod, Schoa, Koa
+- Kap. 24: Ezechiel
+- Kap. 25: Rabba, Teman, Dedan, Bet-Jeschimot, Baal-Meon, Kirjatajim, Kreter
+- Kap. 26: Tyrus, Nebukadnezar
+- Kap. 27: Arwad, Helech, Gammaditer, Bet-Togarma, Elischa, Helbon, Wedan, Usal, Kanne, Kilmad, Minnit, Ragma
+- Kap. 28: Daniel, Eden, Sidon, Jakob
+- Kap. 29: Syene, Pathros, Migdol, Kusch
+- Kap. 30: No, Sin, On, Pi-Beset, Kub, Memfis, Tachpanches, Zoan
+- Kap. 31: Assur, Eden, Libanon
+- Kap. 32: Elam, Meschech, Tubal, Edom, Sidonier
+- Kap. 33: Abraham
+- Kap. 34: David
+- Kap. 35: Se'ir, Edom
+- Kap. 36: Edom, Eden
+- Kap. 37: David, Jakob, Josef, Juda, Efraim
+- Kap. 38: Gog, Magog, Meschech, Tubal, Persie, Kusch, Put, Gomer, Bet-Togarma, Scheba, Dedan, Tarsis
+- Kap. 39: Gog, Magog, Hamona, Baschan, Jakob
+- Kap. 40: Zadok, Levi
+- Kap. 43: Kebar, Zadok
+- Kap. 44: Zadok
+- Kap. 45: Israel
+- Kap. 47: Josef, Hetlon, Hamat, Zedad, Berota, Sibrajim, Damaskus, Hauran, Gilead, Jordan, Tamar, Meriba, Kadesch, En-Gedi, En-Eglajim
+- Kap. 48: Dan, Ascher, Naftali, Manasse, Efraim, Ruben, Juda, Zadok, Benjamin, Simeon, Issachar, Sebulon, Gad, Tamar, Meriba, Kadesch, Hetlon, Hamat, Hazar-Enan, Damaskus, Levi, Josef
+- Kap. 43: Kebar, Zadok
+
+## Offene Fragen
+- Kap. 1: 1,14 בָּזָק »Blitz«; Buchtitel.
+- Kap. 6: 6,14 Dibla oder Ribla.
+- Kap. 7: 7,7.10 צְפִירָה unsicher.
+- Kap. 8: 8,17 der Zweig an der Nase.
+- Kap. 10: 10,14 Kerub-Gesicht statt Stier (1,10).
+- Kap. 11: 11,19 »eis Härz« oder »es nöis Härz«.
+- Kap. 13: 13,4 Füchse oder Schakale.
+- Kap. 14: 14,14 Daniel: der Prophet oder der Weise (Ketiv דנאל).
+- Kap. 16: 16,7 בַּעֲדִי עֲדָיִים; 16,36 נְחֻשְׁתֵּךְ.
+- Kap. 19: 19,7 אַלְמְנוֹתָיו; 19,10 בְדָמְךָ.
+- Kap. 20: 20,25 »Ornige, wo nid guet gsi sy«: so stehen lassen?
+- Kap. 21: 21,15.18 sehr unsicherer Text.
+- Kap. 22: 22,25 Propheten oder Fürsten (LXX).
+- Kap. 23: 23,32 מִרְבָּה לְהָכִיל unsicher.
+- Kap. 24: 24,12 תְּאֻנִים הֶלְאָת unsicher; 24,17 לֶחֶם אֲנָשִׁים.
+- Kap. 27: 27,17 פַּנַּג; 27,19 וְדָן.
+- Kap. 28: 28,14 Cherub (MT) oder mit dem Cherub (LXX); 28,12 חוֹתֵם תָּכְנִית.
+- Kap. 30: 30,5 כָּל־הָעֶרֶב und כּוּב unsicher.
+- Kap. 31: 31,3 Assur oder Zypresse (תְּאַשּׁוּר).
+- Kap. 32: 32,27 MT mit לֹא; עֲוֺנֹתָם »Schilde« nach Konjektur.
+- Kap. 37: 37:9 רוּחַ: Geischt / Atem / Wind – einheitlich »Geischt« gewählt.
+- Kap. 38: 38:2 רֹאשׁ als Titel (Oberfürst) oder Volksname Rosch?
+- Kap. 40: 40:44 שָׁרִים »Sänger« (MT) oder »zwei« (LXX)?
+- Kap. 41: 41:1 הָאֹהֶל (MT »Zelt«) oder »Pfeiler« (LXX)?
+- Kap. 42: 42:16 קָנִים »Ruten« (MT) oder »Ellen« (LXX/BSB)?
+- Kap. 43: 43:7 בָּמוֹתָם »bei ihrem Tod« oder »ihre Höhen«?
+- Kap. 45: 45:5 zwänzg Chammere (MT) oder Städte (LXX)?
+- Kap. 43: 43:7 בָּמוֹתָם »bei ihrem Tod« oder »ihre Höhen«?
+

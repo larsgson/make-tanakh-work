@@ -379,7 +379,7 @@ Psalmen sind das Stilmodell für die übrige Poesie (Hiob, Sprüche, Propheten).
   - NT: JHN 12:15 *Tochter Zion*; PSA 9:15 *der Tochter Zion*
   - answers: daughter zion, daughter of zion
   - agent:psa009, 2026-10-29
-- **`term:H7911`** שָׁכַח → **vergässe** [high, decided, attested]
+- **`term:H7911`** שָׁכַח → **vergässe / vergisst / vergissisch** [high, decided, attested]
   - gloss: שָׁכַח: תִּשְׁכַּ֥ח (PSA 10:12) — English (generated): forget
   - NT: MAT 16:5 *vergässe*; PSA 10:12 *Vergiss di Arme nid*
   - answers: forget, forgotten
@@ -526,12 +526,6 @@ Psalmen sind das Stilmodell für die übrige Poesie (Hiob, Sprüche, Propheten).
   - answers: horn
   - Sg. »ds Horn« zum belegten Plural »Hörner«; Bild der Kraft (Ps 18,3; 75; 89; 92; 112; 132; 148) wird beibehalten. REVIEW »English?« in 18,3 ist damit erklärt.
   - agent:psa018, 2026-10-29
-- **`term:H3742_cherub`** כְּרוּב → **Cherub** [high, decided, by-rule]
-  - gloss: כְּרוּב: כְּ֭רוּב (PSA 18:11) — English (generated): a cherub
-  - NT: HEB 9:5 *Cherube*; PSA 18:11 *emene Cherub*
-  - answers: cherub
-  - Sg. »Cherub«, Pl. »Cherube« (Hebr 9,5). Ps 80,2; 99,1 »wo über de Cherube thronet«.
-  - agent:psa018, 2026-10-29
 - **`formula:barukh_3`** בָּרוּךְ (Lobpreis) → **Globet syg** [high, decided, attested]
   - gloss: בָּרַךְ: בָר֣וּךְ (PSA 18:47) — English (generated): and blessed be
   - NT: LUK 2:20 *Gott globet*; EPH 1:3 *Lobet Gott*; PSA 18:47 *Globet syg*
@@ -627,12 +621,6 @@ Psalmen sind das Stilmodell für die übrige Poesie (Hiob, Sprüche, Propheten).
   - answers: loving devotion and faithfulness, steadfast love and faithfulness
   - Wie Joh 1,14 (Gnade und Wahrheit); Ps 25,10; 40,11-12; 57,4; 61,8; 85,11; 86,15; 89,15; 115,1; 117,2; 138,2.
   - agent:psa025, 2026-10-29
-- **`term:H730_cedar`** אֶרֶז → **Zedere** [high, decided, by-rule]
-  - gloss: אֶרֶז: אֲרָזִ֑ים (PSA 29:5) — English (generated): the cedars
-  - NT: PSA 29:5 *d Zedere*
-  - answers: cedar, cedars
-  - Sg. »d Zeder«, Pl. »d Zedere«. Ps 29; 80,11; 92,13; 104,16; 148,9.
-  - agent:psa029, 2026-10-29
 - **`name:lebanon`** לְבָנוֹן → **Libanon** [high, decided, by-rule]
   - NT: PSA 29:5 *vom Libanon*
   - answers: lebanon
@@ -1327,11 +1315,13 @@ Psalmen sind das Stilmodell für die übrige Poesie (Hiob, Sprüche, Propheten).
   - answers: Wallfahrtslied, song of ascents
   - Fest für Ps 120-134 (auch לַמַּעֲלוֹת Ps 121); mit Autor: »Es Wallfahrtslied. Vom David.«
   - agent:psa120, 2026-10-29
-- **`name:meshech`** מֶשֶׁךְ → **Meschech** [high, decided, by-rule]
-  - NT: PSA 120:5 *z Meschech*
+- **`name:meshech`** מֶשֶׁךְ → **Meschech** [high, decided, by-rule]
+  - gloss: מֶשֶׁךְ: מֶ֣שֶׁךְ (EZK 38:2) — English (generated): of Meshech
+  - gloss: מֶשֶׁךְ: מֶ֥שֶׁךְ (EZK 38:3) — English (generated): of Meshech
+  - NT: EZK 38:2 *Meschech*
   - answers: Meshech
-  - Schweizer Schreibung sch.
-  - agent:psa120, 2026-10-29
+  - מֶשֶׁךְ.
+  - agent:ezk038, 2026-11-15
 - **`name:kedar`** קֵדָר → **Kedar** [high, decided, by-rule]
   - NT: PSA 120:5 *Zält vo Kedar*
   - answers: Kedar
@@ -1413,4 +1403,4 @@ Psalmen sind das Stilmodell für die übrige Poesie (Hiob, Sprüche, Propheten).
   - answers: cymbals, cymbal
   - Becken (Musikinstrument); Einzahl Zimbel.
   - agent:psa150, 2026-10-29
-<!-- store:end sha=442c48df -->
+<!-- store:end sha=ec77e074 -->

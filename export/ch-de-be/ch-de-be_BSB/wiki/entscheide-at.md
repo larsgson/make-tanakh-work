@@ -1,6 +1,6 @@
 ---
 title: Entscheide AT-Wortschatz
-entries: [term:H2617, term:H1350, term:H2205, term:H3618, term:H2545, term:H8184, term:H2406, term:H7105, term:H7641, term:H1637, term:H5401, formula:weep_aloud, term:H2009, term:H3247, term:H4487, term:H2904, term:H7021, term:royal_robe, term:H1254, formula:in_the_beginning, formula:tohu_wabohu, term:H8415, term:H7549, formula:evening_morning, formula:and_it_was_so, formula:that_it_was_good, formula:after_its_kind, term:nefesh_chayah, term:H120, term:H5175, term:H6174, term:H779, term:H1288, term:H3999, term:H8392, term:H7198, term:H1285, term:H2555, term:H4135, term:H8198, term:H1616, term:H2233, term:H6666, term:gebiret, term:H3045_sex, term:H436, term:H520, term:H8255, formula:gathered_to_people, formula:here_i_am, formula:and_he_died, term:H5631, term:H953, term:captain_guard, term:H4676, term:H2748, term:H8441, term:H6629, term:H3701, term:H6485, term:rech_nichoach, term:midwife, formula:fear_god, term:chayah_piel, term:brick_clay, term:perek, term:forced_labor, term:store_cities, term:nile, term:newborn_son_daughter, formula:the_more_the_more, term:qutz_dread, term:chayot, term:deal_shrewdly, term:sharats, term:title_exodus, term:tebah_basket, term:H1573_papyrus, term:tar_pitch, term:H5488_reeds, term:hebrew_adj, term:H2896_beautiful, term:H3243_nurse, term:H4871_draw_out, term:H584_groan, term:H5647_avodah_work, formula:named_him, term:ruler_judge, term:H5572_bush, term:H5927_bring_up, term:H7342_spacious, term:days_journey, formula:milk_honey, formula:peoples_list, formula:ehyeh, formula:god_of_fathers, term:H2859_father_in_law, term:H2205_elders_israel, term:H5337_plunder, term:H4294_staff, term:H6879_leprous, term:H8210_pour, formula:harden_hzq, term:H1060_firstborn, term:bridegroom_blood, formula:bow_worship, term:H3881_levite, formula:go_in_peace, term:H2436_bosom, term:H7860_foremen, term:H8401_straw, formula:thus_says_yhwh, formula:let_my_people_go, term:H1698_pestilence, term:H7503_lazy, term:H3843_bricks, term:H4940_clan, term:numbers_hundert, term:outstretched_arm, formula:ani_yhwh, formula:harden_qsh, term:H5186_hand, term:H3784_sorcerer, term:H887_stink, term:H4723_reservoir, term:H2658_dig, term:H8574_oven, formula:as_commanded, formula:as_said, term:H2691_court, term:H6279_pray, term:H6303_finger_of_god, term:H8441_abomination, term:H1259_hail, term:H6368_soot, term:H7822_boils, term:livestock_kinds, term:crops_ex9, term:H2388_hold, term:H7307_wind, term:H3680_cover, term:H3418_green, term:H2077_sacrifice, term:H697_locust, term:H7453_neighbor, term:H7347_handmill, formula:firstborn_range, term:H6453_passover, term:H4682_matzah, term:H2557_leavened, term:H4201_doorpost, term:H5414_strike_blood, term:H1616_native, term:ordinals_days, term:H2146_memorial, term:passover_food, term:lamb_defect, term:ex12_misc, formula:karet, formula:everlasting_ordinance, term:H5982_pillar, term:H2146_sign, term:H6299_redeem, term:H2145_male, term:H6202_neck, term:joseph_bones, term:H7393_chariot, term:H2342_misc14, term:H3004_dry, term:H2346_wall, formula:gain_glory, term:song_sea, formula:sea_song_refrain, term:H7495_heal, term:H8085_listen, term:H3885_grumble, term:H4478_manna, term:H6016_omer, term:H7676_sabbath, term:H3899_manna_misc, term:H4550_stages, term:H7378_quarrel, formula:moses_staff_nile, term:H7812_bow, term:H8269_officials, term:ex18_misc, term:H5459_treasured, formula:kingdom_priests, term:H7782_shofar, formula:stone_to_death, term:ex19_misc, formula:decalogue, term:H7453_neighbor_law, formula:jealous_god, term:H8002_peace_offering, term:ex20_misc, formula:put_to_death, formula:eye_for_eye, term:H5650_slave_law, term:H4941_ordinances, term:H3724_ransom, term:ex21_law, term:ex22_law, formula:leader_curse, term:H5307_widow_orphan, term:H1601_bloodguilt, term:ex23_law, term:H7810_bribe, formula:three_feasts, formula:kid_milk, formula:blood_covenant, term:H3871_tablets, formula:forty_days, term:H5288_young_men, term:tabernacle_materials, term:tabernacle_parts, term:ex25_misc, formula:pattern_mountain, term:tabernacle_parts_26, term:ex26_misc, term:tabernacle_parts_27, formula:tent_of_meeting, term:H8081_olive_oil, term:priestly_garments, term:breastpiece_stones, term:ex28_misc, term:H4394_ordination, term:offering_kinds, term:H3722_atone, term:ex29_misc, term:ex29_imper, term:H7004_incense, term:H3724_ransom_census, term:anointing_oil_spices, term:ex30_misc, term:sabbath_sign, term:ex31_misc, formula:golden_calf_gods, formula:ex32_6, term:golden_calf, term:H5162_relent, term:stiff_necked, term:book_blot, term:ex32_misc, formula:ex33_19, term:H6440_presence, term:ex33_misc, formula:ex34_6_7, term:moses_face_shone, term:ex34_misc, term:ex35_gifts, term:ex36_misc, term:ex38_inventory, formula:as_commanded_moses, term:ex39_misc, term:ex40_setup, term:H7133_offering, term:H6629_flock_cult, term:lev001_forms, term:H234_memorial, term:lev002_forms, formula:fat_kidneys_liver, term:lev003_forms, formula:atonement_forgiven, term:H7684_unintentional, term:lev004_forms, term:H817_guilt_offering, term:H4604_unfaithful, term:lev005_forms, term:H8451_law_of, term:lev006_forms, term:H8426_thank_offering, term:H5307_cut_off, term:lev007_forms, term:lev008_forms, term:lev009_forms, term:H2114_strange_fire, term:lev010_forms, term:H8318_swarming, term:lev011_animals, term:lev011_forms, term:lev012_forms, term:H6883_leprosy, term:H5061_affliction, term:lev013_forms, term:H3849_log, term:lev014_forms, term:H2101_discharge, term:lev015_forms, name:azazel, term:lev016_forms, term:H8163_goat_demons, term:H5315_life_blood, term:lev017_forms, term:H6172_nakedness, name:molech, term:lev018_forms, formula:love_neighbor, term:lev019_forms, formula:mot_yumat, term:lev020_forms, term:H3971_defect, term:lev021_forms, term:H6944_holy_gifts, term:lev022_forms, term:H4150_feasts, term:lev023_forms, name:shelomith, name:dibri, term:H5344_blaspheme, term:lev024_forms, term:H3104_jubilee, term:lev025_forms, term:H7136_hostility, term:lev026_forms, term:H2764_devoted, term:H6187_valuation, term:lev027_forms, name:num001_leaders, term:H6485_census, term:num001_forms, term:num002_forms, name:levite_clans, term:num003_forms, term:num004_forms, term:H7065_jealousy, term:num005_forms, term:H5139_nazirite, formula:priestly_blessing, term:num006_forms, term:H2598_dedication, formula:num007_gift, term:num007_forms, term:num008_forms, term:num009_forms, term:H2689_trumpet, name:hobab, term:num010_forms, name:num011_places, term:H5012_prophesy, term:num011_forms, term:num012_forms, name:num013_spies, name:num013_places, term:num013_forms, formula:slow_to_anger, formula:as_i_live, name:hormah, term:num014_forms, term:H6734_tassel, term:num015_forms, name:korah, term:num016_forms, term:num017_forms, term:H4643_tithe, term:num018_forms, term:H5079_impurity_water, term:num019_forms, name:num020_places, term:num020_forms, name:num021_places, term:num021_forms, name:balaam, term:num022_forms, term:H4912_oracle, term:num023_forms, term:H5002_utterance, term:num024_forms, name:num025_people, term:num025_forms, name:num026_clans, term:num026_forms, term:num027_forms, term:H8548_regular_offering, term:num028_forms, term:num029_forms, term:H5088_vow, term:num030_forms, term:num031_forms, name:num032_places, term:num032_forms, name:num033_stations, term:num033_forms, name:num034_borders, term:num034_forms, term:H4733_refuge, term:num035_forms, term:num036_forms]
+entries: [term:H2617, term:H1350, term:H2205, term:H3618, term:H2545, term:H8184, term:H2406, term:H7105, term:H7641, term:H1637, term:H5401, formula:weep_aloud, term:H2009, term:H3247, term:H4487, term:H2904, term:H7021, term:royal_robe, term:H1254, formula:in_the_beginning, formula:tohu_wabohu, term:H8415, term:H7549, formula:evening_morning, formula:and_it_was_so, formula:that_it_was_good, formula:after_its_kind, term:nefesh_chayah, term:H120, term:H5175, term:H6174, term:H779, term:H1288, term:H3999, term:H8392, term:H7198, term:H1285, term:H2555, term:H4135, term:H8198, term:H1616, term:H2233, term:H6666, term:gebiret, term:H3045_sex, term:H436, term:H520, term:H8255, formula:gathered_to_people, formula:here_i_am, formula:and_he_died, term:H5631, term:H953, term:captain_guard, term:H4676, term:H2748, term:H8441, term:H6629, term:H3701, term:H6485, term:rech_nichoach, term:midwife, formula:fear_god, term:chayah_piel, term:brick_clay, term:perek, term:forced_labor, term:store_cities, term:nile, term:newborn_son_daughter, formula:the_more_the_more, term:qutz_dread, term:chayot, term:deal_shrewdly, term:sharats, term:title_exodus, term:tebah_basket, term:H1573_papyrus, term:tar_pitch, term:H5488_reeds, term:hebrew_adj, term:H2896_beautiful, term:H3243_nurse, term:H4871_draw_out, term:H584_groan, term:H5647_avodah_work, formula:named_him, term:ruler_judge, term:H5572_bush, term:H5927_bring_up, term:H7342_spacious, term:days_journey, formula:milk_honey, formula:peoples_list, formula:ehyeh, formula:god_of_fathers, term:H2859_father_in_law, term:H2205_elders_israel, term:H5337_plunder, term:H4294_staff, term:H6879_leprous, term:H8210_pour, formula:harden_hzq, term:H1060_firstborn, term:bridegroom_blood, formula:bow_worship, term:H3881_levite, formula:go_in_peace, term:H2436_bosom, term:H7860_foremen, term:H8401_straw, formula:thus_says_yhwh, formula:let_my_people_go, term:H1698_pestilence, term:H7503_lazy, term:H3843_bricks, term:H4940_clan, term:numbers_hundert, term:outstretched_arm, formula:ani_yhwh, formula:harden_qsh, term:H5186_hand, term:H3784_sorcerer, term:H887_stink, term:H4723_reservoir, term:H2658_dig, term:H8574_oven, formula:as_commanded, formula:as_said, term:H2691_court, term:H6279_pray, term:H6303_finger_of_god, term:H8441_abomination, term:H1259_hail, term:H6368_soot, term:H7822_boils, term:livestock_kinds, term:crops_ex9, term:H2388_hold, term:H7307_wind, term:H3680_cover, term:H3418_green, term:H2077_sacrifice, term:H697_locust, term:H7453_neighbor, term:H7347_handmill, formula:firstborn_range, term:H6453_passover, term:H4682_matzah, term:H2557_leavened, term:H4201_doorpost, term:H5414_strike_blood, term:H1616_native, term:ordinals_days, term:H2146_memorial, term:passover_food, term:lamb_defect, term:ex12_misc, formula:karet, formula:everlasting_ordinance, term:H5982_pillar, term:H2146_sign, term:H6299_redeem, term:H2145_male, term:H6202_neck, term:joseph_bones, term:H7393_chariot, term:H2342_misc14, term:H3004_dry, term:H2346_wall, formula:gain_glory, term:song_sea, formula:sea_song_refrain, term:H7495_heal, term:H8085_listen, term:H3885_grumble, term:H4478_manna, term:H6016_omer, term:H7676_sabbath, term:H3899_manna_misc, term:H4550_stages, term:H7378_quarrel, formula:moses_staff_nile, term:H7812_bow, term:H8269_officials, term:ex18_misc, term:H5459_treasured, formula:kingdom_priests, term:H7782_shofar, formula:stone_to_death, term:ex19_misc, formula:decalogue, term:H7453_neighbor_law, formula:jealous_god, term:H8002_peace_offering, term:ex20_misc, formula:put_to_death, formula:eye_for_eye, term:H5650_slave_law, term:H4941_ordinances, term:H3724_ransom, term:ex21_law, term:ex22_law, formula:leader_curse, term:H5307_widow_orphan, term:H1601_bloodguilt, term:ex23_law, term:H7810_bribe, formula:three_feasts, formula:kid_milk, formula:blood_covenant, term:H3871_tablets, formula:forty_days, term:H5288_young_men, term:tabernacle_materials, term:tabernacle_parts, term:ex25_misc, formula:pattern_mountain, term:tabernacle_parts_26, term:ex26_misc, term:tabernacle_parts_27, formula:tent_of_meeting, term:H8081_olive_oil, term:priestly_garments, term:breastpiece_stones, term:ex28_misc, term:H4394_ordination, term:offering_kinds, term:H3722_atone, term:ex29_misc, term:ex29_imper, term:H7004_incense, term:H3724_ransom_census, term:anointing_oil_spices, term:ex30_misc, term:sabbath_sign, term:ex31_misc, formula:golden_calf_gods, formula:ex32_6, term:golden_calf, term:H5162_relent, term:stiff_necked, term:book_blot, term:ex32_misc, formula:ex33_19, term:H6440_presence, term:ex33_misc, formula:ex34_6_7, term:moses_face_shone, term:ex34_misc, term:ex35_gifts, term:ex36_misc, term:ex38_inventory, formula:as_commanded_moses, term:ex39_misc, term:ex40_setup, term:H7133_offering, term:H6629_flock_cult, term:lev001_forms, term:H234_memorial, term:lev002_forms, formula:fat_kidneys_liver, term:lev003_forms, formula:atonement_forgiven, term:H7684_unintentional, term:lev004_forms, term:H817_guilt_offering, term:H4604_unfaithful, term:lev005_forms, term:H8451_law_of, term:lev006_forms, term:H8426_thank_offering, term:H5307_cut_off, term:lev007_forms, term:lev008_forms, term:lev009_forms, term:H2114_strange_fire, term:lev010_forms, term:H8318_swarming, term:lev011_animals, term:lev011_forms, term:lev012_forms, term:H6883_leprosy, term:H5061_affliction, term:lev013_forms, term:H3849_log, term:lev014_forms, term:H2101_discharge, term:lev015_forms, name:azazel, term:lev016_forms, term:H8163_goat_demons, term:H5315_life_blood, term:lev017_forms, term:H6172_nakedness, name:molech, term:lev018_forms, formula:love_neighbor, term:lev019_forms, formula:mot_yumat, term:lev020_forms, term:H3971_defect, term:lev021_forms, term:H6944_holy_gifts, term:lev022_forms, term:H4150_feasts, term:lev023_forms, name:shelomith, name:dibri, term:H5344_blaspheme, term:lev024_forms, term:H3104_jubilee, term:lev025_forms, term:H7136_hostility, term:lev026_forms, term:H2764_devoted, term:H6187_valuation, term:lev027_forms, name:num001_leaders, term:H6485_census, term:num001_forms, term:num002_forms, name:levite_clans, term:num003_forms, term:num004_forms, term:H7065_jealousy, term:num005_forms, term:H5139_nazirite, formula:priestly_blessing, term:num006_forms, term:H2598_dedication, formula:num007_gift, term:num007_forms, term:num008_forms, term:num009_forms, term:H2689_trumpet, name:hobab, term:num010_forms, name:num011_places, term:H5012_prophesy, term:num011_forms, term:num012_forms, name:num013_spies, name:num013_places, term:num013_forms, formula:slow_to_anger, formula:as_i_live, name:hormah, term:num014_forms, term:H6734_tassel, term:num015_forms, name:korah, term:num016_forms, term:num017_forms, term:H4643_tithe, term:num018_forms, term:H5079_impurity_water, term:num019_forms, name:num020_places, term:num020_forms, name:num021_places, term:num021_forms, name:balaam, term:num022_forms, term:H4912_oracle, term:num023_forms, term:H5002_utterance, term:num024_forms, name:num025_people, term:num025_forms, name:num026_clans, term:num026_forms, term:num027_forms, term:H8548_regular_offering, term:num028_forms, term:num029_forms, term:H5088_vow, term:num030_forms, term:num031_forms, name:num032_places, term:num032_forms, name:num033_stations, term:num033_forms, name:num034_borders, term:num034_forms, term:H4733_refuge, term:num035_forms, term:num036_forms, term:H8219_shephelah, term:H7860_officials, term:H3423_possess, term:H7218_leaders_deu, formula:nasa_panim_judgment, term:deu001_forms, term:H3374_fear, term:H2763_ban, term:deu002_forms, term:H5650_servant, formula:huqqim_mishpatim, formula:hikhis, term:H6440_in_person, formula:strong_hand_arm, formula:esh_okhlah, formula:decalogue_deu, formula:shema, formula:love_god, term:H6299_redeem_people, term:H4676_cult, formula:herem_altars, term:H5459, term:H1288_praise, term:H6031_humble, formula:forty_days_fast, term:H7107_provoke, term:H4784_rebel, term:H3665_subdue, term:H7564, formula:el_gadol_nora, formula:no_partiality, formula:circumcise_heart, term:H2233_seed, formula:blessing_curse, formula:rain_seasons, formula:chorn_wy_oel, term:H6440_before, term:H6643_gazelle, formula:chosen_place, formula:blood_not_eat, formula:clean_unclean_eat, formula:right_in_eyes, term:H1375_hill, formula:purge_evil, formula:hear_and_fear, formula:edge_of_sword, term:H5080_lead_astray, term:H2740_fierce_anger, term:H1100_worthless, term:H5060_touch, term:H3563_little_owl, term:deu014_animals, term:H5237, term:H7941, formula:levite_no_portion, formula:stranger_orphan_widow, term:H8059, term:H5670_lend, formula:open_hand, term:H2670_free, formula:slave_in_egypt, formula:pilgrim_feasts, formula:three_times_appear, term:H6116, term:H8199_judges, formula:pursue_justice, term:H2102_presume, formula:two_three_witnesses, formula:right_left, term:deu017_court, formula:prophet_like_moses, term:deu018_divination, term:H8549_blameless, formula:pass_through_fire, term:H1875_require, formula:innocent_blood, term:H7291_pursue, term:H1366_boundary, formula:no_pity, term:deu019_asylum, formula:lord_fights_for_you, term:H6635_commander, term:deu020_war, term:H5397_breath, formula:stubborn_rebellious, formula:glutton_drunkard, formula:hanged_cursed, term:H5795_heifer, term:H2491_slain, term:deu021_forms, term:deu022_marriage, term:H5956_ignore, term:deu022_forms, term:H6948_shrine_prostitute, term:H4464_mamzer, term:deu023_forms, term:H5667_pledge, term:deu024_forms, term:H2993_levir, formula:deu025_ox, term:deu025_forms, term:deu026_forms, formula:curse_amen, term:deu027_forms, term:deu028_blessing_curse, term:deu028_plagues, term:deu028_forms, term:deu029_forms, term:deu030_forms, term:deu031_forms, term:H6697_rock_god, term:deu032_forms, term:deu033_forms, term:deu034_forms, term:jos001_forms, term:H2181_prostitute, term:jos002_forms, term:jos003_forms, term:jos004_forms, term:jos005_forms, term:jos006_forms, term:jos007_forms, term:jos008_forms, term:jos009_forms, term:jos010_forms, term:jos011_forms, term:jos012_forms, term:jos013_forms, term:jos014_forms, term:jos015_forms, term:jos016_forms, term:jos017_forms, term:jos018_forms, term:jos019_forms, term:jos020_forms, term:jos021_forms, term:jos022_forms, term:jos023_forms, term:jos024_forms, term:jdg001_forms, term:jdg002_forms, term:jdg003_forms, term:jdg004_forms, term:jdg005_forms, term:jdg006_forms, term:jdg007_forms, term:jdg008_forms, term:jdg009_forms, term:jdg010_forms, term:jdg011_forms, term:jdg012_forms, term:jdg013_forms, term:jdg014_forms, term:jdg015_forms, term:jdg016_forms, term:jdg017_forms, term:jdg018_forms, term:jdg019_forms, term:jdg020_forms, term:jdg021_forms, term:1sa001_forms, term:1sa002_forms, term:1sa003_forms, term:1sa004_forms, term:1sa005_forms, term:1sa006_forms, term:1sa007_forms, term:1sa008_forms, term:1sa009_forms, term:1sa010_forms, term:1sa011_forms, term:1sa012_forms, term:1sa013_forms, term:1sa014_forms, term:1sa015_forms, term:1sa016_forms, term:1sa017_forms, term:1sa018_forms, term:1sa019_forms, term:1sa020_forms, term:1sa021_forms, term:1sa022_forms, term:1sa023_forms, term:1sa024_forms, term:1sa025_forms, term:1sa026_forms, term:1sa027_forms, term:1sa028_forms, term:1sa029_forms, term:1sa030_forms, term:1sa031_forms, term:2sa001_forms, term:2sa002_forms, term:2sa003_forms, term:2sa004_forms, term:2sa005_forms, term:2sa006_forms, term:2sa007_forms, term:2sa008_forms, term:2sa009_forms, term:2sa010_forms, term:2sa011_forms, term:2sa012_forms, term:2sa013_forms, term:2sa014_forms, term:2sa015_forms, term:2sa016_forms, term:2sa017_forms, term:2sa018_forms, term:2sa019_forms, term:2sa020_forms, term:2sa021_forms, term:2sa022_forms, term:2sa023_forms, term:2sa024_forms, term:1ki001_forms, term:1ki002_forms, term:1ki003_forms, term:1ki004_forms, term:1ki005_forms, term:1ki006_forms, term:1ki007_forms, term:1ki008_forms, term:1ki009_forms, term:1ki010_forms, term:1ki011_forms, term:1ki012_forms, term:1ki013_forms, term:1ki014_forms, term:1ki015_forms, term:1ki016_forms, term:1ki017_forms, term:1ki018_forms, term:1ki019_forms, term:1ki020_forms, term:1ki021_forms, term:1ki022_forms, term:2ki001_forms, term:2ki002_forms, term:2ki003_forms, term:2ki004_forms, term:2ki005_forms, term:2ki006_forms, term:2ki007_forms, term:2ki008_forms, term:2ki009_forms, term:2ki010_forms, term:2ki011_forms, term:2ki012_forms, term:2ki013_forms, term:2ki014_forms, term:2ki015_forms, term:2ki016_forms, term:2ki017_forms, term:2ki018_forms, term:2ki019_forms, term:2ki020_forms, term:2ki021_forms, term:2ki022_forms, term:2ki023_forms, term:2ki024_forms, term:2ki025_forms, term:1ch001_forms, term:1ch002_forms, term:1ch003_forms, term:1ch004_forms, term:1ch005_forms, term:1ch006_forms, term:1ch007_forms, term:1ch008_forms, term:1ch009_forms, term:1ch010_forms, term:1ch011_forms, term:1ch012_forms, term:1ch013_forms, term:1ch014_forms, term:1ch015_forms, term:1ch016_forms, term:1ch017_forms, term:1ch018_forms, term:1ch019_forms, term:1ch020_forms, term:1ch021_forms, term:1ch022_forms, term:1ch023_forms, term:1ch024_forms, term:1ch025_forms, term:1ch026_forms, term:1ch027_forms, term:1ch028_forms, term:1ch029_forms, term:2ch001_forms, term:2ch002_forms, term:2ch003_forms, term:2ch004_forms, term:2ch005_forms, term:2ch006_forms, term:2ch007_forms, term:2ch008_forms, term:2ch009_forms, term:2ch010_forms, term:2ch011_forms, term:2ch012_forms, term:2ch013_forms, term:2ch014_forms, term:2ch015_forms, term:2ch016_forms, term:2ch017_forms, term:2ch018_forms, term:2ch019_forms, term:2ch020_forms, term:2ch021_forms, term:2ch022_forms, term:2ch023_forms, term:2ch024_forms, term:2ch025_forms, term:2ch026_forms, term:2ch027_forms, term:2ch028_forms, term:2ch029_forms, term:2ch030_forms, term:2ch031_forms, term:2ch032_forms, term:2ch033_forms, term:2ch034_forms, term:2ch035_forms, term:2ch036_forms, term:ezr001_forms, term:ezr002_forms, term:ezr003_forms, term:ezr004_forms, term:ezr005_forms, term:ezr006_forms, term:ezr007_forms, term:ezr008_forms, term:ezr009_forms, term:ezr010_forms, term:neh001_forms, term:neh002_forms, term:neh003_forms, term:neh004_forms, term:neh005_forms, term:neh006_forms, term:neh007_forms, term:neh008_forms, term:neh009_forms, term:neh010_forms, term:neh011_forms, term:neh012_forms, term:neh013_forms, term:est001_forms, term:est002_forms, term:est003_forms, term:est004_forms, term:est005_forms, term:est006_forms, term:est007_forms, term:est008_forms, formula:neum_yhwh, formula:word_of_yhwh_came, term:est009_forms, term:est010_forms, term:H2416_living_creatures, term:H212_wheel, term:H2830_amber, formula:hand_of_yhwh, formula:hoy, term:qedosh_israel, formula:mouth_yhwh_spoken, term:neum_prophets, term:H2451_wisdom_pro, term:H2450_wise_pro, term:H998_binah_pro, term:H1847_daat_pro, term:H4148_musar_pro, term:H8433_reproof_pro, term:H4209_discretion_pro, term:H6195_prudence_pro, term:H6612_simple_pro, term:H3684_fool_pro, term:H8451_teaching_pro, term:H4912_proverb_pro, term:jer001_forms, term:isa001_forms, formula:ben_adam, formula:bet_meri, formula:thus_says_adonai_yhwh, formula:hear_or_refuse, term:ezk002_forms, term:job001_forms, term:H7496_rephaim_pro, term:H5237_strange_woman_pro, formula:isa002_mic004, formula:bayyom_hahu, formula:yom_yhwh, term:isa002_forms, formula:word_came_to_me, term:H6822_watchman, term:H2094_warn, term:ezk003_forms, term:jer002_forms, term:job002_forms, term:ezk004_forms, term:H4294_staff_of_bread, term:jer003_forms, term:isa003_forms, term:job003_forms, formula:i_yhwh_have_spoken, term:H8251_detestable, term:H7307_every_wind, term:ezk005_forms, term:isa004_forms, term:job004_forms, term:jer004_forms, formula:know_that_i_am_yhwh, term:ezk006_forms, term:job005_forms, term:H3372_reverence, term:ruach_luft, term:jer005_forms, formula:isa_refrain_hand, term:isa005_forms, term:H7093_end, term:ezk007_forms, term:job006_forms, formula:qadosh3, term:isa006_forms, term:H197_portico, term:ezk008_forms, term:H7198_bow, term:jer006_forms, term:job007_forms, term:job008_forms, term:H906_linen, term:H7083_writing_kit, term:ezk009_forms, formula:called_by_my_name, term:jer007_forms, term:immanuel, term:isa007_forms, term:job009_forms, term:H3742_cherub, term:H1534_wheelwork, term:ezk010_forms, term:jer008_forms, term:job010_forms, term:isa008_forms, formula:declares_adonai_yhwh, formula:heart_of_flesh, formula:my_people_your_god, term:ezk011_forms, term:jer009_forms, term:job011_forms, formula:isa009_names, term:isa009_forms, term:H6102_sluggard_pro, term:H2742_diligent_pro, term:H5387_prince, term:ezk012_forms, term:jer010_forms, term:job012_forms, term:isa010_forms, term:H8602_whitewash, term:H3704_magic_bands, term:ezk013_forms, term:job013_forms, term:jer011_forms, term:isa011_forms, term:job014_forms, term:H4383_stumbling_block, term:ezk014_forms, term:isa012_forms, term:jer012_forms, term:job015_forms, term:H1612_vine, term:ezk015_forms, formula:isa_massa, term:isa013_forms, term:ruach_sturm, term:jer013_forms, term:jer014_forms, term:job016_forms, term:isa014_forms, term:lifne_vor, term:jer015_forms, term:job017_forms, term:H2181_verb_umehuere, term:ezk016_forms, term:jer016_forms, term:isa015_forms, term:job018_forms, term:jer017_forms, term:H730_cedar, term:H5404_eagle, term:ezk017_forms, term:job019_forms, term:jer018_forms, term:isa016_forms, term:jer019_forms, formula:mishpat_tsedaqa, term:ezk018_forms, term:job020_forms, term:jer020_forms, term:jer021_forms, term:isa017_forms, term:H7015_lament, term:ezk019_forms, term:jer022_forms, term:job021_forms, term:job022_forms, term:job023_forms, term:isa018_forms, term:job024_forms, term:jer023_forms, term:jer024_forms, term:job025_forms, formula:lifted_hand, formula:for_my_name, formula:mighty_hand_arm, term:ezk020_forms, term:isa019_forms, term:job026_forms, term:jer025_forms, term:isa020_forms, term:job027_forms, term:H2719_sword_song, term:ezk021_forms, term:jer026_forms, term:jer027_forms, term:job028_forms, term:jer028_forms, term:isa021_forms, term:job029_forms, term:jer029_forms, term:H5509_dross, term:ezk022_forms, term:jer030_forms, term:job030_forms, term:isa022_forms, term:job031_forms, term:job032_forms, term:H5689_vergaffe, term:ezk023_forms, term:jer031_forms, term:isa023_forms, term:job033_forms, term:jer032_forms, term:job034_forms, term:H2457_rust, term:ezk024_forms, term:isa024_forms, term:jer033_forms, term:job035_forms, term:jer034_forms, term:job036_forms, term:ezk025_forms, term:isa025_forms, term:jer035_forms, term:job037_forms, term:job038_forms, term:jer036_forms, term:job039_forms, term:ezk026_forms, term:isa026_forms, term:jer037_forms, term:job040_forms, term:job041_forms, term:jer038_forms, term:job042_forms, term:isa027_forms, term:ezk027_forms, term:jer039_forms, term:jer040_forms, term:ecc_reut_ruach, term:ecc001_forms, term:ecc002_forms, term:jer041_forms, term:isa028_forms, term:H5057_ruler_tyre, term:ezk028_forms, term:jer042_forms, term:ezk029_forms, term:jer043_forms, term:jer044_forms, term:ezk030_forms, term:jer045_forms, term:isa029_forms, term:ecc003_forms, term:ecc004_forms, term:jer046_forms, term:H953_pit_underworld, term:ezk031_forms, term:jer047_forms, term:isa030_forms, term:ecc005_forms, term:ecc006_forms, term:ecc007_forms, term:ezk032_forms, term:isa031_forms, term:ecc008_forms, term:jer048_forms, term:ecc009_forms, term:isa032_forms, term:ecc010_forms, term:ezk033_forms, term:jer049_forms, term:ecc011_forms, term:isa033_forms, term:ecc012_forms, term:H6629_flock_shepherd, term:ezk034_forms, term:jer050_forms, term:ezk035_forms, term:jer051_forms, term:isa034_forms, term:jer052_forms, term:lam001_forms, term:ezk036_forms, term:sng001_forms, term:lam002_forms, term:lam003_forms, term:sng002_forms, term:lam004_forms, term:isa035_forms, term:lam005_forms, term:sng003_forms, term:mic001_forms, term:ezk037_forms, term:mic002_forms, term:sng004_forms, term:isa036_forms, term:mic003_forms, term:mic004_forms, term:mic005_forms, term:sng005_forms, term:isa037_forms, term:mic006_forms, term:isa038_forms, term:mic007_forms, term:ezk038_forms, term:sng006_forms, term:nam001_forms, term:isa039_forms, term:nam002_forms, term:ezk039_forms, term:nam003_forms, term:sng007_forms, term:sng008_forms, term:isa040_forms, term:ezk040_temple, term:ezk040_forms, term:isa041_forms, term:zec001_forms, term:zec002_forms, term:ezk041_forms, term:amo001_forms, term:zec003_forms, term:isa042_forms, term:zec005_forms, term:zec004_forms, term:ezk042_forms, term:amo002_forms, term:zec006_forms, term:isa043_forms, term:zec007_forms, term:ezk043_forms, term:amo003_forms, term:zec008_forms, term:isa044_forms, term:ezk044_forms, term:amo004_forms, term:zec009_forms, term:isa045_forms, term:zec010_forms, term:ezk045_forms, term:amo005_forms, term:isa046_forms, term:isa047_forms, term:zec011_forms, term:ezk046_forms, term:amo006_forms, term:isa048_forms, term:zec012_forms, term:isa049_forms, term:ezk047_forms, term:amo007_forms, term:zec013_forms, term:isa050_forms, term:ezk048_forms, term:zec014_forms, term:amo008_forms, term:isa051_forms, term:amo009_forms, term:isa052_forms, term:oba001_forms, term:isa053_forms, term:isa054_forms, term:hab001_forms, term:isa055_forms, term:hab002_forms, term:isa056_forms, term:hab003_forms, term:isa057_forms, term:zep001_forms, term:isa058_forms, term:zep002_forms, term:isa059_forms, term:zep003_forms, term:isa060_forms, term:isa061_forms, term:hag001_forms, term:isa062_forms, term:isa063_forms, term:hag002_forms, term:isa064_forms, term:isa065_forms, term:isa066_forms, term:mal001_forms, term:mal002_forms, term:mal003_forms]
 ---
 # Entscheide AT-Wortschatz (Genesis, Rut, Jona)
 
@@ -54,6 +54,11 @@ Kap. 35-40 übernehmen den Wortlaut von 25-31. Grundlage: Bietenhard Hebr 8,5; 9
 
 - Buchtitel »Ds dritte Buech Mose« (offen wie 2Mo). Opfer- und Heiligtumswörter aus 2Mo 25-40 gelten weiter (Brandopfer, Füüropfer, »e feine Duft für e HERR«, »la in Rouch ufgah«, »Sühne schaffe«, »ds Zält vo der Begägnig«).
 - קָרְבָּן »Opfergab« (Korpus 8×); צֹאן im Opfergesetz »Chlyveh« (3Mo 1,2.10); רָצוֹן »aagno wärde« (1,3-4).
+
+## Sprüche (Agent 2)
+
+- Weisheitswörter für das ganze Buch (Spr 1): חָכְמָה »Wysheit«, חָכָם »gschyd / di Gschyde«, בִּינָה »Verstand«, תְּבוּנָה »Ysicht«, דַּעַת »ds Wüsse«, מוּסָר »Erziehig« (gebildet zu »erzie«), תּוֹכַחַת »Zrächtwysig« (zu »zrächtwyse«), תּוֹרָה der Eltern »d Wysig«, עָרְמָה »Gschydi«, מְזִמָּה »Überlegig«, פֶּתִי »di Eifache«, כְּסִיל / אֱוִיל »di Dumme«, לֵץ »d Spötter«.
+- Poesie wie die Psalmen; »My Suhn« für בְּנִי; »D Ehrfurcht vor em HERR isch der Aafang vom Wüsse« (Spr 1,7).
 
 ## Store entries
 
@@ -555,7 +560,7 @@ Kap. 35-40 übernehmen den Wortlaut von 25-31. Grundlage: Bietenhard Hebr 8,5; 9
   - answers: father-in-law
   - Schwigervatter 1× im Korpus; wie 1Mo 38.
   - agent:exo003, 2026-10-30
-- **`term:H2205_elders_israel`** זָקֵן → **d Eltischte vo Israel** [high, decided, attested]
+- **`term:H2205_elders_israel`** זָקֵן → **Eltischte (vo Israel)** [high, decided, attested]
   - gloss: זָקֵן: זִקְנֵ֣י (EXO 3:16) — English (generated): the elders
   - NT: EXO 3:16 *d Eltischte vo Israel*; EXO 3:18 *den Eltischte vo Israel*
   - answers: elders of israel, elders
@@ -1022,11 +1027,11 @@ Kap. 35-40 übernehmen den Wortlaut von 25-31. Grundlage: Bietenhard Hebr 8,5; 9
   - answers: the lord who heals you
   - אֲנִי יְהוָה רֹפְאֶךָ.
   - agent:exo015, 2026-10-30
-- **`term:H8085_listen`** שָׁמַע → **lose / losisch / uf d Stimm lose** [high, decided, by-rule]
+- **`term:H8085_listen`** שָׁמַע → **lose / losisch / glost / uf d Stimm lose / los / loset** [high, decided, by-rule]
   - gloss: שָׁמַע: שָׁמ֨וֹעַ (EXO 15:26) — English (generated): you will listen carefully
   - NT: EXO 15:26 *uf d Stimm*; EXO 15:26 *losisch*
   - answers: listen, obey
-  - שָׁמַע בְּקוֹל »uf d Stimm lose« (15,26; 19,5; 23,21-22).
+  - שָׁמַע בְּקוֹל »uf d Stimm lose« (15,26; 19,5; 23,21-22). Partizip »glost« (5Mo 1,43.45), »zuelose/zueglost« für Zuhören (5Mo 1,16-17).
   - agent:exo015, 2026-10-30
 - **`term:H3885_grumble`** לוּן → **mule / gmulet / ds Mule** [high, decided, by-rule]
   - gloss: לוּן: יִּלּ֜וֹנוּ (EXO 16:2) — English (generated): grumbled
@@ -1134,7 +1139,7 @@ Kap. 35-40 übernehmen den Wortlaut von 25-31. Grundlage: Bietenhard Hebr 8,5; 9
   - answers: you shall not murder, you shall not commit adultery, you shall not steal
   - 20,12-17 nach Bietenhard (Mt 5,21.27; 15,4; 19,18-19; Mk 10,19; Röm 13,9): »Du söllsch dy Vatter und dy Mueter ehre«; »nid gluschte« (Röm 7,7; 13,9). 20,16 עֵד שָׁקֶר »als falsche Züge uftrete« (Bietenhard paraphrasiert »vor Gricht nid lüge«). In 5Mo 5 gleich halten.
   - agent:exo020, 2026-10-30
-- **`term:H7453_neighbor_law`** רֵעַ → **dy Mitmönsch** [high, decided, attested]
+- **`term:H7453_neighbor_law`** רֵעַ → **Mitmönsch (dy)** [high, decided, attested]
   - gloss: רֵעַ: רֵעֲ (EXO 20:16) — English (generated): against your neighbor
   - NT: ROM 13:9 *dy Mitmönsch*; EXO 20:17 *vo dym Mitmönsch*
   - answers: neighbor
@@ -1485,7 +1490,7 @@ Kap. 35-40 übernehmen den Wortlaut von 25-31. Grundlage: Bietenhard Hebr 8,5; 9
 - **`term:H6440_presence`** פָּנֶה → **my Gsicht geit mit; vo Gsicht zu Gsicht; my Rügge** [medium, decided, by-rule]
   - gloss: פָּנֶה: פָּנַ֥ (EXO 33:14) — English (generated): My Presence
   - NT: EXO 33:11 *vo Gsicht zu Gsicht*; EXO 33:14 *My Gsicht geit*
-  - answers: presence, face to face
+  - answers: My Presence, Your Presence, face to face
   - פָּנַי יֵלֵכוּ wörtlich »my Gsicht geit mit« (Fussnote: i sälber); Korpus hat »Gsicht«, nicht »Agsicht«.
   - agent:exo033, 2026-10-30
 - **`term:ex33_misc`** עֲדִי → **Schmuck; tilge; jewyle; nachegluegt; mitgeit; verbyzie, verbyzieht; Felsspalte; vo Gsicht zu Gsicht; Rue gä** [medium, decided, by-rule]
@@ -1809,7 +1814,7 @@ Kap. 35-40 übernehmen den Wortlaut von 25-31. Grundlage: Bietenhard Hebr 8,5; 9
 - **`term:H2101_discharge`** זוּב → **Usfluss; Fluss** [medium, decided, by-rule]
   - gloss: זוּב: זָ֣ב (LEV 15:2) — English (generated): discharge
   - NT: LEV 15:2 *e Usfluss*; LEV 15:4 *dä mit em Usfluss*
-  - answers: discharge, bodily discharge, flow
+  - answers: discharge, bodily discharge
   - זוֹב / זָב »Usfluss«, »dä mit em Usfluss« (3Mo 15; 22,4; 4Mo 5,2); bei der Frau ausserhalb der Regel »Bluetfluss« (vgl. Mk 5,25); נִדָּה »Monetsblüetig« (12,2); שִׁכְבַת זֶרַע »Same abgeit«.
   - agent:lev015, 2026-11-05
 - **`term:lev015_forms`** חָתַם → **während; zrügghaltet; Sattel; abgspüelt; Holzgschirr; usspüele; Monetsbluet; fernhalte** [medium, decided, by-rule]
@@ -2615,4 +2620,8931 @@ Kap. 35-40 übernehmen den Wortlaut von 25-31. Grundlage: Bietenhard Hebr 8,5; 9
   - answers: marry into, transferred from tribe to tribe
   - 4Mo 36: הָיָה לְאִשָּׁה »hürate«; הַיֹּבֵל »Jubeljahr« wie 3Mo 25; מִצְוֹת וּמִשְׁפָּטִים »Gebot und Rächtsornige«.
   - agent:num036, 2026-11-05
-<!-- store:end sha=a543e3b0 -->
+- **`term:H8219_shephelah`** שְׁפֵלָה → **Hügelland** [high, decided, by-rule]
+  - gloss: שְׁפֵלָה: שְּׁפֵלָ֥ה (DEU 1:7) — English (generated): in the foothills
+  - NT: DEU 1:7 *im Hügelland*
+  - answers: foothills, lowland, Shephelah
+  - הַשְּׁפֵלָה, das Hügelland zwischen Gebirge und Küste; offen, ob der Name »Schefela« besser ist.
+  - agent:deu001, 2026-11-14
+- **`term:H7860_officials`** שֹׁטֵר → **Amtslüt** [high, decided, by-rule]
+  - gloss: שֹׁטֵר: שֹׁטְרִ֖ים (DEU 1:15) — English (generated): and as officers
+  - NT: DEU 1:15 *als Amtslüt*
+  - answers: officers, officials
+  - שֹׁטְרִים als Beamte der Stämme und des Heeres (5Mo, Jos); in der Fron Ägyptens »Vorarbeiter« (term:H7860_foremen).
+  - agent:deu001, 2026-11-14
+- **`term:H3423_possess`** יָרַשׁ → **i Bsitz (nä, nimm, nät, gno) / vertrybe / vertribe** [high, decided, by-rule]
+  - gloss: יָרַשׁ: רְשׁ֣וּ (DEU 1:8) — English (generated): and possess
+  - gloss: יָרַשׁ: יִֽירָשׁ֗וּ (DEU 2:12) — English (generated): drove them out
+  - NT: DEU 1:8 *nät … i Bsitz*; DEU 2:12 *hei se vertribe*
+  - answers: possess, take possession, dispossess, drove out, drive out
+  - יָרַשׁ Qal vom Land: »i Bsitz nä«; mit Personen oder Völkern als Objekt »vertrybe« (5Mo 2,12.21-22), ebenso Hifil (4Mo 33). Leitwort in 5Mo. יְרֻשָּׁה »Bsitz«.
+  - agent:deu002, 2026-11-15
+- **`term:H7218_leaders_deu`** רֹאשׁ → **Aafüerer** [high, decided, by-rule]
+  - gloss: רֹאשׁ: רָאשֵׁי (DEU 1:13) — English (generated): as your leaders
+  - gloss: רֹאשׁ: רָאשֵׁ֣י (DEU 1:15) — English (generated): the leaders
+  - NT: DEU 1:13 *als öiji Aafüerer*
+  - answers: leaders, heads
+  - רָאשִׁים als eingesetzte Leiter (Korpus »Aafüerer« 6×); שָׂרֵי אֲלָפִים »Obere über Tuusig« wie 2Mo 18,21.
+  - agent:deu001, 2026-11-14
+- **`formula:nasa_panim_judgment`** נָכַר → **nid uf d Pärson luege** [high, decided, by-rule]
+  - gloss: נָכַר: תַכִּ֨ירוּ (DEU 1:17) — English (generated): Show no partiality
+  - gloss: פָּנֶה: פָנִ֜ים (DEU 1:17)
+  - NT: DEU 1:17 *nid uf d Pärson*
+  - answers: show partiality
+  - הִכִּיר פָּנִים בַּמִּשְׁפָּט; die Wendung des Korpus (»uf d Pärson luegt«, EPH 6:9). Auch für נָשָׂא פָנִים (5Mo 10,17; 16,19).
+  - agent:deu001, 2026-11-14
+- **`term:deu001_forms`** יָדַע → **bekannti; verständigi; abebbracht; nacheggangen; verlüür; Tagreise; vierzgschte** [medium, decided, by-rule]
+  - gloss: יָדַע: ידֻעִ֖ים (DEU 1:13) — English (generated): and respected
+  - gloss: בִּין: נְבֹנִ֛ים (DEU 1:13) — English (generated): understanding
+  - gloss: יָרַד: יּוֹרִ֖דוּ (DEU 1:25) — English (generated): carried it down
+  - gloss: אַחַר: אַחֲרֵ֥י (DEU 1:36) — English (generated): he followed
+  - NT: DEU 1:13 *bekannti Manne*; DEU 1:25 *abebbracht*
+  - answers: respected, understanding, brought down, followed
+  - 5Mo 1: flektierte und zusammengesetzte Formen nach den Mustern des Korpus (bekannt, verständig; bbracht, nacheggange; verlüüre).
+  - agent:deu001, 2026-11-14
+- **`term:H3374_fear`** יִרְאָה → **Angscht** [high, decided, by-rule]
+  - gloss: יִרְאָה: יִרְאָ֣תְ (DEU 2:25) — English (generated): and fear
+  - NT: DEU 2:25 *Schrecke und Angscht*
+  - answers: fear, dread
+  - יִרְאָה als Furcht vor Menschen (die Völker vor Israel): »Angscht«; für die Gottesfurcht gilt »Ehrfurcht« (term:H3374). פַּחַד »Schrecke«.
+  - agent:deu002, 2026-11-15
+- **`term:H2763_ban`** חָרַם → **em Bann übergä** [high, decided, by-rule]
+  - gloss: חָרַם: נַּחֲרֵם֙ (DEU 2:34) — English (generated): and devoted to destruction
+  - NT: DEU 2:34 *em Bann übergä*
+  - answers: devoted to destruction, completely destroyed, utterly destroy
+  - הֶחֱרִים im Krieg: »em Bann übergä« (wie 4Mo 21,2-3); חֵרֶם »Bannguet« (term:H2764_devoted).
+  - agent:deu002, 2026-11-15
+- **`term:deu002_forms`** יָשַׁב → **nidergla; befil; gryf; dürezie; wyterzoge; verbyzoge; usgstorbe; uszrotte; fridleche; wyche; plündere; umezoge** [medium, decided, by-rule]
+  - gloss: יָשַׁב: יֵּשְׁב֖וּ (DEU 2:12) — English (generated): live
+  - gloss: צָוָה: צַ֣ו (DEU 2:4) — English (generated): and command
+  - gloss: צוּר: תָּ֨צַר֙ (DEU 2:9) — English (generated): harass
+  - gloss: עָבַר: אֶעְבְּרָ֥ה (DEU 2:28) — English (generated): let us pass through
+  - NT: DEU 2:12 *nidergla*; DEU 2:9 *Gryf … aa*
+  - answers: settled, command, harass, pass through
+  - 5Mo 2: Formen nach Mustern des Korpus (la, befile, gryfft, zie, usrotte, fridlech, uswyche, plünderet).
+  - agent:deu002, 2026-11-15
+- **`term:H5650_servant`** עֶבֶד → **Chnächt / Chnächte** [high, decided, by-rule]
+  - gloss: עֶבֶד: עַבְדְּ (DEU 3:24) — English (generated): to Your servant
+  - NT: DEU 3:24 *dym Chnächt*
+  - answers: servant, servants, manservant, menservants, male servant
+  - עֶבֶד als Diener Gottes oder eines Königs, auch als Selbstbezeichnung vor Höheren: »Chnächt«. »Sklav« (term:H5650_slave_law) nur im Sklavenrecht.
+  - agent:deu003, 2026-11-14
+- **`formula:huqqim_mishpatim`** חֹק → **d Ornige und d Rächt** [high, decided, by-rule]
+  - gloss: חֹק: חֻקִּים֙ (DEU 4:1) — English (generated): the statutes
+  - gloss: מִשְׁפָּט: מִּשְׁפָּטִ֔ים (DEU 4:1) — English (generated): and ordinances
+  - NT: DEU 4:1 *Ornige und d Rächt*
+  - answers: statutes and ordinances, statutes and judgments
+  - חֻקִּים וּמִשְׁפָּטִים in 5. Mose fest: »Ornige und Rächt«; מִצְוֺת »Gebot«, תּוֹרָה »Gsetz«, עֵדֹת »Zügnis«. Verben: שָׁמַר »halte / achte uf«, עָשָׂה »sech dra halte«, לִמַּד »lehre«, צִוָּה »befile, befole«.
+  - agent:deu004, 2026-11-14
+- **`formula:hikhis`** כָּעַס → **toub mache** [high, decided, by-rule]
+  - gloss: כָּעַס: הַכְעִיסֽ (DEU 4:25) — English (generated): provoking Him to anger
+  - NT: DEU 4:25 *toub machet*
+  - answers: provoke to anger, provoking him to anger
+  - הִכְעִיס (Gott) »toub mache«, passend zu אַף »Töubi«.
+  - agent:deu004, 2026-11-14
+- **`term:H6440_in_person`** פָּנֶה → **sälber** [high, decided, by-rule]
+  - gloss: פָּנֶה: פָנָ֛י (DEU 4:37) — English (generated): by His presence
+  - NT: DEU 4:37 *sälber*
+  - answers: by His presence
+  - בְּפָנָיו (5Mo 4,37) »er sälber«: in eigener Person. Sonst פָּנִים »Gsicht« (term:H6440_presence).
+  - agent:deu004, 2026-11-14
+- **`formula:strong_hand_arm`** יָד → **mit starcher Hand und usgstrecktem Arm** [high, decided, by-rule]
+  - gloss: יָד: יָ֤ד (DEU 4:34) — English (generated): hand
+  - gloss: זְרוֹעַ: זְר֣וֹעַ (DEU 4:34) — English (generated): arm
+  - NT: DEU 4:34 *mit starcher Hand*
+  - answers: mighty hand and an outstretched arm, strong hand and an outstretched arm
+  - בְּיָד חֲזָקָה וּבִזְרוֹעַ נְטוּיָה (2Mo 6,6; 5Mo 4,34; 5,15; 7,19; 26,8).
+  - agent:deu004, 2026-11-14
+- **`formula:esh_okhlah`** אֵשׁ → **es Füür, wo alls verbrönnt** [high, decided, by-rule]
+  - gloss: אֵשׁ: אֵ֥שׁ (DEU 4:24) — English (generated): fire
+  - gloss: אָכַל: אֹכְלָ֖ה (DEU 4:24) — English (generated): is a consuming
+  - NT: DEU 4:24 *Füür, wo alls verbrönnt*
+  - answers: consuming fire
+  - אֵשׁ אֹכְלָה (2Mo 24,17; 5Mo 4,24; 9,3).
+  - agent:deu004, 2026-11-14
+- **`formula:decalogue_deu`** שָׁמַר → **Acht uf e Sabbattag und halt ne heilig; Du söllsch dy Vatter und dy Mueter ehre; Du söllsch nid gluschte nach der Frou vo dym Mitmönsch** [high, decided, by-rule]
+  - gloss: שָׁמַר: שָׁמ֛וֹר (DEU 5:12) — English (generated): Observe
+  - gloss: כָּבֵד: כַּבֵּ֤ד (DEU 5:16) — English (generated): Honor
+  - gloss: חָמַד: תַחְמֹ֖ד (DEU 5:21) — English (generated): covet
+  - NT: DEU 5:12 *Acht uf e Sabbattag*; DEU 5:21 *Du söllsch nid gluschte*
+  - answers: observe the sabbath day, honor your father and your mother, you shall not covet
+  - Dekalog nach 5Mo 5: wie 2Mo 20 (formula:decalogue), mit שָׁמוֹר »Acht uf«, der Sabbatbegründung aus der Sklaverei in Ägypten und הִתְאַוָּה »begähre« im letzten Gebot.
+  - agent:deu005, 2026-11-14
+- **`formula:shema`** שָׁמַע → **Los, Israel: Der HERR, üse Gott, der HERR isch eine** [high, decided, by-rule]
+  - gloss: שָׁמַע: שְׁמַ֖ע (DEU 6:4) — English (generated): Hear
+  - gloss: אֶחָד: אֶחָֽד (DEU 6:4) — English (generated): is One
+  - NT: DEU 6:4 *Los, Israel*
+  - answers: hear, O Israel
+  - שְׁמַע יִשְׂרָאֵל (5Mo 6,4). »Los, Israel« auch 4,1; 5,1; 6,3; 9,1; 20,3.
+  - agent:deu006, 2026-11-14
+- **`formula:love_god`** אָהֵב → **mit dym ganze Härz und mit dyr ganze Seel und mit dyr ganze Chraft** [high, decided, by-rule]
+  - gloss: אָהֵב: אָ֣הַבְתָּ֔ (DEU 6:5) — English (generated): And you shall love
+  - gloss: לֵבָב: לְבָבְ (DEU 6:5) — English (generated): your heart
+  - gloss: נֶפֶשׁ: נַפְשְׁ (DEU 6:5) — English (generated): your soul
+  - gloss: מְאֹד: מְאֹדֶֽ (DEU 6:5) — English (generated): your strength
+  - NT: DEU 6:5 *mit dyr ganze Chraft*
+  - answers: with all your heart and with all your soul
+  - אָהַב (Gott) »lieb ha«; בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ fest (5Mo 4,29; 6,5; 10,12; 11,13; 13,4; 26,16; 30,2.6.10); מְאֹד »Chraft«.
+  - agent:deu006, 2026-11-14
+- **`term:H6299_redeem_people`** פָּדָה → **erlöst / erlöse** [high, decided, by-rule]
+  - gloss: פָּדָה: יִּפְדְּ (DEU 7:8) — English (generated): and redeemed you
+  - NT: DEU 7:8 *erlöst*
+  - answers: redeemed, redeem
+  - פָּדָה von Gottes Befreiung Israels aus der Sklaverei: »erlöse« (Korpus erlöst 5×). Die Auslösung von Erstgeburt und Gelübde bleibt »uslöse« (term:H6299_redeem).
+  - agent:deu007, 2026-11-14
+- **`term:H4676_cult`** מַצֵּבָה → **Steimal / Steimale** [high, decided, by-rule]
+  - gloss: מַצֵּבָה: מַצֵּבֹתָ֖ (DEU 7:5) — English (generated): their sacred pillars
+  - NT: DEU 7:5 *iri Steimale*
+  - answers: sacred pillar, sacred pillars, sacred stones
+  - מַצֵּבָה als Kultstein der Völker: »Steimal« (2Mo 23,24; 34,13); sonst »Süüle« (term:H4676).
+  - agent:deu007, 2026-11-14
+- **`formula:herem_altars`** מִזְבֵּחַ → **iri Altär abrysse, iri Steimale zerschla, iri Ascherapfähl umhoue** [high, decided, by-rule]
+  - gloss: מִזְבֵּחַ: מִזְבְּחֹתֵי (DEU 7:5) — English (generated): their altars
+  - gloss: אֲשֵׁרָה: אֲשֵֽׁירֵ (DEU 7:5) — English (generated): their Asherah poles
+  - NT: DEU 7:5 *Ascherapfähl umhoue*
+  - answers: tear down their altars
+  - 2Mo 34,13; 5Mo 7,5; 12,3.
+  - agent:deu007, 2026-11-14
+- **`term:H5459`** סְגֻלָּה → **Eigetum** [high, decided, by-rule]
+  - gloss: סְגֻלָּה: סְגֻלָּ֔ה (DEU 7:6) — English (generated): prized possession
+  - NT: DEU 7:6 *sys Eigetum*
+  - answers: prized possession, treasured possession
+  - סְגֻלָּה (2Mo 19,5; 5Mo 7,6; 14,2; 26,18).
+  - agent:deu007, 2026-11-14
+- **`term:H1288_praise`** בָּרַךְ → **lobe / globt** [high, decided, by-rule]
+  - gloss: בָּרַךְ: בֵֽרַכְתָּ֙ (DEU 8:10) — English (generated): you are to bless
+  - NT: DEU 8:10 *söllsch … lobe*
+  - answers: bless the LORD, blessed be
+  - בֵּרַךְ mit Gott als Objekt: »lobe«; בָּרוּךְ יְהוָה »globt isch der HERR« (Psalmen). Sonst »sägne« (term:H1288).
+  - agent:deu008, 2026-11-14
+- **`term:H6031_humble`** עָנָה → **demüetige / demüetiget** [high, decided, by-rule]
+  - gloss: עָנָה: עַנֹּֽתְ (DEU 8:2) — English (generated): He might humble you
+  - gloss: עָנָה: יְעַנְּ (DEU 8:3) — English (generated): He humbled you
+  - NT: DEU 8:2 *z demüetige*
+  - answers: humble, humbled
+  - עִנָּה (Gott an Israel in der Wüste; sich vor Gott) »demüetige«.
+  - agent:deu008, 2026-11-14
+- **`formula:forty_days_fast`** אַרְבַּע → **vierzg Tag und vierzg Nächt; Brot han i keis ggässe und Wasser keis trunke** [high, decided, by-rule]
+  - gloss: אַרְבַּע: אַרְבָּעִ֥ים (DEU 9:9) — English (generated): forty
+  - gloss: לֶחֶם: לֶ֚חֶם (DEU 9:9) — English (generated): bread
+  - NT: DEU 9:9 *Wasser keis trunke*
+  - answers: forty days and forty nights
+  - 2Mo 34,28; 5Mo 9,9.18; 10,10.
+  - agent:deu009, 2026-11-14
+- **`term:H7107_provoke`** קָצַף → **toub mache / toub gmacht** [high, decided, by-rule]
+  - gloss: קָצַף: הִקְצַ֛פְתָּ (DEU 9:7) — English (generated): you provoked
+  - gloss: קָצַף: מַקְצִפִ֥ים (DEU 9:22) — English (generated): You continued to provoke
+  - NT: DEU 9:8 *toub gmacht*
+  - answers: provoked the LORD, provoke the LORD
+  - הִקְצִיף wie הִכְעִיס (formula:hikhis): »toub mache«.
+  - agent:deu009, 2026-11-14
+- **`term:H4784_rebel`** מָרָה → **sech gäge … stelle / gstellt** [high, decided, by-rule]
+  - gloss: מָרָה: מַמְרִ֥ים (DEU 9:7) — English (generated): rebelling
+  - gloss: מָרָה: תַּמְר֗וּ (DEU 9:23) — English (generated): But you rebelled
+  - NT: DEU 9:23 *gäge Befähl vom HERR*
+  - answers: rebelled, rebelling
+  - הִמְרָה (אֶת־פִּי / עִם יְהוָה): »sech gäge (Befähl vom) HERR stelle« (5Mo 1,26.43; 9,7.23.24).
+  - agent:deu009, 2026-11-14
+- **`term:H3665_subdue`** כָּנַע → **bodige / bodiget / bbodiget** [high, decided, by-rule]
+  - gloss: כָּנַע: יַכְנִיעֵ֖ (DEU 9:3) — English (generated): and subdue them
+  - NT: DEU 9:3 *bodiget se*
+  - answers: subdue, subdued
+  - הִכְנִיעַ »bodige« (Korpus bbodiget 4×).
+  - agent:deu009, 2026-11-14
+- **`term:H7564`** רִשְׁעָה → **Schlächtigkeit** [high, decided, by-rule]
+  - gloss: רִשְׁעָה: רִשְׁעַת֙ (DEU 9:4) — English (generated): is driving out
+  - gloss: רִשְׁעָה: רִשְׁעַ֣ת (DEU 9:5) — English (generated): of their wickedness
+  - NT: DEU 9:4 *Schlächtigkeit vo dene Völker*
+  - answers: wickedness
+  - רִשְׁעָה, רֶשַׁע: »Schlächtigkeit« (Korpus 5×).
+  - agent:deu009, 2026-11-14
+- **`formula:el_gadol_nora`** אֵל → **der gross, starch und furchtbar Gott** [high, decided, by-rule]
+  - gloss: אֵל: אֵ֨ל (DEU 10:17) — English (generated): God
+  - gloss: יָרֵא: נּוֹרָ֔א (DEU 10:17) — English (generated): and awesome
+  - NT: DEU 10:17 *furchtbar Gott*
+  - answers: the great, mighty, and awesome God
+  - הָאֵל הַגָּדֹל הַגִּבֹּר וְהַנּוֹרָא (5Mo 10,17; Neh 9,32); נוֹרָא »furchtbar« (5Mo 7,21).
+  - agent:deu010, 2026-11-14
+- **`formula:no_partiality`** נָשָׂא → **wo nid uf d Pärson luegt und kes Bstächigsgäld nimmt** [high, decided, by-rule]
+  - gloss: נָשָׂא: יִשָּׂ֣א (DEU 10:17) — English (generated): partiality
+  - gloss: שֹׁחַד: שֹֽׁחַד (DEU 10:17) — English (generated): bribe
+  - NT: DEU 10:17 *kes Bstächigsgäld nimmt*
+  - answers: showing no partiality
+  - נָשָׂא פָנִים »uf d Pärson luege« (5Mo 1,17; 10,17; 16,19); שֹׁחַד »Bstächigsgäld« (2Mo 23,8).
+  - agent:deu010, 2026-11-14
+- **`formula:circumcise_heart`** מוּל → **d Vorhut vo öiem Härz beschnyde** [high, decided, by-rule]
+  - gloss: מוּל: מַלְתֶּ֕ם (DEU 10:16) — English (generated): Circumcise
+  - gloss: לֵבָב: לְבַבְ (DEU 10:16) — English (generated): your hearts therefore
+  - NT: DEU 10:16 *beschnydet d Vorhut*
+  - answers: circumcise your hearts
+  - 5Mo 10,16; 30,6; Jer 4,4.
+  - agent:deu010, 2026-11-14
+- **`term:H2233_seed`** זֶרַע → **Same** [high, decided, by-rule]
+  - gloss: זֶרַע: זַרְעֲ (DEU 11:10) — English (generated): your seed
+  - NT: DEU 11:10 *dy Same gsääit*
+  - answers: sowed your seed, sow your seed, types of seed, crop
+  - זֶרַע als Saatgut: »Same«; als Nachkommenschaft »Nachkomme« (term:H2233). Auch Saatgut: 5Mo 22,9 (»zwöierlei Same«).
+  - agent:deu011, 2026-11-14
+- **`formula:blessing_curse`** בְּרָכָה → **Säge und Fluech** [high, decided, by-rule]
+  - gloss: בְּרָכָה: בְּרָכָ֖ה (DEU 11:26) — English (generated): a blessing
+  - gloss: קְלָלָה: קְלָלָֽה (DEU 11:26) — English (generated): and a curse
+  - NT: DEU 11:26 *Säge und Fluech*
+  - answers: a blessing and a curse
+  - בְּרָכָה וּקְלָלָה (5Mo 11,26-29; 30,1.19).
+  - agent:deu011, 2026-11-14
+- **`formula:rain_seasons`** יוֹרֶה → **Räge zur rächte Zyt, Herbschträge und Früeligsräge** [high, decided, by-rule]
+  - gloss: יוֹרֶה: יוֹרֶ֣ה (DEU 11:14) — English (generated): the autumn and spring rains
+  - gloss: מַלְקוֹשׁ: מַלְק֑וֹשׁ (DEU 11:14)
+  - NT: DEU 11:14 *Herbschträge und Früeligsräge*
+  - answers: autumn and spring rains
+  - יוֹרֶה וּמַלְקוֹשׁ (5Mo 11,14; Jer 5,24; Joël 2,23); »Räge zur rächte Zyt« wie 3Mo 26,4.
+  - agent:deu011, 2026-11-14
+- **`formula:chorn_wy_oel`** דָּגָן → **dys Chorn, dy Wy und dys Öl** [high, decided, by-rule]
+  - gloss: דָּגָן: דְגָנֶ֔ (DEU 11:14) — English (generated): your grain
+  - gloss: תִּירוֹשׁ: תִֽירֹשְׁ (DEU 11:14) — English (generated): new wine
+  - gloss: יִצְהָר: יִצְהָרֶֽ (DEU 11:14) — English (generated): and oil
+  - NT: DEU 11:14 *dy Wy*
+  - answers: grain, new wine, and oil
+  - דָּגָן, תִּירוֹשׁ, יִצְהָר (5Mo 7,13; 11,14; 12,17; 14,23).
+  - agent:deu011, 2026-11-14
+- **`term:H6440_before`** פָּנֶה → **vor (em HERR)** [high, decided, by-rule]
+  - gloss: פָּנֶה: פְנֵי֙ (DEU 12:7) — English (generated): in the presence
+  - gloss: פָּנֶה: פְנֵי֩ (DEU 12:18) — English (generated): in the presence
+  - NT: DEU 12:7 *vor em HERR*
+  - answers: in the presence of the LORD, before the LORD, presence of the LORD
+  - לִפְנֵי יְהוָה: »vor em HERR«; »Gsicht« nur, wo vom Angesicht die Rede ist (term:H6440_presence).
+  - agent:deu012, 2026-11-14
+- **`term:H6643_gazelle`** צְבִי → **Gazelle** [high, decided, by-rule]
+  - gloss: צְבִי: צְּבִ֖י (DEU 12:15) — English (generated): as they would a gazelle
+  - gloss: צְבִי: צְּבִי֙ (DEU 12:22) — English (generated): a gazelle
+  - NT: DEU 12:15 *Gazelle und der Hirsch*
+  - answers: gazelle
+  - צְבִי »Gazelle«, אַיָּל »Hirsch« (5Mo 12,15.22; 14,5; 15,22).
+  - agent:deu012, 2026-11-14
+- **`formula:chosen_place`** מָקוֹם → **der Ort, wo der HERR, dy Gott, userwählt, für sy Name dert häre z tue / dert la z wohne** [high, decided, by-rule]
+  - gloss: מָקוֹם: מָּק֞וֹם (DEU 12:5) — English (generated): the place
+  - gloss: בָּחַר: יִבְחַ֨ר (DEU 12:5) — English (generated): will choose
+  - gloss: שָׁכַן: שַׁכֵּ֤ן (DEU 12:11) — English (generated): a dwelling
+  - NT: DEU 12:11 *dert la z wohne*
+  - answers: the place the LORD your God will choose
+  - הַמָּקוֹם אֲשֶׁר יִבְחַר יְהוָה (5Mo 12-31); לָשׂוּם שְׁמוֹ »sy Name dert häre tue«, לְשַׁכֵּן שְׁמוֹ »sy Name dert la wohne«.
+  - agent:deu012, 2026-11-14
+- **`formula:blood_not_eat`** דָּם → **Nume ds Bluet … nid ässe; uf d Ärde söllsch es usschütte wi Wasser** [high, decided, by-rule]
+  - gloss: דָּם: דָּ֖ם (DEU 12:16) — English (generated): the blood
+  - gloss: שָׁפַךְ: תִּשְׁפְּכֶ֖ (DEU 12:16) — English (generated): pour
+  - NT: DEU 12:16 *usschütte wi Wasser*
+  - answers: you must not eat the blood
+  - 5Mo 12,16.23-25; 15,23.
+  - agent:deu012, 2026-11-14
+- **`formula:clean_unclean_eat`** טָמֵא → **Der Usuber und der Suber dörfe 's ässe, wi me d Gazelle und der Hirsch isst** [high, decided, by-rule]
+  - gloss: טָמֵא: טָּמֵ֤א (DEU 12:15) — English (generated): and unclean
+  - gloss: טָהֹר: טָּהוֹר֙ (DEU 12:15) — English (generated): Both the ceremonially clean
+  - NT: DEU 12:15 *Usuber und der Suber*
+  - answers: the ceremonially clean and unclean
+  - 5Mo 12,15.22; 15,22.
+  - agent:deu012, 2026-11-14
+- **`formula:right_in_eyes`** הַ → **das mache, wo i den Ouge vom HERR rächt isch** [high, decided, by-rule]
+  - gloss: הַ: הַ (DEU 12:25) — English (generated): what is right
+  - gloss: עַיִן: עֵינֵ֥י (DEU 12:25) — English (generated): in the eyes
+  - NT: DEU 12:25 *Ouge vom HERR rächt*
+  - answers: what is right in the eyes of the LORD
+  - הַיָּשָׁר בְּעֵינֵי יְהוָה (5Mo 6,18; 12,25.28; Könige); Gegenstück »was bös isch i den Ouge vom HERR« (4,25; 9,18).
+  - agent:deu012, 2026-11-14
+- **`term:H1375_hill`** גִּבְעָה → **Höger** [high, decided, by-rule]
+  - gloss: גִּבְעָה: גְּבָע֔וֹת (DEU 12:2) — English (generated): the hills
+  - NT: DEU 12:2 *uf de Höger*
+  - answers: hills, hill
+  - גִּבְעָה »Höger« (Korpus).
+  - agent:deu012, 2026-11-14
+- **`formula:purge_evil`** בָּעַר → **So söllsch ds Böse us dyr Mitti furtschaffe** [high, decided, by-rule]
+  - gloss: בָּעַר: בִֽעַרְתָּ֥ (DEU 13:6) — English (generated): So you must purge
+  - gloss: רַע: רָ֖ע (DEU 13:6) — English (generated): the evil
+  - NT: DEU 13:6 *us dyr Mitti furtschaffe*
+  - answers: purge the evil from among you
+  - וּבִעַרְתָּ הָרָע מִקִּרְבֶּךָ (5Mo 13,6; 17,7.12; 19,19; 21,21; 22,21.22.24; 24,7).
+  - agent:deu013, 2026-11-14
+- **`formula:hear_and_fear`** שָׁמַע → **Ganz Israel söll 's ghöre und Angscht übercho** [high, decided, by-rule]
+  - gloss: שָׁמַע: יִשְׁמְע֖וּ (DEU 13:12) — English (generated): will hear
+  - gloss: יָרֵא: יִֽרָא֑וּ (DEU 13:12) — English (generated): and be afraid
+  - NT: DEU 13:12 *Angscht übercho*
+  - answers: all Israel will hear and be afraid
+  - 5Mo 13,12; 17,13; 19,20; 21,21.
+  - agent:deu013, 2026-11-14
+- **`formula:edge_of_sword`** פֶּה → **mit der Schärfi vom Schwärt** [high, decided, by-rule]
+  - gloss: פֶּה: פִי (DEU 13:16)
+  - gloss: חֶרֶב: חָ֑רֶב (DEU 13:16) — English (generated): to the sword
+  - NT: DEU 13:16 *Schärfi vom Schwärt*
+  - answers: to the sword
+  - לְפִי־חָרֶב (4Mo 21,24; 5Mo 13,16; 20,13; Josua).
+  - agent:deu013, 2026-11-14
+- **`term:H5080_lead_astray`** נָדַח → **abbringe / verfüere / verfüert** [high, decided, by-rule]
+  - gloss: נָדַח: הַדִּֽיחֲ (DEU 13:6) — English (generated): he has tried to turn you
+  - gloss: נָדַח: יַּדִּ֛יחוּ (DEU 13:14) — English (generated): astray
+  - NT: DEU 13:6 *vom Wäg abbringe*
+  - answers: turn you, led astray, lead astray
+  - הִדִּיחַ: »(vom Wäg, vom HERR) abbringe«, ohne Ergänzung »verfüere«; הֵסִית »verfüere«.
+  - agent:deu013, 2026-11-14
+- **`term:H2740_fierce_anger`** חָרוֹן → **glüejigi Töubi** [high, decided, by-rule]
+  - gloss: חָרוֹן: חֲר֣וֹן (DEU 13:18) — English (generated): His fierce anger
+  - gloss: אַף: אַפּ֗ (DEU 13:18)
+  - NT: DEU 13:18 *glüejige Töubi ablat*
+  - answers: fierce anger
+  - חֲרוֹן אַף: »glüejigi Töubi«; »ablaa vo« für שׁוּב מִן.
+  - agent:deu013, 2026-11-14
+- **`term:H1100_worthless`** בְּלִיַּעַל → **Nüütnutzigi Manne / Nüütnutz** [high, decided, by-rule]
+  - gloss: בְּלִיַּעַל: בְלִיַּ֨עַל֙ (DEU 13:14) — English (generated): that wicked
+  - NT: DEU 13:14 *Nüütnutzigi Manne*
+  - answers: wicked men, worthless
+  - בְּנֵי בְלִיַּעַל: »Nüütnutzigi (Manne)«, »Nüütnutze« (Korpus Nüütnutz 2×).
+  - agent:deu013, 2026-11-14
+- **`term:H5060_touch`** נָגַע → **aarüere / aarüert** [high, decided, by-rule]
+  - gloss: נָגַע: תִגָּֽעוּ (DEU 14:8) — English (generated): or touch
+  - NT: DEU 14:8 *nid aarüere*
+  - answers: touch, touches, touched
+  - נָגַע »aarüere« (3Mo 11; 4Mo 19; 5Mo 14,8).
+  - agent:deu014, 2026-11-14
+- **`term:H3563_little_owl`** כּוֹס → **Chüzli** [high, decided, by-rule]
+  - gloss: כּוֹס: כּ֥וֹס (DEU 14:16) — English (generated): the little owl
+  - NT: DEU 14:16 *ds Chüzli*
+  - answers: little owl
+  - כּוֹס in den Listen unreiner Vögel (3Mo 11,17; 5Mo 14,16) »Chüzli«; Ps 102,7 »Üle« (term:H3563_owl).
+  - agent:deu014, 2026-11-14
+- **`term:deu014_animals`** יַחְמוּר → **Reh; Wildgeiss; Steibock; Antilope; Bärgschaf; Rotmilan** [high, decided, by-rule]
+  - gloss: יַחְמוּר: יַחְמ֑וּר (DEU 14:5) — English (generated): the roe deer
+  - gloss: אַקּוֹ: אַקּ֥וֹ (DEU 14:5) — English (generated): the wild goat
+  - gloss: דִּישֹׁון: דִישֹׁ֖ן (DEU 14:5) — English (generated): the ibex
+  - gloss: תְּאוֹ: תְא֥וֹ (DEU 14:5) — English (generated): the antelope
+  - gloss: זֶמֶר: זָֽמֶר (DEU 14:5) — English (generated): and the mountain sheep
+  - gloss: רָאָה: רָאָה֙ (DEU 14:13) — English (generated): the red kite
+  - NT: DEU 14:5 *ds Reh*
+  - answers: roe deer, wild goat, ibex, antelope, mountain sheep, red kite
+  - Wildtiere und Vögel, die 3Mo 11 nicht nennt; Bestimmung unsicher, nach der BSB-Deutung.
+  - agent:deu014, 2026-11-14
+- **`term:H5237`** נׇכְרִי → **Usländer** [high, decided, by-rule]
+  - gloss: נׇכְרִי: נָכְרִ֔י (DEU 14:21) — English (generated): it to a foreigner
+  - NT: DEU 14:21 *amenen Usländer*
+  - answers: foreigner
+  - נָכְרִי »Usländer«; גֵּר bleibt »Frömd«.
+  - agent:deu014, 2026-11-14
+- **`term:H7941`** שֵׁכָר → **Bier** [high, decided, by-rule]
+  - gloss: שֵׁכָר: שֵּׁכָ֔ר (DEU 14:26) — English (generated): strong drink
+  - NT: DEU 14:26 *Wy und Bier*
+  - answers: strong drink
+  - שֵׁכָר »Bier« (4Mo 6,3; 5Mo 14,26; 29,5).
+  - agent:deu014, 2026-11-14
+- **`formula:levite_no_portion`** חֵלֶק → **denn er het ke Aateil und kes Erbteil bi dir** [high, decided, by-rule]
+  - gloss: חֵלֶק: חֵ֥לֶק (DEU 14:27) — English (generated): portion
+  - gloss: נַחֲלָה: נַחֲלָ֖ה (DEU 14:27) — English (generated): or inheritance
+  - NT: DEU 14:27 *Aateil und kes Erbteil*
+  - answers: no portion or inheritance
+  - 5Mo 10,9; 12,12; 14,27.29; 18,1.
+  - agent:deu014, 2026-11-14
+- **`formula:stranger_orphan_widow`** גֵּר → **der Frömd, ds Waisechind und d Witfrou** [high, decided, by-rule]
+  - gloss: גֵּר: גֵּר (DEU 14:29) — English (generated): the foreigner
+  - gloss: יָתוֹם: יָּת֤וֹם (DEU 14:29) — English (generated): the fatherless
+  - gloss: אַלְמָנָה: אַלְמָנָה֙ (DEU 14:29) — English (generated): and the widow
+  - NT: DEU 14:29 *Waisechind und d Witfrou*
+  - answers: the foreigner, the fatherless, and the widow
+  - 5Mo 10,18; 14,29; 16,11.14; 24,17-21; 26,12-13; 27,19.
+  - agent:deu014, 2026-11-14
+- **`term:H8059`** שְׁמִטָּה → **Erlass / Erlassjahr** [high, decided, by-rule]
+  - gloss: שְׁמִטָּה: שְׁמִטָּֽה (DEU 15:1) — English (generated): you must cancel debts
+  - gloss: שְׁמִטָּה: שְּׁמִטָּה֒ (DEU 15:9) — English (generated): of release
+  - NT: DEU 15:1 *en Erlass mache*
+  - answers: cancel debts, remission, release
+  - שְׁמִטָּה »Erlass«; שָׁמַט »erla«; שְׁנַת הַשְּׁמִטָּה »Erlassjahr« (5Mo 15; 31,10).
+  - agent:deu015, 2026-11-14
+- **`term:H5670_lend`** עָבַט → **uslehne / usglehnt / etlehne** [high, decided, by-rule]
+  - gloss: עָבַט: הַֽעֲבַטְתָּ֞ (DEU 15:6) — English (generated): you will lend
+  - gloss: עָבַט: תַעֲבֹ֔ט (DEU 15:6) — English (generated): but borrow
+  - gloss: עָבַט: הַעֲבֵט֙ (DEU 15:8) — English (generated): and freely loan him
+  - NT: DEU 15:6 *vilne Völker uslehne*
+  - answers: lend, borrow, loan
+  - הֶעֱבִיט »uslehne«, עָבַט »etlehne« (5Mo 15,6.8; 28,12); Korpus »etlehne« (leihen).
+  - agent:deu015, 2026-11-14
+- **`formula:open_hand`** פָּתַח → **dy Hand wyt uftue** [high, decided, by-rule]
+  - gloss: פָּתַח: פָתֹ֧חַ (DEU 15:8) — English (generated): you are to open
+  - gloss: יָד: יָדְ (DEU 15:8) — English (generated): your hand
+  - NT: DEU 15:8 *dy Hand wyt uftue*
+  - answers: open your hand
+  - פָּתֹחַ תִּפְתַּח אֶת־יָדְךָ (5Mo 15,8.11).
+  - agent:deu015, 2026-11-14
+- **`term:H2670_free`** שָׁלַח → **frei la ga / frei** [high, decided, by-rule]
+  - gloss: שָׁלַח: תְּשַׁלְּחֶ֥ (DEU 15:12) — English (generated): you must set him
+  - gloss: חׇפְשִׁי: חָפְשִׁ֖י (DEU 15:12) — English (generated): free
+  - NT: DEU 15:12 *frei la ga*
+  - answers: set him free, free
+  - שִׁלַּח חָפְשִׁי »frei la ga«; יָצָא חָפְשִׁי »frei usega« (2Mo 21,2).
+  - agent:deu015, 2026-11-14
+- **`formula:slave_in_egypt`** זָכַר → **Dänk dra, dass d im Land Ägypte e Sklav bisch gsi** [high, decided, by-rule]
+  - gloss: זָכַר: זָכַרְתָּ֗ (DEU 15:15) — English (generated): Remember
+  - gloss: עֶבֶד: עֶ֤בֶד (DEU 15:15) — English (generated): slaves
+  - NT: DEU 15:15 *e Sklav bisch gsi*
+  - answers: Remember that you were slaves in the land of Egypt
+  - 5Mo 5,15; 15,15; 16,12; 24,18.22.
+  - agent:deu015, 2026-11-14
+- **`formula:pilgrim_feasts`** חַג → **am Fescht vom ungsüürete Brot, am Wuchefescht und am Loubhüttefescht** [high, decided, by-rule]
+  - gloss: חַג: חַ֧ג (DEU 16:16) — English (generated): at the Feast
+  - gloss: שָׁבוּעַ: שָּׁבֻע֖וֹת (DEU 16:16) — English (generated): of Weeks
+  - gloss: סֻכָּה: סֻּכּ֑וֹת (DEU 16:16) — English (generated): of Tabernacles
+  - NT: DEU 16:16 *Wuchefescht und am Loubhüttefescht*
+  - answers: the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Tabernacles
+  - חַג הַמַּצּוֹת, חַג הַשָּׁבֻעוֹת, חַג הַסֻּכּוֹת (5Mo 16,16; 2Chr 8,13).
+  - agent:deu016, 2026-11-14
+- **`formula:three_times_appear`** שָׁלֹשׁ → **Drümal im Jahr söll alls Männleche bi dir vor em HERR, dym Gott, erschyne** [high, decided, by-rule]
+  - gloss: שָׁלֹשׁ: שָׁל֣וֹשׁ (DEU 16:16) — English (generated): Three
+  - gloss: זָכוּר: זְכוּרְ (DEU 16:16) — English (generated): your men
+  - NT: DEU 16:16 *alls Männleche bi dir*
+  - answers: Three times a year all your men are to appear
+  - 2Mo 23,17; 34,23; 5Mo 16,16; »nid mit lääre Händ« (2Mo 23,15).
+  - agent:deu016, 2026-11-14
+- **`term:H6116`** עֲצֶרֶת → **Feschtversammlig** [high, decided, by-rule]
+  - gloss: עֲצֶרֶת: עֲצֶ֨רֶת֙ (DEU 16:8) — English (generated): you shall hold a solemn assembly
+  - NT: DEU 16:8 *e Feschtversammlig*
+  - answers: solemn assembly
+  - עֲצֶרֶת (3Mo 23,36; 4Mo 29,35; 5Mo 16,8).
+  - agent:deu016, 2026-11-14
+- **`term:H8199_judges`** שָׁפַט → **Richter / richte** [high, decided, by-rule]
+  - gloss: שָׁפַט: שֹׁפְטִ֣ים (DEU 16:18) — English (generated): judges
+  - gloss: שָׁפַט: שָׁפְט֥וּ (DEU 16:18) — English (generated): They are to judge
+  - NT: DEU 16:18 *Richter und Amtslüt*
+  - answers: judges, judge
+  - שֹׁפֵט »Richter«, שָׁפַט »richte«; שֹׁטֵר »Amtslüt« (term:H7860_officials).
+  - agent:deu016, 2026-11-14
+- **`formula:pursue_justice`** צֶדֶק → **Der Grächtigkeit, nume der Grächtigkeit söllsch nachega** [high, decided, by-rule]
+  - gloss: צֶדֶק: צֶ֥דֶק (DEU 16:20) — English (generated): justice
+  - gloss: רָדַף: תִּרְדֹּ֑ף (DEU 16:20) — English (generated): Pursue
+  - NT: DEU 16:20 *nume der Grächtigkeit*
+  - answers: Pursue justice, and justice alone
+  - צֶדֶק צֶדֶק תִּרְדֹּף (5Mo 16,20).
+  - agent:deu016, 2026-11-14
+- **`term:H2102_presume`** זָדוֹן → **übermüetig** [high, decided, by-rule]
+  - gloss: זָדוֹן: זָד֗וֹן (DEU 17:12) — English (generated): presumptuously
+  - gloss: זִיד: יְזִיד֖וּ (DEU 17:13) — English (generated): behave arrogantly
+  - NT: DEU 17:12 *übermüetig handlet*
+  - answers: presumptuously, arrogantly, rebelled
+  - זִיד, זָדוֹן: »übermüetig (handle)« (5Mo 1,43; 17,12-13; 18,20.22).
+  - agent:deu017, 2026-11-14
+- **`formula:two_three_witnesses`** פֶּה → **uf d Ussag vo zweene oder dreine Züge hi** [high, decided, by-rule]
+  - gloss: פֶּה: פִּ֣י (DEU 17:6) — English (generated): the testimony
+  - gloss: עֵד: עֵדִ֗ים (DEU 17:6) — English (generated): witnesses
+  - NT: DEU 17:6 *zweene oder dreine Züge*
+  - answers: On the testimony of two or three witnesses
+  - עַל־פִּי שְׁנַיִם עֵדִים אוֹ שְׁלֹשָׁה עֵדִים (5Mo 17,6; 19,15); Dativformen wie im Korpus (2Kor 13,1); Einzahl »e Züge«.
+  - agent:deu017, 2026-11-14
+- **`formula:right_left`** סוּר → **nid rächts und nid linggs abwyche** [high, decided, by-rule]
+  - gloss: סוּר: תָס֗וּר (DEU 17:11) — English (generated): turn aside
+  - gloss: יָמִין: יָמִ֥ין (DEU 17:11) — English (generated): to the right
+  - gloss: שְׂמֹאל: שְׂמֹֽאל (DEU 17:11) — English (generated): or to the left
+  - NT: DEU 17:11 *rächts und nid linggs*
+  - answers: to the right or to the left
+  - לֹא תָסוּר יָמִין וּשְׂמֹאל (5Mo 5,32; 17,11.20; 28,14; Jos 1,7).
+  - agent:deu017, 2026-11-14
+- **`term:deu017_court`** לֵוִי → **levitischi Prieschter / levitische; Rächtssach; Urteil; Abschrift** [high, decided, by-rule]
+  - gloss: לֵוִי: לְוִיִּ֔ם (DEU 17:9) — English (generated): the Levitical
+  - gloss: מִשְׁפָּט: מִּשְׁפָּֽט (DEU 17:9) — English (generated): in the case
+  - gloss: מִשְׁנֶה: מִשְׁנֵ֨ה (DEU 17:18) — English (generated): a copy
+  - NT: DEU 17:9 *levitische Prieschter*
+  - answers: Levitical priests, verdict, copy
+  - הַכֹּהֲנִים הַלְוִיִּם »di levitische Prieschter« (5Mo 17,9.18; 18,1; 24,8; 27,9); דְּבַר הַמִּשְׁפָּט »Urteil«; מִשְׁנֵה הַתּוֹרָה »Abschrift vo däm Gsetz«.
+  - agent:deu017, 2026-11-14
+- **`formula:prophet_like_moses`** נָבִיא → **E Prophet wi mi lat der der HERR, dy Gott, us dyne Brüeder la ufsta** [high, decided, by-rule]
+  - gloss: נָבִיא: נָבִ֨יא (DEU 18:15) — English (generated): a prophet
+  - gloss: קוּם: יָקִ֥ים (DEU 18:15) — English (generated): will raise up
+  - NT: DEU 18:15 *E Prophet wi mi*
+  - answers: will raise up for you a prophet like me
+  - נָבִיא … כָּמֹנִי יָקִים לְךָ (5Mo 18,15.18); »la ufsta« nach dem Korpus (Apg 3,22).
+  - agent:deu018, 2026-11-14
+- **`term:deu018_divination`** קָסַם → **Wahrsägerei trybe; Zeichedüter; us Vorzeiche wahrsäge / wahrseit; Hexer; Beschwörer; Totebeschwörer; Wahrsäger; di Tote befrage / befragt** [high, decided, by-rule]
+  - gloss: קָסַם: קְסָמִ֔ים (DEU 18:10) — English (generated): practices divination
+  - gloss: עָנַן: מְעוֹנֵ֥ן (DEU 18:10) — English (generated): conjury
+  - gloss: נָחַשׁ: מְנַחֵ֖שׁ (DEU 18:10) — English (generated): interprets omens
+  - gloss: חָבַר: חֹבֵ֖ר (DEU 18:11) — English (generated): casts spells
+  - gloss: אוֹב: אוֹב֙ (DEU 18:11) — English (generated): a medium
+  - gloss: יִדְּעֹנִי: יִדְּעֹנִ֔י (DEU 18:11) — English (generated): or spiritist
+  - NT: DEU 18:10 *ke Zeichedüter*
+  - answers: divination, conjury, omens, spells, medium, spiritist
+  - קֶסֶם »Wahrsägerei«, מְעוֹנֵן »Zeichedüter«, נִחֵשׁ »us Vorzeiche wahrsäge«, מְכַשֵּׁף »Hexer«, חֹבֵר חֶבֶר »Beschwörer«, אוֹב »Totebeschwörer«, יִדְּעֹנִי »Wahrsäger« (3Mo 19,31; 5Mo 18,10-11.14).
+  - agent:deu018, 2026-11-14
+- **`term:H8549_blameless`** תָּמִים → **ohni Tadel** [high, decided, by-rule]
+  - gloss: תָּמִים: תָּמִ֣ים (DEU 18:13) — English (generated): blameless
+  - NT: DEU 18:13 *ohni Tadel*
+  - answers: blameless
+  - תָּמִים von Menschen vor Gott (1Mo 6,9; 17,1; 5Mo 18,13); vom Opfertier »ohni Fähler« bleibt.
+  - agent:deu018, 2026-11-14
+- **`formula:pass_through_fire`** עָבַר → **sy Suhn oder sy Tochter dür ds Füür la ga** [high, decided, by-rule]
+  - gloss: עָבַר: מַעֲבִ֥יר (DEU 18:10) — English (generated): who sacrifices
+  - gloss: אֵשׁ: אֵ֑שׁ (DEU 18:10) — English (generated): in the fire
+  - NT: DEU 18:10 *dür ds Füür*
+  - answers: sacrifices his son or daughter in the fire
+  - הֶעֱבִיר בְּנוֹ וּבִתּוֹ בָּאֵשׁ (5Mo 18,10; 2Kön 16,3; 17,17; 21,6).
+  - agent:deu018, 2026-11-14
+- **`term:H1875_require`** דָּרַשׁ → **Rächeschaft fordere** [high, decided, by-rule]
+  - gloss: דָּרַשׁ: אֶדְרֹ֥שׁ (DEU 18:19) — English (generated): will hold accountable
+  - NT: DEU 18:19 *Rächeschaft*
+  - answers: hold accountable, require it
+  - דָּרַשׁ מֵעִם »Rächeschaft fordere vo« (5Mo 18,19; 23,22).
+  - agent:deu018, 2026-11-14
+- **`formula:innocent_blood`** דָּם → **unschuldigs Bluet vergiesse / ds unschuldige Bluet us Israel furtschaffe** [high, decided, by-rule]
+  - gloss: דָּם: דָּ֣ם (DEU 19:10) — English (generated): blood
+  - gloss: נָקִי: נָקִ֔י (DEU 19:10) — English (generated): Thus innocent
+  - gloss: דָּם: דַֽם (DEU 19:13) — English (generated): blood
+  - NT: DEU 19:10 *unschuldigs Bluet*
+  - answers: innocent blood
+  - דָּם נָקִי (5Mo 19,10.13; 21,8-9; 27,25); דָּמִים »Bluetschuld«.
+  - agent:deu019, 2026-11-14
+- **`term:H7291_pursue`** רָדַף → **verfolge / verfolgt / nachega** [high, decided, by-rule]
+  - gloss: רָדַף: יִרְדֹּף֩ (DEU 19:6) — English (generated): might pursue
+  - NT: DEU 19:6 *verfolge*
+  - answers: pursue, pursued, chase
+  - רָדַף »verfolge« (Korpuswort); צֶדֶק תִּרְדֹּף »der Grächtigkeit nachega« (16,20).
+  - agent:deu019, 2026-11-14
+- **`term:H1366_boundary`** גְּבוּל → **Gränze / Gebiet** [high, decided, by-rule]
+  - gloss: גְּבוּל: גְּב֣וּל (DEU 19:14) — English (generated): boundary marker
+  - NT: DEU 19:14 *d Gränze*
+  - answers: boundary marker, boundary, border
+  - גְּבוּל »Gränze« (5Mo 19,14; 27,17), sonst »Gebiet«.
+  - agent:deu019, 2026-11-14
+- **`formula:no_pity`** חוּס → **Dys Oug söll kes Mitleid (mit ihm) ha** [high, decided, by-rule]
+  - gloss: חוּס: תָח֥וֹס (DEU 19:13) — English (generated): You must show him no pity
+  - gloss: עַיִן: עֵֽינְ (DEU 19:13)
+  - gloss: עַיִן: עֵינֶ֑ (DEU 19:21)
+  - NT: DEU 19:13 *kes Mitleid*
+  - answers: show no pity, show him no pity
+  - לֹא־תָחוֹס עֵינְךָ (5Mo 7,16; 13,9; 19,13.21; 25,12).
+  - agent:deu019, 2026-11-14
+- **`term:deu019_asylum`** בָּדַל → **bestimme; Bieli; Yse; uflure / uflueret; härfalle über / härfallt; z Tod schla; Todesurteil; ungrächte Züge; falsche Züge** [high, decided, by-rule]
+  - gloss: בָּדַל: תַּבְדִּ֣יל (DEU 19:2) — English (generated): then you are to set apart
+  - gloss: גַּרְזֶן: גַּרְזֶן֙ (DEU 19:5) — English (generated): his axe
+  - gloss: אָרַב: אָ֤רַב (DEU 19:11) — English (generated): and lies in wait
+  - gloss: חָמָס: חָמָ֖ס (DEU 19:16) — English (generated): a false
+  - NT: DEU 19:5 *mit em Bieli*
+  - answers: set apart, axe, lies in wait, malicious
+  - הִבְדִּיל עָרִים »Stedt bestimme« (4,41; 19,2.7); גַּרְזֶן »Bieli«; אָרַב »uflure«; הִכָּה נֶפֶשׁ »z Tod schla«; עֵד חָמָס »ungrächte Züge«, עֵד שֶׁקֶר »falsche Züge«.
+  - agent:deu019, 2026-11-14
+- **`formula:lord_fights_for_you`** יהוה → **der HERR, öie Gott, chrieget für öich** [high, decided, by-rule]
+  - gloss: יהוה: יְהוָ֣ה (DEU 20:4) — English (generated): the LORD
+  - gloss: לָחַם: הִלָּחֵ֥ם (DEU 20:4) — English (generated): to fight
+  - NT: DEU 20:4 *für öich*
+  - answers: fight for you
+  - יְהוָה … נִלְחָם לָכֶם (5Mo 1,30; 3,22; 20,4; Jos 23,10).
+  - agent:deu020, 2026-11-14
+- **`term:H6635_commander`** שַׂר → **Oberscht vom Heer / Oberschte vom Heer** [high, decided, by-rule]
+  - gloss: שַׂר: שָׂרֵ֥י (DEU 20:9) — English (generated): commanders
+  - gloss: צָבָא: צְבָא֖וֹת (DEU 20:9)
+  - NT: DEU 20:9 *Oberschte vom Heer*
+  - answers: commanders, commander of the army
+  - שַׂר צָבָא »Oberscht vom Heer« (Korpuswort »Oberscht« für den Truppenführer); 5Mo 20,9, dann Jos–Kön.
+  - agent:deu020, 2026-11-14
+- **`term:deu020_war`** מִלְחָמָה → **i Chrieg zie; i Kampf ga; belagere / belagerisch; Belagerig; Belagerigswärk; der Fride aabiete; Chrieg füere; yweihe / ygweiht; verlobt; plündere** [high, decided, by-rule]
+  - gloss: מִלְחָמָה: מִּלְחָמָ֜ה (DEU 20:1) — English (generated): to war
+  - gloss: צוּר: צַרְתָּ֖ (DEU 20:12) — English (generated): lay siege
+  - gloss: מָצוֹר: מָצ֗וֹר (DEU 20:20) — English (generated): siege works
+  - gloss: חָנַךְ: חֲנָכ֔ (DEU 20:5) — English (generated): dedicated it
+  - gloss: אָרַשׂ: אֵרַ֤שׂ (DEU 20:7) — English (generated): become pledged
+  - NT: DEU 20:12 *belagere*
+  - answers: war, battle, siege, siege works, offer of peace, dedicated, pledged
+  - מִלְחָמָה »Chrieg / Kampf«; צוּר עַל »belagere«; מָצוֹר »Belagerig, Belagerigswärk«; קָרָא לְשָׁלוֹם »der Fride aabiete«; חָנַךְ »yweihe«; אֵרַשׂ »sech verlobe mit«.
+  - agent:deu020, 2026-11-14
+- **`term:H5397_breath`** נְשָׁמָה → **Aate** [high, decided, by-rule]
+  - gloss: נְשָׁמָה: נְשָׁמָֽה (DEU 20:16) — English (generated): that breathes
+  - NT: DEU 20:16 *wo Aate het*
+  - answers: breathes, breath of life
+  - נְשָׁמָה »Aate«; כָּל־נְשָׁמָה »alls, wo Aate het« (5Mo 20,16; Jos 10,40; 11,11.14).
+  - agent:deu020, 2026-11-14
+- **`formula:stubborn_rebellious`** סָרַר → **stur und ufsässig** [high, decided, by-rule]
+  - gloss: סָרַר: סוֹרֵ֣ר (DEU 21:18) — English (generated): a stubborn
+  - gloss: מָרָה: מוֹרֶ֔ה (DEU 21:18) — English (generated): and rebellious
+  - NT: DEU 21:18 *stur und ufsässig*
+  - answers: stubborn and rebellious
+  - סוֹרֵר וּמוֹרֶה (5Mo 21,18.20; Jer 5,23; Ps 78,8).
+  - agent:deu021, 2026-11-14
+- **`formula:glutton_drunkard`** זָלַל → **e Frässer und e Süffel** [high, decided, by-rule]
+  - gloss: זָלַל: זוֹלֵ֖ל (DEU 21:20) — English (generated): He is a glutton
+  - gloss: סֹבֶא: סֹבֵֽא (DEU 21:20) — English (generated): and a drunkard
+  - NT: DEU 21:20 *e Süffel*
+  - answers: a glutton and a drunkard
+  - זוֹלֵל וְסֹבֵא (5Mo 21,20; Spr 23,21).
+  - agent:deu021, 2026-11-14
+- **`formula:hanged_cursed`** קְלָלָה → **wär hanget, isch vo Gott verfluecht** [high, decided, by-rule]
+  - gloss: קְלָלָה: קִלְלַ֥ת (DEU 21:23) — English (generated): curse
+  - gloss: תָּלָה: תָּל֑וּי (DEU 21:23) — English (generated): anyone who is hung
+  - NT: DEU 21:23 *vo Gott verfluecht*
+  - answers: anyone who is hung on a tree is under God’s curse
+  - קִלְלַת אֱלֹהִים תָּלוּי (5Mo 21,23); עֵץ »Holz« (Gal 3,13 im Korpus).
+  - agent:deu021, 2026-11-14
+- **`term:H5795_heifer`** עֶגְלָה → **jungi Chue** [high, decided, by-rule]
+  - gloss: עֶגְלָה: עֶגְלַ֣ת (DEU 21:3) — English (generated): a heifer
+  - NT: DEU 21:3 *e jungi Chue*
+  - answers: heifer
+  - עֶגְלָה »jungi Chue« (5Mo 21,3-6; Ri 14,18; 1Sam 16,2); פָּרָה »Chue«.
+  - agent:deu021, 2026-11-14
+- **`term:H2491_slain`** חָלָל → **Erschlagene** [high, decided, by-rule]
+  - gloss: חָלָל: חָלָ֗ל (DEU 21:1) — English (generated): slain
+  - NT: DEU 21:1 *en Erschlagene*
+  - answers: slain, victim
+  - חָלָל »Erschlagene« (5Mo 21,1-6; Jos–Kön im Krieg).
+  - agent:deu021, 2026-11-14
+- **`term:deu021_forms`** נַחַל → **Bachtal; ds Gnick bräche / bbroche; Gfangeni; Gfangeschaft; schäre; Negel; zrüggsetzt / Zrüggsetzti / Zrüggsetzte; ds Doppelte; Lych; hänke / hänksch; begrabe** [medium, decided, by-rule]
+  - gloss: נַחַל: נַ֣חַל (DEU 21:4) — English (generated): a valley
+  - gloss: עָרַף: עָֽרְפוּ (DEU 21:4) — English (generated): neck
+  - gloss: שְׁבִי: שִׁבְיֽ (DEU 21:10) — English (generated): captive
+  - gloss: שָׂנֵא: שְׂנוּאָ֔ה (DEU 21:15) — English (generated): unloved
+  - gloss: פֶּה: פִּ֣י (DEU 21:17) — English (generated): portion
+  - gloss: נְבֵלָה: נִבְלָת֜ (DEU 21:23) — English (generated): the body
+  - gloss: תָּלָה: תָלִ֥יתָ (DEU 21:22) — English (generated): and you hang
+  - NT: DEU 21:4 *ds Gnick bräche*
+  - answers: valley, break its neck, captive, captivity, unloved, double portion, body, hang, bury
+  - נַחַל (אֵיתָן) »Bachtal«; עָרַף »ds Gnick bräche«; שִׁבְיָה »Gfangeni«; שְׂנוּאָה »zrüggsetzt«; פִּי שְׁנַיִם »ds Doppelte«; נְבֵלָה (Mensch) »Lych«; תָּלָה »hänke«, »hange«; קָבַר »begrabe«.
+  - agent:deu021, 2026-11-14
+- **`term:deu022_marriage`** בְּתוּלִים → **Jungfrou; Jungfrouschaft; Zeiche vo der Jungfrouschaft; i Verruef bringe / bbracht; schlimmi Sache aahänke; verlobt / verlobte; entehrt; furtschicke; Schandtat; ghueret; Buess uferlege; Silberstück** [high, decided, by-rule]
+  - gloss: בְּתוּלִים: בְּתוּלֵ֧י (DEU 22:15) — English (generated): virginity
+  - gloss: שֵׁם: שֵׁ֣ם (DEU 22:14) — English (generated): and he then accuses
+  - gloss: אָרַשׂ: מְאֹרָשָׂ֖ה (DEU 22:23) — English (generated): pledged in marriage
+  - gloss: עָנָה: עִנָּ֖ה (DEU 22:24) — English (generated): he has violated
+  - gloss: שָׁלַח: שַּׁלְּחָ֖ (DEU 22:19) — English (generated): divorce her
+  - gloss: נְבָלָה: נְבָלָה֙ (DEU 22:21) — English (generated): an outrage
+  - gloss: עָנַשׁ: עָנְשׁ֨וּ (DEU 22:19) — English (generated): They are also to fine
+  - NT: DEU 22:21 *e Schandtat in Israel*
+  - answers: virgin, virginity, bad name, pledged, betrothed, violated, divorce, outrage, promiscuous, fine
+  - בְּתוּלָה »Jungfrou«, בְּתוּלִים »(Zeiche vo der) Jungfrouschaft«; הוֹצִיא שֵׁם רָע »i Verruef bringe«; מְאֹרָשָׂה »verlobt«; עִנָּה (sexuell) »entehre«; שִׁלַּח (Ehe) »furtschicke«; נְבָלָה »Schandtat«; עָנַשׁ »e Buess uferlege«.
+  - agent:deu022, 2026-11-14
+- **`term:H5956_ignore`** עָלַם → **ewäggluege / lueg nid ewägg** [high, decided, by-rule]
+  - gloss: עָלַם: הִתְעַלַּמְתָּ֖ (DEU 22:1) — English (generated): ignore it
+  - gloss: עָלַם: הִתְעַלֵּֽם (DEU 22:3) — English (generated): ignore it
+  - NT: DEU 22:1 *lueg nid ewägg*
+  - answers: ignore
+  - הִתְעַלֵּם »ewäggluege« (5Mo 22,1.3.4).
+  - agent:deu022, 2026-11-14
+- **`term:deu022_forms`** קֵן → **sech verloffe; umgheit; Mannesache; Frouechleid; Vogelnäscht; Jungi; Eier; Gländer; Dach; zwöierlei Same; z Acher fahre; Gwäb; Wulle; Lyne; Quaste; Zipfel** [medium, decided, by-rule]
+  - gloss: קֵן: קַן (DEU 22:6) — English (generated): nest
+  - gloss: בֵּיצָה: בֵיצִ֔ים (DEU 22:6) — English (generated): eggs
+  - gloss: מַעֲקֶה: מַעֲקֶ֖ה (DEU 22:8) — English (generated): a railing
+  - gloss: חָרַשׁ: תַחֲרֹ֥שׁ (DEU 22:10) — English (generated): plow
+  - gloss: גָּדִל: גְּדִלִ֖ים (DEU 22:12) — English (generated): tassels
+  - NT: DEU 22:8 *es Gländer*
+  - answers: straying, nest, chicks, eggs, railing, roof, plow, wool, tassels
+  - נִדָּח »sech verloffe«; קַן צִפּוֹר »Vogelnäscht«; אֶפְרֹחִים »Jungi«; בֵּיצִים »Eier«; מַעֲקֶה »Gländer«; חָרַשׁ »z Acher fahre«; שַׁעַטְנֵז »Chleid us zwöierlei Gwäb«; גְּדִלִים »Quaste«.
+  - agent:deu022, 2026-11-14
+- **`term:H6948_shrine_prostitute`** קָדֵשׁ → **Tämpelhuer; Tämpelhuerer** [high, decided, by-rule]
+  - gloss: קָדֵשׁ: קְדֵשָׁ֖ה (DEU 23:18) — English (generated): a shrine prostitute
+  - gloss: קָדֵשׁ: קָדֵ֖שׁ (DEU 23:18) — English (generated): son
+  - NT: DEU 23:18 *ke Tämpelhuer*
+  - answers: shrine prostitute, cult prostitute
+  - קְדֵשָׁה »Tämpelhuer«, קָדֵשׁ »Tämpelhuerer«.
+  - agent:deu023, 2026-11-14
+- **`term:H4464_mamzer`** מַמְזֵר → **us ere verbottene Verbindig** [high, decided, by-rule]
+  - gloss: מַמְזֵר: מַמְזֵ֖ר (DEU 23:3) — English (generated): one of illegitimate birth
+  - NT: DEU 23:3 *verbottene Verbindig*
+  - answers: illegitimate birth
+  - מַמְזֵר; Deutung offen.
+  - agent:deu023, 2026-11-14
+- **`term:deu023_forms`** עֲשִׂירִי → **zächete; zerdrückti Hode; verbottene Verbindig; ziesch; Pflock; absitzisch; Dräck; Unaaständigs; Huerelohn; Hundelohn; Chornfäld; Trübel; Ähri abrysse** [medium, decided, by-rule]
+  - gloss: עֲשִׂירִי: עֲשִׂירִ֔י (DEU 23:3) — English (generated): to the tenth
+  - gloss: פָּצַע: פְצֽוּעַ (DEU 23:2) — English (generated): with crushed
+  - gloss: מַמְזֵר: מַמְזֵ֖ר (DEU 23:3) — English (generated): one of illegitimate birth
+  - gloss: יָתֵד: יָתֵ֛ד (DEU 23:14) — English (generated): a digging tool
+  - gloss: יָשַׁב: שִׁבְתְּ (DEU 23:14) — English (generated): when you relieve yourself
+  - gloss: עֶרְוָה: עֶרְוַ֣ת (DEU 23:15) — English (generated): unclean
+  - gloss: קָמָה: קָמַ֣ת (DEU 23:26) — English (generated): grainfield
+  - NT: DEU 23:3 *zächete Generation*
+  - answers: tenth, crushed, illegitimate, encamped, digging tool, relieve, excrement, indecent, wages, grainfield, grapes
+  - Formen ausserhalb des Korpus, nach seinen Mustern gebildet (vierzächete, verbotteni, sitzisch, unaaständig, Chornfälder).
+  - agent:deu023, 2026-11-14
+- **`term:H5667_pledge`** חָבַל → **Pfand; als Pfand nä** [high, decided, by-rule]
+  - gloss: חָבַל: יַחֲבֹ֥ל (DEU 24:6) — English (generated): as security for a debt
+  - gloss: עֲבוֹט: עֲבֹטֽ (DEU 24:10) — English (generated): to collect
+  - gloss: עֲבוֹט: עֲב֖וֹט (DEU 24:11) — English (generated): the security
+  - gloss: חָבַל: תַחֲבֹ֔ל (DEU 24:17) — English (generated): as security
+  - NT: DEU 24:6 *als Pfand nä*
+  - answers: pledge, security, take as security
+  - חָבַל »als Pfand nä«, עֲבוֹט »Pfand«.
+  - agent:deu024, 2026-11-14
+- **`term:deu024_forms`** סֵפֶר → **Scheidigsurkund; furtgschickt; der ober Mülistei; Mönschehändler; stilt; behandlet; uslehnsch; zrügg gä; planget druf; abschlasch; absueche; abläsisch; nachläse** [medium, decided, by-rule]
+  - gloss: סֵפֶר: סֵ֤פֶר (DEU 24:1) — English (generated): a certificate
+  - gloss: רֶכֶב: רָ֑כֶב (DEU 24:6) — English (generated): or even an upper millstone
+  - gloss: גַּנָּב: גַּנָּ֣ב (DEU 24:7) — English (generated): kidnapping
+  - gloss: פִּאֵר: תְפָאֵ֖ר (DEU 24:20) — English (generated): go over
+  - gloss: עָלַל: תְעוֹלֵ֖ל (DEU 24:21) — English (generated): go over
+  - NT: DEU 24:1 *e Scheidigsurkund*
+  - answers: divorce, millstone, kidnapper, branches, glean
+  - Formen dieses Kapitels; Scheidigsurkund aus Mt 5,31; übrige nach Korpusmustern.
+  - agent:deu024, 2026-11-14
+- **`term:H2993_levir`** יָבָם → **Schwager; Schwägeri; als Schwager sy Pflicht erfülle** [high, decided, by-rule]
+  - gloss: יָבָם: יְבָמָ (DEU 25:5) — English (generated): Her husband s brother
+  - gloss: יְבֵמֶת: יְבִמְתּ֑ (DEU 25:7) — English (generated): his brother s widow
+  - gloss: יָבַם: יִבְּמָֽ (DEU 25:5) — English (generated): Her husband s brother
+  - NT: DEU 25:7 *My Schwager*
+  - answers: husband’s brother, brother’s widow, brother-in-law
+  - יָבָם »Schwager«, יְבָמָה »Schwägeri«, יִבֵּם »als Schwager sy Pflicht erfülle« (vgl. 1Mo 38,8).
+  - agent:deu025, 2026-11-14
+- **`formula:deu025_ox`** חָסַם → **Du söllsch em Ochs, wo dröschet, ds Muul nid verbinde** [high, decided, by-rule]
+  - gloss: חָסַם: תַחְסֹ֥ם (DEU 25:4) — English (generated): muzzle
+  - gloss: שׁוֹר: שׁ֖וֹר (DEU 25:4) — English (generated): an ox
+  - NT: DEU 25:4 *em Ochs, wo dröschet*
+  - answers: muzzle, ox, treading
+  - Wortlaut nach 1Kor 9,9; 1Tim 5,18.
+  - agent:deu025, 2026-11-14
+- **`term:deu025_forms`** אֶבֶן → **Gwichtstei; richtige; richtigs; usglöscht; stryte; z Schand mache; Aadänke; zrüggbblibe** [medium, decided, by-rule]
+  - gloss: אֶבֶן: אֶ֣בֶן (DEU 25:13) — English (generated): two differing weights
+  - gloss: שָׁלֵם: שְׁלֵמָ֤ה (DEU 25:15) — English (generated): accurate
+  - gloss: מָחָה: יִמָּחֶ֥ה (DEU 25:6) — English (generated): be blotted out
+  - gloss: נָצָה: יִנָּצ֨וּ (DEU 25:11) — English (generated): are fighting
+  - gloss: קָלָה: נִקְלָ֥ה (DEU 25:3) — English (generated): and be degraded
+  - gloss: זֵכֶר: זֵ֣כֶר (DEU 25:19) — English (generated): the memory
+  - NT: DEU 25:13 *Gwichtstei*
+  - answers: weights, accurate, blotted out, fighting, degraded, memory
+  - Formen dieses Kapitels, nach Korpusmustern (Gwichtsteine 3Mo 19,36; richtigi; Stryt; Schand).
+  - agent:deu025, 2026-11-14
+- **`term:deu026_forms`** אֲרַמִּי → **Aramäer; zahlryche; furtgschaffet; Truur; Chorb; uf d Syte lege; erklärt** [medium, decided, by-rule]
+  - gloss: אֲרַמִּי: אֲרַמִּי֙ (DEU 26:5) — English (generated): Aramean
+  - gloss: רַב: רָֽב (DEU 26:5) — English (generated): and numerous
+  - gloss: בָּעַר: בִּעַ֧רְתִּי (DEU 26:13) — English (generated): I have removed
+  - gloss: אֹנֶה: אֹנִ֜י (DEU 26:14) — English (generated): while in mourning
+  - gloss: טֶנֶא: טֶּ֑נֶא (DEU 26:2) — English (generated): in a basket
+  - gloss: אָמַר: הֶאֱמַ֖רְתָּ (DEU 26:17) — English (generated): you have proclaimed
+  - NT: DEU 26:5 *en Aramäer*
+  - answers: Aramean, numerous, removed, mourning, basket, laying aside, proclaimed
+  - Formen dieses Kapitels; Aramäer Projektform, sonst nach Korpusmustern.
+  - agent:deu026, 2026-11-14
+- **`formula:curse_amen`** אָרַר → **Verfluecht isch, wär …! Und ds ganze Volk söll säge: Amen!** [high, decided, by-rule]
+  - gloss: אָרַר: אָר֕וּר (DEU 27:16) — English (generated): Cursed is
+  - gloss: אָמֵן: אָמֵֽן (DEU 27:16) — English (generated): Amen
+  - NT: DEU 27:16 *Verfluecht isch, wär*
+  - answers: cursed is he who, amen, all the people say
+  - אָרוּר … וְאָמַר כָּל־הָעָם אָמֵן (5Mo 27,15-26).
+  - agent:deu027, 2026-11-14
+- **`term:deu027_forms`** שִׂיד → **Chalch; ystryche; Steine; Gmeinschaftsopfer; abbringt; verdrääit; ufddeckt; Schwigermueter** [medium, decided, by-rule]
+  - gloss: שִׂיד: שִּֽׂיד (DEU 27:2) — English (generated): with plaster
+  - gloss: שִׂיד: שַׂדְתָּ֥ (DEU 27:2) — English (generated): and coat
+  - gloss: אֶבֶן: אֲבָנִ֔ים (DEU 27:5) — English (generated): stones
+  - gloss: שֶׁלֶם: שְׁלָמִ֖ים (DEU 27:7) — English (generated): peace offerings
+  - gloss: שָׁגָה: מַשְׁגֶּ֥ה (DEU 27:18) — English (generated): wander
+  - gloss: נָטָה: מַטֶּ֛ה (DEU 27:19) — English (generated): he who withholds
+  - gloss: חֹתֵן: חֹֽתַנְתּ֑ (DEU 27:23) — English (generated): his mother in law
+  - NT: DEU 27:2 *mit Chalch ystryche*
+  - answers: plaster, coat, stones, peace offerings, mislead, deprives, mother-in-law
+  - Formen dieses Kapitels; Chalch und ystryche Projektformen.
+  - agent:deu027, 2026-11-14
+- **`term:deu028_blessing_curse`** בָּרַךְ → **Gsägnet bisch du; Verfluecht bisch du; we d ynechunsch, und we d usegeisch; zum Chopf und nid zum Schwanz** [high, decided, by-rule]
+  - gloss: בָּרַךְ: בָּר֥וּךְ (DEU 28:3) — English (generated): will be blessed
+  - gloss: אָרַר: אָר֥וּר (DEU 28:16) — English (generated): will be cursed
+  - gloss: בּוֹא: בֹאֶ֑ (DEU 28:6) — English (generated): when you come in
+  - gloss: רֹאשׁ: רֹאשׁ֙ (DEU 28:13) — English (generated): you the head
+  - NT: DEU 28:3 *Gsägnet bisch du*
+  - answers: blessed, cursed, come in, go out, head, tail
+  - בָּרוּךְ אַתָּה »Gsägnet bisch du«, אָרוּר אַתָּה »Verfluecht bisch du«; בְּבֹאֶךָ / בְּצֵאתֶךָ »we d ynechunsch / usegeisch«.
+  - agent:deu028, 2026-11-14
+- **`term:deu028_plagues`** שַׁחֶפֶת → **Süüch; Schwindsucht; Fieber; Entzündig; Glüejhitz; Dürri; Brand; Rost; Gschwür; Beule; Grind; Chrätze; Wahnsinn; Blindheit; Verwirrig** [high, decided, by-rule]
+  - gloss: שַׁחֶפֶת: שַּׁחֶ֨פֶת (DEU 28:22) — English (generated): with wasting disease
+  - gloss: קַדַּחַת: קַּדַּ֜חַת (DEU 28:22) — English (generated): with fever
+  - gloss: דַּלֶּקֶת: דַּלֶּ֗קֶת (DEU 28:22) — English (generated): and inflammation
+  - gloss: חַרְחֻר: חַרְחֻר֙ (DEU 28:22) — English (generated): with scorching heat
+  - gloss: חֶרֶב: חֶ֔רֶב (DEU 28:22) — English (generated): and drought
+  - gloss: שִׁדָּפוֹן: שִּׁדָּפ֖וֹן (DEU 28:22) — English (generated): and with blight
+  - gloss: יֵרָקוֹן: יֵּרָק֑וֹן (DEU 28:22) — English (generated): and mildew
+  - gloss: שְׁחִין: שְׁחִ֤ין (DEU 28:27) — English (generated): you with the boils
+  - gloss: טְחֹרִים: טְּחֹרִ֔ים (DEU 28:27) — English (generated): of Egypt
+  - gloss: גָּרָב: גָּרָ֖ב (DEU 28:27) — English (generated): and scabs
+  - gloss: חֶרֶס: חָ֑רֶס (DEU 28:27) — English (generated): and itch
+  - gloss: שִׁגָּעוֹן: שִׁגָּע֖וֹן (DEU 28:28) — English (generated): you with madness
+  - gloss: עִוָּרוֹן: עִוָּר֑וֹן (DEU 28:28) — English (generated): blindness
+  - gloss: תִּמָּהוֹן: תִמְה֖וֹן (DEU 28:28) — English (generated): and confusion
+  - NT: DEU 28:22 *mit Schwindsucht*
+  - answers: wasting disease, fever, inflammation, heat, drought, blight, mildew, boils, tumors, scabs, itch, madness, blindness, confusion
+  - Krankheits- und Plagenwörter von 5Mo 28.
+  - agent:deu028, 2026-11-14
+- **`term:deu028_forms`** מִשְׁאֶרֶת → **Teiggschüssle; Spycher; Nachwuchs; Drohig; Schreckbild; Höigümperschwarm; Nachgeburt; lüüre; zertrampet; usgroubt; Fuesssole; Scheitel; Gsetzesbuech** [medium, decided, by-rule]
+  - gloss: מִשְׁאֶרֶת: מִשְׁאַרְתֶּֽ (DEU 28:5) — English (generated): and kneading bowl
+  - gloss: אָסָם: אֲסָמֶ֕י (DEU 28:8) — English (generated): on your barns
+  - gloss: מִגְעֶרֶת: מִּגְעֶ֔רֶת (DEU 28:20) — English (generated): reproof
+  - gloss: זַעֲוָה: זַעֲוָ֔ה (DEU 28:25) — English (generated): an object of horror
+  - gloss: צְלָצַל: צְּלָצַֽל (DEU 28:42) — English (generated): Swarms of locusts
+  - gloss: שִׁלְיָה: שִׁלְיָתָ֞ (DEU 28:57) — English (generated): the afterbirth
+  - gloss: כָּלֶה: כָל֥וֹת (DEU 28:32) — English (generated): grow weary
+  - gloss: רָצַץ: רָצ֖וּץ (DEU 28:33) — English (generated): and crushed
+  - gloss: גָּזַל: גָז֛וּל (DEU 28:29) — English (generated): and plundered
+  - NT: DEU 28:5 *dy Teiggschüssle*
+  - answers: kneading bowl, barns, reproof, horror, cricket, afterbirth, strain, crushed, plundered
+  - Formen dieses Kapitels, nach Korpusmustern gebildet.
+  - agent:deu028, 2026-11-14
+- **`term:deu029_forms`** חָטַב → **Holzhacker; Wasserträger; ytrittisch; abwycht; sture; Füechte; Troche; rouchet; sünderet … uus; Unglück; Zerstörig; zerstört; furtgworfe; offebaret; Zorn** [medium, decided, by-rule]
+  - gloss: חָטַב: חֹטֵ֣ב (DEU 29:10) — English (generated): who cut
+  - gloss: שָׁאַב: שֹׁאֵ֥ב (DEU 29:10) — English (generated): and draw
+  - gloss: עָבַר: עָבְרְ (DEU 29:11) — English (generated): so that you may enter
+  - gloss: פָּנָה: פֹנֶ֤ה (DEU 29:17) — English (generated): turns away
+  - gloss: שְׁרִרוּת: שְׁרִר֥וּת (DEU 29:18) — English (generated): in the stubbornness
+  - gloss: רָוֶה: רָוָ֖ה (DEU 29:18) — English (generated): on the watered
+  - gloss: צָמֵא: צְּמֵאָֽה (DEU 29:18) — English (generated): the dry
+  - gloss: עָשַׁן: יֶעְשַׁ֨ן (DEU 29:19) — English (generated): will burn
+  - gloss: בָּדַל: הִבְדִּיל֤ (DEU 29:20) — English (generated): and single him out
+  - gloss: רָעָה: רָעָ֔ה (DEU 29:20) — English (generated): for disaster
+  - gloss: מַהְפֵּכָה: מַהְפֵּכַ֞ת (DEU 29:22) — English (generated): just like the destruction
+  - gloss: שָׁלַךְ: יַּשְׁלִכֵ֛ (DEU 29:27) — English (generated): and He cast them
+  - gloss: גָּלָה: נִּגְלֹ֞ת (DEU 29:28) — English (generated): but the things revealed
+  - gloss: קֶצֶף: קֶ֣צֶף (DEU 29:27) — English (generated): wrath
+  - NT: DEU 29:10 *vom Holzhacker*
+  - answers: cut wood, draw water, enter, turns away, stubbornness, watered, dry, burn, single out, calamity, destruction, cast, revealed, wrath
+  - Formen dieses Kapitels; »Zorn« für קֶצֶף (Korpus ohne Wort).
+  - agent:deu029, 2026-11-14
+- **`term:deu030_forms`** שׁוּב → **müesstisch; umchehret; umchehrsch; chehrsch um; Gschick; zahlrycher; beschnydet; dienisch; wähl; verfolgt** [medium, decided, by-rule]
+  - gloss: שׁוּב: שַׁבְתָּ֞ (DEU 30:2) — English (generated): return
+  - gloss: שׁוּב: תָשׁוּב֙ (DEU 30:10) — English (generated): you turn
+  - gloss: שׁוּב: תָשׁ֔וּב (DEU 30:8) — English (generated): will again
+  - gloss: שְׁבוּת: שְׁבוּתְ (DEU 30:3) — English (generated): you from captivity
+  - gloss: רָבָה: הִרְבְּ (DEU 30:5) — English (generated): and multiply
+  - gloss: מוּל: מָ֨ל (DEU 30:6) — English (generated): will circumcise
+  - gloss: עָבַד: עֲבַדְתָּֽ (DEU 30:17) — English (generated): and worship them
+  - gloss: בָּחַר: בָֽחַרְתָּ֙ (DEU 30:19) — English (generated): Therefore choose
+  - gloss: רָדַף: רְדָפֽוּ (DEU 30:7) — English (generated): and persecute you
+  - NT: DEU 30:2 *umchehret*
+  - answers: return, fortunes, more numerous, circumcise, serve, choose, persecute
+  - Formen dieses Kapitels.
+  - agent:deu030, 2026-11-15
+- **`term:deu031_forms`** יָרַשׁ → **vertribsch; härgeit; feschtgleite; legsch; schrybet; feiss; tritt … uuf; Ufsässigkeit; wychet ab; spätere; vorgseit; Wulchesüüle** [medium, decided, by-rule]
+  - gloss: יָרַשׁ: ירִשְׁתָּ֑ (DEU 31:3) — English (generated): and you will dispossess them
+  - gloss: הָלַךְ: הֹלֵ֣ךְ (DEU 31:8) — English (generated): goes
+  - gloss: מוֹעֵד: מֹעֵ֛ד (DEU 31:10) — English (generated): at the appointed time
+  - gloss: שָׁכַב: שֹׁכֵ֖ב (DEU 31:16) — English (generated): rest
+  - gloss: כָּתַב: כִּתְב֤וּ (DEU 31:19) — English (generated): write down
+  - gloss: דָּשֵׁן: דָשֵׁ֑ן (DEU 31:20) — English (generated): and prosper
+  - gloss: עָנָה: עָנְתָה (DEU 31:21) — English (generated): will testify
+  - gloss: מְרִי: מֶרְיְ (DEU 31:27) — English (generated): how rebellious
+  - gloss: סוּר: סַרְתֶּ֣ם (DEU 31:29) — English (generated): and turn
+  - gloss: אַחֲרִית: אַחֲרִ֣ית (DEU 31:29) — English (generated): And in
+  - gloss: דָבַר: יְדַבֵּ֣ר (DEU 31:30) — English (generated): recited aloud
+  - gloss: עַמּוּד: עַמּ֣וּד (DEU 31:15) — English (generated): in a pillar
+  - NT: DEU 31:3 *vertribsch se*
+  - answers: dispossess, goes before, appointed, lie down, write, grown fat, testify, rebelliousness, turn from, to come, recited, pillar of cloud
+  - Formen dieses Kapitels.
+  - agent:deu031, 2026-11-14
+- **`term:H6697_rock_god`** צוּר → **der Felse** [high, decided, by-rule]
+  - gloss: צוּר: צּוּר֙ (DEU 32:4) — English (generated): the Rock
+  - gloss: צוּר: צ֥וּר (DEU 32:15) — English (generated): the Rock
+  - gloss: צוּר: צ֥וּר (DEU 32:18) — English (generated): the Rock
+  - gloss: צוּר: צוּרָ֣ (DEU 32:30) — English (generated): their Rock
+  - gloss: צוּר: צוּרֵ֖ (DEU 32:31) — English (generated): their rock
+  - gloss: צוּר: צ֖וּר (DEU 32:37) — English (generated): the rock
+  - NT: DEU 32:4 *der Felse*
+  - answers: Rock
+  - צוּר als Gottesname im Lied Moses (und in den Psalmen) »Felse«.
+  - agent:deu032, 2026-11-14
+- **`term:deu032_forms`** עָרַף → **abetropfe; abeperle; Rägeschütt; verdrääiti; unvernünftigs; gfeschtiget; usenandgnoh; zuegmässe; Wüeschteland; Öödi; huület; Ougöpfel; ufweckt; schwäbt; sugle; hertischte; Nidle; dick; gschoudereet; Wehe; nüütige; tiefschte; häufe; verschiesse; usgsugeret; Fieberglüet; bitterer; schlyche; gsiegt; Gifttrübel; grusame; Schatzchammere; usglitscht; bevorsteit; verschafft; dahi; Ghaltne; verwunde; hebe; blitzende; gschliffe; rächen; vergälten; befälet; stygsch; Widder** [medium, decided, by-rule]
+  - gloss: עָרַף: יַעֲרֹ֤ף (DEU 32:2) — English (generated): fall
+  - gloss: נָזַל: תִּזַּ֥ל (DEU 32:2) — English (generated): settle
+  - gloss: רְבִיבִים: רְבִיבִ֖ים (DEU 32:2) — English (generated): like showers
+  - gloss: עִקֵּשׁ: עִקֵּ֖שׁ (DEU 32:5) — English (generated): but of a perverse
+  - gloss: לֹא: לֹ֣א (DEU 32:6) — English (generated): and senseless
+  - gloss: כּוּן: יְכֹנְנֶֽ (DEU 32:6) — English (generated): and established you
+  - gloss: פָּרַד: הַפְרִיד֖ (DEU 32:8) — English (generated): when He divided
+  - gloss: חֶבֶל: חֶ֥בֶל (DEU 32:9) — English (generated): His allotted
+  - gloss: אֶרֶץ: אֶ֣רֶץ (DEU 32:10) — English (generated): land
+  - gloss: תֹּהוּ: תֹ֖הוּ (DEU 32:10) — English (generated): in a barren
+  - gloss: יְלֵל: יְלֵ֣ל (DEU 32:10) — English (generated): howling
+  - gloss: אִישׁוֹן: אִישׁ֥וֹן (DEU 32:10) — English (generated): as the apple
+  - gloss: עוּר: יָעִ֣יר (DEU 32:11) — English (generated): stirs up
+  - gloss: רָחַף: יְרַחֵ֑ף (DEU 32:11) — English (generated): and hovers
+  - gloss: יָנַק: יֵּנִקֵ֤ (DEU 32:13) — English (generated): He nourished him
+  - gloss: חַלָּמִישׁ: חַלְמִ֥ישׁ (DEU 32:13) — English (generated): from the flinty
+  - gloss: חֶמְאָה: חֶמְאַ֨ת (DEU 32:14) — English (generated): with curds
+  - gloss: שָׂעַר: שְׂעָר֖וּ (DEU 32:17) — English (generated): fear
+  - gloss: חיל: מְחֹלְלֶֽ (DEU 32:18) — English (generated): who gave you birth
+  - gloss: הֶבֶל: הַבְלֵי (DEU 32:21) — English (generated): with their worthless idols
+  - gloss: תַּחְתִּי: תַּחְתִּ֑ית (DEU 32:22) — English (generated): the depths
+  - gloss: סָפָה: אַסְפֶּ֥ה (DEU 32:23) — English (generated): I will heap
+  - gloss: כָּלָה: אֲכַלֶּה (DEU 32:23) — English (generated): I will spend
+  - gloss: מָזֶה: מְזֵ֥י (DEU 32:24) — English (generated): They will be wasted
+  - gloss: רֶשֶׁף: רֶ֖שֶׁף (DEU 32:24) — English (generated): by pestilence
+  - gloss: זָחַל: זֹחֲלֵ֥י (DEU 32:24) — English (generated): of vipers that slither
+  - gloss: רוּם: רָ֔מָה (DEU 32:27) — English (generated): has prevailed
+  - gloss: עֵנָב: עִנְּבֵי (DEU 32:32)
+  - gloss: אַכְזָר: אַכְזָֽר (DEU 32:33) — English (generated): the deadly
+  - gloss: אוֹצָר: אוֹצְרֹתָֽ (DEU 32:34) — English (generated): vaults
+  - gloss: מוֹט: תָּמ֣וּט (DEU 32:35) — English (generated): will slip
+  - gloss: עָתִיד: עֲתִדֹ֥ת (DEU 32:35) — English (generated): and their doom
+  - gloss: דִּין: יָדִ֤ין (DEU 32:36) — English (generated): will vindicate
+  - gloss: אָזַל: אָ֣זְלַת (DEU 32:36) — English (generated): is gone
+  - gloss: עָצַר: עָצ֥וּר (DEU 32:36) — English (generated): slave
+  - gloss: מָחַץ: מָחַ֨צְתִּי֙ (DEU 32:39) — English (generated): I wound
+  - gloss: נָשָׂא: אֶשָּׂ֥א (DEU 32:40) — English (generated): I lift up
+  - gloss: בָּרָק: בְּרַ֣ק (DEU 32:41) — English (generated): My flashing
+  - gloss: שָׁנַן: שַׁנּוֹתִי֙ (DEU 32:41) — English (generated): I sharpen
+  - gloss: שׁוּב: אָשִׁ֤יב (DEU 32:41) — English (generated): I will take
+  - gloss: שָׁלֵם: אֲשַׁלֵּֽם (DEU 32:41) — English (generated): and repay
+  - gloss: צָוָה: תְּצַוֻּ (DEU 32:46) — English (generated): you may command
+  - gloss: עָלָה: עֹלֶ֣ה (DEU 32:50) — English (generated): climb
+  - gloss: אַיִל: אֵילִ֤ים (DEU 32:14) — English (generated): with rams
+  - NT: DEU 32:2 *abetropfe*
+  - answers: drop, distill, showers, perverse, senseless, established, divided, allotted, desert, waste, howling, apple of the eye, stirs up, hovers, nurse, flinty, curds, fear, birth pains, worthless, depths, heap, spend, wasted, plague, crawl, triumphant, poisonous grapes, deadly, treasuries, slip, doom, vindicate, gone, bond, wound, lift, flashing, sharpen, avenge, repay, command, ram
+  - Formen des Liedes, nach Korpusmustern.
+  - agent:deu032, 2026-11-14
+- **`term:deu033_forms`** מֶגֶד → **Köschtlechschte; Aafüerer; ufstande; Liebling; gstrahlet; chämpft; schützt; drunder; uralte; Erwählte; erschtgebore; uszieesch; vüreschiesst; dunde; Ganzopfer; Rigel; Löiin; tunke** [medium, decided, by-rule]
+  - gloss: מֶגֶד: מֶּ֤גֶד (DEU 33:13) — English (generated): with the precious
+  - gloss: קוּם: קָמָ֛י (DEU 33:11) — English (generated): of those who rise against him
+  - gloss: יָדִיד: יְדִ֣יד (DEU 33:12) — English (generated): May the beloved
+  - gloss: יָפַע: הוֹפִ֨יעַ֙ (DEU 33:2) — English (generated): He shone forth
+  - gloss: ריב: רָ֣ב (DEU 33:7) — English (generated): he defends his cause
+  - gloss: חׇפַף: חֹפֵ֤ף (DEU 33:12) — English (generated): shields
+  - gloss: תַּחַת: תָּֽחַת (DEU 33:13) — English (generated): beneath
+  - gloss: קֶדֶם: קֶ֑דֶם (DEU 33:15) — English (generated): of the ancient
+  - gloss: נָזִיר: נְזִ֥יר (DEU 33:16) — English (generated): of the prince
+  - gloss: בְּכֹר: בְּכ֨וֹר (DEU 33:17) — English (generated): a firstborn
+  - gloss: יָצָא: צֵאתֶ֑ (DEU 33:18) — English (generated): in your journeys
+  - gloss: זָנַק: יְזַנֵּ֖ק (DEU 33:22) — English (generated): leaping
+  - gloss: מִן: מִ (DEU 33:27) — English (generated): and underneath
+  - gloss: כָּלִיל: כָלִ֖יל (DEU 33:10) — English (generated): and whole burnt offerings
+  - gloss: מִנְעָל: מִנְעָלֶ֑י (DEU 33:25) — English (generated): May the bolts of your gate
+  - gloss: לָבִיא: לָבִ֣יא (DEU 33:20) — English (generated): like a lion
+  - gloss: טָבַל: טֹבֵ֥ל (DEU 33:24) — English (generated): and dip
+  - NT: DEU 33:13 *em Köschtlechschte*
+  - answers: choice things, rise, beloved, shone forth, fights, shields, beneath, ancient, prince, firstborn, going out, leaps, underneath, whole burnt offering, bolts, lion, dip
+  - Formen dieses Kapitels.
+  - agent:deu033, 2026-11-14
+- **`term:deu034_forms`** כִּכָּר → **Ebeni; Palmestadt; nachegla; fürchterleche; Aagsicht** [medium, decided, by-rule]
+  - gloss: כִּכָּר: כִּכָּ֞ר (DEU 34:3) — English (generated): and the region
+  - gloss: עִיר: עִ֥יר (DEU 34:3) — English (generated): the City
+  - gloss: נוּס: נָ֥ס (DEU 34:7) — English (generated): diminished
+  - gloss: מוֹרָא: מּוֹרָ֣א (DEU 34:12) — English (generated): awesome deeds
+  - gloss: פָּנֶה: פָּנִ֖ים (DEU 34:10) — English (generated): face
+  - NT: DEU 34:3 *d Ebeni*
+  - answers: plain, City of Palms, diminished, awesome, face
+  - Formen dieses Kapitels.
+  - agent:deu034, 2026-11-14
+- **`term:jos001_forms`** דָּרַךְ → **druftrappet; Sunnenundergang; wych … ab; achtisch; erchlüpf; schicksch; befilsch; Proviant** [medium, decided, by-rule]
+  - gloss: דָּרַךְ: תִּדְרֹ֧ךְ (JOS 1:3) — English (generated): will tread
+  - gloss: מָבוֹא: מְב֣וֹא (JOS 1:4) — English (generated): and west
+  - gloss: סוּר: תָּס֥וּר (JOS 1:7) — English (generated): turn
+  - gloss: שָׁמַר: תִּשְׁמֹ֣ר (JOS 1:8) — English (generated): you may be careful
+  - gloss: עָרַץ: תַּעֲרֹ֖ץ (JOS 1:9) — English (generated): be afraid
+  - gloss: שָׁלַח: תִּשְׁלָחֵ֖ (JOS 1:16) — English (generated): you send us
+  - gloss: צָוָה: תְּצַוֶּ֖ (JOS 1:18) — English (generated): you command him
+  - gloss: צֵידָה: צֵידָ֑ה (JOS 1:11) — English (generated): provisions
+  - NT: JOS 1:3 *druftrappet*
+  - answers: tread, west, turn, careful, afraid, send, command, provisions
+  - Formen dieses Kapitels.
+  - agent:jos001, 2026-11-14
+- **`term:H2181_prostitute`** זָנָה → **e Proschtituierti** [high, decided, by-rule]
+  - gloss: זָנָה: זוֹנָ֛ה (JOS 2:1) — English (generated): of a prostitute
+  - NT: JOS 2:1 *Proschtituierte*
+  - answers: prostitute
+  - זוֹנָה nach Bietenhard (Hebr 11,31; Jak 2,25): Rahab.
+  - agent:jos002, 2026-11-14
+- **`term:jos002_forms`** רָדַף → **Verfolger; uszspioniere; vergö; Ydunkle; verwütschet; Flachsstängle; Furte; ustrochne; verratet; aatreffe; bindsch; holsch; verratisch; Stadtmuur; scharlachroti; Schnuer** [medium, decided, by-rule]
+  - gloss: רָדַף: רֹדְפִ֖ים (JOS 2:7) — English (generated): had gone out
+  - gloss: חָפַר: חְפֹּ֥ר (JOS 2:2) — English (generated): to spy out
+  - gloss: מוּג: נָמֹ֛גוּ (JOS 2:9) — English (generated): are melting in fear
+  - gloss: חֹשֶׁךְ: חֹ֨שֶׁךְ֙ (JOS 2:5) — English (generated): At dusk
+  - gloss: נָשַׂג: תַשִּׂיגֽוּ (JOS 2:5) — English (generated): you may catch them
+  - gloss: פֵּשֶׁת: פִשְׁתֵּ֣י (JOS 2:6) — English (generated): of flax
+  - gloss: מַעֲבָרָה: מַּעְבְּר֑וֹת (JOS 2:7) — English (generated): the fords
+  - gloss: יָבֵשׁ: הוֹבִ֨ישׁ (JOS 2:10) — English (generated): dried up
+  - gloss: נָגַד: תַגִּ֔ידוּ (JOS 2:14) — English (generated): report
+  - gloss: פָּגַע: יִפְגְּע֥וּ (JOS 2:16) — English (generated): find
+  - gloss: קָשַׁר: תִּקְשְׁרִ֗י (JOS 2:18) — English (generated): you have tied
+  - gloss: אָסַף: תַּאַסְפִ֥י (JOS 2:18) — English (generated): you have brought
+  - gloss: נָגַד: תַּגִּ֖ידִי (JOS 2:20) — English (generated): you report
+  - gloss: קִיר: קִ֣יר (JOS 2:15) — English (generated): was built into the wall
+  - gloss: שָׁנִי: שָּׁנִ֨י (JOS 2:18) — English (generated): scarlet
+  - gloss: תִּקְוָה: תִּקְוַ֡ת (JOS 2:18) — English (generated): cord
+  - NT: JOS 2:7 *verfolgt*
+  - answers: pursuers, spy out, melt, dark, overtake, stalks of flax, fords, dry up, tell, find, tie, bring, report, wall, scarlet, cord
+  - Formen dieses Kapitels.
+  - agent:jos002, 2026-11-14
+- **`term:jos003_forms`** כָּרַת → **abgschnitte; neecher; Girgaschiter; abstö; Träger; ufgstaut; Zaretan; abegflosse; zwöituusig; ufbräche; heiliget; Zältlager; trätte; tunkt** [medium, decided, by-rule]
+  - gloss: כָּרַת: יִכָּ֣רֵת֔וּ (JOS 3:13) — English (generated): will be cut off
+  - gloss: קָרַב: תִּקְרְב֣וּ (JOS 3:4) — English (generated): go near it
+  - gloss: גִּרְגָּשִׁי: גִּרְגָּשִׁ֔י (JOS 3:10) — English (generated): Girgashites
+  - gloss: נוּחַ: נ֣וֹחַ (JOS 3:13) — English (generated): touch down
+  - gloss: נָשָׂא: נֹשְׂאֵ֤י (JOS 3:15) — English (generated): carrying
+  - gloss: קוּם: קָ֣מוּ (JOS 3:16) — English (generated): It backed up
+  - gloss: צָרְתָן: צָֽרְתָ֔ן (JOS 3:16) — English (generated): of Zarethan
+  - gloss: יָרַד: יֹּרְדִ֗ים (JOS 3:16) — English (generated): the flowing
+  - gloss: אֶלֶף: אַלְפַּ֥יִם (JOS 3:4) — English (generated): of about two thousand
+  - gloss: נָסַע: תִּסְעוּ֙ (JOS 3:3) — English (generated): are to set out
+  - gloss: קָדַשׁ: הִתְקַדָּ֑שׁוּ (JOS 3:5) — English (generated): Consecrate yourselves
+  - gloss: אֹהֶל: אָ֣הֳלֵי (JOS 3:14)
+  - gloss: מָלֵא: מָלֵא֙ (JOS 3:15) — English (generated): overflows
+  - gloss: טָבַל: נִטְבְּל֖וּ (JOS 3:15) — English (generated): touched
+  - NT: JOS 3:13 *abgschnitte*
+  - answers: cut off, near, Girgashites, rest, carrying, heap, Zarethan, flowing, two thousand, set out, consecrate, tents, overflows, dipped
+  - Formen dieses Kapitels.
+  - agent:jos003, 2026-11-14
+- **`term:jos004_forms`** זִכָּרוֹן → **Erinnerigszeiche; Nachtlager; erlediget; grüschteti; usestyge; usegstige; Oschtrand; erkenne; fürchtet; vierzgtuusig; ufgschlage** [medium, decided, by-rule]
+  - gloss: זִכָּרוֹן: זִכָּר֛וֹן (JOS 4:7) — English (generated): a memorial
+  - gloss: מָלוֹן: מָּל֔וֹן (JOS 4:8) — English (generated): the camp
+  - gloss: תָּמַם: תֹּ֣ם (JOS 4:10) — English (generated): had completed
+  - gloss: חָלַץ: חֲלוּצֵ֣י (JOS 4:13) — English (generated): troops armed
+  - gloss: עָלָה: יַעֲל֖וּ (JOS 4:16) — English (generated): to come up
+  - gloss: עָלָה: עֲל֨וֹת (JOS 4:18) — English (generated): came up
+  - gloss: קָצֶה: קְצֵ֖ה (JOS 4:19) — English (generated): border
+  - gloss: יָדַע: דַּ֜עַת (JOS 4:24) — English (generated): may know
+  - gloss: יָרֵא: יְרָאתֶ֛ם (JOS 4:24) — English (generated): fear
+  - gloss: אַרְבַּע: אַרְבָּעִ֥ים (JOS 4:13) — English (generated): About
+  - gloss: חָנָה: יַּחֲנוּ֙ (JOS 4:19) — English (generated): and camped
+  - NT: JOS 4:7 *Erinnerigszeiche*
+  - answers: memorial, camp, finished, armed, come up, came up, eastern border, know, fear, forty thousand, camped
+  - Formen dieses Kapitels.
+  - agent:jos004, 2026-11-14
+- **`term:jos005_forms`** בְּ → **underwägs; Füürstei; beschnyd; Vorhüt; ufwachse; gwälzt; Gröschts; ufghebt; niderbbouge; unbeschnitte; glageret; vierzähte; Fladebrot; zogne** [medium, decided, by-rule]
+  - gloss: בְּ: בַּ (JOS 5:4) — English (generated): in the wilderness
+  - gloss: צֹר: צֻרִ֑ים (JOS 5:2) — English (generated): flint
+  - gloss: מָלַל: מֹ֥ל (JOS 5:2) — English (generated): and circumcise
+  - gloss: עׇרְלָה: עֲרָלֽוֹת (JOS 5:3)
+  - gloss: קוּם: הֵקִ֣ים (JOS 5:7) — English (generated): He raised up
+  - gloss: גָּלַל: גַּלּ֛וֹתִי (JOS 5:9) — English (generated): I have rolled away
+  - gloss: קָלָה: קָל֑וּי (JOS 5:11) — English (generated): and roasted grain
+  - gloss: נָשָׂא: יִּשָּׂ֤א (JOS 5:13) — English (generated): he looked up
+  - gloss: חוה: יִּשְׁתָּ֔חוּ (JOS 5:14) — English (generated): in reverence
+  - gloss: עָרֵל: עֲרֵלִ֣ים (JOS 5:7) — English (generated): still uncircumcised
+  - gloss: חָנָה: יַּחֲנ֥וּ (JOS 5:10) — English (generated): were camped
+  - gloss: אַרְבַּע: אַרְבָּעָה֩ (JOS 5:10) — English (generated): of the fourteenth
+  - gloss: מַצָּה: מַצּ֣וֹת (JOS 5:11) — English (generated): unleavened bread
+  - gloss: שָׁלַף: שְׁלוּפָ֖ה (JOS 5:13) — English (generated): with a drawn
+  - NT: JOS 5:4 *underwägs*
+  - answers: on the way, flint, circumcise, foreskins, raised up, rolled, roasted grain, lifted, bowed down, uncircumcised, camped, fourteenth, unleavened cakes, drawn
+  - Formen dieses Kapitels.
+  - agent:jos005, 2026-11-14
+- **`term:jos006_forms`** חָלַץ → **grüschtete; umezie; schreiet; schreie; Chriegsgschrei; verriglet; tapfere; losgange; umetrage; verfallet; ynegstige; usspioniert; underbbracht; uftritt; ufbout; choschtet; jüngschte; Nachhuet; bblase; Widderhorn** [medium, decided, by-rule]
+  - gloss: חָלַץ: חָל֔וּץ (JOS 6:7) — English (generated): with the armed troops
+  - gloss: סָבַב: סַבֹּתֶ֣ם (JOS 6:3) — English (generated): March around
+  - gloss: רוּעַ: הָרִ֔יעוּ (JOS 6:16) — English (generated): Shout
+  - gloss: רוּעַ: הֲרִיעֹתֶֽם (JOS 6:10) — English (generated): Then you are to shout
+  - gloss: תְּרוּעָה: תְּרוּעָ֣ה (JOS 6:5)
+  - gloss: סָגַר: מְסֻגֶּ֔רֶת (JOS 6:1)
+  - gloss: חַיִל: חָֽיִל (JOS 6:2) — English (generated): of valor
+  - gloss: עָבַר: עָבְר֕וּ (JOS 6:8) — English (generated): advanced
+  - gloss: סָבַב: יַּסֵּ֤ב (JOS 6:11) — English (generated): carried around
+  - gloss: חָרַם: תַּחֲרִ֖ימוּ (JOS 6:18) — English (generated): you yourself be set apart for destruction
+  - gloss: עָלָה: יַּ֨עַל (JOS 6:20) — English (generated): charged
+  - gloss: רָגַל: מְרַגְּלִ֤ים (JOS 6:22) — English (generated): who had spied out
+  - gloss: נוח: יַּ֨נִּיח֔וּ (JOS 6:23) — English (generated): and settled them
+  - gloss: קוּם: יָקוּם֙ (JOS 6:26) — English (generated): rises up
+  - gloss: בָּנָה: בָנָ֞ה (JOS 6:26) — English (generated): and rebuilds
+  - gloss: בְּ: בִּ (JOS 6:26) — English (generated): time
+  - gloss: צָעִיר: צְעִיר֖ (JOS 6:26) — English (generated): at the cost of his youngest
+  - gloss: אָסַף: מְאַסֵּ֗ף (JOS 6:9) — English (generated): and the rear guard
+  - gloss: תָּקַע: תָקְע֖וּ (JOS 6:8) — English (generated): and blew
+  - gloss: יוֹבֵל: יּֽוֹבְלִים֙ (JOS 6:4) — English (generated): rams horns
+  - NT: JOS 6:7 *grüschtete*
+  - answers: armed, march around, shout, battle cry, shut, valor, advanced, carried around, set apart, charged, spied out, settled, rises up, rebuilds, at the cost, youngest, rear guard, blew, rams’ horns
+  - Formen dieses Kapitels.
+  - agent:jos006, 2026-11-14
+- **`term:jos007_forms`** עָכָן → **Achan; Ai; Sabdi; Achor; Bet-Awen; ewäggsetzt; besta; spioniert; ufega; bmüe; sächsedryssg; Steibrüch; gstreut; dises; flieht; lisch; zuechehre; erwütscht; Schändlechs; verschwyg; Schinar; gwoge; überschüttet; Steihuufe; ufgschichtet; glüejige; Guldbarre** [medium, decided, by-rule]
+  - gloss: עָכָן: עָכָ֣ן (JOS 7:1) — English (generated): Achan
+  - gloss: עַי: עַ֞י (JOS 7:2) — English (generated): to Ai
+  - gloss: זַבְדִּי: זַבְדִּ֨י (JOS 7:1) — English (generated): of Zabdi
+  - gloss: עָכוֹר: עָכֽוֹר (JOS 7:24) — English (generated): of Achor
+  - gloss: בֵּית אָוֶן: בֵּ֥ית (JOS 7:2) — English (generated): Beth aven
+  - gloss: עָבַר: עָבְר֣וּ (JOS 7:11) — English (generated): they have transgressed
+  - gloss: קוּם: קוּם֙ (JOS 7:12) — English (generated): stand
+  - gloss: רָגַל: רַגְּל֣וּ (JOS 7:2) — English (generated): and spy out
+  - gloss: עָלָה: יַעֲל֖וּ (JOS 7:3) — English (generated): to go up
+  - gloss: יָגֵעַ: תְּיַגַּע (JOS 7:3) — English (generated): wear out
+  - gloss: שָׁלֹשׁ: שְׁלֹשִׁ֤ים (JOS 7:5) — English (generated): about thirty six of them
+  - gloss: שְׁבָרִים: שְּׁבָרִ֔ים (JOS 7:5) — English (generated): the quarries
+  - gloss: עָלָה: יַּעֲל֥וּ (JOS 7:6) — English (generated): and they all sprinkled
+  - gloss: זֶה: זֶּה֙ (JOS 7:7) — English (generated): this
+  - gloss: הָפַךְ: הָפַ֧ךְ (JOS 7:8) — English (generated): has turned
+  - gloss: נָפַל: נֹפֵ֥ל (JOS 7:10) — English (generated): fallen
+  - gloss: פָּנָה: יִפְנוּ֙ (JOS 7:12) — English (generated): They will turn
+  - gloss: לָכַד: נִּלְכָּ֣ד (JOS 7:15) — English (generated): The one who is caught
+  - gloss: נְבָלָה: נְבָלָ֖ה (JOS 7:15) — English (generated): an outrage
+  - gloss: כָּחַד: תְּכַחֵ֖ד (JOS 7:19) — English (generated): hide
+  - gloss: שִׁנְעָר: שִׁנְעָר֩ (JOS 7:21) — English (generated): from Shinar
+  - gloss: מִשְׁקָל: מִשְׁקָל֔ (JOS 7:21) — English (generated): weighing
+  - gloss: סָקַל: יִּסְקְל֥וּ (JOS 7:25) — English (generated): Then they stoned
+  - gloss: גַּל: גַּל (JOS 7:26) — English (generated): pile
+  - gloss: קוּם: יָּקִ֨ימוּ (JOS 7:26) — English (generated): And they heaped
+  - gloss: חָרוֹן: חֲר֣וֹן (JOS 7:26) — English (generated): from His burning anger
+  - gloss: לָשׁוֹן: לְשׁ֨וֹן (JOS 7:21) — English (generated): bar
+  - NT: JOS 7:1 *Achan*
+  - answers: Achan, Ai, Zabdi, Achor, Beth-aven, transgressed, stand, spy out, go up, weary, thirty-six, quarries, put, this, run, fallen, turn, caught, outrage, hide, Shinar, weighing, stoned, pile, raised, burning, bar
+  - Formen dieses Kapitels.
+  - agent:jos007, 2026-11-14
+- **`term:jos008_forms`** אָרַב → **Hinderhalt; Chriegsvolk; westlech; nördlech; glockt; usegrückt; übrigbblibe; tapferi; usechöme; gmuschteret; Hauptlager; gibig; losgsprunge; dorthi; ufstygt; äjer; entcho; fryje; Schutthuufe; Einödi; häregschosse; Ysewärchzüg; Einheimischi; Spiess** [medium, decided, by-rule]
+  - gloss: אָרַב: אֹרֵ֛ב (JOS 8:2) — English (generated): an ambush
+  - gloss: עַם: עַ֣ם (JOS 8:1)
+  - gloss: מִן: מִ (JOS 8:9) — English (generated): to the west
+  - gloss: מִן: מִ (JOS 8:11) — English (generated): to the north
+  - gloss: נָתַק: הַתִּיקֵ֤ (JOS 8:6) — English (generated): we have drawn them away
+  - gloss: יָצָא: יֵּצְא֣וּ (JOS 8:14) — English (generated): out
+  - gloss: שָׁאַר: נִשְׁאַ֣ר (JOS 8:17) — English (generated): was left
+  - gloss: גִּבּוֹר: גִּבּוֹרֵ֣י (JOS 8:3) — English (generated): mighty men
+  - gloss: יָצָא: יֵצְא֤וּ (JOS 8:5) — English (generated): they come out
+  - gloss: פָּקַד: יִּפְקֹ֖ד (JOS 8:10) — English (generated): and mobilized
+  - gloss: מַחֲנֶה: מַּחֲנֶ֗ה (JOS 8:13) — English (generated): camp
+  - gloss: וְ: וַֽ (JOS 8:14)
+  - gloss: רוּץ: יָּר֨וּצוּ֙ (JOS 8:19) — English (generated): They rushed forward
+  - gloss: הֵנָּה: הֵ֑נָּה (JOS 8:20)
+  - gloss: עָלָה: עָלָ֖ה (JOS 8:21) — English (generated): was rising from
+  - gloss: מִן: מִ (JOS 8:22) — English (generated): on
+  - gloss: פָּלִיט: פָלִֽיט (JOS 8:22) — English (generated): or fugitive
+  - gloss: שָׂדֶה: שָּׂדֶ֗ה (JOS 8:24) — English (generated): into the field
+  - gloss: תֵּל: תֵּל (JOS 8:28) — English (generated): heap of ruins
+  - gloss: שְׁמָמָה: שְׁמָמָ֔ה (JOS 8:28) — English (generated): a desolation
+  - gloss: שָׁלַךְ: יַּשְׁלִ֤יכוּ (JOS 8:29) — English (generated): and throw it down
+  - gloss: בַּרְזֶל: בַּרְזֶ֑ל (JOS 8:31) — English (generated): iron tool
+  - gloss: אֶזְרָח: אֶזְרָ֔ח (JOS 8:33) — English (generated): and citizens alike
+  - gloss: כִּידוֹן: כִּיד֤וֹן (JOS 8:18) — English (generated): your battle lance
+  - NT: JOS 8:2 *Hinderhalt*
+  - answers: ambush, army, west, north, drawn away, came out, left, valor, come out, mustered, camp, hurried, ran, that, rising, escaped, open, heap, desolation, threw, iron tool, citizen, lance
+  - Formen dieses Kapitels.
+  - agent:jos008, 2026-11-14
+- **`term:jos009_forms`** גִּבְעוֹן → **Gibeon; Gibeoniter; Kefira; Beerot; Kirjat-Jearim; Aschtarot; verbröselet; schliesset; zämegschlosse; einmüetig; Gsandti; verkleidet; Säck; gladet; verschrisseni; zämegflickti; gflickti; ypackt; Nachbare; btroge; usewähle; Hügelland** [medium, decided, by-rule]
+  - gloss: גִּבְעוֹן: גִבְע֜וֹן (JOS 9:3) — English (generated): of Gibeon
+  - gloss: גִּבְעוֹן: גִבְע֜וֹן (JOS 9:3) — English (generated): of Gibeon
+  - gloss: כְּפִירָה: כְּפִירָ֔ה (JOS 9:17) — English (generated): Chephirah
+  - gloss: בְּאֵרוֹת: בְאֵר֖וֹת (JOS 9:17) — English (generated): Beeroth
+  - gloss: קִרְיַת יְעָרִים: קִרְיַ֥ת (JOS 9:17) — English (generated): and Kiriath jearim
+  - gloss: עַשְׁתָּרוֹת: עַשְׁתָּרֽוֹת (JOS 9:10) — English (generated): reigned in Ashtaroth
+  - gloss: נִקֻּדִים: נִקֻּדִֽים (JOS 9:5) — English (generated): moldy
+  - gloss: כָּרַת: כִּרְתוּ (JOS 9:6) — English (generated): please make
+  - gloss: קָבַץ: יִּֽתְקַבְּצ֣וּ (JOS 9:2) — English (generated): they came
+  - gloss: פֶּה: פֶּ֖ה (JOS 9:2)
+  - gloss: צָיַר: יִּצְטַיָּ֑רוּ (JOS 9:4) — English (generated): as envoys
+  - gloss: צָיַר: יִּצְטַיָּ֑רוּ (JOS 9:4) — English (generated): as envoys
+  - gloss: שַׂק: שַׂקִּ֤ים (JOS 9:4) — English (generated): sacks
+  - gloss: לָקַח: יִּקְח֞וּ (JOS 9:4) — English (generated): carrying
+  - gloss: בָּקַע: מְבֻקָּעִ֖ים (JOS 9:4) — English (generated): cracked
+  - gloss: צָרַר: מְצֹרָרִֽים (JOS 9:4) — English (generated): and mended
+  - gloss: טָלָא: מְטֻלָּאוֹת֙ (JOS 9:5) — English (generated): patched
+  - gloss: ציד: הִצְטַיַּ֤דְנוּ (JOS 9:12) — English (generated): when we packed
+  - gloss: קָרֹוב: קְרֹבִ֥ים (JOS 9:16) — English (generated): neighbors
+  - gloss: רָמָה: רִמִּיתֶ֨ם (JOS 9:22) — English (generated): did you deceive
+  - gloss: בָּחַר: יִבְחָֽר (JOS 9:27) — English (generated): He would choose
+  - gloss: שְׁפֵלָה: שְּׁפֵלָ֗ה (JOS 9:1) — English (generated): the foothills
+  - NT: JOS 9:3 *Gibeon*
+  - answers: Gibeon, Gibeonites, Chephirah, Beeroth, Kiriath-jearim, Ashtaroth, crumbled, make, gathered, one accord, envoys, set out, sacks, carrying, cracked, mended, patched, packed, neighbors, deceive, choose, foothills
+  - Formen dieses Kapitels.
+  - agent:jos009, 2026-11-14
+- **`term:jos010_forms`** אֲדֹנִי צֶדֶק → **Adoni-Zedek; Hoham; Piram; Jarmut; Jafia; Lachisch; Debir; Eglon; Makkeda; Aseka; Bet-Horon; Ajalon; Libna; Horam; Geser; Kadesch-Barnea; Chünigsstedt; überraschend; Steigi; abegschosse; Hagelsteine; Rächtschaffene; ufgribe; befeschtigte; wohlbhalte; gzoge; Häls; Abhäng; Niderlag** [medium, decided, by-rule]
+  - gloss: אֲדֹנִי צֶדֶק: אֲדֹֽנִי (JOS 10:1) — English (generated): Adoni zedek
+  - gloss: הוֹהָם: הוֹהָ֣ם (JOS 10:3) — English (generated): Hoham
+  - gloss: פִּרְאָם: פִּרְאָ֨ם (JOS 10:3) — English (generated): Piram
+  - gloss: יַרְמוּת: יַרְמ֜וּת (JOS 10:3) — English (generated): of Jarmuth
+  - gloss: יָפִיעַ: יָפִ֧יעַ (JOS 10:3) — English (generated): Japhia
+  - gloss: לָכִישׁ: לָכִ֛ישׁ (JOS 10:3) — English (generated): of Lachish
+  - gloss: דְּבִיר: דְּבִ֥יר (JOS 10:3) — English (generated): and Debir
+  - gloss: עֶגְלוֹן: עֶגְל֖וֹן (JOS 10:3) — English (generated): of Eglon
+  - gloss: מַקֵּדָה: מַקֵּדָֽה (JOS 10:10) — English (generated): and Makkedah
+  - gloss: עֲזֵקָה: עֲזֵקָ֖ה (JOS 10:10) — English (generated): far as Azekah
+  - gloss: בֵּית חֹורֹון: בֵית (JOS 10:10) — English (generated): to Beth horon
+  - gloss: אַיָּלוֹן: אַיָּלֽוֹן (JOS 10:12) — English (generated): of Aijalon
+  - gloss: לִבְנָה: לִבְנָ֑ה (JOS 10:29) — English (generated): to Libnah
+  - gloss: הֹרָם: הֹרָם֙ (JOS 10:33) — English (generated): Horam
+  - gloss: גֶּזֶר: גֶּ֔זֶר (JOS 10:33) — English (generated): of Gezer
+  - gloss: קָדֵשׁ בַּרְנֵעַ: קָּדֵ֥שׁ (JOS 10:41) — English (generated): from
+  - gloss: עִיר: עָרֵ֣י (JOS 10:2) — English (generated): cities
+  - gloss: פִּתְאֹם: פִּתְאֹ֑ם (JOS 10:9) — English (generated): by surprise
+  - gloss: מַעֲלָה: מַעֲלֵ֣ה (JOS 10:10) — English (generated): the ascent
+  - gloss: שָׁלַךְ: הִשְׁלִ֣יךְ (JOS 10:11) — English (generated): cast down
+  - gloss: אֶבֶן: אַבְנֵ֣י (JOS 10:11) — English (generated): by
+  - gloss: יָשָׁר: יָּשָׁ֑ר (JOS 10:13) — English (generated): of Jashar
+  - gloss: תָּמַם: תֻּמָּ֑ (JOS 10:20) — English (generated): they had finished them off
+  - gloss: מִבְצָר: מִּבְצָֽר (JOS 10:20) — English (generated): the fortified
+  - gloss: שָׁלוֹם: שָׁל֑וֹם (JOS 10:21) — English (generated): safely
+  - gloss: הָלַךְ: הָלְכ֣וּא (JOS 10:24) — English (generated): who had accompanied
+  - gloss: צַוָּאר: צַוְּארֵי (JOS 10:24) — English (generated): the necks
+  - gloss: אָשֵׁד: אֲשֵׁד֗וֹת (JOS 10:40) — English (generated): and the slopes
+  - gloss: מַכָּה: מַכָּֽה (JOS 10:10) — English (generated): slaughter
+  - NT: JOS 10:3 *Lachisch*
+  - answers: Adoni-zedek, Hoham, Piram, Jarmuth, Japhia, Lachish, Debir, Eglon, Makkedah, Azekah, Beth-horon, Aijalon, Libnah, Horam, Gezer, Kadesh-barnea, royal cities, suddenly, ascent, cast down, hailstones, Jashar, wiped out, fortified, safe, gone, necks, slopes, slaughter
+  - Formen dieses Kapitels.
+  - agent:jos010, 2026-11-14
+- **`term:jos011_forms`** חָצוֹר → **Hazor; Merom; Jobab; Madon; Schimron; Achschaf; Dor; Mizpa; Mizpe; Misrefot-Majim; Anab; Baal-Gad; verabredet; preis; lähme; härgfalle; Haupt; usgla; kahle; übergäb; zueteil; vernichti** [medium, decided, by-rule]
+  - gloss: חָצוֹר: חָצ֑וֹר (JOS 11:1) — English (generated): of Hazor
+  - gloss: מֵרוֹם: מֵר֔וֹם (JOS 11:5) — English (generated): of Merom
+  - gloss: יוֹבָב: יוֹבָב֙ (JOS 11:1) — English (generated): Jobab
+  - gloss: מָדוֹן: מָד֔וֹן (JOS 11:1) — English (generated): of Madon
+  - gloss: שִׁמְרוֹן: שִׁמְר֖וֹן (JOS 11:1) — English (generated): of Shimron
+  - gloss: אַכְשָׁף: אַכְשָֽׁף (JOS 11:1) — English (generated): and Achshaph
+  - gloss: דֹּור: דּ֖וֹר (JOS 11:2)
+  - gloss: מִצְפָּה: מִּצְפָּֽה (JOS 11:3) — English (generated): of Mizpah
+  - gloss: מִצְפֶּה: מִצְפֶּ֖ה (JOS 11:8) — English (generated): of Mizpeh
+  - gloss: מִשְׂרְפוֹת מַיִם: מִשְׂרְפ֣וֹת (JOS 11:8) — English (generated): and Misrephoth maim
+  - gloss: עֲנָב: עֲנָ֔ב (JOS 11:21) — English (generated): Anab
+  - gloss: בַּעַל גָּד: בַּ֤עַל (JOS 11:17) — English (generated): Baal gad
+  - gloss: יָעַד: יִּוָּ֣עֲד֔וּ (JOS 11:5) — English (generated): joined forces
+  - gloss: נָתַן: נֹתֵ֧ן (JOS 11:6) — English (generated): will deliver
+  - gloss: עִקֵּר: תְּעַקֵּ֔ר (JOS 11:6) — English (generated): You are to hamstring
+  - gloss: נָפַל: יִּפְּל֖וּ (JOS 11:7) — English (generated): and attacked
+  - gloss: רֹאשׁ: רֹ֖אשׁ (JOS 11:10) — English (generated): the head
+  - gloss: סוּר: הֵסִ֣יר (JOS 11:15) — English (generated): undone
+  - gloss: חָלָק: חָלָק֙ (JOS 11:17) — English (generated): Halak
+  - gloss: חָרַם: הַֽחֲרִימָ֔ (JOS 11:20) — English (generated): so that they would be set apart for destruction
+  - gloss: הָיָה: הֱיוֹת (JOS 11:20) — English (generated): would receive
+  - gloss: שָׁמַד: הַשְׁמִידָ֔ (JOS 11:20) — English (generated): being annihilated
+  - NT: JOS 11:1 *Hazor*
+  - answers: Hazor, Merom, Jobab, Madon, Shimron, Achshaph, Dor, Mizpah, Mizpeh, Misrephoth-maim, Anab, Baal-gad, joined, deliver, hamstring, attacked, head, left undone, Halak, destroy, receive, annihilated
+  - Formen dieses Kapitels.
+  - agent:jos011, 2026-11-14
+- **`term:jos012_forms`** עֵבֶר → **diesyts; einedryssg; Bet-Jeschimot; Salcha; Geschuriter; Maachatiter; Geder; Horma; Arad; Adullam; Tappuach; Hefer; Afek; Scharon; Schimron-Meron; Taanach; Megiddo; Kedesch; Jokneam; Karmel; Tirza** [medium, decided, by-rule]
+  - gloss: עֵבֶר: עֵ֤בֶר (JOS 12:7) — English (generated): beyond
+  - gloss: שָׁלֹשׁ: שְׁלֹשִׁ֥ים (JOS 12:24) — English (generated): thirty one
+  - gloss: בֵּית הַיְשִׁמֹות: בֵּ֣ית (JOS 12:3) — English (generated): Beth jeshimoth
+  - gloss: סַלְכָה: סַלְכָה֙ (JOS 12:5) — English (generated): Salecah
+  - gloss: גְּשׁוּרִי: גְּשׁוּרִ֖י (JOS 12:5) — English (generated): of the Geshurites
+  - gloss: מַעֲכָתִי: מַּעֲכָתִ֑י (JOS 12:5) — English (generated): and Maacathites
+  - gloss: גֶּדֶר: גֶּ֖דֶר (JOS 12:13) — English (generated): of Geder
+  - gloss: חׇרְמָה: חָרְמָה֙ (JOS 12:14) — English (generated): of Hormah
+  - gloss: עֲרָד: עֲרָ֖ד (JOS 12:14) — English (generated): of Arad
+  - gloss: עֲדֻלָּם: עֲדֻלָּ֖ם (JOS 12:15) — English (generated): of Adullam
+  - gloss: תַּפּוּחַ: תַּפּ֨וּחַ֙ (JOS 12:17) — English (generated): of Tappuah
+  - gloss: חֵפֶר: חֵ֖פֶר (JOS 12:17) — English (generated): of Hepher
+  - gloss: אֲפֵק: אֲפֵק֙ (JOS 12:18) — English (generated): of Aphek
+  - gloss: שָׁרוֹן: שָּׁר֖וֹן (JOS 12:18) — English (generated): of Lasharon
+  - gloss: שִׁמְרוֹן מְראוֹן: שִׁמְר֤וֹן (JOS 12:20) — English (generated): of Shimron meron
+  - gloss: תַּעֲנָךְ: תַּעְנַךְ֙ (JOS 12:21) — English (generated): of Taanach
+  - gloss: מְגִדּוֹ: מְגִדּ֖וֹ (JOS 12:21) — English (generated): of Megiddo
+  - gloss: קֶדֶשׁ: קֶ֨דֶשׁ֙ (JOS 12:22) — English (generated): of Kedesh
+  - gloss: יׇקְנְעָם: יָקְנֳעָ֥ם (JOS 12:22) — English (generated): of Jokneam
+  - gloss: כַּרְמֶל: כַּרְמֶ֖ל (JOS 12:22) — English (generated): in Carmel
+  - gloss: תִּרְצָה: תִּרְצָ֖ה (JOS 12:24) — English (generated): of Tirzah
+  - NT: JOS 12:7 *diesyts*
+  - answers: west side, thirty-one, Beth-jeshimoth, Salecah, Geshurites, Maacathites, Geder, Hormah, Arad, Adullam, Tappuah, Hepher, Aphek, Lasharon, Shimron-meron, Taanach, Megiddo, Kedesh, Jokneam, Carmel, Tirzah
+  - Formen dieses Kapitels.
+  - agent:jos012, 2026-11-14
+- **`term:jos013_forms`** עֶקְרוֹן → **Ekron; Mahanajim; Schihor; Aschkelon; Awiter; Meara; Gibliter; Geschur; Maachat; Bamot-Baal; Bet-Baal-Meon; Kedemot; Mefaat; Kirjatajim; Sibma; Zeret-Schachar; Ramat-Mizpe; Betonim; Bet-Haram; Bet-Nimra; Zafon; Jaser; Rabba; Ewi; Rekem; Reba; nün; zuelose; Zältdörfer; Wahrsäger** [medium, decided, by-rule]
+  - gloss: עֶקְרוֹן: עֶקְרוֹן֙ (JOS 13:3) — English (generated): of Ekron
+  - gloss: מַחֲנַיִם: מַּחֲנַ֖יִם (JOS 13:26) — English (generated): and from Mahanaim
+  - gloss: שִׁיחוֹר: שִּׁיח֞וֹר (JOS 13:3) — English (generated): the Shihor
+  - gloss: אֶשְׁקְלוֹנִי: אֶשְׁקְלוֹנִ֣י (JOS 13:3) — English (generated): Ashkelon
+  - gloss: עַוִּים: עַוִּֽים (JOS 13:3) — English (generated): as well as that of the Avvites
+  - gloss: מְעָרָה: מְעָרָ֛ה (JOS 13:4) — English (generated): from Mearah
+  - gloss: גִּבְלִי: גִּבְלִ֗י (JOS 13:5) — English (generated): of the Gebalites
+  - gloss: גְּשׁוּר: גְּשׁ֤וּר (JOS 13:13) — English (generated): So Geshur
+  - gloss: מַעֲכָת: מַֽעֲכָת֙ (JOS 13:13) — English (generated): and Maacath
+  - gloss: בָּמֹות בַּעַל: בָמ֣וֹת (JOS 13:17)
+  - gloss: בֵּית בַּעַל מְעוֹן: בֵ֖ית (JOS 13:17) — English (generated): Beth baal meon
+  - gloss: קְדֵמוֹת: קְדֵמֹ֖ת (JOS 13:18) — English (generated): Kedemoth
+  - gloss: מֵיפַעַת: מֵפָֽעַת (JOS 13:18) — English (generated): Mephaath
+  - gloss: קִרְיָתַיִם: קִרְיָתַ֣יִם (JOS 13:19) — English (generated): Kiriathaim
+  - gloss: שִׂבְמָה: שִׂבְמָ֔ה (JOS 13:19) — English (generated): Sibmah
+  - gloss: צֶרֶת הַשַּׁחַר: צֶ֥רֶת (JOS 13:19) — English (generated): Zereth shahar
+  - gloss: רָמָה: רָמַ֥ת (JOS 13:26) — English (generated): Ramath mizpeh
+  - gloss: בְּטֹנִים: בְטֹנִ֑ים (JOS 13:26) — English (generated): and Betonim
+  - gloss: בֵּית הָרָם: בֵּ֣ית (JOS 13:27) — English (generated): Beth haram
+  - gloss: בֵּית נִמְרָה: בֵ֨ית (JOS 13:27) — English (generated): Beth haram
+  - gloss: צָפוֹן: צָפ֗וֹן (JOS 13:27) — English (generated): and Zaphon
+  - gloss: יַעְזֵר: יַעְזֵר֙ (JOS 13:25) — English (generated): of Jazer
+  - gloss: רַבָּה: רַבָּֽה (JOS 13:25) — English (generated): Rabbah
+  - gloss: אֱוִי: אֱוִ֤י (JOS 13:21) — English (generated): Evi
+  - gloss: רֶקֶם: רֶ֨קֶם֙ (JOS 13:21) — English (generated): Rekem
+  - gloss: רֶבַע: רֶ֔בַע (JOS 13:21) — English (generated): and Reba
+  - gloss: תֵּשַׁע: תִשְׁעַ֣ת (JOS 13:7) — English (generated): to the nine
+  - gloss: נָפַל: הַפִּלֶ֤ (JOS 13:6) — English (generated): divide it by lot
+  - gloss: חַוָּה: חַוֺּ֥ת (JOS 13:30) — English (generated): the towns
+  - gloss: קָסַם: קּוֹסֵ֑ם (JOS 13:22) — English (generated): the diviner
+  - NT: JOS 13:3 *Ekron*
+  - answers: Ekron, Mahanaim, Shihor, Ashkelon, Avvites, Mearah, Gebalites, Geshur, Maacath, Bamoth-baal, Beth-baal-meon, Kedemoth, Mephaath, Kiriathaim, Sibmah, Zereth-shahar, Ramath-mizpeh, Betonim, Beth-haram, Beth-nimrah, Zaphon, Jazer, Rabbah, Evi, Rekem, Reba, nine, allot, towns, diviner
+  - Formen dieses Kapitels.
+  - agent:jos013, 2026-11-14
+- **`term:jos014_forms`** רֹאשׁ → **Familieöberschte; vierzgjährig; verga; drufgtrappet; füfevierzg; füfachzgjährig; uszzie; heizcho; befeschtigti; Kirjat-Arba; Arba; Kenasiter; zuegfalle** [medium, decided, by-rule]
+  - gloss: רֹאשׁ: רָאשֵׁ֛י (JOS 14:1) — English (generated): and the heads
+  - gloss: אַרְבַּע: אַרְבָּעִ֨ים (JOS 14:7) — English (generated): forty
+  - gloss: מָסָה: הִמְסִ֖יו (JOS 14:8) — English (generated): melt with fear
+  - gloss: דָּרַךְ: דָּרְכָ֤ה (JOS 14:9) — English (generated): you have set foot
+  - gloss: אַרְבַּע: אַרְבָּעִ֨ים (JOS 14:10) — English (generated): forty five
+  - gloss: חָמֵשׁ: חָמֵ֥שׁ (JOS 14:10)
+  - gloss: יָצָא: צֵ֥את (JOS 14:11) — English (generated): for going out
+  - gloss: בּוֹא: בֽוֹא (JOS 14:11) — English (generated): and for coming in
+  - gloss: בָּצוּר: בְּצֻר֔וֹת (JOS 14:12) — English (generated): fortified
+  - gloss: קִרְיַת אַרְבַּע: קִרְיַ֣ת (JOS 14:15) — English (generated): Kiriath arba
+  - gloss: הוּא: ה֑וּא (JOS 14:15) — English (generated): after Arba
+  - gloss: קְנִזִּי: קְּנִזִּ֑י (JOS 14:6) — English (generated): the Kenizzite
+  - gloss: נַחֲלָה: נַחֲלָתָ֑ (JOS 14:2) — English (generated): Their inheritance
+  - NT: JOS 14:1 *Familieöberschte*
+  - answers: family heads, forty years old, melt, set foot, forty-five, eighty-five, going out, coming in, fortified, Kiriath-arba, Arba, Kenizzite, assigned
+  - Formen dieses Kapitels.
+  - agent:jos014, 2026-11-14
+- **`term:jos015_forms`** נֶגֶב → **südlech; südlechschte; usgloffe; bbouge; umbbouge; Tochterstedt; Nordhang; Südgränze; Oschtgränze; Weschtgränze; nordwärts; verbygange; Wasserquelle; Salzstadt; nünezwänzg; vierzä; sächzä; Akrabbim; Karka; Bohan; Adummim; En-Rogel; Ben-Hinnom; Refaim; Neftoach; Efron; Baala; Kesalon; Schikkeron; Jabneel; Scheschai; Achiman; Talmai; Otniel; Kenas; Achsa; Kirjat-Sefer; Dilan; En-Gedi** [medium, decided, by-rule]
+  - gloss: נֶגֶב: נֶּ֜גֶב (JOS 15:3) — English (generated): south
+  - gloss: קָצֶה: קְצֵה֙ (JOS 15:21) — English (generated): the southernmost
+  - gloss: הָיָה: הָי֛וּ (JOS 15:4)
+  - gloss: תָּאַר: תָאַ֨ר (JOS 15:9) — English (generated): curved
+  - gloss: סָבַב: נָסַ֖ב (JOS 15:3) — English (generated): and curved
+  - gloss: בַּת: בְנֹתֶ֖י (JOS 15:45) — English (generated): with its towns
+  - gloss: כָּתֵף: כֶּ֧תֶף (JOS 15:10) — English (generated): slope
+  - gloss: גְּבוּל: גְּב֣וּל (JOS 15:2) — English (generated): border
+  - gloss: גְּבוּל: גְב֥וּל (JOS 15:5) — English (generated): border
+  - gloss: גְּבוּל: גְב֣וּל (JOS 15:12) — English (generated): border
+  - gloss: צָפוֹן: צָפ֜וֹנָ (JOS 15:7) — English (generated): north
+  - gloss: עָבַר: עָבַ֤ר (JOS 15:3) — English (generated): continued on
+  - gloss: גֻּלָּה: גֻּלֹּ֣ת (JOS 15:19) — English (generated): springs
+  - gloss: עִיר הַמֶּלַח: עִיר (JOS 15:62) — English (generated): cities
+  - gloss: עֶשְׂרִים: עֶשְׂרִ֥ים (JOS 15:32) — English (generated): twenty nine
+  - gloss: אַרְבַּע: אַרְבַּֽע (JOS 15:36) — English (generated): fourteen
+  - gloss: שֵׁשׁ: שֵׁשׁ (JOS 15:41) — English (generated): sixteen
+  - gloss: מַעֲלֵה עַקְרַבִּים: עַקְרַבִּים֙ (JOS 15:3) — English (generated): of the Ascent
+  - gloss: קַרְקַע: קַּרְקָֽעָ (JOS 15:3) — English (generated): toward Karka
+  - gloss: בֹּהַן: בֹּ֖הַן (JOS 15:6) — English (generated): of Bohan
+  - gloss: אֲדֻמִּים: אֲדֻמִּ֔ים (JOS 15:7) — English (generated): of Adummim
+  - gloss: עֵין רֹגֵל: עֵ֥ין (JOS 15:7) — English (generated): of En shemesh
+  - gloss: גַּיְא: גֵּ֣י (JOS 15:8) — English (generated): the Valley of Ben hinnom
+  - gloss: רְפָאִים: רְפָאִ֖ים (JOS 15:8) — English (generated): of Rephaim
+  - gloss: נֶפְתּוֹחַ: נֶפְתּ֔וֹחַ (JOS 15:9) — English (generated): of Nephtoah
+  - gloss: עֶפְרוֹן: עֶפְר֑וֹן (JOS 15:9) — English (generated): Ephron
+  - gloss: בַּעֲלָה: בַּעֲלָ֔ה (JOS 15:9) — English (generated): toward Baalah
+  - gloss: כְּסָלוֹן: כְסָל֑וֹן (JOS 15:10) — English (generated): Chesalon
+  - gloss: שִׁכְּרוֹן: שִׁכְּר֔וֹנָ (JOS 15:11) — English (generated): toward Shikkeron
+  - gloss: יַבְנְאֵל: יַבְנְאֵ֑ל (JOS 15:11) — English (generated): to Jabneel
+  - gloss: שֵׁשַׁי: שֵׁשַׁ֤י (JOS 15:14) — English (generated): Sheshai
+  - gloss: אֲחִימַן: אֲחִימַן֙ (JOS 15:14) — English (generated): Ahiman
+  - gloss: תַּלְמַי: תַּלְמַ֔י (JOS 15:14) — English (generated): and Talmai
+  - gloss: עׇתְנִיאֵל: עָתְנִיאֵ֥ל (JOS 15:17) — English (generated): So Othniel
+  - gloss: קְנַז: קְנַ֖ז (JOS 15:17) — English (generated): Kenaz
+  - gloss: עַכְסָה: עַכְסָ֥ה (JOS 15:16) — English (generated): Acsah
+  - gloss: קִרְיַת סֵפֶר: קִרְיַת (JOS 15:15) — English (generated): Kiriath sepher
+  - gloss: דִּלְעָן: דִלְעָ֥ן (JOS 15:38) — English (generated): Dilan
+  - gloss: עֵין גֶּדִי: עֵ֣ין (JOS 15:62) — English (generated): and En gedi
+  - NT: JOS 15:4 *usgloffe*
+  - answers: south, southernmost, ended, curved, curved, towns, northern slope, southern border, eastern border, western border, north, passed, springs, City of Salt, twenty-nine, fourteen, sixteen, Akrabbim, Karka, Bohan, Adummim, En-rogel, Ben-hinnom, Rephaim, Nephtoah, Ephron, Baalah, Chesalon, Shikkeron, Jabneel, Sheshai, Ahiman, Talmai, Othniel, Kenaz, Acsah, Kiriath-sepher, Dilean, En-gedi
+  - Formen dieses Kapitels; dazu die Städtenamen V. 21-62.
+  - agent:jos015, 2026-11-15
+- **`term:jos016_forms`** לוּז → **Lus; Architer; Atarot; Jafletiter; Atarot-Addar; Michmetat; Taanat-Schilo; Janoach; Naara; Kana; undere; berüert; dazue; usgsunderet; Efraimiter** [medium, decided, by-rule]
+  - gloss: לוּז: ל֑וּזָ (JOS 16:2) — English (generated): Luz
+  - gloss: אַרְכִּי: אַרְכִּ֖י (JOS 16:2) — English (generated): of the Archites
+  - gloss: עֲטָרוֹת: עֲטָרֽוֹת (JOS 16:2) — English (generated): in Ataroth
+  - gloss: יַפְלֵטִי: יַּפְלֵטִ֗י (JOS 16:3) — English (generated): of the Japhletites
+  - gloss: עַטְרוֹת אַדָּר: עַטְר֣וֹת (JOS 16:5) — English (generated): went from Ataroth addar
+  - gloss: מִכְמְתָת: מִּכְמְתָת֙ (JOS 16:6) — English (generated): From Michmethath
+  - gloss: תַּאֲנַת שִׁלֹה: תַּאֲנַ֣ת (JOS 16:6) — English (generated): toward Taanath shiloh
+  - gloss: יָנוֹחָה: יָנֽוֹחָ (JOS 16:6) — English (generated): to Janoah
+  - gloss: נַעֲרָה: נַעֲרָ֑תָ (JOS 16:7) — English (generated): and Naarah
+  - gloss: קָנָה: קָנָ֔ה (JOS 16:8) — English (generated): of Kanah
+  - gloss: תַּחְתּוֹן: תַּחְתּ֖וֹן (JOS 16:3) — English (generated): Lower
+  - gloss: פָּגַע: פָגַע֙ (JOS 16:7) — English (generated): and then reached
+  - gloss: וְ: וְ (JOS 16:9)
+  - gloss: מִבְדָּלָה: מִּבְדָּלוֹת֙ (JOS 16:9) — English (generated): set apart
+  - gloss: אֶפְרַיִם: אֶפְרַ֨יִם֙ (JOS 16:10) — English (generated): the Ephraimites
+  - NT: JOS 16:2 *Lus*
+  - answers: Luz, Archites, Ataroth, Japhletites, Ataroth-addar, Michmethath, Taanath-shiloh, Janoah, Naarah, Kanah, lower, touches, along with, set apart, Ephraimites
+  - Formen dieses Kapitels.
+  - agent:jos016, 2026-11-14
+- **`term:jos017_forms`** אִישׁ → **Chriegsmaa; Abiëser; Helek; Asriël; Schechem; Schemida; Jibleam; Bet-Schean; En-Tappuach; En-Dor; Jesreel; zä; südwärts; rodet; äusserschte; vertribet; unbedingt** [medium, decided, by-rule]
+  - gloss: אִישׁ: אִ֣ישׁ (JOS 17:1) — English (generated): a man
+  - gloss: אֲבִיעֶזֶר: אֲבִיעֶ֜זֶר (JOS 17:2) — English (generated): of Abiezer
+  - gloss: חֵלֶק: חֵ֗לֶק (JOS 17:2) — English (generated): Helek
+  - gloss: אַשְׂרִיאֵל: אַשְׂרִיאֵל֙ (JOS 17:2) — English (generated): Asriel
+  - gloss: שֶׁכֶם: שֶׁ֔כֶם (JOS 17:2) — English (generated): Shechem
+  - gloss: שְׁמִידָע: שְׁמִידָ֑ע (JOS 17:2) — English (generated): and Shemida
+  - gloss: יִבְלְעָם: יִבְלְעָ֨ם (JOS 17:11) — English (generated): Ibleam
+  - gloss: בֵּית שְׁאָן: בֵּית (JOS 17:11) — English (generated): Beth shean
+  - gloss: עֵין תַּפּוּחַ: עֵ֥ין (JOS 17:7) — English (generated): of En tappuah
+  - gloss: עֵין דֹּור: עֵֽין (JOS 17:11) — English (generated): Endor
+  - gloss: יִזְרְעֶאל: יִזְרְעֶֽאל (JOS 17:16) — English (generated): of Jezreel
+  - gloss: עֲשָׂרָה: עֲשָׂרָ֑ה (JOS 17:5) — English (generated): Thus ten
+  - gloss: יָמִין: יָּמִ֔ין (JOS 17:7)
+  - gloss: בָּרָא: בֵרֵאתָ֤ (JOS 17:15) — English (generated): and clear
+  - gloss: תֹּוצָאֹות: תֹּֽצְאֹתָ֑י (JOS 17:18) — English (generated): and its farthest limits
+  - gloss: יָרַשׁ: תוֹרִ֣ישׁ (JOS 17:18) — English (generated): drive out
+  - gloss: יָאַל: יּ֨וֹאֶל֙ (JOS 17:12) — English (generated): were determined
+  - NT: JOS 17:2 *Abiëser*
+  - answers: man of war, Abiezer, Helek, Asriel, Shechem, Shemida, Ibleam, Beth-shean, En-tappuah, Endor, Jezreel, ten, south, clear, farthest, drive out, determined
+  - Formen dieses Kapitels.
+  - agent:jos017, 2026-11-14
+- **`term:jos018_forms`** כָּתַב → **beschribe; beschribet; Beschribig; wirfe; zuewarte; yneganget; ufteile; Südhang; Nordhang; Weschtsyte; Oschtsyte; südleche; nördleche; ringsum; Bet-Awen; Neftoach; En-Schemesch; Gelilot; Bet-Hogla; Emek-Keziz; Bet-Araba; Zemarajim; Awiter; Para; Ofra; Kefar-Ammoni; Ofni; Geba; Beerot; Kefira; Moza; Rekem; Jirpeel; Tarala; Zela; Elef; Jebus; Gibea** [medium, decided, by-rule]
+  - gloss: כָּתַב: יִכְתְּב֥וּ (JOS 18:4) — English (generated): and map it out
+  - gloss: כָּתַב: כִתְב֤וּ (JOS 18:8) — English (generated): map it out
+  - gloss: בּוֹא: הֲבֵאתֶ֥ם (JOS 18:6) — English (generated): and brought
+  - gloss: יָרָה: יָרִ֨יתִי (JOS 18:6) — English (generated): I will cast
+  - gloss: רָפָה: מִתְרַפִּ֔ים (JOS 18:3) — English (generated): put off
+  - gloss: בּוֹא: בוֹא֙ (JOS 18:3) — English (generated): entering
+  - gloss: חָלַק: הִֽתְחַלְּק֥וּ (JOS 18:5) — English (generated): and divide
+  - gloss: כָּתֵף: כֶּ֤תֶף (JOS 18:13) — English (generated): slope
+  - gloss: כָּתֵף: כֶּ֨תֶף (JOS 18:12) — English (generated): slope
+  - gloss: פֵּאָה: פְאַת (JOS 18:14) — English (generated): side
+  - gloss: פֵּאָה: פְאַת (JOS 18:20) — English (generated): side
+  - gloss: נֶגֶב: נֶ֑גְבָּ (JOS 18:19) — English (generated): the mouth
+  - gloss: צָפוֹן: צָפ֔וֹנָ (JOS 18:19) — English (generated): the northern
+  - gloss: סָבִיב: סָבִ֖יב (JOS 18:20) — English (generated): around
+  - gloss: בֵּית אָוֶן: בֵּ֥ית (JOS 18:12) — English (generated): of Beth aven
+  - gloss: נֶפְתּוֹחַ: נֶפְתּֽוֹחַ (JOS 18:15) — English (generated): of Nephtoah
+  - gloss: עֵין שֶׁמֶשׁ: עֵ֣ין (JOS 18:17) — English (generated): to En shemesh
+  - gloss: גְּלִילוֹת: גְּלִיל֔וֹת (JOS 18:17) — English (generated): Geliloth
+  - gloss: בֵּית חׇגְלָה: בֵּית (JOS 18:19) — English (generated): of Beth hoglah
+  - gloss: עֵמֶק: עֵ֥מֶק (JOS 18:21) — English (generated): Emek keziz
+  - gloss: בֵּית הָעֲרָבָה: בֵ֧ית (JOS 18:22) — English (generated): Beth arabah
+  - gloss: צְמָרַיִם: צְמָרַ֖יִם (JOS 18:22) — English (generated): Zemaraim
+  - gloss: עַוִּים: עַוִּ֥ים (JOS 18:23) — English (generated): Avvim
+  - gloss: פָּרָה: פָּרָ֖ה (JOS 18:23) — English (generated): Parah
+  - gloss: עׇפְרָה: עָפְרָֽה (JOS 18:23) — English (generated): Ophrah
+  - gloss: כָּפָר: כְפַ֧ר (JOS 18:24)
+  - gloss: עׇפְנִי: עָפְנִ֖י (JOS 18:24) — English (generated): Ophni
+  - gloss: גֶּבַע: גָ֑בַע (JOS 18:24) — English (generated): and Geba
+  - gloss: בְּאֵרוֹת: בְאֵרֽוֹת (JOS 18:25) — English (generated): Beeroth
+  - gloss: כְּפִירָה: כְּפִירָ֖ה (JOS 18:26) — English (generated): Chephirah
+  - gloss: מֹצָה: מֹּצָֽה (JOS 18:26) — English (generated): Mozah
+  - gloss: רֶקֶם: רֶ֥קֶם (JOS 18:27) — English (generated): Rekem
+  - gloss: יִרְפְּאֵל: יִרְפְּאֵ֖ל (JOS 18:27) — English (generated): Irpeel
+  - gloss: תַּרְאֲלָה: תַרְאֲלָֽה (JOS 18:27) — English (generated): Taralah
+  - gloss: צֵלַע: צֵלַ֡ע (JOS 18:28) — English (generated): Zelah
+  - gloss: צֵלַע: צֵלַ֡ע (JOS 18:28) — English (generated): Zelah
+  - gloss: יְבוּסִי: יְבוּסִ֨י (JOS 18:28) — English (generated): Jebus
+  - gloss: גִּבְעַת: גִּבְעַ֣ת (JOS 18:28) — English (generated): Gibeah
+  - NT: JOS 18:4 *beschribe*
+  - answers: map out, map out, document, cast, put off, entering, divide, southern slope, northern slope, western side, east side, southern, northern, around, Beth-aven, Nephtoah, En-shemesh, Geliloth, Beth-hoglah, Emek-keziz, Beth-arabah, Zemaraim, Avvim, Parah, Ophrah, Chephar-ammoni, Ophni, Geba, Beeroth, Chephirah, Mozah, Rekem, Irpeel, Taralah, Zelah, Haeleph, Jebus, Gibeah
+  - Formen dieses Kapitels.
+  - agent:jos018, 2026-11-14
+- **`term:jos019_forms`** רֹאשׁ → **Familievätter; zwöiezwänzg; drizä; nünzä; Beerscheba; Molada; Hazar-Schual; Ziklag; Scharuhen; Aschan; Baalat-Beer; Sarid; Marala; Dabbeschet; Jokneam; Kislot-Tabor; Daberat; Jafia; Gat-Hefer; Hannaton; Jiftach-El; Nahalal; Schimron; Schunem; Rabbit; En-Gannim; Achschaf; Karmel; Schihor-Libnat; Kabul; Rehob; Achsib; Helef; Zaanannim; Lakkum; Hukkok; Kinneret; Kedesch; Migdal-El; Zora; Eschtaol; Ajalon; Timna; Ekron; Bene-Berak; Leschem; Timnat-Serach** [medium, decided, by-rule]
+  - gloss: רֹאשׁ: רָאשֵׁ֣י (JOS 19:51) — English (generated): and the heads
+  - gloss: עֶשְׂרִים: עֶשְׂרִ֥ים (JOS 19:30) — English (generated): twenty two
+  - gloss: שָׁלֹשׁ: שְׁלֹשׁ (JOS 19:6) — English (generated): thirteen
+  - gloss: תֵּשַׁע: תְּשַֽׁע (JOS 19:38) — English (generated): nineteen
+  - gloss: בְּאֵר: בְּאֵֽר (JOS 19:2) — English (generated): Beersheba
+  - gloss: מוֹלָדָה: מוֹלָדָֽה (JOS 19:2) — English (generated): Moladah
+  - gloss: חֲצַר שׁוּעָל: חֲצַ֥ר (JOS 19:3) — English (generated): Hazar shual
+  - gloss: צִקְלַג: צִֽקְלַ֥ג (JOS 19:5) — English (generated): Ziklag
+  - gloss: שָׁרוּחֶן: שָֽׁרוּחֶ֑ן (JOS 19:6) — English (generated): and Sharuhen
+  - gloss: עָשָׁן: עָשָׁ֑ן (JOS 19:7) — English (generated): and Ashan
+  - gloss: בַּעֲלַת בְּאֵר: בַּֽעֲלַ֥ת (JOS 19:8) — English (generated): far as Baalath beer
+  - gloss: שָׂרִיד: שָׂרִֽיד (JOS 19:10) — English (generated): Sarid
+  - gloss: מַרְעֲלָה: מַרְעֲלָ֖ה (JOS 19:11) — English (generated): to Maralah
+  - gloss: דַּבֶּשֶׁת: דַבָּ֑שֶׁת (JOS 19:11) — English (generated): Dabbesheth
+  - gloss: יׇקְנְעָם: יָקְנְעָֽם (JOS 19:11) — English (generated): of Jokneam
+  - gloss: כִּסְלֹת תָּבֹר: כִּסְלֹ֖ת (JOS 19:12) — English (generated): of Chisloth tabor
+  - gloss: דָּבְרַת: דָּֽבְרַ֖ת (JOS 19:12) — English (generated): Daberath
+  - gloss: יָפִיעַ: יָפִֽיעַ (JOS 19:12) — English (generated): to Japhia
+  - gloss: גַּת: גִּתָּ֥ (JOS 19:13) — English (generated): to Gath hepher
+  - gloss: חַנָּתֹן: חַנָּתֹ֑ן (JOS 19:14) — English (generated): to Hannathon
+  - gloss: גַּיְא: גֵּ֖י (JOS 19:14) — English (generated): at the Valley
+  - gloss: נַהֲלֹל: נַֽהֲלָל֙ (JOS 19:15) — English (generated): Nahalal
+  - gloss: שִׁמְרוֹן: שִׁמְר֔וֹן (JOS 19:15) — English (generated): Shimron
+  - gloss: שׁוּנֵם: שׁוּנֵֽם (JOS 19:18) — English (generated): Shunem
+  - gloss: רַבִּית: רַבִּ֥ית (JOS 19:20) — English (generated): Rabbith
+  - gloss: עֵין גַּנִּים: עֵין (JOS 19:21) — English (generated): En gannim
+  - gloss: אַכְשָׁף: אַכְשָֽׁף (JOS 19:25) — English (generated): Achshaph
+  - gloss: כַּרְמֶל: כַרְמֶל֙ (JOS 19:26) — English (generated): Carmel
+  - gloss: שִׁיחוֹר לִבְנָת: שִׁיח֖וֹר (JOS 19:26) — English (generated): and Shihor libnath
+  - gloss: כָּבוּל: כָּב֖וּל (JOS 19:27) — English (generated): Cabul
+  - gloss: רְחֹב: רְחֹ֖ב (JOS 19:28) — English (generated): Rehob
+  - gloss: אַכְזִיב: אַכְזִֽיבָ (JOS 19:29) — English (generated): of Achzib
+  - gloss: חֵלֶף: חֵ֨לֶף (JOS 19:33) — English (generated): at Heleph
+  - gloss: צַעֲנַנִּים: צַעֲנַנִּ֗ים (JOS 19:33) — English (generated): of Zaanannim
+  - gloss: לַקּוּם: לַקּ֑וּם (JOS 19:33) — English (generated): Lakkum
+  - gloss: חֻקֹק: חוּקֹ֑קָ (JOS 19:34) — English (generated): to Hukkok
+  - gloss: כִּנֶּרֶת: כִנָּֽרֶת (JOS 19:35) — English (generated): Chinnereth
+  - gloss: קֶדֶשׁ: קֶ֥דֶשׁ (JOS 19:37) — English (generated): Kedesh
+  - gloss: מִגְדַּל אֵל: מִגְדַּל (JOS 19:38) — English (generated): Migdal el
+  - gloss: צׇרְעָה: צָרְעָ֥ה (JOS 19:41) — English (generated): included Zorah
+  - gloss: אֶשְׁתָּאֹל: אֶשְׁתָּא֖וֹל (JOS 19:41) — English (generated): Eshtaol
+  - gloss: אַיָּלוֹן: אַיָּל֖וֹן (JOS 19:42) — English (generated): Aijalon
+  - gloss: תִּמְנָה: תִמְנָ֖תָ (JOS 19:43) — English (generated): Timnah
+  - gloss: עֶקְרוֹן: עֶקְרֽוֹן (JOS 19:43) — English (generated): Ekron
+  - gloss: בְּנֵי בְרַק: בְנֵֽי (JOS 19:45) — English (generated): Bene berak
+  - gloss: לֶשֶׁם: לֶ֜שֶׁם (JOS 19:47) — English (generated): Leshem
+  - gloss: תִּמְנַת סֶרַח: תִּמְנַת (JOS 19:50) — English (generated): of Timnath serah
+  - NT: JOS 19:47 *Leschem*
+  - answers: heads of families, twenty-two, thirteen, nineteen, Beersheba, Moladah, Hazar-shual, Ziklag, Sharuhen, Ashan, Baalath-beer, Sarid, Maralah, Dabbesheth, Jokneam, Chisloth-tabor, Daberath, Japhia, Gath-hepher, Hannathon, Iphtah-el, Nahalal, Shimron, Shunem, Rabbith, En-gannim, Achshaph, Carmel, Shihor-libnath, Cabul, Rehob, Achzib, Heleph, Zaanannim, Lakkum, Hukkok, Chinnereth, Kedesh, Migdal-el, Zorah, Eshtaol, Aijalon, Timnah, Ekron, Bene-berak, Leshem, Timnath-serah
+  - Formen dieses Kapitels.
+  - agent:jos019, 2026-11-15
+- **`term:jos020_forms`** עִיר → **Fluchtstedt; Totschläger; Bluetrecher; Zueflucht; derthäre; Versehe; erkläre; gflohe; vorhär; Bezer; Ramot; Golan; Galiläa** [medium, decided, by-rule]
+  - gloss: עִיר: עָרֵ֣י (JOS 20:2) — English (generated): the cities
+  - gloss: רָצַח: רוֹצֵ֔חַ (JOS 20:3) — English (generated): so that anyone
+  - gloss: גָּאַל: גֹּאֵ֖ל (JOS 20:3) — English (generated): from the avenger
+  - gloss: לְ: לְ (JOS 20:3) — English (generated): may flee
+  - gloss: שָׁם: שָׁ֨מָּ (JOS 20:3) — English (generated): there
+  - gloss: שְׁגָגָה: שְׁגָגָ֖ה (JOS 20:3) — English (generated): unintentionally
+  - gloss: דָבַר: דִבֶּ֛ר (JOS 20:4) — English (generated): and states
+  - gloss: נוּס: נָ֥ס (JOS 20:6) — English (generated): he fled
+  - gloss: מִן: מִ (JOS 20:5)
+  - gloss: בֶּצֶר: בֶּ֧צֶר (JOS 20:8) — English (generated): Bezer
+  - gloss: רָמֹת: רָאמֹ֤ת (JOS 20:8) — English (generated): Ramoth
+  - gloss: גּוֹלָן: גּוֹלָ֥ן (JOS 20:8) — English (generated): Golan
+  - gloss: גָּלִיל: גָּלִיל֙ (JOS 20:7) — English (generated): in Galilee
+  - NT: JOS 20:2 *Fluchtstedt*
+  - answers: cities of refuge, manslayer, avenger of blood, refuge, there, accident, state, fled, prior, Bezer, Ramoth, Golan, Galilee
+  - Formen dieses Kapitels.
+  - agent:jos020, 2026-11-14
+- **`term:jos021_forms`** רֹאשׁ → **Familievätter; Kehatiter; Gerschoniter; Merariter; Simeoniter; zuecho; zwee; achtevierzg; unerfüllt; Jattir; Eschtemoa; Holon; Jutta; Anatot; Almon; Kibzajim; Beeschtera; Kischjon; Abdon; Hammot-Dor; Kartan; Karta; Dimna; Mefaat; Mahanajim** [medium, decided, by-rule]
+  - gloss: רֹאשׁ: רָאשֵׁי֙ (JOS 21:1) — English (generated): heads
+  - gloss: קְהָתִי: קְּהָתִ֑י (JOS 21:4) — English (generated): for the Kohathite
+  - gloss: גֵּרְשֻׁנִּי: גֵּרְשֻׁנִּ֖י (JOS 21:33) — English (generated): to the Gershonite
+  - gloss: מְרָרִי: מְרָרִי֮ (JOS 21:34) — English (generated): the Merarite
+  - gloss: שִׁמְעֹנִי: שִּׁמְעֹנִ֜י (JOS 21:4) — English (generated): Simeon
+  - gloss: הָיָה: יְהִי֙ (JOS 21:10)
+  - gloss: שְׁנַיִם: שְׁנֵ֥י (JOS 21:16) — English (generated): two
+  - gloss: אַרְבַּע: אַרְבָּעִ֥ים (JOS 21:41) — English (generated): there were forty eight
+  - gloss: נָפַל: נָפַ֣ל (JOS 21:45) — English (generated): had failed
+  - gloss: יַתִּר: יַתִּר֙ (JOS 21:14) — English (generated): Jattir
+  - gloss: אֶשְׁתְּמֹעַ: אֶשְׁתְּמֹ֖עַ (JOS 21:14) — English (generated): Eshtemoa
+  - gloss: חֹלֹן: חֹלֹן֙ (JOS 21:15) — English (generated): Holon
+  - gloss: יוּטָּה: יֻטָּה֙ (JOS 21:16) — English (generated): Juttah
+  - gloss: עֲנָתוֹת: עֲנָתוֹת֙ (JOS 21:18) — English (generated): Anathoth
+  - gloss: עַלְמוֹן: עַלְמ֖וֹן (JOS 21:18) — English (generated): and Almon
+  - gloss: קִבְצַיִם: קִבְצַ֨יִם֙ (JOS 21:22) — English (generated): Kibzaim
+  - gloss: בְּעֶשְׁתְּרָה: בְּעֶשְׁתְּרָ֖ה (JOS 21:27) — English (generated): and Beeshterah
+  - gloss: קִשְׁיוֹן: קִשְׁי֖וֹן (JOS 21:28) — English (generated): Kishion
+  - gloss: עַבְדּוֹן: עַבְדּ֖וֹן (JOS 21:30) — English (generated): Abdon
+  - gloss: חַמֹּת דֹּאר: חַמֹּ֥ת (JOS 21:32) — English (generated): Hammoth dor
+  - gloss: קַרְתָּן: קַרְתָּ֖ן (JOS 21:32) — English (generated): and Kartan
+  - gloss: קַרְתָּה: קַרְתָּ֖ה (JOS 21:34) — English (generated): Kartah
+  - gloss: דִּמְנָה: דִּמְנָה֙ (JOS 21:35) — English (generated): Dimnah
+  - gloss: מֵיפַעַת: מֵיפָ֖עַת (JOS 21:37) — English (generated): and Mephaath
+  - gloss: מַחֲנַיִם: מַחֲנַ֖יִם (JOS 21:38) — English (generated): Mahanaim
+  - NT: JOS 21:13 *Libna*
+  - answers: family heads, Kohathites, Gershonites, Merarites, Simeonites, given, two, forty-eight, failed, Jattir, Eshtemoa, Holon, Juttah, Anathoth, Almon, Kibzaim, Beeshterah, Kishion, Abdon, Hammoth-dor, Kartan, Kartah, Dimnah, Mephaath, Mahanaim
+  - Formen dieses Kapitels.
+  - agent:jos021, 2026-11-15
+- **`term:jos022_forms`** מַעַל → **Untröiji; empöre; empöret; Oberhöupter; Eigetumsland; abfalle; abfallet; abzfalle; Nachbildig; Rächeschaft; verleide; verwüeschte; Rubeniter; Gaditer** [medium, decided, by-rule]
+  - gloss: מַעַל: מַּ֤עַל (JOS 22:16) — English (generated): you have committed
+  - gloss: מָרַד: מְרֹ֣ד (JOS 22:29) — English (generated): to rebel
+  - gloss: מָרַד: מְרָדְ (JOS 22:16) — English (generated): that you might rebel
+  - gloss: רֹאשׁ: רָאשֵׁ֖י (JOS 22:21) — English (generated): the leaders
+  - gloss: אֲחֻזָּה: אֲחֻזָּתָ (JOS 22:9)
+  - gloss: שׁוּב: שׁ֤וּב (JOS 22:29) — English (generated): and turn away
+  - gloss: שׁוּב: שׁ֣וּב (JOS 22:16) — English (generated): by turning away
+  - gloss: שׁוּב: שׁ֖וּב (JOS 22:23) — English (generated): to turn away
+  - gloss: תַּבְנִית: תַּבְנִית֩ (JOS 22:28) — English (generated): the replica
+  - gloss: בָּקַשׁ: יְבַקֵּֽשׁ (JOS 22:23) — English (generated): hold us accountable
+  - gloss: שָׁבַת: הִשְׁבִּ֤יתוּ (JOS 22:25) — English (generated): to stop
+  - gloss: שָׁחַת: שַׁחֵת֙ (JOS 22:33) — English (generated): to destroy
+  - gloss: רְאוּבֵנִי: רֽאוּבֵנִ֖י (JOS 22:1) — English (generated): the Reubenites
+  - gloss: גָּדִי: גָּדִ֑י (JOS 22:1) — English (generated): the Gadites
+  - NT: JOS 22:16 *Untröiji*
+  - answers: breach of faith, rebel, rebel, heads, land of possession, turn away, turn away, turn away, replica, accountable, stop, destroy, Reubenites, Gadites
+  - Formen dieses Kapitels.
+  - agent:jos022, 2026-11-15
+- **`term:jos023_forms`** בּוֹא → **betaget; zueteilt; wägstosse; abwichet; verschwägeret; verchehret; vertribt; chriegt; gchriegt; entbrönne; Geisle; Dörn** [medium, decided, by-rule]
+  - gloss: בּוֹא: בָּ֖א (JOS 23:1) — English (generated): well along
+  - gloss: נָפַל: הִפַּ֨לְתִּי (JOS 23:4) — English (generated): I have allotted
+  - gloss: הָדַף: יֶהְדֳּפֵ֣ (JOS 23:5) — English (generated): will push them
+  - gloss: סוּר: סוּר (JOS 23:6) — English (generated): turning aside
+  - gloss: חָתַן: הִֽתְחַתַּנְתֶּ֥ם (JOS 23:12) — English (generated): and if you intermarry
+  - gloss: בּוֹא: בָאתֶ֥ם (JOS 23:12) — English (generated): and associate
+  - gloss: יָרַשׁ: הוֹרִ֛ישׁ (JOS 23:13) — English (generated): drive out
+  - gloss: לָחַם: נִּלְחָ֣ם (JOS 23:10) — English (generated): fights
+  - gloss: לָחַם: נִּלְחָ֥ם (JOS 23:3) — English (generated): who fought
+  - gloss: חָרָה: חָרָ֤ה (JOS 23:16) — English (generated): will burn
+  - gloss: שֹׁטֵט: שֹׁטֵ֤ט (JOS 23:13) — English (generated): a scourge
+  - gloss: צְנִינִים: צְנִנִ֣ים (JOS 23:13) — English (generated): and thorns
+  - NT: JOS 23:1 *betaget*
+  - answers: well along, allotted, push out, turning aside, intermarry, associate, drive out, fights, fought, burn, scourge, thorns
+  - Formen dieses Kapitels.
+  - agent:jos023, 2026-11-15
+- **`term:jos024_forms`** עוֹלָם → **urdänklech; abgmüeit; Ölböim; wählet; usgwählt; Satzig; verlöugnet; hundertzä; Gaasch; ufebbracht; Silberstück; Schilfmeer; öiji** [medium, decided, by-rule]
+  - gloss: עוֹלָם: עוֹלָ֔ם (JOS 24:2) — English (generated): Long ago
+  - gloss: יָגֵעַ: יָגַ֣עְתָּ (JOS 24:13) — English (generated): toil
+  - gloss: זַיִת: זֵיתִים֙ (JOS 24:13) — English (generated): and olive groves
+  - gloss: בָּחַר: בַּחֲר֨וּ (JOS 24:15) — English (generated): then choose
+  - gloss: בָּחַר: בְּחַרְתֶּ֥ם (JOS 24:22) — English (generated): have chosen
+  - gloss: חֹק: חֹ֥ק (JOS 24:25) — English (generated): a statute
+  - gloss: כָּחַשׁ: תְּכַחֲשׁ֖וּ (JOS 24:27) — English (generated): deny
+  - gloss: מֵאָה: מֵאָ֥ה (JOS 24:29) — English (generated): of
+  - gloss: גַּעַשׁ: גָּֽעַשׁ (JOS 24:30) — English (generated): Gaash
+  - gloss: עָלָה: הֶעֱל֨וּ (JOS 24:32) — English (generated): had brought up
+  - gloss: קְשִׂיטָה: קְשִׂיטָ֑ה (JOS 24:32) — English (generated): pieces of silver
+  - gloss: יָם: יַם (JOS 24:6) — English (generated): as far as the Red Sea
+  - gloss: עַיִן: עֵינֵי (JOS 24:7) — English (generated): Your very eyes
+  - NT: JOS 24:2 *urdänklecher*
+  - answers: ancient, toil, olive groves, choose, chosen, statute, deny, 110, Gaash, brought up, pieces of silver, Red Sea, your
+  - Formen dieses Kapitels.
+  - agent:jos024, 2026-11-15
+- **`term:jdg001_forms`** אֲדֹנִי בֶזֶק → **Adoni-Besek; Besek; Zeeche; Brösmeli; vergolte; Palmestadt; Keniter; Zefat; Wachte; Kitron; Nahalol; Akko; Achlab; Helba; Afik; Ascheriter; Har-Heres; Schaalbim; Sela** [medium, decided, by-rule]
+  - gloss: אֲדֹנִי בֶזֶק: אֲדֹנִ֥י (JDG 1:5) — English (generated): Adoni bezek
+  - gloss: בֶּזֶק: בֶ֔זֶק (JDG 1:4) — English (generated): at Bezek
+  - gloss: רֶגֶל: רַגְלָֽי (JDG 1:6) — English (generated): and big toes
+  - gloss: לָקַט: מְלַקְּטִים֙ (JDG 1:7) — English (generated): have gathered
+  - gloss: שָׁלֵם: שִׁלַּם (JDG 1:7) — English (generated): has repaid
+  - gloss: תָּמָר: תְּמָרִים֙ (JDG 1:16) — English (generated): of Palms
+  - gloss: קֵינִי: קֵינִי֩ (JDG 1:16) — English (generated): the Kenite
+  - gloss: צְפַת: צְפַ֑ת (JDG 1:17) — English (generated): in Zephath
+  - gloss: שָׁמַר: שֹּׁ֣מְרִ֔ים (JDG 1:24) — English (generated): and when the spies
+  - gloss: קִטְרוֹן: קִטְר֔וֹן (JDG 1:30) — English (generated): of Kitron
+  - gloss: נַהֲלֹל: נַהֲלֹ֑ל (JDG 1:30) — English (generated): Nahalol
+  - gloss: עַכּוֹ: עַכּ֔וֹ (JDG 1:31) — English (generated): of Acco
+  - gloss: אַחְלָב: אַחְלָ֤ב (JDG 1:31) — English (generated): Ahlab
+  - gloss: חֶלְבָּה: חֶלְבָּ֔ה (JDG 1:31) — English (generated): Helbah
+  - gloss: אֲפִיק: אֲפִ֖יק (JDG 1:31) — English (generated): Aphik
+  - gloss: אָשֵׁרִי: אָ֣שֵׁרִ֔י (JDG 1:32) — English (generated): So the Asherites
+  - gloss: חֶרֶס: חֶ֔רֶס (JDG 1:35) — English (generated): Heres
+  - gloss: שַׁעַלְבִים: שַֽׁעַלְבִ֑ים (JDG 1:35) — English (generated): and Shaalbim
+  - gloss: סֶלַע: סֶּ֖לַע (JDG 1:36) — English (generated): to Sela
+  - NT: JDG 1:7 *vergolte*
+  - answers: Adoni-bezek, Bezek, toes, scraps, repaid, City of Palms, Kenite, Zephath, spies, Kitron, Nahalol, Acco, Ahlab, Helbah, Aphik, Asherites, Mount Heres, Shaalbim, Sela
+  - Formen dieses Kapitels.
+  - agent:jdg001, 2026-11-15
+- **`term:jdg002_forms`** בֹּכִים → **Bochim; usgröibt; Röiber; entla; Baale; abgla; überträtte; innehalte; Timnat-Heres; drangsaliert; vertöubet; Erbarme** [medium, decided, by-rule]
+  - gloss: בֹּכִים: בֹּכִ֑ים (JDG 2:1) — English (generated): Bochim
+  - gloss: שָׁסַס: יָּשֹׁ֖סּוּ (JDG 2:14) — English (generated): of those who plundered
+  - gloss: שָׁסָה: שֹׁסִ֔ים (JDG 2:14)
+  - gloss: שָׁלַח: יְשַׁלַּ֥ח (JDG 2:6) — English (generated): had dismissed
+  - gloss: בַּעַל: בְּעָלִֽים (JDG 2:11) — English (generated): the Baals
+  - gloss: נָפַל: הִפִּ֨ילוּ֙ (JDG 2:19) — English (generated): give up
+  - gloss: עָבַר: עָבְר֜וּ (JDG 2:20) — English (generated): has transgressed
+  - gloss: שָׁמַר: שֹׁמְרִ֣ים (JDG 2:22) — English (generated): will keep
+  - gloss: תִּמְנַת חֶרֶס: תִמְנַת (JDG 2:9) — English (generated): at Timnath heres
+  - gloss: דָּחַק: דֹחֲקֵי (JDG 2:18) — English (generated): and afflicted them
+  - gloss: כָּעַס: יַּכְעִ֖סוּ (JDG 2:12) — English (generated): and provoked
+  - gloss: נָחַם: יִנָּחֵ֤ם (JDG 2:18) — English (generated): was moved to pity
+  - NT: JDG 2:1 *Bochim*
+  - answers: Bochim, plundered, plunderers, dismissed, Baals, give up, transgressed, keep, Timnath-heres, afflicted, provoked, pity
+  - Formen dieses Kapitels.
+  - agent:jdg002, 2026-11-15
+- **`term:jdg003_forms`** כּוּשַׁן רִשְׁעָתַיִם → **Kuschan-Rischatajim; Aram-Naharajim; Ehud; Gera; Benjaminiter; Eglon; Amalekiter; Schamgar; Anat; Stadtfürschte; behinderet; Obergmach; Sässel; Chlinge; Griff; Vorhalle; Chammer; Notdurft; Fürte; Ochsestachel; achtzä; bbodiget** [medium, decided, by-rule]
+  - gloss: כּוּשַׁן רִשְׁעָתַיִם: כּוּשַׁ֣ן (JDG 3:8) — English (generated): of Cushan rishathaim
+  - gloss: אֲרַם נַהֲרַיִם: אֲרַ֣ם (JDG 3:8) — English (generated): of Aram naharaim
+  - gloss: אֵהוּד: אֵה֤וּד (JDG 3:15) — English (generated): Ehud
+  - gloss: גֵּרָא: גֵּרָא֙ (JDG 3:15) — English (generated): of Gera
+  - gloss: יְמִינִי: יְמִינִ֔י (JDG 3:15)
+  - gloss: עֶגְלוֹן: עֶגְל֤וֹן (JDG 3:12) — English (generated): gave Eglon
+  - gloss: עֲמָלֵק: עֲמָלֵ֑ק (JDG 3:13) — English (generated): and Amalekites
+  - gloss: שַׁמְגַּר: שַׁמְגַּ֣ר (JDG 3:31) — English (generated): Shamgar
+  - gloss: עֲנָת: עֲנָ֔ת (JDG 3:31) — English (generated): of Anath
+  - gloss: סֶרֶן: סַרְנֵ֣י (JDG 3:3) — English (generated): rulers
+  - gloss: אִטֵּר: אִטֵּ֖ר (JDG 3:15) — English (generated): a left handed
+  - gloss: עֲלִיָּה: עֲלִיַּ֨ת (JDG 3:20) — English (generated): his upper room
+  - gloss: כִּסֵּא: כִּסֵּֽא (JDG 3:20) — English (generated): seat
+  - gloss: לַהַב: לַּ֗הַב (JDG 3:22) — English (generated): the blade
+  - gloss: נִצָּב: נִּצָּ֜ב (JDG 3:22) — English (generated): the handle
+  - gloss: מִסְדְּרוֹן: מִּסְדְּר֑וֹנָ (JDG 3:23) — English (generated): through the porch
+  - gloss: חֶדֶר: חֲדַ֥ר (JDG 3:24) — English (generated): room
+  - gloss: רֶגֶל: רַגְלָ֖י (JDG 3:24)
+  - gloss: מַעֲבָרָה: מַעְבְּר֤וֹת (JDG 3:28) — English (generated): the fords
+  - gloss: מַלְמֵד: מַלְמַ֖ד (JDG 3:31) — English (generated): with an oxgoad
+  - gloss: שְׁמֹנֶה: שְׁמוֹנֶ֥ה (JDG 3:14) — English (generated): eighteen
+  - gloss: כָּנַע: תִּכָּנַ֤ע (JDG 3:30) — English (generated): was subdued
+  - NT: JDG 3:15 *Ehud*
+  - answers: Cushan-rishathaim, Aram-naharaim, Ehud, Gera, Benjamite, Eglon, Amalekites, Shamgar, Anath, rulers, bound, upper room, seat, blade, handle, porch, room, relieving, fords, oxgoad, eighteen, subdued
+  - Formen dieses Kapitels.
+  - agent:jdg003, 2026-11-15
+- **`term:jdg004_forms`** דְּבוֹרָה → **Debora; Lappidot; Barak; Abinoam; Jabin; Sisera; Haroschet-Hagojim; Kischon; Heber; Hobab; Zaanannim; Jaël; Richterin; Oberbefählshaber; Heerhuufe; Zältpflock; Schläfe; Decki; Schluuch; erschöpft** [medium, decided, by-rule]
+  - gloss: דְּבוֹרָה: דְבוֹרָה֙ (JDG 4:4) — English (generated): Now Deborah
+  - gloss: לַפִּידוֹת: לַפִּיד֑וֹת (JDG 4:4) — English (generated): of Lappidoth
+  - gloss: בָּרָק: בָרָ֣ק (JDG 4:6) — English (generated): Barak
+  - gloss: אֲבִינֹעַם: אֲבִינֹ֔עַם (JDG 4:6) — English (generated): of Abinoam
+  - gloss: יָבִין: יָבִ֣ין (JDG 4:2) — English (generated): of Jabin
+  - gloss: סִיסְרָא: סִֽיסְרָ֔א (JDG 4:2) — English (generated): was Sisera
+  - gloss: חֲרֹשֶׁת הַגֹּויִם: חֲרֹ֥שֶׁת (JDG 4:2) — English (generated): in Harosheth hagoyim
+  - gloss: קִישׁוֹן: קִישׁ֗וֹן (JDG 4:7) — English (generated): Kishon
+  - gloss: חֶבֶר: חֶ֤בֶר (JDG 4:11) — English (generated): Now Heber
+  - gloss: חֹבָב: חֹבָ֖ב (JDG 4:11) — English (generated): of Hobab
+  - gloss: צַעֲנַנִּים: צַעֲנַנִּ֖ים (JDG 4:11) — English (generated): of Zaanannim
+  - gloss: יָעֵל: יָעֵ֔ל (JDG 4:17) — English (generated): of Jael
+  - gloss: שָׁפַט: שֹׁפְטָ֥ה (JDG 4:4) — English (generated): was judging
+  - gloss: שַׂר: שַׂר (JDG 4:2) — English (generated): The commander
+  - gloss: הָמוֹן: הֲמוֹנ֑ (JDG 4:7) — English (generated): and his troops
+  - gloss: יָתֵד: יְתַ֨ד (JDG 4:21) — English (generated): peg
+  - gloss: רַקָּה: רַקָּת֔ (JDG 4:21) — English (generated): through his temple
+  - gloss: שְׂמִיכָה: שְּׂמִיכָֽה (JDG 4:18) — English (generated): with a blanket
+  - gloss: נֹאד: נֹ֧אוד (JDG 4:19) — English (generated): a container
+  - gloss: עיף: יָּ֖עַף (JDG 4:21) — English (generated): from exhaustion
+  - NT: JDG 4:4 *Debora*
+  - answers: Deborah, Lappidoth, Barak, Abinoam, Jabin, Sisera, Harosheth-hagoyim, Kishon, Heber, Hobab, Zaanannim, Jael, judging, commander, troops, tent peg, temple, rug, skin, exhausted
+  - Formen dieses Kapitels.
+  - agent:jdg004, 2026-11-15
+- **`term:jdg005_forms`** מֵרוֹז → **Meros; Füehrer; frywillig; Eselinne; Tränkene; Befählshaber; Pfärch; furtgschwemmt; Hüef; galoppiere; zerschmetteret; dürbohrt; Gitter; Fürschtinne; bstickt; zämebbroche** [medium, decided, by-rule]
+  - gloss: מֵרוֹז: מֵר֗וֹז (JDG 5:23) — English (generated): Meroz
+  - gloss: פֶּרַע: פְּרָעוֹת֙ (JDG 5:2) — English (generated): When the princes
+  - gloss: נָדַב: הִתְנַדֵּ֖ב (JDG 5:2) — English (generated): volunteer
+  - gloss: אָתוֹן: אֲתֹנ֨וֹת (JDG 5:10) — English (generated): donkeys
+  - gloss: מַשְׁאָב: מַשְׁאַבִּ֔ים (JDG 5:11) — English (generated): the watering places
+  - gloss: חָקַק: מְחֹ֣קְקִ֔ים (JDG 5:14) — English (generated): The commanders
+  - gloss: מִשְׁפְּתַיִם: מִּשְׁפְּתַ֔יִם (JDG 5:16) — English (generated): the sheepfolds
+  - gloss: גָּרַף: גְּרָפָ֔ (JDG 5:21) — English (generated): swept them away
+  - gloss: עָקֵב: עִקְּבֵי (JDG 5:22) — English (generated): the hooves
+  - gloss: דַּהֲרָה: דַּהֲר֖וֹת (JDG 5:22) — English (generated): the mad galloping
+  - gloss: מָחַק: מָחֲקָ֣ה (JDG 5:26) — English (generated): and crushed
+  - gloss: חָלַף: חָלְפָ֖ה (JDG 5:26) — English (generated): and pierced
+  - gloss: אֶשְׁנָב: אֶשְׁנָ֑ב (JDG 5:28) — English (generated): the lattice
+  - gloss: שָׂרָה: שָׂרוֹתֶ֖י (JDG 5:29) — English (generated): ladies
+  - gloss: רִקְמָה: רִקְמָ֑ה (JDG 5:30) — English (generated): of embroidered
+  - gloss: כָּרַע: כָּרַ֥ע (JDG 5:27) — English (generated): he collapsed
+  - NT: JDG 5:23 *Meros*
+  - answers: Meroz, leaders, willingly, donkeys, watering places, commanders, sheepfolds, swept away, hoofs, galloping, crushed, pierced, lattice, ladies, embroidered, collapsed
+  - Formen dieses Kapitels.
+  - agent:jdg005, 2026-11-15
+- **`term:jdg006_forms`** מִדְיָן → **Midianiter; Joasch; Abiesriter; Ofra; Gideon; Jerubbaal; Jesreel; Schlüüf; Fluchtburg; Trotte; Brüeje; Ascherapfahl; Gitzi; Fäll; Tenn; Tou** [medium, decided, by-rule]
+  - gloss: מִדְיָן: מִדְיָ֜ן (JDG 6:2) — English (generated): of Midian
+  - gloss: יוֹאָשׁ: יוֹאָ֖שׁ (JDG 6:11) — English (generated): belonged to Joash
+  - gloss: אָב: אֲבִ֣י (JDG 6:11) — English (generated): the Abiezrite
+  - gloss: עׇפְרָה: עָפְרָ֔ה (JDG 6:11) — English (generated): in Ophrah
+  - gloss: גִּדְעוֹן: גִדְע֣וֹן (JDG 6:11) — English (generated): Gideon
+  - gloss: יְרֻבַּעַל: יְרֻבַּ֣עַל (JDG 6:32) — English (generated): Jerubbaal
+  - gloss: יִזְרְעֶאל: יִזְרְעֶֽאל (JDG 6:33) — English (generated): of Jezreel
+  - gloss: מִנְהָרָה: מִּנְהָרוֹת֙ (JDG 6:2) — English (generated): shelters
+  - gloss: מְצָד: מְּצָדֽוֹת (JDG 6:2) — English (generated): and strongholds
+  - gloss: גַּת: גַּ֔ת (JDG 6:11) — English (generated): in a winepress
+  - gloss: מָרָק: מָּרַ֖ק (JDG 6:19) — English (generated): and the broth
+  - gloss: אֲשֵׁרָה: אֲשֵׁרָ֥ה (JDG 6:25) — English (generated): the Asherah pole
+  - gloss: גְּדִי: גְּדִֽי (JDG 6:19) — English (generated): a young goat
+  - gloss: גִּזָּה: גִּזַּ֥ת (JDG 6:37) — English (generated): a fleece
+  - gloss: גֹּרֶן: גֹּ֑רֶן (JDG 6:37) — English (generated): on the threshing floor
+  - gloss: טַל: טַל֩ (JDG 6:37) — English (generated): dew
+  - NT: JDG 6:11 *Ofra*
+  - answers: Midianites, Joash, Abiezrite, Ophrah, Gideon, Jerubbaal, Jezreel, shelters, strongholds, winepress, broth, Asherah pole, young goat, fleece, threshing floor, dew
+  - Formen dieses Kapitels.
+  - agent:jdg006, 2026-11-15
+- **`term:jdg007_forms`** עֵין חֲרֹד → **Harod; Pura; Oreb; Seeb; Bet-Schitta; Zerera; Abel-Mehola; Tabbat; Bet-Bara; läcke; Fackle; Chrüeg; Nachtwach; Dütig; Leib** [medium, decided, by-rule]
+  - gloss: עֵין חֲרֹד: עֵ֣ין (JDG 7:1) — English (generated): the spring of Harod
+  - gloss: פֻּרָה: פֻרָ֥ה (JDG 7:10) — English (generated): Purah
+  - gloss: עֹרֵב: עֹרֵ֣ב (JDG 7:25) — English (generated): Oreb
+  - gloss: זְאֵב: זְאֵ֗ב (JDG 7:25) — English (generated): and Zeeb
+  - gloss: בֵּית הַשִּׁטָּה: בֵּ֤ית (JDG 7:22) — English (generated): Beth shittah
+  - gloss: צְרֵרָה: צְֽרֵרָ֔תָ (JDG 7:22) — English (generated): toward Zererah
+  - gloss: אָבֵל מְחוֹלָה: אָבֵ֥ל (JDG 7:22) — English (generated): of Abel meholah
+  - gloss: טַבָּת: טַבָּֽת (JDG 7:22) — English (generated): Tabbath
+  - gloss: בֵּית בָּרָה: בֵּ֥ית (JDG 7:24) — English (generated): Beth barah
+  - gloss: לָקַק: יָלֹק֩ (JDG 7:5) — English (generated): lap
+  - gloss: לַפִּיד: לַפִּדִ֖ים (JDG 7:16) — English (generated): a torch
+  - gloss: כַּד: כַדִּ֣ים (JDG 7:16) — English (generated): jar
+  - gloss: אַשְׁמֹרֶת: אַשְׁמֹ֣רֶת (JDG 7:19) — English (generated): watch
+  - gloss: שֶׁבֶר: שִׁבְר֖ (JDG 7:15) — English (generated): and its interpretation
+  - gloss: צְלִיל: צְלִ֜יל (JDG 7:13) — English (generated): a loaf
+  - NT: JDG 7:25 *Oreb*
+  - answers: Harod, Purah, Oreb, Zeeb, Beth-shittah, Zererah, Abel-meholah, Tabbath, Beth-barah, lap, torches, jars, watch, interpretation, loaf
+  - Formen dieses Kapitels.
+  - agent:jdg007, 2026-11-15
+- **`term:jdg008_forms`** זֶבַח → **Sebach; Zalmunna; Sukkot; Penuel; Karkor; Nobach; Jogboha; Heres; Jeter; Abieser; Baal-Berit; Nacheläsete; Disle; Halbmönd; Nasering; Ohrgheich; Näbefrou; Grossuhn** [medium, decided, by-rule]
+  - gloss: זֶבַח: זֶ֥בַח (JDG 8:5) — English (generated): Zebah
+  - gloss: צַלְמֻנָּע: צַלְמֻנָּ֖ע (JDG 8:5) — English (generated): and Zalmunna
+  - gloss: סֻכּוֹת: סֻכּ֔וֹת (JDG 8:5) — English (generated): of Succoth
+  - gloss: פְּנוּאֵל: פְּנוּאֵ֔ל (JDG 8:8) — English (generated): to Penuel
+  - gloss: קַרְקֹר: קַּרְקֹ֗ר (JDG 8:10) — English (generated): were in Karkor
+  - gloss: נֹבַח: נֹ֖בַח (JDG 8:11) — English (generated): of Nobah
+  - gloss: יׇגְבְּהָה: יָגְבֳּהָ֑ה (JDG 8:11) — English (generated): and Jogbehah
+  - gloss: חֶרֶס: חָֽרֶס (JDG 8:13) — English (generated): Heres
+  - gloss: יֶתֶר: יֶ֣תֶר (JDG 8:20) — English (generated): to Jether
+  - gloss: אֲבִיעֶזֶר: אֲבִיעֶֽזֶר (JDG 8:2) — English (generated): of Abiezer
+  - gloss: בַּעַל בְּרִית: בַּ֥עַל (JDG 8:33) — English (generated): Baal berith
+  - gloss: עֹלֵלוֹת: עֹלְל֥וֹת (JDG 8:2) — English (generated): the gleanings
+  - gloss: בַּרְקָנִים: בַּרְקֳנִֽים (JDG 8:7) — English (generated): and briers
+  - gloss: שַׂהֲרֹנִים: שַּׂ֣הֲרֹנִ֔ים (JDG 8:21) — English (generated): the crescent ornaments
+  - gloss: נֶזֶם: נֶ֣זֶם (JDG 8:24) — English (generated): an earring
+  - gloss: נְטִפָה: נְּטִפ֜וֹת (JDG 8:26) — English (generated): the pendants
+  - gloss: פִּלֶגֶשׁ: פִֽילַגְשׁ (JDG 8:31) — English (generated): His concubine
+  - gloss: בֵּן: בֶּן (JDG 8:22) — English (generated): grandson
+  - NT: JDG 8:5 *Sebach*
+  - answers: Zebah, Zalmunna, Succoth, Penuel, Karkor, Nobah, Jogbehah, Heres, Jether, Abiezer, Baal-berith, gleanings, briers, crescent ornaments, earring, pendants, concubine, grandson
+  - Formen dieses Kapitels.
+  - agent:jdg008, 2026-11-15
+- **`term:jdg009_forms`** יוֹתָם → **Jotam; Bet-Millo; Garizim; Beer; Gaal; Ebed; Sebul; Aruma; El-Berit; Zalmon; Tebez; Dornbusch; Gwölb; Burdi; Mülistei; Waffeträger** [medium, decided, by-rule]
+  - gloss: יוֹתָם: יוֹתָ֧ם (JDG 9:5) — English (generated): But Jotham
+  - gloss: בַּיִת: בֵּ֣ית (JDG 9:6) — English (generated): Beth millo
+  - gloss: גְּרִזִים: גְּרִזִ֔ים (JDG 9:7) — English (generated): Gerizim
+  - gloss: בְּאֵר: בְּאֵ֑רָ (JDG 9:21) — English (generated): to Beer
+  - gloss: גַּעַל: גַּ֤עַל (JDG 9:26) — English (generated): Meanwhile Gaal
+  - gloss: עֶבֶד: עֶ֨בֶד֙ (JDG 9:26) — English (generated): of Ebed
+  - gloss: זְבֻל: זְבֻ֣ל (JDG 9:28) — English (generated): and is not Zebul
+  - gloss: אֲרוּמָה: ארוּמָ֑ה (JDG 9:41) — English (generated): in Arumah
+  - gloss: אֵל בְּרִית: אֵ֥ל (JDG 9:46)
+  - gloss: צַלְמוֹן: צַלְמ֗וֹן (JDG 9:48) — English (generated): Zalmon
+  - gloss: תֵּבֵץ: תֵּבֵ֑ץ (JDG 9:50) — English (generated): Thebez
+  - gloss: אָטָד: אָטָ֑ד (JDG 9:14) — English (generated): the thornbush
+  - gloss: צְרִיחַ: צְרִ֔יחַ (JDG 9:46) — English (generated): the inner chamber
+  - gloss: שׂוֹכָה: שׂוֹכַ֣ת (JDG 9:48) — English (generated): a branch
+  - gloss: פֶּלַח: פֶּ֥לַח (JDG 9:53) — English (generated): an upper
+  - gloss: נָשָׂא: נֹשֵׂ֣א (JDG 9:54) — English (generated): his armor bearer
+  - NT: JDG 9:5 *Jotam*
+  - answers: Jotham, Beth-millo, Gerizim, Beer, Gaal, Ebed, Zebul, Arumah, El-berith, Zalmon, Thebez, bramble, stronghold, bundle, millstone, armor-bearer
+  - Formen dieses Kapitels.
+  - agent:jdg009, 2026-11-15
+- **`term:jdg010_forms`** תּוֹלָע → **Tola; Pua; Dodo; Schamir; Jaïr; Gileaditer; Kamon; Maoniter; Eselhengschte; underdrückt** [medium, decided, by-rule]
+  - gloss: תּוֹלָע: תּוֹלָ֧ע (JDG 10:1) — English (generated): Tola
+  - gloss: פּוּאָה: פּוּאָ֛ה (JDG 10:1) — English (generated): of Puah
+  - gloss: דּוֹדוֹ: דּוֹד֖וֹ (JDG 10:1) — English (generated): of Dodo
+  - gloss: שָׁמִיר: שָׁמִ֖יר (JDG 10:1) — English (generated): in Shamir
+  - gloss: יָאִיר: יָאִ֖יר (JDG 10:3) — English (generated): Jair
+  - gloss: גִּלְעָדִי: גִּלְעָדִ֑י (JDG 10:3) — English (generated): the Gileadite
+  - gloss: קָמוֹן: קָמֽוֹן (JDG 10:5) — English (generated): in Kamon
+  - gloss: מָעוֹן: מָע֔וֹן (JDG 10:12) — English (generated): and Maonites
+  - gloss: עַיִר: עֲיָרִ֔ים (JDG 10:4) — English (generated): donkeys
+  - gloss: רָצַץ: יְרֹֽצְצוּ֙ (JDG 10:8) — English (generated): and oppressed
+  - NT: JDG 10:1 *Tola*
+  - answers: Tola, Puah, Dodo, Shamir, Jair, Gileadite, Kamon, Maonites, donkeys, oppressed
+  - Formen dieses Kapitels.
+  - agent:jdg010, 2026-11-15
+- **`term:jdg011_forms`** יִפְתָּח → **Jefta; Tob; Kemosch; Minnit; Abel-Keramim; Aafüerer; Bedingige; Reigetanz; Jungfrouschaft; Fründinne** [medium, decided, by-rule]
+  - gloss: יִפְתָּח: יִפְתָּ֣ח (JDG 11:1) — English (generated): Now Jephthah
+  - gloss: טוֹב: ט֑וֹב (JDG 11:3) — English (generated): of Tob
+  - gloss: כְּמוֹשׁ: כְּמ֥וֹשׁ (JDG 11:24) — English (generated): Chemosh
+  - gloss: מִנִּית: מִנִּ֜ית (JDG 11:33) — English (generated): of Minnith
+  - gloss: אָבֵל כְּרָמִים: אָבֵ֣ל (JDG 11:33) — English (generated): Abel keramim
+  - gloss: קָצִין: קָצִ֑ין (JDG 11:6) — English (generated): commander
+  - gloss: דָּבָר: דְּבָרָ֛י (JDG 11:11) — English (generated): his terms
+  - gloss: מְחֹלָה: מְחֹל֑וֹת (JDG 11:34) — English (generated): and dancing
+  - gloss: בְּתוּלִים: בְּתוּלַ֔ (JDG 11:37) — English (generated): my virginity
+  - gloss: רֵעָה: רֵעוֹתָֽ (JDG 11:37) — English (generated): with my friends
+  - NT: JDG 11:1 *Jefta*
+  - answers: Jephthah, Tob, Chemosh, Minnith, Abel-keramim, commander, terms, dancing, virginity, companions
+  - Formen dieses Kapitels.
+  - agent:jdg011, 2026-11-15
+- **`term:jdg012_forms`** צָפוֹן → **Zafon; Flüchtling; Efraimiter; Schibbolet; Sibbolet; Ibzan; Betlehem; Elon; Sebuloniter; Ajalon; Abdon; Hillel; Piratoniter; Piraton** [medium, decided, by-rule]
+  - gloss: צָפוֹן: צָפ֑וֹנָ (JDG 12:1) — English (generated): to Zaphon
+  - gloss: פָּלִיט: פְּלִיטֵ֤י (JDG 12:4) — English (generated): are fugitives
+  - gloss: אֶפְרָתִי: אֶפְרָתִ֥י (JDG 12:5) — English (generated): an Ephraimite
+  - gloss: שִׁבֹּלֶת: שִׁבֹּ֜לֶת (JDG 12:6) — English (generated): Shibboleth
+  - gloss: סִבֹּלֶת: סִבֹּ֗לֶת (JDG 12:6) — English (generated): Sibboleth
+  - gloss: אִבְצָן: אִבְצָ֖ן (JDG 12:8) — English (generated): Ibzan
+  - gloss: בֵּית לֶחֶם: בֵּ֥ית (JDG 12:8) — English (generated): of
+  - gloss: אֵילֹון: אֵיל֖וֹן (JDG 12:11) — English (generated): Elon
+  - gloss: זְבוּלֹנִי: זְּבֽוּלֹנִ֑י (JDG 12:11) — English (generated): the Zebulunite
+  - gloss: אַיָּלוֹן: אַיָּל֖וֹן (JDG 12:12) — English (generated): in Aijalon
+  - gloss: עַבְדּוֹן: עַבְדּ֥וֹן (JDG 12:13) — English (generated): Abdon
+  - gloss: הִלֵּל: הִלֵּ֖ל (JDG 12:13) — English (generated): of Hillel
+  - gloss: פִּרְעָתוֹנִי: פִּרְעָתוֹנִֽי (JDG 12:13) — English (generated): from Pirathon
+  - gloss: פִּרְעָתוֹן: פִרְעָתוֹן֙ (JDG 12:15) — English (generated): at Pirathon
+  - NT: JDG 12:6 *Schibbolet*
+  - answers: Zaphon, fugitives, Ephraimite, Shibboleth, Sibboleth, Ibzan, Bethlehem, Elon, Zebulunite, Aijalon, Abdon, Hillel, Pirathonite, Pirathon
+  - Formen dieses Kapitels.
+  - agent:jdg012, 2026-11-15
+- **`term:jdg013_forms`** צׇרְעָה → **Zora; Daniter; Manoach; Simson; Machane-Dan; Eschtaol; Gottesmaa; Naziräer; Schärmässer; Mueterlyb; Usubers** [medium, decided, by-rule]
+  - gloss: צׇרְעָה: צָּרְעָ֛ה (JDG 13:2) — English (generated): from Zorah
+  - gloss: דָּנִי: דָּנִ֖י (JDG 13:2) — English (generated): of the Danites
+  - gloss: מָנוֹחַ: מָנ֑וֹחַ (JDG 13:2) — English (generated): Manoah
+  - gloss: שִׁמְשׁוֹן: שִׁמְשׁ֑וֹן (JDG 13:24) — English (generated): Samson
+  - gloss: מַחֲנֵה דָן: מַחֲנֵה (JDG 13:25) — English (generated): at Mahaneh dan
+  - gloss: אֶשְׁתָּאֹל: אֶשְׁתָּאֹֽל (JDG 13:25) — English (generated): and Eshtaol
+  - gloss: אִישׁ: אִ֤ישׁ (JDG 13:6) — English (generated): her husband
+  - gloss: נָזִיר: נְזִ֧יר (JDG 13:5) — English (generated): a Nazirite
+  - gloss: מוֹרָה: מוֹרָה֙ (JDG 13:5) — English (generated): razor
+  - gloss: בֶּטֶן: בָּ֑טֶן (JDG 13:5) — English (generated): the womb
+  - gloss: טָמֵא: טָמֵֽא (JDG 13:4) — English (generated): unclean
+  - NT: JDG 13:2 *Zora*
+  - answers: Zorah, Danites, Manoah, Samson, Mahaneh-dan, Eshtaol, man of God, Nazirite, razor, womb, unclean
+  - Formen dieses Kapitels.
+  - agent:jdg013, 2026-11-15
+- **`term:jdg014_forms`** תִּמְנָה → **Timna; Aschkelon; Imbi; Hung; Rätsel; Gspane; Feschtchleider; Hochzytsgsell; Unbeschnittene** [medium, decided, by-rule]
+  - gloss: תִּמְנָה: תִּמְנָ֑תָ (JDG 14:1) — English (generated): to Timnah
+  - gloss: אַשְׁקְלוֹן: אַשְׁקְל֜וֹן (JDG 14:19) — English (generated): to Ashkelon
+  - gloss: דְּבוֹרָה: דְּבוֹרִ֛ים (JDG 14:8) — English (generated): of bees
+  - gloss: דְּבַשׁ: דְבָֽשׁ (JDG 14:8) — English (generated): along with their honey
+  - gloss: חִידָה: חִידָ֑ה (JDG 14:12) — English (generated): a riddle
+  - gloss: מֵרֵעַ: מֵֽרֵעִ֔ים (JDG 14:11) — English (generated): men to accompany him
+  - gloss: חֲלִיפָה: חֲלִפֹ֥ת (JDG 14:12) — English (generated): sets
+  - gloss: רָעָה: רֵעָ֖ה (JDG 14:20) — English (generated): had accompanied
+  - gloss: עָרֵל: עֲרֵלִ֑ים (JDG 14:3) — English (generated): to the uncircumcised
+  - NT: JDG 14:8 *Imbi*
+  - answers: Timnah, Ashkelon, bees, honey, riddle, companions, changes of clothes, best man, uncircumcised
+  - Formen dieses Kapitels.
+  - agent:jdg014, 2026-11-15
+- **`term:jdg015_forms`** שׁוּעָל → **Füchs; Fackle; Schwänz; Chinnbacke; Lechi; Etam; Ramat-Lechi; En-Hakore; Felsspalte; Schwigersuhn; Timniter** [medium, decided, by-rule]
+  - gloss: שׁוּעָל: שׁוּעָלִ֑ים (JDG 15:4) — English (generated): foxes
+  - gloss: לַפִּיד: לַפִּדִ֗ים (JDG 15:4) — English (generated): torches
+  - gloss: זָנָב: זְּנָב֖וֹת (JDG 15:4) — English (generated): of tails
+  - gloss: לְחִי: לְחִֽי (JDG 15:15) — English (generated): jawbone
+  - gloss: לֶחִי: לֶּֽחִי (JDG 15:9) — English (generated): near Lehi
+  - gloss: עֵיטָם: עֵיטָֽם (JDG 15:8) — English (generated): of Etam
+  - gloss: רָמָה: רָ֥מַת (JDG 15:17) — English (generated): Ramath lehi
+  - gloss: עַיִן: עֵ֤ין (JDG 15:19) — English (generated): En hakkore
+  - gloss: סָעִיף: סְעִ֖יף (JDG 15:8) — English (generated): in the cave
+  - gloss: חָתָן: חֲתַ֣ן (JDG 15:6) — English (generated): the son in law
+  - gloss: תִּמְנִי: תִּמְנִ֔י (JDG 15:6) — English (generated): of the Timnite
+  - NT: JDG 15:4 *Füchs*
+  - answers: foxes, torches, tails, jawbone, Lehi, Etam, Ramath-lehi, En-hakkore, cleft, son-in-law, Timnite
+  - Formen dieses Kapitels.
+  - agent:jdg015, 2026-11-15
+- **`term:jdg016_forms`** עַזָּה → **Gaza; Delila; Sorek; Dagon; Stadtfürschte; Sehne; Zöpf; Gwäb; Wäbstuel; Pflock; Süüle** [medium, decided, by-rule]
+  - gloss: עַזָּה: עַזָּ֑תָ (JDG 16:1) — English (generated): to Gaza
+  - gloss: דְּלִילָה: דְּלִילָֽה (JDG 16:4) — English (generated): was Delilah
+  - gloss: שֹׂרֵק: שֹׂרֵ֑ק (JDG 16:4) — English (generated): of Sorek
+  - gloss: דָּגוֹן: דָג֥וֹן (JDG 16:23) — English (generated): Dagon
+  - gloss: סֶרֶן: סַרְנֵ֣י (JDG 16:5) — English (generated): The lords
+  - gloss: יֶתֶר: יְתָרִ֥ים (JDG 16:7) — English (generated): bowstrings
+  - gloss: מַחְלָפֹות: מַחְלְפ֥וֹת (JDG 16:13) — English (generated): braids
+  - gloss: מַסֶּכֶת: מַּסָּֽכֶת (JDG 16:13) — English (generated): the web of a loom
+  - gloss: אֶרֶג: אֶ֖רֶג (JDG 16:14) — English (generated): with the loom
+  - gloss: יָתֵד: יָּתֵ֔ד (JDG 16:14) — English (generated): with a pin
+  - gloss: עַמּוּד: עַמּוּדִֽים (JDG 16:25) — English (generated): the pillars
+  - NT: JDG 16:4 *Delila*
+  - answers: Gaza, Delilah, Sorek, Dagon, lords, bowstrings, braids, web, loom, pin, pillars
+  - Formen dieses Kapitels.
+  - agent:jdg016, 2026-11-15
+- **`term:jdg017_forms`** מִיכָיְהוּ → **Micha; Silberschmid; Husgötter; Gotteshuus; Levit** [medium, decided, by-rule]
+  - gloss: מִיכָיְהוּ: מִיכָֽיְהוּ (JDG 17:1) — English (generated): Micah
+  - gloss: צָרַף: צּוֹרֵ֗ף (JDG 17:4) — English (generated): to a silversmith
+  - gloss: תְּרָפִים: תְרָפִ֔ים (JDG 17:5) — English (generated): and some household idols
+  - gloss: בַּיִת: בֵּ֣ית (JDG 17:5) — English (generated): a shrine
+  - gloss: לֵוִי: לֵוִ֖י (JDG 17:7) — English (generated): Levite
+  - NT: JDG 17:1 *Micha*
+  - answers: Micah, silversmith, household gods, shrine, Levite
+  - Formen dieses Kapitels.
+  - agent:jdg017, 2026-11-15
+- **`term:jdg018_forms`** לַיִשׁ → **Lajisch; Sidonier; Kirjat-Jearim; Machane-Dan; Bet-Rehob; Jonatan; Gerschom; uszspioniere; Stammvatter; jähzornig** [medium, decided, by-rule]
+  - gloss: לַיִשׁ: לָ֑יְשָׁ (JDG 18:7) — English (generated): to Laish
+  - gloss: צִידֹנִי: צִדֹנִ֜ים (JDG 18:7) — English (generated): the Sidonians
+  - gloss: קִרְיַת יְעָרִים: קִרְיַ֥ת (JDG 18:12) — English (generated): at Kiriath jearim
+  - gloss: מַחֲנֵה דָן: מַחֲנֵה (JDG 18:12) — English (generated): Mahaneh dan
+  - gloss: בֵּית רְחֹוב: בֵית (JDG 18:28) — English (generated): Beth rehob
+  - gloss: יְהֹונָתָן: יהוֹנָתָן (JDG 18:30) — English (generated): and Jonathan
+  - gloss: גֵּרְשֹׁם: גֵּרְשֹׁ֨ם (JDG 18:30) — English (generated): Gershom
+  - gloss: רָגַל: רַגֵּ֤ל (JDG 18:2) — English (generated): to spy out
+  - gloss: אָב: אֲבִי (JDG 18:29) — English (generated): their forefather
+  - gloss: מַר: מָ֣רֵי (JDG 18:25) — English (generated): angry
+  - NT: JDG 18:7 *Lajisch*
+  - answers: Laish, Sidonians, Kiriath-jearim, Mahaneh-dan, Beth-rehob, Jonathan, Gershom, spy out, ancestor, angry
+  - Formen dieses Kapitels.
+  - agent:jdg018, 2026-11-15
+- **`term:jdg019_forms`** פִּלֶגֶשׁ → **Nebefrou; Schwigervatter; Schwigersuhn; Jebus; Jebusiter; Gibea; Rama; Benjaminiter; Mässer; Schwelle** [medium, decided, by-rule]
+  - gloss: פִּלֶגֶשׁ: פִילֶ֔גֶשׁ (JDG 19:1) — English (generated): a concubine
+  - gloss: חֹתֵן: חֹֽתְנ (JDG 19:4) — English (generated): His father in law
+  - gloss: חָתָן: חֲתָנ֗ (JDG 19:5) — English (generated): his son in law
+  - gloss: יְבוּס: יְב֔וּס (JDG 19:10) — English (generated): Jebus
+  - gloss: יְבוּסִי: יְבוּסִ֥י (JDG 19:11) — English (generated): Jebusite
+  - gloss: גִּבְעָה: גִּבְעָֽה (JDG 19:12) — English (generated): Gibeah
+  - gloss: רָמָה: רָמָֽה (JDG 19:13) — English (generated): Ramah
+  - gloss: בֵּן: בְּנֵ֥י (JDG 19:16)
+  - gloss: מַאֲכֶלֶת: מַּאֲכֶ֨לֶת֙ (JDG 19:29) — English (generated): a knife
+  - gloss: סַף: סַּֽף (JDG 19:27) — English (generated): the threshold
+  - NT: JDG 19:1 *Nebefrou*
+  - answers: concubine, father-in-law, son-in-law, Jebus, Jebusites, Gibeah, Ramah, Benjamites, knife, threshold
+  - Formen dieses Kapitels.
+  - agent:jdg019, 2026-11-15
+- **`term:jdg020_forms`** מִצְפָּה → **Mizpa; Beerscheba; Gibea; Baal-Tamar; Rimmon; Gidom; Pinchas; Eleasar; linkshändig; Rouchwulche; Hinderhalt** [medium, decided, by-rule]
+  - gloss: מִצְפָּה: מִּצְפָּֽה (JDG 20:1) — English (generated): at Mizpah
+  - gloss: בְּאֵר: בְּאֵ֣ר (JDG 20:1) — English (generated): Beersheba
+  - gloss: גִּבְעָה: גִּבְעָ֨תָ (JDG 20:4) — English (generated): to Gibeah
+  - gloss: בַּעַל תָּמָר: בַ֣עַל (JDG 20:33) — English (generated): at Baal tamar
+  - gloss: רִמּוֹן: רִמּ֔וֹן (JDG 20:45) — English (generated): of Rimmon
+  - gloss: גִּדְעֹם: גִּדְעֹ֔ם (JDG 20:45) — English (generated): Gidom
+  - gloss: פִּינְחָס: פִינְחָס (JDG 20:28) — English (generated): and Phinehas
+  - gloss: אֶלְעָזָר: אֶלְעָזָ֨ר (JDG 20:28) — English (generated): of Eleazar
+  - gloss: אִטֵּר: אִטֵּ֖ר (JDG 20:16) — English (generated): left handers
+  - gloss: מַשְׂאֵת: מַשְׂאַ֥ת (JDG 20:38) — English (generated): cloud
+  - gloss: אָרַב: אֹֽרְבִ֔ים (JDG 20:29) — English (generated): an ambush
+  - NT: JDG 20:1 *Mizpa*
+  - answers: Mizpah, Beersheba, Gibeah, Baal-tamar, Rimmon, Gidom, Phinehas, Eleazar, left-handed, cloud of smoke, ambush
+  - Formen dieses Kapitels.
+  - agent:jdg020, 2026-11-15
+- **`term:jdg021_forms`** יָבֵישׁ → **Jabesch-Gilead; Lebona; Schilo; Tänzerinne; Reigetanz** [medium, decided, by-rule]
+  - gloss: יָבֵישׁ: יָּבֵ֥ישׁ (JDG 21:8) — English (generated): from Jabesh gilead
+  - gloss: לְבוֹנָה: לְבוֹנָֽה (JDG 21:19) — English (generated): of Lebonah
+  - gloss: שִׁלֹה: שִׁלֹ֔ה (JDG 21:12) — English (generated): at Shiloh
+  - gloss: חוּל: מְּחֹלְל֖וֹת (JDG 21:23) — English (generated): the dancers
+  - gloss: מְחֹלָה: מְּחֹלוֹת֒ (JDG 21:21) — English (generated): their dances
+  - NT: JDG 21:8 *Jabesch-Gilead*
+  - answers: Jabesh-gilead, Lebonah, Shiloh, dancers, dances
+  - Formen dieses Kapitels.
+  - agent:jdg021, 2026-11-15
+- **`term:1sa001_forms`** אֶלְקָנָה → **Elkana; Hanna; Peninna; Ramatajim-Zofim; Hofni; Rivalin; Schärmässer; entwöhnt** [medium, decided, by-rule]
+  - gloss: אֶלְקָנָה: אֶ֠לְקָנָה (1SA 1:1) — English (generated): Elkanah
+  - gloss: חַנָּה: חַנָּ֔ה (1SA 1:2) — English (generated): Hannah
+  - gloss: פְּנִנָּה: פְּנִנָּ֑ה (1SA 1:2) — English (generated): Peninnah
+  - gloss: רָמָה: רָמָתַ֛יִם (1SA 1:1) — English (generated): Ramathaim zophim
+  - gloss: חׇפְנִי: חָפְנִי֙ (1SA 1:3) — English (generated): Hophni
+  - gloss: צָרָה: צָֽרָתָ (1SA 1:6) — English (generated): her rival
+  - gloss: מוֹרָה: מוֹרָ֖ה (1SA 1:11) — English (generated): razor
+  - gloss: גָּמַל: יִגָּמֵ֤ל (1SA 1:22) — English (generated): is weaned
+  - NT: 1SA 1:1 *Elkana*
+  - answers: Elkanah, Hannah, Peninnah, Ramathaim-zophim, Hophni, rival, razor, weaned
+  - Formen dieses Kapitels.
+  - agent:1sa001, 2026-11-15
+- **`term:1sa002_forms`** שְׁאוֹל → **Toterych; Horn; Gable; Zinke; Becki; Chessel; Hafe; Obergwand; Prieschterämter; Röucherwärch** [medium, decided, by-rule]
+  - gloss: שְׁאוֹל: שְׁא֖וֹל (1SA 2:6) — English (generated): down to Sheol
+  - gloss: קֶרֶן: קַרְנִ֖ (1SA 2:1) — English (generated): my horn
+  - gloss: מַזְלֵג: מַּזְלֵ֛ג (1SA 2:13) — English (generated): meat fork
+  - gloss: שֵׁן: שִּׁנַּ֖יִם (1SA 2:13)
+  - gloss: כִּיֹּור: כִּיּ֜וֹר (1SA 2:14) — English (generated): into the pan
+  - gloss: דּוּד: דּ֗וּד (1SA 2:14) — English (generated): kettle
+  - gloss: פָּרוּר: פָּר֔וּר (1SA 2:14) — English (generated): cooking pot
+  - gloss: מְעִיל: מְעִ֤יל (1SA 2:19) — English (generated): robe
+  - gloss: כְּהֻנָּה: כְּהֻנּ֖וֹת (1SA 2:36) — English (generated): priestly office
+  - gloss: קְטֹרֶת: קְטֹ֛רֶת (1SA 2:28) — English (generated): incense
+  - NT: 1SA 2:6 *Toterych*
+  - answers: Sheol, horn, fork, prongs, pan, kettle, pot, robe, priestly office, incense
+  - Formen dieses Kapitels.
+  - agent:1sa002, 2026-11-15
+- **`term:1sa003_forms`** נֵר → **Lampe; Vision; gälle; Beerscheba** [medium, decided, by-rule]
+  - gloss: נֵר: נֵ֤ר (1SA 3:3) — English (generated): the lamp
+  - gloss: מַרְאָה: מַּרְאָ֖ה (1SA 3:15) — English (generated): the vision
+  - gloss: צָלַל: תְּצִלֶּ֖ינָה (1SA 3:11) — English (generated): will tingle
+  - gloss: בְּאֵר: בְּאֵ֣ר (1SA 3:20) — English (generated): Beersheba
+  - NT: 1SA 3:3 *Lampe*
+  - answers: lamp, vision, tingle, Beersheba
+  - Formen dieses Kapitels.
+  - agent:1sa003, 2026-11-15
+- **`term:1sa004_forms`** אֶבֶן הָעֵזֶר → **Eben-Eser; Afek; Ikabod; Schlachtlinie; Freudegschrei; Gnick** [medium, decided, by-rule]
+  - gloss: אֶבֶן הָעֵזֶר: הָ (1SA 4:1)
+  - gloss: אֲפֵק: אֲפֵֽק (1SA 4:1) — English (generated): at Aphek
+  - gloss: אִיכָבוֹד: אִֽי (1SA 4:21) — English (generated): Ichabod
+  - gloss: מַעֲרָכָה: מַּ֣עֲרָכָ֔ה (1SA 4:12) — English (generated): from the battle line
+  - gloss: תְּרוּעָה: תְּרוּעָ֣ה (1SA 4:5) — English (generated): such a great
+  - gloss: מַפְרֶקֶת: מַפְרַקְתּ (1SA 4:18) — English (generated): his neck
+  - NT: 1SA 4:1 *Eben-Eser*
+  - answers: Ebenezer, Aphek, Ichabod, battle line, great shout, neck
+  - Formen dieses Kapitels.
+  - agent:1sa004, 2026-11-15
+- **`term:1sa005_forms`** אַשְׁדּוֹד → **Aschdod; Dagon; Ekron; Ekroniter; Gschwür; Rumpf** [medium, decided, by-rule]
+  - gloss: אַשְׁדּוֹד: אַשְׁדּֽוֹדָ (1SA 5:1) — English (generated): to Ashdod
+  - gloss: דָּגוֹן: דָּג֑וֹן (1SA 5:2) — English (generated): of Dagon
+  - gloss: עֶקְרוֹן: עֶקְר֑וֹן (1SA 5:10) — English (generated): to Ekron
+  - gloss: עֶקְרוֹנִי: עֶקְרֹנִ֜ים (1SA 5:10) — English (generated): the Ekronites
+  - gloss: טְחֹרִים: טְּחֹרִ֔ים (1SA 5:6) — English (generated): with tumors
+  - gloss: דָּגוֹן: דָּג֖וֹן (1SA 5:4) — English (generated): was Dagon
+  - NT: 1SA 5:1 *Aschdod*
+  - answers: Ashdod, Dagon, Ekron, Ekronites, tumors, torso
+  - Formen dieses Kapitels.
+  - agent:1sa005, 2026-11-15
+- **`term:1sa006_forms`** אָשָׁם → **Schuldopfer; Müüs; Milchchüe; Chälber; Chischtli; Wahrsäger; Bet-Schemesch; Aschkelon; Kirjat-Jearim** [medium, decided, by-rule]
+  - gloss: אָשָׁם: אָשָׁ֑ם (1SA 6:3) — English (generated): with a guilt offering
+  - gloss: עַכְבָּר: עַכְבְּרֵ֣י (1SA 6:4) — English (generated): rats
+  - gloss: פָּרָה: פָרוֹת֙ (1SA 6:7) — English (generated): cows
+  - gloss: בֵּן: בְּנֵי (1SA 6:7) — English (generated): but take their calves
+  - gloss: אַרְגַּז: אַרְגַּ֖ז (1SA 6:8) — English (generated): in a chest
+  - gloss: קָסַם: קֹּֽסְמִים֙ (1SA 6:2) — English (generated): and diviners
+  - gloss: בֵּית שֶׁמֶשׁ: בֵּ֣ית (1SA 6:9) — English (generated): toward Beth shemesh
+  - gloss: אַשְׁקְלוֹן: אַשְׁקְל֣וֹן (1SA 6:17) — English (generated): Ashkelon
+  - gloss: קִרְיַת יְעָרִים: קִרְיַת (1SA 6:21) — English (generated): of Kiriath jearim
+  - NT: 1SA 6:3 *Schuldopfer*
+  - answers: guilt offering, mice, milk cows, calves, chest, diviners, Beth-shemesh, Ashkelon, Kiriath-jearim
+  - Formen dieses Kapitels.
+  - agent:1sa006, 2026-11-15
+- **`term:1sa007_forms`** אֲבִינָדָב → **Abinadab; Bet-Kar; Schen; Eben-Eser; Milchlämmli; alleini** [medium, decided, by-rule]
+  - gloss: אֲבִינָדָב: אֲבִינָדָ֖ב (1SA 7:1) — English (generated): Abinadab s
+  - gloss: בֵּית כָּר: בֵ֥ית (1SA 7:11) — English (generated): an area below Beth car
+  - gloss: שֵׁן: שֵּׁ֔ן (1SA 7:12) — English (generated): and Shen
+  - gloss: אֶבֶן הָעֵזֶר: אֶ֣בֶן (1SA 7:12) — English (generated): stone
+  - gloss: טָלֶה: טְלֵ֤ה (1SA 7:9) — English (generated): lamb
+  - gloss: לְ: לְ (1SA 7:3)
+  - NT: 1SA 7:1 *Abinadab*
+  - answers: Abinadab, Beth-car, Shen, Ebenezer, suckling lamb, alone
+  - Formen dieses Kapitels.
+  - agent:1sa007, 2026-11-15
+- **`term:1sa008_forms`** יוֹאֵל → **Joel; Abija; Bstächigsgäld; Salbimischere; Chöchine; Beckinne; Hofmanne; Zähnt** [medium, decided, by-rule]
+  - gloss: יוֹאֵל: יוֹאֵ֔ל (1SA 8:2) — English (generated): Joel
+  - gloss: אֲבִיָּה: אֲבִיָּ֑ה (1SA 8:2) — English (generated): was Abijah
+  - gloss: שֹׁחַד: שֹׁ֔חַד (1SA 8:3) — English (generated): bribes
+  - gloss: רַקָּח: רַקָּח֥וֹת (1SA 8:13) — English (generated): perfumers
+  - gloss: טַבָּחָה: טַבָּח֖וֹת (1SA 8:13) — English (generated): cooks
+  - gloss: אָפָה: אֹפֽוֹת (1SA 8:13) — English (generated): and bakers
+  - gloss: סָרִיס: סָרִיסָ֖י (1SA 8:15) — English (generated): to his officials
+  - gloss: עָשַׂר: יַעְשֹׂ֑ר (1SA 8:15) — English (generated): He will take a tenth
+  - NT: 1SA 8:2 *Joel*
+  - answers: Joel, Abijah, bribe, perfumers, cooks, bakers, officials, tenth
+  - Formen dieses Kapitels.
+  - agent:1sa008, 2026-11-15
+- **`term:1sa009_forms`** קִישׁ → **Kisch; Abiel; Zeror; Bechorat; Afiach; Saul; Schalischa; Schaalim; Zuf; Seher; Opferhöchi; Eselinne; Schänkel** [medium, decided, by-rule]
+  - gloss: קִישׁ: קִ֣ישׁ (1SA 9:1) — English (generated): was Kish
+  - gloss: אֲבִיאֵל: אֲבִיאֵ֞ל (1SA 9:1) — English (generated): of Abiel
+  - gloss: צְרוֹר: צְר֧וֹר (1SA 9:1) — English (generated): of Zeror
+  - gloss: בְּכוֹרַת: בְּכוֹרַ֛ת (1SA 9:1) — English (generated): of Becorath
+  - gloss: אֲפִיחַ: אֲפִ֖יחַ (1SA 9:1) — English (generated): of Aphiah
+  - gloss: שָׁאוּל: שָׁאוּל֙ (1SA 9:2) — English (generated): Saul
+  - gloss: שָׁלִשָׁה: שָׁלִ֖שָׁה (1SA 9:4) — English (generated): of Shalishah
+  - gloss: שַׁעֲלִים: שַׁעֲלִים֙ (1SA 9:4) — English (generated): of Shaalim
+  - gloss: צוּף: צ֔וּף (1SA 9:5) — English (generated): of Zuph
+  - gloss: רֹאֶה: רֹאֶ֑ה (1SA 9:9) — English (generated): the seer
+  - gloss: בָּמָה: בָּמָֽה (1SA 9:12) — English (generated): on the high place
+  - gloss: אָתוֹן: אֲתֹנ֔וֹת (1SA 9:3) — English (generated): One day the donkeys
+  - gloss: שׁוֹק: שּׁ֨וֹק (1SA 9:24) — English (generated): the leg
+  - NT: 1SA 9:2 *Saul*
+  - answers: Kish, Abiel, Zeror, Becorath, Aphiah, Saul, Shalishah, Shaalim, Zuph, seer, high place, donkeys, leg
+  - Formen dieses Kapitels.
+  - agent:1sa009, 2026-11-15
+- **`term:1sa010_forms`** פַּךְ → **Ölkrueg; Zelzach; Rahel; Tabor; Gitzi; Tamburin; Zither; Unggle; Matri; Sprichwort** [medium, decided, by-rule]
+  - gloss: פַּךְ: פַּ֥ךְ (1SA 10:1) — English (generated): a flask
+  - gloss: צֶלְצַח: צֶלְצַ֑ח (1SA 10:2) — English (generated): in Zelzah
+  - gloss: רָחֵל: רָחֵ֛ל (1SA 10:2) — English (generated): Rachel s
+  - gloss: תָּבוֹר: תָּב֔וֹר (1SA 10:3) — English (generated): of Tabor
+  - gloss: גְּדִי: גְדָיִ֗ים (1SA 10:3) — English (generated): young goats
+  - gloss: תֹּף: תֹף֙ (1SA 10:5) — English (generated): tambourines
+  - gloss: כִּנּוֹר: כִנּ֔וֹר (1SA 10:5) — English (generated): and lyres
+  - gloss: דּוֹד: דּ֨וֹד (1SA 10:14) — English (generated): uncle
+  - gloss: מַטְרִי: מַּטְרִ֑י (1SA 10:21) — English (generated): of Matri
+  - gloss: מָשָׁל: מָשָׁ֔ל (1SA 10:12) — English (generated): a proverb
+  - NT: 1SA 10:1 *Ölkrueg*
+  - answers: flask of oil, Zelzah, Rachel, Tabor, young goats, tambourine, lyre, uncle, Matrite, proverb
+  - Formen dieses Kapitels.
+  - agent:1sa010, 2026-11-15
+- **`term:1sa011_forms`** נָחָשׁ → **Nahasch; Jabesch; Besek; Abteilige; Mittagshitz** [medium, decided, by-rule]
+  - gloss: נָחָשׁ: נָחָשׁ֙ (1SA 11:1) — English (generated): Then Nahash
+  - gloss: יָבֵישׁ: יָבֵישׁ֙ (1SA 11:1) — English (generated): of Jabesh
+  - gloss: בֶּזֶק: בָ֑זֶק (1SA 11:8) — English (generated): at Bezek
+  - gloss: רֹאשׁ: רָאשִׁים֒ (1SA 11:11) — English (generated): divisions
+  - gloss: חמם: חֹ֣ם (1SA 11:11) — English (generated): the hottest part
+  - NT: 1SA 11:1 *Nahasch*
+  - answers: Nahash, Jabesh, Bezek, divisions, heat of the day
+  - Formen dieses Kapitels.
+  - agent:1sa011, 2026-11-15
+- **`term:1sa012_forms`** בְּדָן → **Bedan; Jerubbaal; Jefta; Rächtstate; nüütig** [medium, decided, by-rule]
+  - gloss: בְּדָן: בְּדָ֔ן (1SA 12:11) — English (generated): Barak
+  - gloss: יְרֻבַּעַל: יְרֻבַּ֣עַל (1SA 12:11) — English (generated): Jerubbaal
+  - gloss: יִפְתָּח: יִפְתָּ֖ח (1SA 12:11) — English (generated): Jephthah
+  - gloss: צְדָקָה: צִדְק֣וֹת (1SA 12:7) — English (generated): the righteous acts
+  - gloss: תֹּהוּ: תֹ֥הוּ (1SA 12:21) — English (generated): worthless
+  - NT: 1SA 12:11 *Bedan*
+  - answers: Bedan, Jerubbaal, Jephthah, righteous acts, empty
+  - Formen dieses Kapitels.
+  - agent:1sa012, 2026-11-15
+- **`term:1sa013_forms`** מִכְמָשׂ → **Michmas; Geba; Bet-Awen; Schual; Zeboim-Tal; Pim; Pfluegyse; Haue; Grabchammere; Plünderer** [medium, decided, by-rule]
+  - gloss: מִכְמָשׂ: מִכְמָשׂ֙ (1SA 13:2) — English (generated): at Michmash
+  - gloss: גֶּבַע: גֶ֔בַע (1SA 13:3) — English (generated): at Geba
+  - gloss: בֵּית אָוֶן: בֵּ֥ית (1SA 13:5) — English (generated): of Beth aven
+  - gloss: שׁוּעָל: שׁוּעָֽל (1SA 13:17) — English (generated): of Shual
+  - gloss: גַּיְא: גֵּ֥י (1SA 13:18) — English (generated): the Valley
+  - gloss: פִּים: פִ֗ים (1SA 13:21) — English (generated): a pim
+  - gloss: מַחֲרֶשֶׁת: מַחֲרַשְׁתּ֤ (1SA 13:20) — English (generated): their plowshares
+  - gloss: אֵת: אֵת (1SA 13:20)
+  - gloss: צְרִיחַ: צְּרִחִ֖ים (1SA 13:6) — English (generated): and in cellars
+  - gloss: מַשְׁחִית: מַּשְׁחִ֛ית (1SA 13:17) — English (generated): And raiders
+  - NT: 1SA 13:2 *Michmas*
+  - answers: Michmash, Geba, Beth-aven, Shual, Valley of Zeboim, pim, plowshare, mattock, tombs, raiders
+  - Formen dieses Kapitels.
+  - agent:1sa013, 2026-11-15
+- **`term:1sa014_forms`** מִגְרוֹן → **Migron; Bozez; Senne; Ahija; Ikabod; Ischwi; Malkischua; Merab; Michal; Ahinoam; Ahimaaz; Abner; Abiel; Zoba; Waffeträger; Felszahn; Honigwabe** [medium, decided, by-rule]
+  - gloss: מִגְרוֹן: מִגְר֑וֹן (1SA 14:2) — English (generated): in Migron
+  - gloss: בּוֹצֵץ: בּוֹצֵ֔ץ (1SA 14:4) — English (generated): Bozez
+  - gloss: סֶנֶּה: סֶֽנֶּה (1SA 14:4) — English (generated): Seneh
+  - gloss: אֲחִיָּה: אֲחִיָּ֣ה (1SA 14:3) — English (generated): including Ahijah
+  - gloss: אִיכָבוֹד: אִיכָב֣וֹד (1SA 14:3) — English (generated): of Ichabod s
+  - gloss: יִשְׁוִי: יִשְׁוִ֖י (1SA 14:49) — English (generated): Ishvi
+  - gloss: מַלְכִּי שׁוּעַ: מַלְכִּי (1SA 14:49) — English (generated): and Malchishua
+  - gloss: מֵרָב: מֵרַ֔ב (1SA 14:49) — English (generated): Merab
+  - gloss: מִיכַל: מִיכַֽל (1SA 14:49) — English (generated): and Michal
+  - gloss: אֲחִינֹעַם: אֲחִינֹ֖עַם (1SA 14:50) — English (generated): was Ahinoam
+  - gloss: אֲחִימַעַץ: אֲחִימָ֑עַץ (1SA 14:50) — English (generated): of Ahimaaz
+  - gloss: אַבְנֵר: אֲבִינֵ֔ר (1SA 14:50) — English (generated): was Abner
+  - gloss: אֲבִיאֵל: אֲבִיאֵֽל (1SA 14:51) — English (generated): of Abiel
+  - gloss: צוֹבָא: צוֹבָה֙ (1SA 14:47) — English (generated): of Zobah
+  - gloss: נָשָׂא: נֹשֵׂ֣א (1SA 14:1) — English (generated): bearing
+  - gloss: שֵׁן: שֵׁן (1SA 14:4) — English (generated): Now there were cliffs
+  - gloss: יַעְרָה: יַעְרַ֣ת (1SA 14:27) — English (generated): it into the honeycomb
+  - NT: 1SA 14:1 *Waffeträger*
+  - answers: Migron, Bozez, Seneh, Ahijah, Ichabod, Ishvi, Malchishua, Merab, Michal, Ahinoam, Ahimaaz, Abner, Abiel, Zobah, armor-bearer, crag, honeycomb
+  - Formen dieses Kapitels.
+  - agent:1sa014, 2026-11-15
+- **`term:1sa015_forms`** טְלָאִים → **Telaim; Keniter; Hawila; Schur; Agag; Karmel; Dänkmal; Bläägge; zämeghoue** [medium, decided, by-rule]
+  - gloss: טְלָאִים: טְּלָאִ֔ים (1SA 15:4) — English (generated): at Telaim
+  - gloss: קֵינִי: קֵּינִ֡י (1SA 15:6) — English (generated): the Kenites
+  - gloss: חֲוִילָה: חֲוִילָה֙ (1SA 15:7) — English (generated): from Havilah
+  - gloss: שׁוּר: שׁ֔וּר (1SA 15:7) — English (generated): to Shur
+  - gloss: אֲגָג: אֲגַ֥ג (1SA 15:8) — English (generated): Agag
+  - gloss: כַּרְמֶל: כַּרְמֶ֨לָ (1SA 15:12) — English (generated): to Carmel
+  - gloss: יָד: יָ֔ד (1SA 15:12) — English (generated): a monument
+  - gloss: קוֹל: קֽוֹל (1SA 15:14) — English (generated): bleating
+  - gloss: שָׁסַף: יְשַׁסֵּ֨ף (1SA 15:33) — English (generated): to pieces
+  - NT: 1SA 15:4 *Telaim*
+  - answers: Telaim, Kenites, Havilah, Shur, Agag, Carmel, monument, bleating, hacked to pieces
+  - Formen dieses Kapitels.
+  - agent:1sa015, 2026-11-15
+- **`term:1sa016_forms`** יִשַׁי → **Isai; Eliab; Abinadab; Schamma; Ölhorn; Zither; Gitzi; Schluuch** [medium, decided, by-rule]
+  - gloss: יִשַׁי: יִשַׁ֣י (1SA 16:1) — English (generated): Jesse
+  - gloss: אֱלִיאָב: אֱלִיאָ֑ב (1SA 16:6) — English (generated): Eliab
+  - gloss: אֲבִינָדָב: אֲבִ֣ינָדָ֔ב (1SA 16:8) — English (generated): Abinadab
+  - gloss: שַׁמָּה: שַׁמָּ֑ה (1SA 16:9) — English (generated): Shammah
+  - gloss: קֶרֶן: קֶ֣רֶן (1SA 16:13) — English (generated): the horn
+  - gloss: כִּנּוֹר: כִּנּ֑וֹר (1SA 16:16) — English (generated): the harp
+  - gloss: גְּדִי: גְדִ֥י (1SA 16:20) — English (generated): young goat
+  - gloss: נֹאד: נֹ֣אד (1SA 16:20) — English (generated): a skin
+  - NT: 1SA 16:1 *Isai*
+  - answers: Jesse, Eliab, Abinadab, Shammah, horn of oil, lyre, young goat, skin
+  - Formen dieses Kapitels.
+  - agent:1sa016, 2026-11-15
+- **`term:1sa017_forms`** גׇּלְיַת → **Goliat; Socho; Aseka; Efes-Dammim; Eichetal; Schaarajim; Vorkämpfer; Schleudere; Schuppepanzer; Wurfspiess; Webboum; Röschtchorn** [medium, decided, by-rule]
+  - gloss: גׇּלְיַת: גָּלְיָ֥ת (1SA 17:4) — English (generated): Goliath
+  - gloss: שׂוֹכֹה: שֹׂכֹ֖ה (1SA 17:1) — English (generated): at Socoh
+  - gloss: עֲזֵקָה: עֲזֵקָ֖ה (1SA 17:1) — English (generated): and Azekah
+  - gloss: אֶפֶס דַּמִּים: אֶ֥פֶס (1SA 17:1) — English (generated): in Ephes dammim
+  - gloss: עֵמֶק: עֵ֣מֶק (1SA 17:2) — English (generated): of Elah
+  - gloss: שַׁעֲרַיִם: שַׁעֲרַ֔יִם (1SA 17:52) — English (generated): along the Shaaraim
+  - gloss: אִישׁ: אִֽישׁ (1SA 17:4) — English (generated): Then a champion
+  - gloss: קֶלַע: קַלְּע֣ (1SA 17:40) — English (generated): And with his sling
+  - gloss: שִׁרְיוֹן: שִׁרְי֥וֹן (1SA 17:5) — English (generated): coat
+  - gloss: כִּידוֹן: כִיד֥וֹן (1SA 17:6) — English (generated): and a javelin
+  - gloss: מָנוֹר: מְנוֹר֙ (1SA 17:7) — English (generated): beam
+  - gloss: קָלִי: קָּלִיא֙ (1SA 17:17) — English (generated): of roasted grain
+  - NT: 1SA 17:4 *Goliat*
+  - answers: Goliath, Socoh, Azekah, Ephes-dammim, Valley of Elah, Shaaraim, champion, sling, scale armor, javelin, weaver's beam, roasted grain
+  - Formen dieses Kapitels.
+  - agent:1sa017, 2026-11-15
+- **`term:1sa018_forms`** עַדְרִיאֵל → **Adriel; Mehola; Schwigersuhn; Brutgäld; Vorhüt; Triangle; Zähtuusige** [medium, decided, by-rule]
+  - gloss: עַדְרִיאֵל: עַדְרִיאֵ֥ל (1SA 18:19) — English (generated): to Adriel
+  - gloss: מְחֹלָתִי: מְּחֹלָתִ֖י (1SA 18:19) — English (generated): of Meholah
+  - gloss: חָתָן: חָתָ֖ן (1SA 18:18) — English (generated): the son in law
+  - gloss: מֹהַר: מֹ֔הַר (1SA 18:25) — English (generated): other dowry
+  - gloss: עׇרְלָה: עָרְל֣וֹת (1SA 18:25) — English (generated): foreskins
+  - gloss: שָׁלִישׁ: שָׁלִשִֽׁים (1SA 18:6) — English (generated): and other instruments
+  - gloss: רְבָבָה: רִבְבֹתָֽי (1SA 18:7) — English (generated): his tens of thousands
+  - NT: 1SA 18:19 *Adriel*
+  - answers: Adriel, Meholah, son-in-law, bride-price, foreskins, instruments, tens of thousands
+  - Formen dieses Kapitels.
+  - agent:1sa018, 2026-11-15
+- **`term:1sa019_forms`** נָיֹות → **Najot; Sechu; Husgötz; Geissehaarnetz; Chopfänd; blutt** [medium, decided, by-rule]
+  - gloss: נָיֹות: נָֽיוֹת (1SA 19:18)
+  - gloss: שֵׂכוּ: שֶּׂ֔כוּ (1SA 19:22) — English (generated): at Secu
+  - gloss: תְּרָפִים: תְּרָפִ֗ים (1SA 19:13) — English (generated): a household idol
+  - gloss: וְ: וְ (1SA 19:13) — English (generated): took
+  - gloss: מְרַאֲשָׁוֹת: מְרַֽאֲשֹׁתָ֑י (1SA 19:13) — English (generated): on its head
+  - gloss: עָרוֹם: עָרֹ֔ם (1SA 19:24) — English (generated): and lay naked
+  - NT: 1SA 19:18 *Najot*
+  - answers: Naioth, Secu, household idol, goat hair, head, naked
+  - Formen dieses Kapitels.
+  - agent:1sa019, 2026-11-15
+- **`term:1sa020_forms`** חֹדֶשׁ → **Nöimond; Asel; Sippeopfer; Pfyle; übermorn; Blüssi; tifig** [medium, decided, by-rule]
+  - gloss: חֹדֶשׁ: חֹ֨דֶשׁ֙ (1SA 20:5) — English (generated): is the New Moon
+  - gloss: אֶזֶל: אָֽזֶל (1SA 20:19) — English (generated): Ezel
+  - gloss: מִשְׁפָּחָה: מִשְׁפָּחָ֨ה (1SA 20:29) — English (generated): our clan
+  - gloss: חֵץ: חִצִּ֖ים (1SA 20:20) — English (generated): arrows
+  - gloss: שְׁלִישִׁי: שְּׁלִשִֽׁית (1SA 20:5) — English (generated): the third
+  - gloss: עֶרְוָה: עֶרְוַ֥ת (1SA 20:30) — English (generated): who bore you
+  - gloss: חוּשׁ: ח֖וּשָׁ (1SA 20:38) — English (generated): Make haste
+  - NT: 1SA 20:5 *Nöimond*
+  - answers: New Moon, Ezel, clan sacrifice, arrows, the day after tomorrow, nakedness, quick
+  - Formen dieses Kapitels.
+  - agent:1sa020, 2026-11-15
+- **`term:1sa021_forms`** נֹב → **Nob; Ahimelech; Doeg; Edomiter; Achisch; Schoubrot; Spöiz; pressant** [medium, decided, by-rule]
+  - gloss: נֹב: נֹ֔בֶ (1SA 21:2) — English (generated): to Nob
+  - gloss: אֲחִימֶלֶךְ: אֲחִימֶ֖לֶךְ (1SA 21:2) — English (generated): Ahimelech
+  - gloss: דֹּאֵג: דֹּאֵ֣ג (1SA 21:8) — English (generated): Doeg
+  - gloss: אֲדֹמִי: אֲדֹמִ֑י (1SA 21:8) — English (generated): the Edomite
+  - gloss: אָכִישׁ: אָכִ֖ישׁ (1SA 21:11) — English (generated): Achish
+  - gloss: הַ: הַ (1SA 21:7) — English (generated): him
+  - gloss: רִיר: רִיר֖ (1SA 21:14) — English (generated): and let his saliva
+  - gloss: נָחַץ: נָחֽוּץ (1SA 21:9) — English (generated): urgent
+  - NT: 1SA 21:2 *Nob*
+  - answers: Nob, Ahimelech, Doeg, Edomite, Achish, Bread of the Presence, saliva, urgent
+  - Formen dieses Kapitels.
+  - agent:1sa021, 2026-11-15
+- **`term:1sa022_forms`** עֲדֻלָּם → **Adullam; Mizpe; Heret; Abjatar; Bärgfeschtig; Tamariske; Löifer; Wägzehrig** [medium, decided, by-rule]
+  - gloss: עֲדֻלָּם: עֲדֻלָּ֑ם (1SA 22:1) — English (generated): of Adullam
+  - gloss: מִצְפֶּה: מִצְפֵּ֣ה (1SA 22:3) — English (generated): to Mizpeh
+  - gloss: חֶרֶת: חָֽרֶת (1SA 22:5) — English (generated): of Hereth
+  - gloss: אֶבְיָתָר: אֶבְיָתָ֑ר (1SA 22:20) — English (generated): was Abiathar
+  - gloss: מְצוּדָה: מְּצוּדָֽה (1SA 22:4) — English (generated): in the stronghold
+  - gloss: אֵשֶׁל: אֶ֤שֶׁל (1SA 22:6) — English (generated): the tamarisk tree
+  - gloss: רוּץ: רָצִים֩ (1SA 22:17) — English (generated): the guards
+  - gloss: צֵידָה: צֵידָ֖ה (1SA 22:10) — English (generated): provisions
+  - NT: 1SA 22:1 *Adullam*
+  - answers: Adullam, Mizpeh, Hereth, Abiathar, stronghold, tamarisk, guards, provisions
+  - Formen dieses Kapitels.
+  - agent:1sa022, 2026-11-15
+- **`term:1sa023_forms`** קְעִילָה → **Keïla; Sif; Sifiter; Horescha; Hachila; Maon; Araba; Sela-Hammachlekot; Rigel** [medium, decided, by-rule]
+  - gloss: קְעִילָה: קְעִילָ֔ה (1SA 23:1) — English (generated): against Keilah
+  - gloss: זִיף: זִ֑יף (1SA 23:14) — English (generated): of Ziph
+  - gloss: זִיפִי: זִפִים֙ (1SA 23:19) — English (generated): Then the Ziphites
+  - gloss: חֹרְשָׁה: חֹֽרְשָׁה (1SA 23:15) — English (generated): was in Horesh
+  - gloss: חֲכִילָה: חֲכִילָ֔ה (1SA 23:19) — English (generated): of Hachilah
+  - gloss: מָעוֹן: מָעוֹן֙ (1SA 23:24) — English (generated): of Maon
+  - gloss: עֲרָבָה: עֲרָבָ֔ה (1SA 23:24) — English (generated): in the Arabah
+  - gloss: סֶלַע: סֶ֖לַע (1SA 23:28) — English (generated): Sela hammahlekoth
+  - gloss: בְּרִיחַ: בְרִֽיחַ (1SA 23:7) — English (generated): and bars
+  - NT: 1SA 23:1 *Keïla*
+  - answers: Keilah, Ziph, Ziphites, Horesh, Hachilah, Maon, Arabah, Sela-hammahlekoth, bars
+  - Formen dieses Kapitels.
+  - agent:1sa023, 2026-11-15
+- **`term:1sa024_forms`** עֵין גֶּדִי → **En-Gedi; Steiböckfelse; Schafhürde; Zipfel; Floh** [medium, decided, by-rule]
+  - gloss: עֵין גֶּדִי: עֵֽין (1SA 24:1) — English (generated): of En gedi
+  - gloss: צוּר: צוּרֵ֥י (1SA 24:3) — English (generated): of the Rocks
+  - gloss: גְּדֵרָה: גִּדְר֨וֹת (1SA 24:4)
+  - gloss: כָּנָף: כְּנַֽף (1SA 24:5) — English (generated): a corner
+  - gloss: פַּרְעֹשׁ: פַּרְעֹ֥שׁ (1SA 24:15) — English (generated): flea
+  - NT: 1SA 24:1 *En-Gedi*
+  - answers: En-gedi, Rocks of the Wild Goats, sheepfolds, corner, flea
+  - Formen dieses Kapitels.
+  - agent:1sa024, 2026-11-15
+- **`term:1sa025_forms`** נָבָל → **Nabal; Abigajil; Kalebiter; Paran; Karmel; Sea; Rosinechueche; Feigechueche; Bündel vo de Läbige; Palti; Lajisch; Gallim** [medium, decided, by-rule]
+  - gloss: נָבָל: נָבָ֔ל (1SA 25:3) — English (generated): was Nabal
+  - gloss: אֲבִיגַיִל: אֲבִגָ֑יִל (1SA 25:3) — English (generated): Abigail
+  - gloss: כָּלִבִּי: כָלִבִּֽי (1SA 25:3) — English (generated): a Calebite
+  - gloss: פָּארָן: פָּארָֽן (1SA 25:1) — English (generated): of Paran
+  - gloss: כַּרְמֶל: כַּרְמֶ֗ל (1SA 25:2) — English (generated): was in Carmel
+  - gloss: סְאָה: סְאִים֙ (1SA 25:18) — English (generated): seahs
+  - gloss: צִמּוּקִים: צִמֻּקִ֖ים (1SA 25:18) — English (generated): clusters of raisins
+  - gloss: דְּבֵלָה: דְּבֵלִ֑ים (1SA 25:18) — English (generated): cakes of figs
+  - gloss: צְרוֹר: צְר֣וֹר (1SA 25:29) — English (generated): in the bundle
+  - gloss: פַּלְטִי: פַלְטִ֥י (1SA 25:44) — English (generated): to Palti
+  - gloss: לַיִשׁ: לַ֖יִשׁ (1SA 25:44) — English (generated): of Laish
+  - gloss: גַּלִּים: גַּלִּֽים (1SA 25:44) — English (generated): from Gallim
+  - NT: 1SA 25:3 *Nabal*
+  - answers: Nabal, Abigail, Calebite, Paran, Carmel, seahs, clusters of raisins, cakes of figs, bundle of the living, Palti, Laish, Gallim
+  - Formen dieses Kapitels.
+  - agent:1sa025, 2026-11-15
+- **`term:1sa026_forms`** אֲבִישַׁי → **Wageburg; Abischai; Zeruja; Hetiter; Wasserchrueg; Räbhuehn; Tiefschlaf** [medium, decided, by-rule]
+  - gloss: אֲבִישַׁי: אֲבִישַׁ֨י (1SA 26:6) — English (generated): Abishai
+  - gloss: צְרוּיָה: צְרוּיָ֜ה (1SA 26:6) — English (generated): of Zeruiah
+  - gloss: חִתִּי: חִתִּ֗י (1SA 26:6) — English (generated): the Hittite
+  - gloss: צַפַּחַת: צַפַּ֥חַת (1SA 26:11) — English (generated): jug
+  - gloss: קֹרֵא: קֹּרֵ֖א (1SA 26:20) — English (generated): a partridge
+  - gloss: תַּרְדֵּמָה: תַּרְדֵּמַ֣ת (1SA 26:12) — English (generated): a deep sleep
+  - gloss: מַעְגָּל: מַּעְגָּ֔ל (1SA 26:5) — English (generated): inside the inner circle of the camp
+  - NT: 1SA 26:6 *Abischai*
+  - answers: Abishai, Zeruiah, Hittite, water jug, partridge, deep sleep, inner circle of the camp
+  - Formen dieses Kapitels.
+  - agent:1sa026, 2026-11-15
+- **`term:1sa027_forms`** אָכִישׁ → **Achisch; Maoch; Ziklag; Geschuriter; Girsiter; Jerachmeeliter; Südland; Chünigsstadt** [medium, decided, by-rule]
+  - gloss: אָכִישׁ: אָכִ֥ישׁ (1SA 27:2) — English (generated): Achish
+  - gloss: מָעוֹךְ: מָע֖וֹךְ (1SA 27:2) — English (generated): of Maoch
+  - gloss: צִקְלַג: צִֽקְלָ֑ג (1SA 27:6) — English (generated): Ziklag
+  - gloss: גְּשׁוּרִי: גְּשׁוּרִ֥י (1SA 27:8) — English (generated): the Geshurites
+  - gloss: גִּזְרִי: גִּזְרִ֖י (1SA 27:8) — English (generated): the Girzites
+  - gloss: יְרַחְמְאֵלִי: יַּרְחְמְאֵלִ֔י (1SA 27:10) — English (generated): of Jerahmeel
+  - gloss: נֶגֶב: נֶ֤גֶב (1SA 27:10) — English (generated): The Negev
+  - gloss: עִיר: עִ֥יר (1SA 27:5) — English (generated): city
+  - NT: 1SA 27:6 *Ziklag*
+  - answers: Achish, Maoch, Ziklag, Geshurites, Girzites, Jerahmeelites, Negev, royal city
+  - Formen dieses Kapitels.
+  - agent:1sa027, 2026-11-15
+- **`term:1sa028_forms`** שׁוּנֵם → **Schunem; Gilboa; En-Dor; Totebeschwörere; Totegeischt; Geischtwäse; Lybwächter** [medium, decided, by-rule]
+  - gloss: שׁוּנֵם: שׁוּנֵ֑ם (1SA 28:4) — English (generated): at Shunem
+  - gloss: גִּלְבֹּעַ: גִּלְבֹּֽעַ (1SA 28:4) — English (generated): at Gilboa
+  - gloss: עֵין דֹּור: עֵ֥ין (1SA 28:7) — English (generated): at Endor
+  - gloss: אוֹב: א֔וֹב (1SA 28:7) — English (generated): a medium
+  - gloss: אוֹב: א֔וֹב (1SA 28:8) — English (generated): a spirit
+  - gloss: אֱלֹהִים: אֱלֹהִ֥ים (1SA 28:13) — English (generated): a god
+  - gloss: שָׁמַר: שֹׁמֵ֧ר (1SA 28:2) — English (generated): my bodyguard
+  - NT: 1SA 28:7 *En-Dor*
+  - answers: Shunem, Gilboa, Endor, medium, spirit, god, bodyguard
+  - Formen dieses Kapitels.
+  - agent:1sa028, 2026-11-15
+- **`term:1sa029_forms`** אֲפֵק → **Afek; Hebräer; Hundertschafte; Tuusigschafte; Stadtfürschte** [medium, decided, by-rule]
+  - gloss: אֲפֵק: אֲפֵ֑קָ (1SA 29:1) — English (generated): at Aphek
+  - gloss: עִבְרִי: עִבְרִ֣ים (1SA 29:3) — English (generated): Hebrews
+  - gloss: מֵאָה: מֵא֖וֹת (1SA 29:2) — English (generated): their units of hundreds
+  - gloss: אֶלֶף: אֲלָפִ֑ים (1SA 29:2) — English (generated): and thousands
+  - gloss: סֶרֶן: סַרְנֵ֤י (1SA 29:2) — English (generated): leaders
+  - NT: 1SA 29:1 *Afek*
+  - answers: Aphek, Hebrews, hundreds, thousands, lords
+  - Formen dieses Kapitels.
+  - agent:1sa029, 2026-11-15
+- **`term:1sa030_forms`** הַ → **Besor; Kereter; Ramot-Negev; Sifmot; Eschtemoa; Rachal; Bor-Aschan; Atach; Bande** [medium, decided, by-rule]
+  - gloss: הַ: הַ (1SA 30:9) — English (generated): of Besor
+  - gloss: כְּרֵתִי: כְּרֵתִ֛י (1SA 30:14) — English (generated): of the Cherethites
+  - gloss: רָמֹת: רָמֽוֹת (1SA 30:27) — English (generated): Ramoth
+  - gloss: שִׂפְמוֹת: שִֽׂפְמ֖וֹת (1SA 30:28) — English (generated): Siphmoth
+  - gloss: אֶשְׁתְּמֹעַ: אֶשְׁתְּמֹֽעַ (1SA 30:28) — English (generated): and Eshtemoa
+  - gloss: רָכָל: רָכָ֗ל (1SA 30:29) — English (generated): in Racal
+  - gloss: בּוֹר עָשָׁן: בוֹר (1SA 30:30) — English (generated): Bor ashan
+  - gloss: עֲתָךְ: עֲתָֽךְ (1SA 30:30) — English (generated): and Athach
+  - gloss: גְּדוּד: גְּדוּד (1SA 30:8) — English (generated): raiders
+  - NT: 1SA 30:9 *Besor*
+  - answers: Besor, Cherethites, Ramoth Negev, Siphmoth, Eshtemoa, Racal, Bor-ashan, Athach, band
+  - Formen dieses Kapitels.
+  - agent:1sa030, 2026-11-15
+- **`term:1sa031_forms`** מַלְכִּי שׁוּעַ → **Malkischua; Pfylschütze; Waffeträger; Unbeschnittene; Aschtarot; Bet-Schean; Lychnam** [medium, decided, by-rule]
+  - gloss: מַלְכִּי שׁוּעַ: מַלְכִּי (1SA 31:2) — English (generated): Malchishua
+  - gloss: יָרָה: מּוֹרִ֖ים (1SA 31:3) — English (generated): the archers
+  - gloss: נָשָׂא: נֹשֵׂ֨א (1SA 31:4) — English (generated): to his armor bearer
+  - gloss: עָרֵל: עֲרֵלִ֨ים (1SA 31:4) — English (generated): uncircumcised men
+  - gloss: עַשְׁתֹּרֶת: עַשְׁתָּר֑וֹת (1SA 31:10) — English (generated): of the Ashtoreths
+  - gloss: בֵּית שְׁאָן: בֵּ֥ית (1SA 31:10) — English (generated): in the temple
+  - gloss: גְּוִיָּה: גְּוִיָּת (1SA 31:10) — English (generated): his body
+  - NT: 1SA 31:10 *Bet-Schean*
+  - answers: Malki-Shua, archers, armor-bearer, uncircumcised, Ashtoreths, Beth-shan, body
+  - Formen dieses Kapitels.
+  - agent:1sa031, 2026-11-15
+- **`term:2sa001_forms`** אֶצְעָדָה → **Armspange; Chrone; Chlaglied; Aschkelon; Buech vom Grächte; Helde** [medium, decided, by-rule]
+  - gloss: אֶצְעָדָה: אֶצְעָדָה֙ (2SA 1:10) — English (generated): and the band
+  - gloss: נֵזֶר: נֵּ֣זֶר (2SA 1:10) — English (generated): the crown
+  - gloss: קִינָה: קִּינָ֖ה (2SA 1:17) — English (generated): lament
+  - gloss: אַשְׁקְלוֹן: אַשְׁקְל֑וֹן (2SA 1:20) — English (generated): of Ashkelon
+  - gloss: סֵפֶר: סֵ֥פֶר (2SA 1:18) — English (generated): the Book
+  - gloss: גִּבּוֹר: גִבּוֹרִֽים (2SA 1:19) — English (generated): the mighty
+  - NT: 2SA 1:20 *Aschkelon*
+  - answers: bracelet, crown, lament, Ashkelon, Book of Jashar, mighty
+  - Formen dieses Kapitels.
+  - agent:2sa001, 2026-11-15
+- **`term:2sa002_forms`** אִישׁ בֹּשֶׁת → **Isch-Boschet; Mahanajim; Asahel; Aschuriter; Helkat-Hazzurim; Amma; Giach; Kampfspil** [medium, decided, by-rule]
+  - gloss: אִישׁ בֹּשֶׁת: אִ֥ישׁ (2SA 2:8) — English (generated): Ish bosheth
+  - gloss: מַחֲנַיִם: מַחֲנָֽיִם (2SA 2:8) — English (generated): to Mahanaim
+  - gloss: עֲשָׂהאֵל: עֲשָׂהאֵ֑ל (2SA 2:18) — English (generated): and Asahel
+  - gloss: אֲשׁוּרִי: אֲשׁוּרִ֖י (2SA 2:9) — English (generated): Asher
+  - gloss: חֶלְקַת הַצּוּרִים: חֶלְקַ֥ת (2SA 2:16) — English (generated): Helkath hazzurim
+  - gloss: אַמָּה: אַמָּ֔ה (2SA 2:24) — English (generated): of Ammah
+  - gloss: גִּיחַ: גִ֔יחַ (2SA 2:24) — English (generated): Giah
+  - gloss: שָׂחַק: ישַׂחֲק֖וּ (2SA 2:14) — English (generated): and compete
+  - NT: 2SA 2:8 *Isch-Boschet*
+  - answers: Ish-bosheth, Mahanaim, Asahel, Ashurites, Helkath-hazzurim, Ammah, Giah, compete
+  - Formen dieses Kapitels.
+  - agent:2sa002, 2026-11-15
+- **`term:2sa003_forms`** אַמְנוֹן → **Amnon; Kilab; Abschalom; Talmai; Adonija; Haggit; Schefatja; Abital; Jitream; Egla; Rizpa; Aja; Paltiel; Bahurim; Sira** [medium, decided, by-rule]
+  - gloss: אַמְנוֹן: אַמְנ֔וֹן (2SA 3:2) — English (generated): Amnon
+  - gloss: כִּלְאָב: כִלְאָ֔ב (2SA 3:3) — English (generated): was Chileab
+  - gloss: אַבְשָׁלֹום: אַבְשָׁל֣וֹם (2SA 3:3) — English (generated): was Absalom
+  - gloss: תַּלְמַי: תַּלְמַ֖י (2SA 3:3) — English (generated): Talmai
+  - gloss: אֲדֹנִיָּה: אֲדֹנִיָּ֣ה (2SA 3:4) — English (generated): was Adonijah
+  - gloss: חַגִּית: חַגִּ֑ית (2SA 3:4) — English (generated): of Haggith
+  - gloss: שְׁפַטְיָה: שְׁפַטְיָ֥ה (2SA 3:4) — English (generated): was Shephatiah
+  - gloss: אֲבִיטָל: אֲבִיטָֽל (2SA 3:4) — English (generated): of Abital
+  - gloss: יִתְרְעָם: יִתְרְעָ֔ם (2SA 3:5) — English (generated): was Ithream
+  - gloss: עֶגְלָה: עֶגְלָ֖ה (2SA 3:5) — English (generated): Eglah
+  - gloss: רִצְפָּה: רִצְפָּ֣ה (2SA 3:7) — English (generated): Rizpah
+  - gloss: אַיָּה: אַיָּ֑ה (2SA 3:7) — English (generated): of Aiah
+  - gloss: פַּלְטִיאֵל: פַּלְטִיאֵ֥ל (2SA 3:15) — English (generated): Paltiel
+  - gloss: בַּחֻרִים: בַּֽחֻרִ֑ים (2SA 3:16) — English (generated): Bahurim
+  - gloss: בּוֹר: בּ֣וֹר (2SA 3:26) — English (generated): of Sirah
+  - NT: 2SA 3:3 *Abschalom*
+  - answers: Amnon, Chileab, Absalom, Talmai, Adonijah, Haggith, Shephatiah, Abital, Ithream, Eglah, Rizpah, Aiah, Paltiel, Bahurim, Sirah
+  - Formen dieses Kapitels.
+  - agent:2sa003, 2026-11-15
+- **`term:2sa004_forms`** בַּעֲנָה → **Baana; Rechab; Rimmon; Beerotiter; Beerot; Gittajim; Mefi-Boschet; Amme; Strifschare** [medium, decided, by-rule]
+  - gloss: בַּעֲנָה: בַּֽעֲנָ֜ה (2SA 4:2) — English (generated): Baanah
+  - gloss: רֵכָב: רֵכָ֗ב (2SA 4:2) — English (generated): Rechab
+  - gloss: רִמּוֹן: רִמּ֥וֹן (2SA 4:2) — English (generated): of Rimmon
+  - gloss: בְּאֵרֹתִי: בְּאֶֽרֹתִ֖י (2SA 4:2) — English (generated): the Beerothite
+  - gloss: בְּאֵרוֹת: בְּאֵר֔וֹת (2SA 4:2) — English (generated): Beeroth
+  - gloss: גִּתָּיִם: גִּתָּ֑יְמָ (2SA 4:3) — English (generated): to Gittaim
+  - gloss: מְפִיבֹשֶׁת: מְפִיבֹֽשֶׁת (2SA 4:4) — English (generated): was Mephibosheth
+  - gloss: אָמַן: אֹֽמַנְתּ (2SA 4:4) — English (generated): His nurse
+  - gloss: גְּדוּד: גְדוּדִ֣ים (2SA 4:2) — English (generated): of raiding parties
+  - NT: 2SA 4:4 *Mefi-Boschet*
+  - answers: Baanah, Rechab, Rimmon, Beerothite, Beeroth, Gittaim, Mephibosheth, nurse, raiding parties
+  - Formen dieses Kapitels.
+  - agent:2sa004, 2026-11-15
+- **`term:2sa005_forms`** צִיּוֹן → **Zion; Millo; Hiram; Tyrus; Schammua; Schobab; Jibchar; Elischua; Jafia; Elischama; Eljada; Elifelet; Refaim; Baal-Perazim; Gezer** [medium, decided, by-rule]
+  - gloss: צִיּוֹן: צִיּ֑וֹן (2SA 5:7) — English (generated): of Zion
+  - gloss: מִלּוֹא: מִּלּ֖וֹא (2SA 5:9) — English (generated): the supporting terraces
+  - gloss: חִירָם: חִירָ֨ם (2SA 5:11) — English (generated): Now Hiram
+  - gloss: צֹר: צֹ֥ר (2SA 5:11) — English (generated): of Tyre
+  - gloss: שַׁמּוּעַ: שַׁמּ֣וּעַ (2SA 5:14) — English (generated): Shammua
+  - gloss: שׁוֹבָב: שׁוֹבָ֔ב (2SA 5:14) — English (generated): Shobab
+  - gloss: יִבְחָר: יִבְחָ֥ר (2SA 5:15) — English (generated): Ibhar
+  - gloss: אֱלִישׁוּעַ: אֱלִישׁ֖וּעַ (2SA 5:15) — English (generated): Elishua
+  - gloss: יָפִיעַ: יָפִֽיעַ (2SA 5:15) — English (generated): Japhia
+  - gloss: אֱלִישָׁמָע: אֱלִישָׁמָ֥ע (2SA 5:16) — English (generated): Elishama
+  - gloss: אֶלְיָדָע: אֶלְיָדָ֖ע (2SA 5:16) — English (generated): Eliada
+  - gloss: אֲלִיפֶלֶט: אֱלִיפָֽלֶט (2SA 5:16) — English (generated): and Eliphelet
+  - gloss: רְפָאִים: רְפָאִֽים (2SA 5:18) — English (generated): of Rephaim
+  - gloss: בַּעַל פְּרָצִים: בַֽעַל (2SA 5:20) — English (generated): to Baal perazim
+  - gloss: גֶּזֶר: גָֽזֶר (2SA 5:25) — English (generated): Gezer
+  - NT: 2SA 5:7 *Zion*
+  - answers: Zion, Millo, Hiram, Tyre, Shammua, Shobab, Ibhar, Elishua, Japhia, Elishama, Eliada, Eliphelet, Rephaim, Baal-perazim, Gezer
+  - Formen dieses Kapitels.
+  - agent:2sa005, 2026-11-15
+- **`term:2sa006_forms`** בַּעֲלֵי יְהוּדָה → **Baale-Juda; Ussa; Achjo; Nachon; Perez-Ussa; Obed-Edom; Gatiter; Rassle; Dattlechueche** [medium, decided, by-rule]
+  - gloss: בַּעֲלֵי יְהוּדָה: בַּעֲלֵ֖י (2SA 6:2) — English (generated): for Baale of Judah
+  - gloss: עֻזָּה: עֻזָּ֣א (2SA 6:3) — English (generated): Uzzah
+  - gloss: אַחְיוֹ: אַחְי֗וֹ (2SA 6:3) — English (generated): and Ahio
+  - gloss: גֹּרֶן: גֹּ֣רֶן (2SA 6:6) — English (generated): the threshing floor
+  - gloss: פֶּרֶץ עֻזָּה: פֶּ֣רֶץ (2SA 6:8) — English (generated): had burst forth
+  - gloss: עֹבֵד אֱדוֹם: עֹבֵֽד (2SA 6:10) — English (generated): of Obed edom
+  - gloss: גִּתִּי: גִּתִּֽי (2SA 6:10) — English (generated): the Gittite
+  - gloss: מְנַעַנְעִים: מְנַֽעַנְעִ֖ים (2SA 6:5) — English (generated): sistrums
+  - gloss: אֶשְׁפָּר: אֶשְׁפָּ֣ר (2SA 6:19) — English (generated): date cake
+  - NT: 2SA 6:8 *Perez-Ussa*
+  - answers: Baale of Judah, Uzzah, Ahio, Nacon, Perez-uzzah, Obed-edom, Gittite, sistrums, date cake
+  - Formen dieses Kapitels.
+  - agent:2sa006, 2026-11-15
+- **`term:2sa007_forms`** אֲדֹנָי → **Herr, HERR; Bösewicht; Weidland** [medium, decided, by-rule]
+  - gloss: אֲדֹנָי: אֲדֹנָ֤ (2SA 7:18) — English (generated): O Lord
+  - gloss: בֵּן: בְנֵֽי (2SA 7:10) — English (generated): will the sons
+  - gloss: הַ: הַ (2SA 7:8) — English (generated): the pasture
+  - NT: 2SA 7:18 *Herr*
+  - answers: Lord GOD, sons of wickedness, pasture
+  - Formen dieses Kapitels.
+  - agent:2sa007, 2026-11-15
+- **`term:2sa008_forms`** הֲדַדְעֶזֶר → **Hadadeser; Rehob; Zoba; Euphrat; Betach; Berotai; Toi; Hamat; Joram; Salztal; Joschafat; Achilud; Achitub; Achimelech; Seraja; Benaja; Jojada; Kereter; Peleter; Bsatzige** [medium, decided, by-rule]
+  - gloss: הֲדַדְעֶזֶר: הֲדַדְעֶ֥זֶר (2SA 8:3) — English (generated): Hadadezer
+  - gloss: רְחֹב: רְחֹ֖ב (2SA 8:3) — English (generated): of Rehob
+  - gloss: צוֹבָא: צוֹבָ֑ה (2SA 8:3) — English (generated): of Zobah
+  - gloss: פְּרָת: פְּרָֽת (2SA 8:3) — English (generated): along the River
+  - gloss: בֶּטַח: בֶּ֥טַח (2SA 8:8) — English (generated): And from Betah
+  - gloss: בֵּרֹתַי: בֵּֽרֹתַ֖י (2SA 8:8) — English (generated): and Berothai
+  - gloss: תֹּעוּ: תֹּ֖עִי (2SA 8:9) — English (generated): Toi
+  - gloss: חֲמָת: חֲמָ֑ת (2SA 8:9) — English (generated): of Hamath
+  - gloss: יוֹרָם: יֽוֹרָם (2SA 8:10) — English (generated): Joram
+  - gloss: גֵּיא מֶלַח: גֵיא (2SA 8:13) — English (generated): in the Valley of Salt
+  - gloss: יְהוֹשָׁפָט: יהוֹשָׁפָ֥ט (2SA 8:16) — English (generated): Jehoshaphat
+  - gloss: אֲחִילוּד: אֲחִיל֖וּד (2SA 8:16) — English (generated): of Ahilud
+  - gloss: אֲחִיטוּב: אֲחִיט֛וּב (2SA 8:17) — English (generated): of Ahitub
+  - gloss: אֲחִימֶלֶךְ: אֲחִימֶ֥לֶךְ (2SA 8:17) — English (generated): and Ahimelech
+  - gloss: שְׂרָיָה: שְׂרָיָ֖ה (2SA 8:17) — English (generated): Seraiah
+  - gloss: בְּנָיָהוּ: בְנָיָ֨הוּ֙ (2SA 8:18) — English (generated): Benaiah
+  - gloss: יְהוֹיָדָע: יְה֣וֹיָדָ֔ע (2SA 8:18) — English (generated): of Jehoiada
+  - gloss: כְּרֵתִי: כְּרֵתִ֖י (2SA 8:18) — English (generated): the Cherethites
+  - gloss: פְּלֵתִי: פְּלֵתִ֑י (2SA 8:18) — English (generated): and Pelethites
+  - gloss: נְצִיב: נְצִבִים֙ (2SA 8:6) — English (generated): garrisons
+  - NT: 2SA 8:3 *Hadadeser*
+  - answers: Hadadezer, Rehob, Zobah, Euphrates, Betah, Berothai, Toi, Hamath, Joram, Valley of Salt, Jehoshaphat, Ahilud, Ahitub, Ahimelech, Seraiah, Benaiah, Jehoiada, Cherethites, Pelethites, garrisons
+  - Formen dieses Kapitels.
+  - agent:2sa008, 2026-11-15
+- **`term:2sa009_forms`** צִיבָא → **Ziba; Machir; Ammiel; Lo-Dabar; Micha; Grossching** [medium, decided, by-rule]
+  - gloss: צִיבָא: צִיבָ֔א (2SA 9:2) — English (generated): Ziba
+  - gloss: מָכִיר: מָכִ֥יר (2SA 9:4) — English (generated): of Machir
+  - gloss: עַמִּיאֵל: עַמִּיאֵ֖ל (2SA 9:4) — English (generated): of Ammiel
+  - gloss: לֹא דְבָר: ל֥וֹ (2SA 9:4) — English (generated): in Lo debar
+  - gloss: מִיכָא: מִיכָ֑א (2SA 9:12) — English (generated): Mica
+  - gloss: בֵּן: בֶן (2SA 9:9) — English (generated): grandson
+  - NT: 2SA 9:2 *Ziba*
+  - answers: Ziba, Machir, Ammiel, Lo-debar, Mica, grandson
+  - Formen dieses Kapitels.
+  - agent:2sa009, 2026-11-15
+- **`term:2sa010_forms`** חָנוּן → **Hanun; Nahasch; Bet-Rehob; Maacha; Tob; Helam; Schobach; Tröschter** [medium, decided, by-rule]
+  - gloss: חָנוּן: חָנ֥וּן (2SA 10:1) — English (generated): Hanun
+  - gloss: נָחָשׁ: נָחָ֗שׁ (2SA 10:2) — English (generated): of Nahash
+  - gloss: אֲרָם: אֲרַ֨ם (2SA 10:6) — English (generated): Aramean
+  - gloss: מַעֲכָה: מַֽעֲכָה֙ (2SA 10:6) — English (generated): of Maacah
+  - gloss: טוֹב: ט֔וֹב (2SA 10:6) — English (generated): from Tob
+  - gloss: חֵילָם: חֵילָ֑ם (2SA 10:16) — English (generated): to Helam
+  - gloss: שׁוֹבַךְ: שׁוֹבַ֛ךְ (2SA 10:16) — English (generated): with Shobach
+  - gloss: נָחַם: מְנַֽחֲמִ֑ים (2SA 10:3) — English (generated): comforters
+  - NT: 2SA 10:6 *Bet-Rehob*
+  - answers: Hanun, Nahash, Beth-rehob, Maacah, Tob, Helam, Shobach, comforters
+  - Formen dieses Kapitels.
+  - agent:2sa010, 2026-11-15
+- **`term:2sa011_forms`** רַבָּה → **Rabba; Batseba; Eliam; Urija; Jerubbeschet; Tebez; Mülistei; Boguschütze** [medium, decided, by-rule]
+  - gloss: רַבָּה: רַבָּ֑ה (2SA 11:1) — English (generated): Rabbah
+  - gloss: בַּת שֶׁבַע: בַּת (2SA 11:3) — English (generated): is Bathsheba
+  - gloss: אֱלִיעָם: אֱלִיעָ֔ם (2SA 11:3) — English (generated): of Eliam
+  - gloss: אוּרִיָּה: אוּרִיָּ֥ה (2SA 11:3) — English (generated): of Uriah
+  - gloss: יְרֻבֶּשֶׁת: יְרֻבֶּ֗שֶׁת (2SA 11:21) — English (generated): of Jerubbesheth
+  - gloss: תֵּבֵץ: תֵבֵ֔ץ (2SA 11:21) — English (generated): in Thebez
+  - gloss: פֶּלַח: פֶּ֨לַח (2SA 11:21) — English (generated): an upper millstone
+  - gloss: ירה: מּוֹרִ֤ים (2SA 11:24) — English (generated): shot
+  - NT: 2SA 11:3 *Batseba*
+  - answers: Rabbah, Bathsheba, Eliam, Uriah, Jerubbesheth, Thebez, millstone, archers
+  - Formen dieses Kapitels.
+  - agent:2sa011, 2026-11-15
+- **`term:2sa012_forms`** כִּבְשָׂה → **Schäfli; Jedidja; Chünigsstadt; Wasserstadt; Talänt; Ziegelbrönne** [medium, decided, by-rule]
+  - gloss: כִּבְשָׂה: כִּבְשָׂ֨ה (2SA 12:3) — English (generated): ewe lamb
+  - gloss: יְדִידְיָה: יְדִ֣ידְיָ֑הּ (2SA 12:25) — English (generated): Jedidiah
+  - gloss: עִיר: עִ֥יר (2SA 12:26) — English (generated): fortress
+  - gloss: עִיר: עִ֥יר (2SA 12:27) — English (generated): of the city
+  - gloss: כִּכָּר: כִּכַּ֤ר (2SA 12:30) — English (generated): a talent
+  - gloss: מַלְבֵּן: מַּלְבֵּ֔ן (2SA 12:31) — English (generated): at the brick kilns
+  - NT: 2SA 12:25 *Jedidja*
+  - answers: ewe lamb, Jedidiah, royal city, water city, talent, brickmaking
+  - Formen dieses Kapitels.
+  - agent:2sa012, 2026-11-15
+- **`term:2sa013_forms`** אַמְנוֹן → **Amnon; Tamar; Jonadab; Schima; Herzchüechli; Baal-Hazor; Talmai; Ammihud; Geschur; Ärmelrock** [medium, decided, by-rule]
+  - gloss: אַמְנוֹן: אַמְנ֥וֹן (2SA 13:1) — English (generated): Amnon
+  - gloss: תָּמָר: תָּמָ֑ר (2SA 13:1) — English (generated): with Tamar
+  - gloss: יוֹנָדָב: יֽוֹנָדָ֔ב (2SA 13:3) — English (generated): Jonadab
+  - gloss: שִׁמְעָה: שִׁמְעָ֖ה (2SA 13:3) — English (generated): Shimeah
+  - gloss: לְבִבָה: לְבִב֔וֹת (2SA 13:6) — English (generated): of cakes
+  - gloss: בַּעַל חָצוֹר: בַ֥עַל (2SA 13:23) — English (generated): at Baal hazor
+  - gloss: תַּלְמַי: תַּלְמַ֥י (2SA 13:37) — English (generated): Talmai
+  - gloss: עַמִּיהוּד: עַמִּיה֖וּד (2SA 13:37) — English (generated): of Ammihud
+  - gloss: גְּשׁוּר: גְּשׁ֑וּר (2SA 13:37) — English (generated): of Geshur
+  - gloss: כֻּתֹּנֶת: כְּתֹ֣נֶת (2SA 13:18) — English (generated): a robe
+  - NT: 2SA 13:1 *Amnon*
+  - answers: Amnon, Tamar, Jonadab, Shimeah, cakes, Baal-hazor, Talmai, Ammihud, Geshur, robe
+  - Formen dieses Kapitels.
+  - agent:2sa013, 2026-11-15
+- **`term:2sa014_forms`** תְּקוֹעַ → **Tekoa; Bluetrecher; Glüet; Chopfhaar; Fuesssole; Gärschte** [medium, decided, by-rule]
+  - gloss: תְּקוֹעַ: תְּק֔וֹעָ (2SA 14:2) — English (generated): to Tekoa
+  - gloss: גָּאַל: גֹּאֵ֤ל (2SA 14:11) — English (generated): to prevent the avenger
+  - gloss: גַּחֶלֶת: גַּֽחַלְתִּ (2SA 14:7) — English (generated): ember
+  - gloss: שֵׂעָר: שְׂעַ֣ר (2SA 14:26)
+  - gloss: כַּף: כַּ֤ף (2SA 14:25) — English (generated): From the sole
+  - gloss: שְׂעֹרָה: שְׂעֹרִ֔ים (2SA 14:30) — English (generated): barley
+  - NT: 2SA 14:2 *Tekoa*
+  - answers: Tekoa, avenger of blood, ember, hair, sole of his foot, barley
+  - Formen dieses Kapitels.
+  - agent:2sa014, 2026-11-15
+- **`term:2sa015_forms`** אֲחִיתֹפֶל → **Achitofel; Giloniter; Gilo; Ittai; Kidron; Ölbärg; Achimaaz; Huschai; Arkiter; Kundschafter** [medium, decided, by-rule]
+  - gloss: אֲחִיתֹפֶל: אֲחִיתֹ֨פֶל (2SA 15:12) — English (generated): Ahithophel
+  - gloss: גִּילֹנִי: גִּֽילֹנִ֜י (2SA 15:12) — English (generated): the Gilonite
+  - gloss: גִּלֹה: גִּלֹ֔ה (2SA 15:12) — English (generated): of Giloh
+  - gloss: אִתַּי: אִתַּ֣י (2SA 15:19) — English (generated): Ittai
+  - gloss: קִדְרוֹן: קִדְר֔וֹן (2SA 15:23) — English (generated): the Kidron
+  - gloss: מַעֲלֶה: מַעֲלֵ֨ה (2SA 15:30)
+  - gloss: אֲחִימַעַץ: אֲחִימַ֨עַץ (2SA 15:27) — English (generated): Ahimaaz
+  - gloss: חוּשַׁי: חוּשַׁ֣י (2SA 15:32) — English (generated): Hushai
+  - gloss: אַרְכִּי: אַרְכִּ֔י (2SA 15:32) — English (generated): the Archite
+  - gloss: רָגַל: מְרַגְּלִ֔ים (2SA 15:10) — English (generated): spies
+  - NT: 2SA 15:12 *Achitofel*
+  - answers: Ahithophel, Gilonite, Giloh, Ittai, Kidron, Mount of Olives, Ahimaaz, Hushai, Archite, spies
+  - Formen dieses Kapitels.
+  - agent:2sa015, 2026-11-15
+- **`term:2sa016_forms`** בַּחֻרִים → **Bahurim; Schimi; Gera; Bluetmönsch; Summerfrücht; Rosinechueche** [medium, decided, by-rule]
+  - gloss: בַּחֻרִים: בַּֽחוּרִ֑ים (2SA 16:5) — English (generated): Bahurim
+  - gloss: שִׁמְעִי: שִׁמְעִ֣י (2SA 16:5) — English (generated): was Shimei
+  - gloss: גֵּרָא: גֵּרָ֔א (2SA 16:5) — English (generated): of Gera
+  - gloss: אִישׁ: אִ֥ישׁ (2SA 16:7) — English (generated): man
+  - gloss: קַיִץ: קַ֖יִץ (2SA 16:1) — English (generated): summer fruits
+  - gloss: צִמּוּקִים: צִמּוּקִ֛ים (2SA 16:1) — English (generated): clusters of raisins
+  - NT: 2SA 16:5 *Schimi*
+  - answers: Bahurim, Shimei, Gera, man of bloodshed, summer fruits, clusters of raisins
+  - Formen dieses Kapitels.
+  - agent:2sa016, 2026-11-15
+- **`term:2sa017_forms`** עֵין רֹגֵל → **En-Rogel; Amasa; Jitra; Abigal; Schobi; Barsillai; Gileaditer; Rogelim; Röschtchorn** [medium, decided, by-rule]
+  - gloss: עֵין רֹגֵל: עֵין (2SA 17:17) — English (generated): at En rogel
+  - gloss: עֲמָשָׂא: עֲמָשָׂ֗א (2SA 17:25) — English (generated): Amasa
+  - gloss: יִתְרָא: יִתְרָ֣א (2SA 17:25) — English (generated): Ithra
+  - gloss: אֲבִיגַיִל: אֲבִיגַ֣ל (2SA 17:25) — English (generated): Abigail
+  - gloss: שֹׁבִי: שֹׁבִ֨י (2SA 17:27) — English (generated): Shobi
+  - gloss: בַּרְזִלַּי: בַרְזִלַּ֥י (2SA 17:27) — English (generated): and Barzillai
+  - gloss: גִּלְעָדִי: גִּלְעָדִ֖י (2SA 17:27) — English (generated): the Gileadite
+  - gloss: רֹגְלִים: רֹגְלִֽים (2SA 17:27) — English (generated): from Rogelim
+  - gloss: קָלִי: קָלִ֑י (2SA 17:28) — English (generated): roasted grain
+  - NT: 2SA 17:17 *En-Rogel*
+  - answers: En-rogel, Amasa, Ithra, Abigail, Shobi, Barzillai, Gileadite, Rogelim, roasted grain
+  - Formen dieses Kapitels.
+  - agent:2sa017, 2026-11-15
+- **`term:2sa018_forms`** יַעַר → **Wald Efraim; Gedänkstei; Kuschiter; Jordanebeni; Torhüeter; Botelohn** [medium, decided, by-rule]
+  - gloss: יַעַר: יַ֥עַר (2SA 18:6) — English (generated): in the forest
+  - gloss: מַצֶּבֶת: מַצֶּ֨בֶת֙ (2SA 18:18) — English (generated): a pillar
+  - gloss: כֻּשִׁי: כּוּשִׁ֔י (2SA 18:21) — English (generated): to a Cushite
+  - gloss: כִּכָּר: כִּכָּ֔ר (2SA 18:23) — English (generated): of the plain
+  - gloss: שֹׁועֵר: שֹּׁעֵ֔ר (2SA 18:26) — English (generated): the gatekeeper
+  - gloss: בְּשֹׂרָה: בְּשׂוֹרָ֥ה (2SA 18:22) — English (generated): a reward
+  - NT: 2SA 18:21 *Kuschiter*
+  - answers: forest of Ephraim, pillar, Cushite, plain, gatekeeper, reward
+  - Formen dieses Kapitels.
+  - agent:2sa018, 2026-11-15
+- **`term:2sa019_forms`** כִּמְהָם → **Kimham; Barsillai; Rogelim; Furt; Gileaditer** [medium, decided, by-rule]
+  - gloss: כִּמְהָם: כִמְהָ֗ם (2SA 19:38) — English (generated): Chimham
+  - gloss: בַּרְזִלַּי: בַרְזִלַּי֙ (2SA 19:32) — English (generated): Now Barzillai
+  - gloss: רֹגְלִים: רֹגְלִ֑ים (2SA 19:32) — English (generated): from Rogelim
+  - gloss: עֲבָרָה: עֲבָרָ֗ה (2SA 19:19) — English (generated): and crossed
+  - gloss: גִּלְעָדִי: גִּלְעָדִ֔י (2SA 19:32) — English (generated): the Gileadite
+  - NT: 2SA 19:38 *Kimham*
+  - answers: Chimham, Barzillai, Rogelim, ford, Gileadite
+  - Formen dieses Kapitels.
+  - agent:2sa019, 2026-11-15
+- **`term:2sa020_forms`** בִּכְרִי → **Bichri; Belagerigswall; Vormuur; Fronarbeit; Jairiter** [medium, decided, by-rule]
+  - gloss: בִּכְרִי: בִּכְרִ֖י (2SA 20:1) — English (generated): of Bichri
+  - gloss: סֹלְלָה: סֹֽלְלָה֙ (2SA 20:15) — English (generated): a siege ramp
+  - gloss: חֵיל: חֵ֑ל (2SA 20:15) — English (generated): against the outer rampart
+  - gloss: מַס: מַּ֑ס (2SA 20:24) — English (generated): the forced labor
+  - gloss: יָאִירִי: יָּ֣אִרִ֔י (2SA 20:26) — English (generated): the Jairite
+  - NT: 2SA 20:1 *Bichri*
+  - answers: Bichri, siege ramp, rampart, forced labor, Jairite
+  - Formen dieses Kapitels.
+  - agent:2sa020, 2026-11-15
+- **`term:2sa021_forms`** גִּבְעֹונִי → **Gibeoniter; Rizpa; Armoni; Adriel; Jischbi-Benob; Sibbechai; Huschatiter; Elchanan** [medium, decided, by-rule]
+  - gloss: גִּבְעֹונִי: גִּבְעֹנִֽים (2SA 21:1) — English (generated): the Gibeonites
+  - gloss: רִצְפָּה: רִצְפָּ֤ה (2SA 21:8) — English (generated): Rizpah
+  - gloss: אַרְמֹנִי: אַרְמֹנִ֖י (2SA 21:8) — English (generated): Armoni
+  - gloss: עַדְרִיאֵל: עַדְרִיאֵ֥ל (2SA 21:8) — English (generated): to Adriel
+  - gloss: וְ: וְ (2SA 21:16)
+  - gloss: סִבְּכַי: סִבְּכַי֙ (2SA 21:18) — English (generated): Sibbecai
+  - gloss: חֻשָׁתִי: חֻ֣שָׁתִ֔י (2SA 21:18) — English (generated): the Hushathite
+  - gloss: אֶלְחָנָן: אֶלְחָנָן֩ (2SA 21:19) — English (generated): and Elhanan
+  - NT: 2SA 21:8 *Rizpa*
+  - answers: Gibeonites, Rizpah, Armoni, Adriel, Ishbi-benob, Sibbecai, Hushathite, Elhanan
+  - Formen dieses Kapitels.
+  - agent:2sa021, 2026-11-15
+- **`term:2sa022_forms`** מִשְׁבָּר → **Wälle vom Tod; Toterych; Cherub; Hinde; Chnöchle** [medium, decided, by-rule]
+  - gloss: מִשְׁבָּר: מִשְׁבְּרֵי (2SA 22:5) — English (generated): the waves
+  - gloss: שְׁאוֹל: שְׁא֖וֹל (2SA 22:6) — English (generated): of Sheol
+  - gloss: כְּרוּב: כְּר֖וּב (2SA 22:11) — English (generated): a cherub
+  - gloss: אַיָּלָה: אַיָּל֑וֹת (2SA 22:34) — English (generated): like those of a deer
+  - gloss: קַרְסֹל: קַרְסֻלָּֽ (2SA 22:37) — English (generated): so that my ankles
+  - NT: 2SA 22:6 *Toterych*
+  - answers: waves of death, Sheol, cherub, deer, ankles
+  - Formen dieses Kapitels.
+  - agent:2sa022, 2026-11-15
+- **`term:2sa023_forms`** ישׁב → **Joscheb-Baschschebet; Tachkemoniter; Achochiter; Harariter; Kabzeel; Sod; Lybwach** [medium, decided, by-rule]
+  - gloss: ישׁב: יֹשֵׁ֨ב (2SA 23:8) — English (generated): Josheb basshebeth
+  - gloss: תַּחְכְּמֹנִי: תַּחְכְּמֹנִ֣י (2SA 23:8) — English (generated): the Tahchemonite
+  - gloss: אֲחוֹחִי: אֲחֹחִ֑י (2SA 23:9) — English (generated): the Ahohite
+  - gloss: הֲרָרִי: הָרָרִ֑י (2SA 23:11) — English (generated): the Hararite
+  - gloss: קַבְצְאֵל: קַּבְצְאֵ֑ל (2SA 23:20) — English (generated): from Kabzeel
+  - gloss: בֹּור: בֹּ֥אר (2SA 23:15) — English (generated): from the well
+  - gloss: מִשְׁמַעַת: מִשְׁמַעְתּֽ (2SA 23:23) — English (generated): his guard
+  - NT: 2SA 23:15 *Sod*
+  - answers: Josheb-basshebeth, Tahchemonite, Ahohite, Hararite, Kabzeel, well, guard
+  - Formen dieses Kapitels.
+  - agent:2sa023, 2026-11-15
+- **`term:2sa024_forms`** אֲרַוְנָה → **Arauna; Aroër; Jaser; Tachtim-Hodschi; Dan-Jaan; Dröschschlitte** [medium, decided, by-rule]
+  - gloss: אֲרַוְנָה: אֲרַ֥וְנָה (2SA 24:16) — English (generated): of Araunah
+  - gloss: עֲרֹועֵר: עֲרוֹעֵ֗ר (2SA 24:5) — English (generated): near Aroer
+  - gloss: יַעְזֵר: יַעְזֵֽר (2SA 24:5) — English (generated): and Jazer
+  - gloss: תַּחְתִּים חׇדְשִׁי: תַּחְתִּ֖ים (2SA 24:6) — English (generated): of Tahtim hodshi
+  - gloss: דָּן: דָּ֣נָ (2SA 24:6) — English (generated): on to Dan jaan
+  - gloss: מוֹרַג: מֹּרִגִּ֛ים (2SA 24:22) — English (generated): and the threshing sledges
+  - NT: 2SA 24:16 *Arauna*
+  - answers: Araunah, Aroer, Jazer, Tahtim-hodshi, Dan-jaan, threshing sledges
+  - Formen dieses Kapitels.
+  - agent:2sa024, 2026-11-15
+- **`term:1ki001_forms`** אֲבִישַׁג → **Abischag; Schunemiterin; Haggit; Rei; En-Rogel; Gichon; Mastchälber** [medium, decided, by-rule]
+  - gloss: אֲבִישַׁג: אֲבִישַׁג֙ (1KI 1:3) — English (generated): Abishag
+  - gloss: שׁוּנַמִּי: שּׁ֣וּנַמִּ֔ית (1KI 1:3) — English (generated): the Shunammite
+  - gloss: חַגִּית: חַגִּ֛ית (1KI 1:5) — English (generated): by Haggith
+  - gloss: רֵעִי: רֵעִ֔י (1KI 1:8) — English (generated): Rei
+  - gloss: עֵין רֹגֵל: עֵ֣ין (1KI 1:9) — English (generated): En rogel
+  - gloss: גִּיחוֹן: גִּחֽוֹן (1KI 1:33) — English (generated): Gihon
+  - gloss: מְרִיא: מְרִ֔יא (1KI 1:9) — English (generated): and fattened calves
+  - NT: 1KI 1:3 *Abischag*
+  - answers: Abishag, Shunammite, Haggith, Rei, En-rogel, Gihon, fattened calves
+  - Formen dieses Kapitels.
+  - agent:1ki001, 2026-11-15
+- **`term:1ki002_forms`** מִלְחָמָה → **Chriegsbluet; Priesterdienscht; Bscheid; Kidron** [medium, decided, by-rule]
+  - gloss: מִלְחָמָה: מִלְחָמָ֖ה (1KI 2:5) — English (generated): of war
+  - gloss: הָיָה: הְי֥וֹת (1KI 2:27) — English (generated): from
+  - gloss: דָּבָר: דָּבָ֔ר (1KI 2:38) — English (generated): The sentence
+  - gloss: קִדְרוֹן: קִדְר֔וֹן (1KI 2:37) — English (generated): the Kidron
+  - NT: 1KI 2:37 *Kidron*
+  - answers: blood of war, priesthood, sentence, Kidron
+  - Formen dieses Kapitels.
+  - agent:1ki002, 2026-11-15
+- **`term:1ki003_forms`** בָּמָה → **Opferhöchine; Feschtmahl; Proschtituierti** [medium, decided, by-rule]
+  - gloss: בָּמָה: בָּמ֑וֹת (1KI 3:2) — English (generated): on the high places
+  - gloss: מִשְׁתֶּה: מִשְׁתֶּ֖ה (1KI 3:15) — English (generated): a feast
+  - gloss: זנה: זֹנ֖וֹת (1KI 3:16) — English (generated): prostitutes
+  - NT: 1KI 3:16 *Proschtituierti*
+  - answers: high places, feast, prostitutes
+  - Formen dieses Kapitels.
+  - agent:1ki003, 2026-11-15
+- **`term:1ki004_forms`** נָצַב → **Statthalter; Asarja; Elichoref; Schischa; Sabud; Achischar; Adoniram; Abda** [medium, decided, by-rule]
+  - gloss: נָצַב: נִּצָּבִ֑ים (1KI 4:5) — English (generated): the governors
+  - gloss: עֲזַרְיָהוּ: עֲזַרְיָ֥הוּ (1KI 4:2) — English (generated): Azariah
+  - gloss: אֱלִיחֹרֶף: אֱלִיחֹ֧רֶף (1KI 4:3) — English (generated): Elihoreph
+  - gloss: שִׁישָׁא: שִׁישָׁ֖א (1KI 4:3) — English (generated): of Shisha
+  - gloss: זָבוּד: זָב֧וּד (1KI 4:5) — English (generated): Zabud
+  - gloss: אֲחִישָׁר: אֲחִישָׁ֖ר (1KI 4:6) — English (generated): Ahishar
+  - gloss: אֲדֹנִירָם: אֲדֹנִירָ֥ם (1KI 4:6) — English (generated): and Adoniram
+  - gloss: עַבְדָּא: עַבְדָּ֖א (1KI 4:6) — English (generated): of Abda
+  - NT: 1KI 4:5 *Statthalter*
+  - answers: governors, Azariah, Elihoreph, Shisha, Zabud, Ahishar, Adoniram, Abda
+  - Formen dieses Kapitels.
+  - agent:1ki004, 2026-11-15
+- **`term:1ki005_forms`** תִּפְסַח → **Tifsach; Gasa; Etan der Esrachiter; Kalkol; Darda; Machol; Gebaliter; Steihouer** [medium, decided, by-rule]
+  - gloss: תִּפְסַח: תִּפְסַח֙ (1KI 5:4) — English (generated): from Tiphsah
+  - gloss: עַזָּה: עַזָּ֔ה (1KI 5:4) — English (generated): Gaza
+  - gloss: אֵיתָן: אֵיתָ֣ן (1KI 5:11) — English (generated): wiser than Ethan
+  - gloss: כַּלְכֹּל: כַלְכֹּ֛ל (1KI 5:11) — English (generated): Calcol
+  - gloss: דַּרְדַּע: דַרְדַּ֖ע (1KI 5:11) — English (generated): and Darda
+  - gloss: מָחוֹל: מָח֑וֹל (1KI 5:11) — English (generated): of Mahol
+  - gloss: גִּבְלִי: גִּבְלִ֑ים (1KI 5:32) — English (generated): along with the Gebalites
+  - gloss: חָצַב: חֹצֵ֥ב (1KI 5:29) — English (generated): stonecutters
+  - NT: 1KI 5:4 *Tifsach*
+  - answers: Tiphsah, Gaza, Ethan the Ezrahite, Calcol, Darda, Mahol, Gebalites, stonecutters
+  - Formen dieses Kapitels.
+  - agent:1ki005, 2026-11-15
+- **`term:1ki006_forms`** הֵיכָל → **Houptruum; Aabou; Gschoss; Olivenholz; Siw; Bul; Türpföschte** [medium, decided, by-rule]
+  - gloss: הֵיכָל: הֵיכַ֣ל (1KI 6:3) — English (generated): of the main hall
+  - gloss: יָצִיעַ: יָצִ֨יעַ֙ (1KI 6:5) — English (generated): a chambered structure
+  - gloss: יָצִיעַ: יָּצִ֨יעַ (1KI 6:6) — English (generated): floor
+  - gloss: עֵץ: עֲצֵי (1KI 6:23) — English (generated): wood
+  - gloss: זִו: זִ֗ו (1KI 6:1) — English (generated): of Ziv
+  - gloss: בּוּל: בּ֗וּל (1KI 6:38) — English (generated): of Bul
+  - gloss: מְזוּזָה: מְזוּז֖וֹת (1KI 6:31) — English (generated): doorposts
+  - NT: 1KI 6:3 *Houptruum*
+  - answers: nave, structure, story, olive wood, Ziv, Bul, doorposts
+  - Formen dieses Kapitels.
+  - agent:1ki006, 2026-11-15
+- **`term:1ki007_forms`** בַּיִת → **Libanonwaldhuus; Süülehalle; Grichtshalle; Chapitäl; Gstell; Jachin; Boas; Bronzeschmid** [medium, decided, by-rule]
+  - gloss: בַּיִת: בֵּ֣ית (1KI 7:2) — English (generated): the House
+  - gloss: אֵילָם: אוּלָ֤ם (1KI 7:6) — English (generated): his colonnade
+  - gloss: אֵילָם: אֻלָ֥ם (1KI 7:7) — English (generated): the Hall
+  - gloss: כֹּתֶרֶת: כֹתָרֹ֜ת (1KI 7:16) — English (generated): capitals
+  - gloss: מְכוֹנָה: מְּכֹנ֛וֹת (1KI 7:27) — English (generated): movable stands
+  - gloss: יָכִין: יָכִ֔ין (1KI 7:21) — English (generated): Jachin
+  - gloss: בֹּעַז: בֹּֽעַז (1KI 7:21) — English (generated): Boaz
+  - gloss: חֹרֵשׁ: חֹרֵ֣שׁ (1KI 7:14) — English (generated): a craftsman
+  - NT: 1KI 7:16 *Chapitäl*
+  - answers: House of the Forest of Lebanon, colonnade, Hall of Justice, capitals, stands, Jachin, Boaz, craftsman in bronze
+  - Formen dieses Kapitels.
+  - agent:1ki007, 2026-11-15
+- **`term:1ki008_forms`** הַ → **Etanim; Steitafele; Tragstange; Wulchedunkel; Getreidebrand; Rost; Höigümper; Bronzealtar** [medium, decided, by-rule]
+  - gloss: הַ: הָ (1KI 8:2) — English (generated): King
+  - gloss: לוּחַ: לֻח֣וֹת (1KI 8:9) — English (generated): tablets
+  - gloss: בַּד: בַּדָּ֖י (1KI 8:7) — English (generated): its poles
+  - gloss: עֲרָפֶל: עֲרָפֶֽל (1KI 8:12) — English (generated): in the thick cloud
+  - gloss: שִׁדָּפוֹן: שִׁדָּפ֨וֹן (1KI 8:37) — English (generated): blight
+  - gloss: יֵרָקוֹן: יֵרָק֜וֹן (1KI 8:37) — English (generated): mildew
+  - gloss: אַרְבֶּה: אַרְבֶּ֤ה (1KI 8:37) — English (generated): locusts
+  - gloss: מִזְבֵּחַ: מִזְבַּ֤ח (1KI 8:64) — English (generated): altar
+  - NT: 1KI 8:9 *Steitafele*
+  - answers: Ethanim, stone tablets, poles, thick darkness, blight, mildew, locust, bronze altar
+  - Formen dieses Kapitels.
+  - agent:1ki008, 2026-11-15
+- **`term:1ki009_forms`** כָּבוּל → **Kabul; Millo; Hazor; Geser; Baalat; Tamar; Ezjon-Geber; Elot** [medium, decided, by-rule]
+  - gloss: כָּבוּל: כָּב֔וּל (1KI 9:13) — English (generated): of Cabul
+  - gloss: מִלּוֹא: מִּלּ֔וֹא (1KI 9:15) — English (generated): the supporting terraces
+  - gloss: חָצוֹר: חָצֹ֥ר (1KI 9:15) — English (generated): Hazor
+  - gloss: גֶּזֶר: גָּֽזֶר (1KI 9:15) — English (generated): and Gezer
+  - gloss: בַּעֲלָת: בַּעֲלָ֛ת (1KI 9:18) — English (generated): Baalath
+  - gloss: תַּדְמֹר: תַּדְמֹ֥ר (1KI 9:18) — English (generated): Tamar
+  - gloss: עֶצְיוֹן גֶּבֶר: עֶצְיֽוֹן (1KI 9:26) — English (generated): at Ezion geber
+  - gloss: אֵילַת: אֵל֛וֹת (1KI 9:26) — English (generated): Eloth
+  - NT: 1KI 9:13 *Kabul*
+  - answers: Cabul, Millo, Hazor, Gezer, Baalath, Tamar, Ezion-geber, Eloth
+  - Formen dieses Kapitels.
+  - agent:1ki009, 2026-11-15
+- **`term:1ki010_forms`** מַלְכָּה → **Chünigin vo Scheba; Almuggimholz; Tarsisschiff; Elfebei; Pfaue; Wagestedt; Kue; Sykomore** [medium, decided, by-rule]
+  - gloss: מַלְכָּה: מַֽלְכַּת (1KI 10:1) — English (generated): Now when the queen
+  - gloss: עֵץ: עֲצֵ֧י (1KI 10:11) — English (generated): wood
+  - gloss: אֳנִי: אֳנִ֨י (1KI 10:22) — English (generated): the ships
+  - gloss: שֵׁן: שֵׁ֖ן (1KI 10:18) — English (generated): of ivory
+  - gloss: תֻּכִּיִּים: תֻכִּיִּֽים (1KI 10:22) — English (generated): and peacocks
+  - gloss: עִיר: עָרֵ֣י (1KI 10:26) — English (generated): cities
+  - gloss: קֹוֶה: קְוֵ֕ה (1KI 10:28) — English (generated): from Egypt
+  - gloss: שִׁקְמָה: שִּׁקְמִ֥ים (1KI 10:27) — English (generated): as sycamore
+  - NT: 1KI 10:1 *Chünigin*
+  - answers: queen of Sheba, almug wood, ships of Tarshish, ivory, peacocks, chariot cities, Kue, sycamore
+  - Formen dieses Kapitels.
+  - agent:1ki010, 2026-11-15
+- **`term:1ki011_forms`** עַשְׁתֹּרֶת → **Aschtoret; Milkom; Tachpenes; Genubat; Reson; Jerobeam; Zereda; Schischak** [medium, decided, by-rule]
+  - gloss: עַשְׁתֹּרֶת: עַשְׁתֹּ֔רֶת (1KI 11:5) — English (generated): Ashtoreth
+  - gloss: מִלכֹּם: מִלְכֹּ֔ם (1KI 11:5) — English (generated): and Milcom
+  - gloss: תַּחְפְּנֵיס: תַּחְפְּנֵ֥יס (1KI 11:19) — English (generated): Tahpenes
+  - gloss: גְּנֻבַת: גְּנֻבַ֣ת (1KI 11:20) — English (generated): named Genubath
+  - gloss: רְזוֹן: רְז֖וֹן (1KI 11:23) — English (generated): Rezon
+  - gloss: יָרָבְעָם: יָרָבְעָם֩ (1KI 11:26) — English (generated): Now Jeroboam
+  - gloss: צְרֵדָה: צְּרֵדָ֗ה (1KI 11:26) — English (generated): Zeredah
+  - gloss: שִׁישַׁק: שִׁישַׁ֣ק (1KI 11:40) — English (generated): Shishak
+  - NT: 1KI 11:26 *Jerobeam*
+  - answers: Ashtoreth, Milcom, Tahpenes, Genubath, Rezon, Jeroboam, Zeredah, Shishak
+  - Formen dieses Kapitels.
+  - agent:1ki011, 2026-11-15
+- **`term:1ki012_forms`** אֲדֹרָם → **Adoram; Schemaja; Penuel; Skorpione; Geissle; Chalber; Rehabeam; Sichem** [medium, decided, by-rule]
+  - gloss: אֲדֹרָם: אֲדֹרָם֙ (1KI 12:18) — English (generated): Adoram
+  - gloss: שְׁמַעְיָה: שְׁמַעְיָ֥ה (1KI 12:22) — English (generated): Shemaiah
+  - gloss: פְּנוּאֵל: פְּנוּאֵֽל (1KI 12:25) — English (generated): Penuel
+  - gloss: עַקְרָב: עַקְרַבִּֽים (1KI 12:11) — English (generated): with scorpions
+  - gloss: שׁוֹט: שּׁוֹטִ֔ים (1KI 12:11) — English (generated): with whips
+  - gloss: עֵגֶל: עֶגְלֵ֣י (1KI 12:28) — English (generated): calves
+  - gloss: רְחַבְעָם: רְחַבְעָ֖ם (1KI 12:1) — English (generated): Then Rehoboam
+  - gloss: שְׁכֶם: שְׁכֶ֑ם (1KI 12:1) — English (generated): to Shechem
+  - NT: 1KI 12:22 *Schemaja*
+  - answers: Adoram, Shemaiah, Penuel, scorpions, whips, calves, Rehoboam, Shechem
+  - Formen dieses Kapitels.
+  - agent:1ki012, 2026-11-15
+- **`term:1ki013_forms`** יֹאשִׁיָּהוּ → **Josija; Lychnam; Löi; Esel; Mönschechnoche; Samarie** [medium, decided, by-rule]
+  - gloss: יֹאשִׁיָּהוּ: יֹאשִׁיָּ֣הוּ (1KI 13:2) — English (generated): Josiah
+  - gloss: נְבֵלָה: נִבְלָת (1KI 13:24) — English (generated): and his body
+  - gloss: אַרְיֵה: אַרְיֵ֛ה (1KI 13:24) — English (generated): a lion
+  - gloss: חֲמוֹר: חֲמ֑וֹר (1KI 13:13) — English (generated): the donkey
+  - gloss: עֶצֶם: עַצְמ֥וֹת (1KI 13:2) — English (generated): bones
+  - gloss: שֹׁמְרוֹן: שֹׁמְרֽוֹן (1KI 13:32) — English (generated): of Samaria
+  - NT: 1KI 13:2 *Josija*
+  - answers: Josiah, body, lion, donkey, human bones, Samaria
+  - Formen dieses Kapitels.
+  - agent:1ki013, 2026-11-15
+- **`term:1ki014_forms`** אֲבִיָּה → **Abija; Tirza; Naama; Abijam; Lybwach; Wachtstube; Tämpelhuerer** [medium, decided, by-rule]
+  - gloss: אֲבִיָּה: אֲבִיָּ֥ה (1KI 14:1) — English (generated): Abijah
+  - gloss: תִּרְצָה: תִרְצָ֑תָ (1KI 14:17) — English (generated): Tirzah
+  - gloss: נַעֲמָה: נַעֲמָ֖ה (1KI 14:21) — English (generated): was Naamah
+  - gloss: אֲבִיָּם: אֲבִיָּ֥ם (1KI 14:31) — English (generated): Abijam
+  - gloss: רוּץ: רָצִ֔ים (1KI 14:27) — English (generated): of the guard
+  - gloss: תָּא: תָּ֥א (1KI 14:28)
+  - gloss: קָדֵשׁ: קָדֵ֖שׁ (1KI 14:24) — English (generated): male shrine prostitutes
+  - NT: 1KI 14:17 *Tirza*
+  - answers: Abijah, Tirzah, Naamah, Abijam, guard, guardroom, male shrine prostitutes
+  - Formen dieses Kapitels.
+  - agent:1ki014, 2026-11-15
+- **`term:1ki015_forms`** מַעֲכָה → **Maacha; Abischalom; Bascha; Ben-Hadad; Tabrimmon; Hesjon; Ijon; Abel-Bet-Maacha; Kinneret; Gibbeton** [medium, decided, by-rule]
+  - gloss: מַעֲכָה: מַעֲכָ֖ה (1KI 15:2) — English (generated): was Maacah
+  - gloss: אֲבִישָׁלוֹם: אֲבִישָׁלֽוֹם (1KI 15:2) — English (generated): of Abishalom
+  - gloss: בַּעְשָׁא: בַּעְשָׁ֥א (1KI 15:16) — English (generated): and Baasha
+  - gloss: בֶּן הֲדַד: בֶּן (1KI 15:18) — English (generated): Ben hadad
+  - gloss: טַבְרִמֹּן: טַבְרִמֹּ֤ן (1KI 15:18) — English (generated): of Tabrimmon
+  - gloss: חֶזְיוֹן: חֶזְיוֹן֙ (1KI 15:18) — English (generated): of Hezion
+  - gloss: עִיּוֹן: עִיּ֣וֹן (1KI 15:20) — English (generated): Ijon
+  - gloss: אָבֵל בֵּית מַעֲכָה: אָבֵ֣ל (1KI 15:20)
+  - gloss: כִּנֶּרֶת: כִּנְר֔וֹת (1KI 15:20) — English (generated): of Chinnereth
+  - gloss: גִּבְּתוֹן: גִבְּת֖וֹן (1KI 15:27) — English (generated): at Gibbethon
+  - NT: 1KI 15:16 *Bascha*
+  - answers: Maacah, Abishalom, Baasha, Ben-hadad, Tabrimmon, Hezion, Ijon, Abel-beth-maacah, Chinneroth, Gibbethon
+  - Formen dieses Kapitels.
+  - agent:1ki015, 2026-11-15
+- **`term:1ki016_forms`** יֵהוּא → **Jehu; Hanani; Simri; Arza; Omri; Tibni; Ginat; Schemer; Ahab; Isebel; Etbaal; Hiel; Segub** [medium, decided, by-rule]
+  - gloss: יֵהוּא: יֵה֣וּא (1KI 16:1) — English (generated): Jehu
+  - gloss: חֲנָנִי: חֲנָ֔נִי (1KI 16:1) — English (generated): of Hanani
+  - gloss: זִמְרִי: זִמְרִ֔י (1KI 16:9) — English (generated): Zimri
+  - gloss: אַרְצָא: אַרְצָ֔א (1KI 16:9) — English (generated): of Arza
+  - gloss: עׇמְרִי: עָמְרִ֨י (1KI 16:16) — English (generated): proclaimed Omri
+  - gloss: תִּבְנִי: תִבְנִ֤י (1KI 16:21) — English (generated): Tibni
+  - gloss: גִּינַת: גִּינַת֙ (1KI 16:21) — English (generated): of Ginath
+  - gloss: שֶׁמֶר: שֶׁ֖מֶר (1KI 16:24) — English (generated): Shemer
+  - gloss: אַחְאָב: אַחְאָ֥ב (1KI 16:28) — English (generated): Ahab
+  - gloss: אִיזֶבֶל: אִיזֶ֗בֶל (1KI 16:31) — English (generated): Jezebel
+  - gloss: אֶתְבַּעַל: אֶתְבַּ֨עַל֙ (1KI 16:31) — English (generated): of Ethbaal
+  - gloss: חִיאֵל: חִיאֵ֛ל (1KI 16:34) — English (generated): Hiel
+  - gloss: שְׂגוּב: שְׂג֤וּב (1KI 16:34) — English (generated): and at the cost of Segub
+  - NT: 1KI 16:24 *Schemer*
+  - answers: Jehu, Hanani, Zimri, Arza, Omri, Tibni, Ginath, Shemer, Ahab, Jezebel, Ethbaal, Hiel, Segub
+  - Formen dieses Kapitels.
+  - agent:1ki016, 2026-11-15
+- **`term:1ki017_forms`** תִּשְׁבִּי → **Tischbiter; Tischbe; Krit; Sarepta; Witfrou; Dachstube; Chrüegli** [medium, decided, by-rule]
+  - gloss: תִּשְׁבִּי: תִּשְׁבִּ֜י (1KI 17:1) — English (generated): the Tishbite
+  - gloss: תֹּושָׁב: תֹּשָׁבֵ֣י (1KI 17:1) — English (generated): the Tishbite
+  - gloss: כְּרִית: כְּרִ֔ית (1KI 17:3) — English (generated): of Cherith
+  - gloss: צָרְפַת: צָרְפַ֨תָ (1KI 17:9) — English (generated): to Zarephath
+  - gloss: אִשָּׁה: אִשָּׁ֥ה (1KI 17:9)
+  - gloss: עֲלִיָּה: עֲלִיָּ֗ה (1KI 17:19) — English (generated): the upper room
+  - gloss: צַפַּחַת: צַּפָּ֑חַת (1KI 17:12) — English (generated): in a jug
+  - NT: 1KI 17:9 *Sarepta*
+  - answers: Tishbite, Tishbe, Cherith, Zarephath, widow, upper room, jug
+  - Formen dieses Kapitels.
+  - agent:1ki017, 2026-11-15
+- **`term:1ki018_forms`** עֹבַדְיָהוּ → **Obadja; Karmel; Kischon; Jesreel; Höli; Muultier; Unglücksbringer; Luft** [medium, decided, by-rule]
+  - gloss: עֹבַדְיָהוּ: עֹבַדְיָ֖הוּ (1KI 18:3) — English (generated): Obadiah
+  - gloss: כַּרְמֶל: כַּרְמֶ֑ל (1KI 18:19) — English (generated): Carmel
+  - gloss: קִישׁוֹן: קִישׁ֔וֹן (1KI 18:40) — English (generated): the Kishon
+  - gloss: יִזְרְעֶאל: יִזְרְעֶֽאלָ (1KI 18:45) — English (generated): to Jezreel
+  - gloss: מְעָרָה: מְּעָרָ֔ה (1KI 18:4) — English (generated): per cave
+  - gloss: פֶּרֶד: פֶ֔רֶד (1KI 18:5) — English (generated): and mules
+  - gloss: עָכַר: עֹכֵ֥ר (1KI 18:17) — English (generated): O troubler
+  - gloss: רוּחַ: ר֔וּחַ (1KI 18:45) — English (generated): and wind
+  - NT: 1KI 18:3 *Obadja*
+  - answers: Obadiah, Carmel, Kishon, Jezreel, cave, mules, troubler, wind
+  - Formen dieses Kapitels.
+  - agent:1ki018, 2026-11-15
+- **`term:1ki019_forms`** רֹתֶם → **Ginschterbusch; Horeb; Hasael; Nimschi; Elisha; Schafat; Abel-Mehola; Gsüüsel** [medium, decided, by-rule]
+  - gloss: רֹתֶם: רֹ֣תֶם (1KI 19:4) — English (generated): broom tree
+  - gloss: חֹרֵב: חֹרֵֽב (1KI 19:8) — English (generated): Horeb
+  - gloss: חֲזָאֵל: חֲזָאֵ֛ל (1KI 19:15) — English (generated): Hazael
+  - gloss: נִמְשִׁי: נִמְשִׁ֔י (1KI 19:16) — English (generated): of Nimshi
+  - gloss: אֱלִישָׁע: אֱלִישָׁ֤ע (1KI 19:16) — English (generated): and Elisha
+  - gloss: שָׁפָט: שָׁפָט֙ (1KI 19:16) — English (generated): of Shaphat
+  - gloss: אָבֵל מְחוֹלָה: אָבֵ֣ל (1KI 19:16) — English (generated): from Abel meholah
+  - gloss: קוֹל: ק֖וֹל (1KI 19:12) — English (generated): voice
+  - NT: 1KI 19:16 *Elisha*
+  - answers: broom tree, Horeb, Hazael, Nimshi, Elisha, Shaphat, Abel-meholah, whisper
+  - Formen dieses Kapitels.
+  - agent:1ki019, 2026-11-15
+- **`term:1ki020_forms`** בֶּן הֲדַד → **Ben-Hadad; Afek; Jungmanne; Provinze; Statthalter; Bärggötter; Binde** [medium, decided, by-rule]
+  - gloss: בֶּן הֲדַד: בֶן (1KI 20:1) — English (generated): Now Ben hadad
+  - gloss: אֲפֵק: אֲפֵ֔קָ (1KI 20:26) — English (generated): to Aphek
+  - gloss: נַעַר: נַעֲרֵ֖י (1KI 20:14) — English (generated): By the young officers
+  - gloss: מְדִינָה: מְּדִינ֑וֹת (1KI 20:14) — English (generated): of the district
+  - gloss: פֶּחָה: פַּח֖וֹת (1KI 20:24) — English (generated): with other officers
+  - gloss: אֱלֹהִים: אֱלֹהֵ֤י (1KI 20:23) — English (generated): gods
+  - gloss: אֲפֵר: אֲפֵ֖ר (1KI 20:38) — English (generated): with a bandage
+  - NT: 1KI 20:26 *Afek*
+  - answers: Ben-hadad, Aphek, young men, provinces, captains, gods of the hills, bandage
+  - Formen dieses Kapitels.
+  - agent:1ki020, 2026-11-15
+- **`term:1ki021_forms`** נָבוֹת → **Nabot; Wybärg; Gmüesgarte; Fasttag; Nüütnutze; Vornähme; Vormuur** [medium, decided, by-rule]
+  - gloss: נָבוֹת: נָב֥וֹת (1KI 21:1) — English (generated): Naboth
+  - gloss: כֶּרֶם: כֶּ֧רֶם (1KI 21:1) — English (generated): a vineyard
+  - gloss: גַּן: גַן (1KI 21:2) — English (generated): garden
+  - gloss: צוֹם: צ֔וֹם (1KI 21:9) — English (generated): a fast
+  - gloss: בֵּן: בְּנֵֽי (1KI 21:10)
+  - gloss: חֹר: חֹרִים֙ (1KI 21:8) — English (generated): and nobles
+  - gloss: חֵיל: חֵ֥ל (1KI 21:23) — English (generated): by the wall
+  - NT: 1KI 21:1 *Nabot*
+  - answers: Naboth, vineyard, vegetable garden, fast, worthless men, nobles, wall
+  - Formen dieses Kapitels.
+  - agent:1ki021, 2026-11-15
+- **`term:1ki022_forms`** רָמֹת → **Ramot; Michaja; Jimla; Zidkija; Kenaana; Amon; Joasch; Ahasja; Asuba; Schilchi; Joram** [medium, decided, by-rule]
+  - gloss: רָמֹת: רָמֹ֣ת (1KI 22:3) — English (generated): is ours
+  - gloss: מִיכָיְהוּ: מִיכָ֖יְהוּ (1KI 22:8) — English (generated): He is Micaiah
+  - gloss: יִמְלָא: יִמְלָ֑ה (1KI 22:8) — English (generated): of Imlah
+  - gloss: צִדְקִיָּה: צִדְקִיָּ֥ה (1KI 22:11) — English (generated): Now Zedekiah
+  - gloss: כְּנַעֲנָה: כְּנַעֲנָ֖ה (1KI 22:11) — English (generated): of Chenaanah
+  - gloss: אָמוֹן: אָמֹ֣ן (1KI 22:26) — English (generated): Amon
+  - gloss: יוֹאָשׁ: יוֹאָ֖שׁ (1KI 22:26) — English (generated): Joash
+  - gloss: אֲחַזְיָהוּ: אֲחַזְיָ֥הוּ (1KI 22:40) — English (generated): Ahaziah
+  - gloss: עֲזוּבָה: עֲזוּבָ֖ה (1KI 22:42) — English (generated): was Azubah
+  - gloss: שִׁלְחִי: שִׁלְחִֽי (1KI 22:42) — English (generated): of Shilhi
+  - gloss: יְהוֹרָם: יְהוֹרָ֥ם (1KI 22:51) — English (generated): Jehoram
+  - NT: 1KI 22:8 *Michaja*
+  - answers: Ramoth, Micaiah, Imlah, Zedekiah, Chenaanah, Amon, Joash, Ahaziah, Azubah, Shilhi, Jehoram
+  - Formen dieses Kapitels.
+  - agent:1ki022, 2026-11-15
+- **`term:2ki001_forms`** בַּעַל → **Baal-Sebub; Ekron; Oberscht über füfzg; Gitter** [medium, decided, by-rule]
+  - gloss: בַּעַל: בַ֤עַל (2KI 1:2) — English (generated): of Baal zebub
+  - gloss: עֶקְרוֹן: עֶקְר֔וֹן (2KI 1:2) — English (generated): of Ekron
+  - gloss: שַׂר: שַׂר (2KI 1:9) — English (generated): a captain
+  - gloss: שְׂבָכָה: שְּׂבָכָ֗ה (2KI 1:2) — English (generated): the lattice
+  - NT: 2KI 1:2 *Baal-Sebub*
+  - answers: Baal-zebub, Ekron, captain of fifty, lattice
+  - Formen dieses Kapitels.
+  - agent:2ki001, 2026-11-15
+- **`term:2ki002_forms`** סְעָרָה → **Sturmwind; Füürwage; Füürross; Prophetejünger; Fählgeburte; Glatzchopf; Bärine** [medium, decided, by-rule]
+  - gloss: סְעָרָה: סְעָרָ֖ה (2KI 2:1) — English (generated): in a whirlwind
+  - gloss: רֶכֶב: רֶֽכֶב (2KI 2:11) — English (generated): a chariot
+  - gloss: סוּס: ס֣וּסֵי (2KI 2:11) — English (generated): with horses
+  - gloss: בֵּן: בְנֵֽי (2KI 2:3) — English (generated): Then the sons
+  - gloss: שׁכל: מְשַׁכָּֽלֶת (2KI 2:19) — English (generated): is unfruitful
+  - gloss: קֵרֵחַ: קֵרֵ֖חַ (2KI 2:23) — English (generated): you baldhead
+  - gloss: דֹּב: דֻּבִּים֙ (2KI 2:24) — English (generated): female bears
+  - NT: 2KI 2:1 *Sturmwind*
+  - answers: whirlwind, chariot of fire, horses of fire, sons of the prophets, unfruitful, baldhead, bears
+  - Formen dieses Kapitels.
+  - agent:2ki002, 2026-11-15
+- **`term:2ki003_forms`** מֵישַׁע → **Mescha; Schafzüchter; Spilmaa; Kir-Hareset; Schlöiderer** [medium, decided, by-rule]
+  - gloss: מֵישַׁע: מֵישַׁ֥ע (2KI 3:4) — English (generated): Now Mesha
+  - gloss: נֹקֵד: נֹקֵ֑ד (2KI 3:4) — English (generated): a sheep breeder
+  - gloss: נָגַן: מְנַגֵּ֑ן (2KI 3:15) — English (generated): a harpist
+  - gloss: קִיר חֲרָשֶׂת: קִּ֖יר (2KI 3:25) — English (generated): Kir haraseth
+  - gloss: קַלָּע: קַּלָּעִ֖ים (2KI 3:25) — English (generated): but men with slings
+  - NT: 2KI 3:4 *Mescha*
+  - answers: Mesha, sheep breeder, musician, Kir-hareseth, slingers
+  - Formen dieses Kapitels.
+  - agent:2ki003, 2026-11-15
+- **`term:2ki004_forms`** נשׁא → **Schuldherr; Chrüegli; Schunemiterin; Gehasi; Hafe; Mues; Baal-Schalischa** [medium, decided, by-rule]
+  - gloss: נשׁא: נֹּשֶׁ֔ה (2KI 4:1) — English (generated): And now his creditor
+  - gloss: אָסוּךְ: אָס֥וּךְ (2KI 4:2) — English (generated): a jar
+  - gloss: שׁוּנַמִּי: שּׁוּנַמִּ֣ית (2KI 4:12) — English (generated): Shunammite woman
+  - gloss: גֵּיחֲזִי: גֵּחֲזִ֣י (2KI 4:12) — English (generated): Gehazi
+  - gloss: סִיר: סִּ֣יר (2KI 4:38) — English (generated): pot
+  - gloss: נָזִיד: נָזִ֖יד (2KI 4:38) — English (generated): some stew
+  - gloss: בַּעַל שָׁלִשָׁה: בַּ֣עַל (2KI 4:42) — English (generated): from Baal shalishah
+  - NT: 2KI 4:12 *Gehasi*
+  - answers: creditor, jar, Shunammite, Gehazi, pot, stew, Baal-shalishah
+  - Formen dieses Kapitels.
+  - agent:2ki004, 2026-11-15
+- **`term:2ki005_forms`** נַעֲמָן → **Naaman; Abana; Parpar; Feschtchleider; Rimmon; Hoger** [medium, decided, by-rule]
+  - gloss: נַעֲמָן: נַעֲמָן (2KI 5:1) — English (generated): Now Naaman
+  - gloss: אֲמָנָה: אֲמָנָ֨ה (2KI 5:12) — English (generated): the Abanah
+  - gloss: פַּרְפַּר: פַרְפַּ֜ר (2KI 5:12) — English (generated): and Pharpar
+  - gloss: חֲלִיפָה: חֲלִיפ֥וֹת (2KI 5:5) — English (generated): sets
+  - gloss: רִמּוֹן: רִמּוֹן֩ (2KI 5:18) — English (generated): of Rimmon
+  - gloss: עֹפֶל: עֹ֔פֶל (2KI 5:24) — English (generated): the hill
+  - NT: 2KI 5:1 *Naaman*
+  - answers: Naaman, Abana, Pharpar, sets of clothing, Rimmon, hill
+  - Formen dieses Kapitels.
+  - agent:2ki005, 2026-11-15
+- **`term:2ki006_forms`** דֹּתָן → **Dotan; Blindheit; Kab; Tubemischt; Mördersuhn** [medium, decided, by-rule]
+  - gloss: דֹּתָן: דֹתָֽן (2KI 6:13) — English (generated): Elisha is in Dothan
+  - gloss: סַנְוֵרִים: סַּנְוֵרִ֑ים (2KI 6:18) — English (generated): with blindness
+  - gloss: קַב: קַּ֥ב (2KI 6:25) — English (generated): cab
+  - gloss: דִּבְיוֹנִים: דִּבְיוֹנִ֖ים (2KI 6:25) — English (generated): of dove s dung
+  - gloss: בֵּן: בֶּן (2KI 6:32) — English (generated): murderer
+  - NT: 2KI 6:13 *Dotan*
+  - answers: Dothan, blindness, kab, dove’s dung, son of a murderer
+  - Formen dieses Kapitels.
+  - agent:2ki006, 2026-11-15
+- **`term:2ki007_forms`** סְאָה → **Määs; Feimähl; Offizier; Ussätzige; Torwächter** [medium, decided, by-rule]
+  - gloss: סְאָה: סְאָֽה (2KI 7:1) — English (generated): a seah
+  - gloss: סֹלֶת: סֹ֣לֶת (2KI 7:1) — English (generated): of fine flour
+  - gloss: שָׁלִישׁ: שָּׁלִ֡ישׁ (2KI 7:2) — English (generated): But the officer
+  - gloss: צָרַע: מְצֹרָעִ֨ים (2KI 7:8) — English (generated): lepers
+  - gloss: שֹׁועֵר: שֹׁעֵ֣ר (2KI 7:10) — English (generated): the gatekeepers
+  - NT: 2KI 7:2 *Offizier*
+  - answers: seah, fine flour, officer, lepers, gatekeepers
+  - Formen dieses Kapitels.
+  - agent:2ki007, 2026-11-15
+- **`term:2ki008_forms`** חֲזָאֵל → **Hasael; Zair; Libna; Atalja; Decki** [medium, decided, by-rule]
+  - gloss: חֲזָאֵל: חֲזָהאֵ֗ל (2KI 8:8) — English (generated): Hazael
+  - gloss: צָעִיר: צָעִ֔ירָ (2KI 8:21) — English (generated): to Zair
+  - gloss: לִבְנָה: לִבְנָ֖ה (2KI 8:22) — English (generated): Libnah
+  - gloss: עֲתַלְיָהוּ: עֲתַלְיָ֔הוּ (2KI 8:26) — English (generated): was Athaliah
+  - gloss: מַכְבֵּר: מַּכְבֵּר֙ (2KI 8:15) — English (generated): a thick cloth
+  - NT: 2KI 8:8 *Hasael*
+  - answers: Hazael, Zair, Libnah, Athaliah, bed-cover
+  - Formen dieses Kapitels.
+  - agent:2ki008, 2026-11-15
+- **`term:2ki009_forms`** יֵהוּא → **Jehu; Nimschi; Bidkar; Bet-Hagan; Gur; Jibleam; Schminki** [medium, decided, by-rule]
+  - gloss: יֵהוּא: יֵה֨וּא (2KI 9:2) — English (generated): for Jehu
+  - gloss: נִמְשִׁי: נִמְשִׁ֗י (2KI 9:2) — English (generated): of Nimshi
+  - gloss: בִּדְקַר: בִּדְקַר֙ (2KI 9:25) — English (generated): Bidkar
+  - gloss: בֵּית הַגָּן: בֵּ֣ית (2KI 9:27)
+  - gloss: גּוּר: גוּר֙ (2KI 9:27) — English (generated): of Gur
+  - gloss: יִבְלְעָם: יִבְלְעָ֔ם (2KI 9:27) — English (generated): near Ibleam
+  - gloss: פּוּךְ: פּ֤וּךְ (2KI 9:30)
+  - NT: 2KI 9:2 *Jehu*
+  - answers: Jehu, Nimshi, Bidkar, Beth-haggan, Gur, Ibleam, paint
+  - Formen dieses Kapitels.
+  - agent:2ki009, 2026-11-15
+- **`term:2ki010_forms`** אָמַן → **Vormünder; Chörb; Bet-Eked-Haroim; Jonadab; Rechab; Chleiderchammere; Abtritt; Joahas** [medium, decided, by-rule]
+  - gloss: אָמַן: אֹמְנִ֥ים (2KI 10:1) — English (generated): the guardians
+  - gloss: דּוּד: דּוּדִ֔ים (2KI 10:7) — English (generated): in baskets
+  - gloss: בֵּית עֵקֶד הָרֹעִים: בֵּֽית (2KI 10:12) — English (generated): At Beth eked
+  - gloss: יְהוֹנָדָב: יְהוֹנָדָב֩ (2KI 10:15) — English (generated): Jehonadab
+  - gloss: רֵכָב: רֵכָ֨ב (2KI 10:15) — English (generated): of Rechab
+  - gloss: מֶלְתָּחָה: מֶּלְתָּחָ֔ה (2KI 10:22) — English (generated): of the wardrobe
+  - gloss: מוֹצָאָה: מֽוֹצָא֖וֹת (2KI 10:27) — English (generated): it into a latrine
+  - gloss: יְהוֹאָחָז: יְהוֹאָחָ֥ז (2KI 10:35) — English (generated): Jehoahaz
+  - NT: 2KI 10:15 *Jonadab*
+  - answers: guardians, baskets, Beth-eked, Jehonadab, Rechab, wardrobe, latrine, Jehoahaz
+  - Formen dieses Kapitels.
+  - agent:2ki010, 2026-11-15
+- **`term:2ki011_forms`** יְהוֹשֶׁבַע → **Joscheba; Kariter; Hundertschafte; Sur; Mattan; Läufertor** [medium, decided, by-rule]
+  - gloss: יְהוֹשֶׁבַע: יְהוֹשֶׁ֣בַע (2KI 11:2) — English (generated): But Jehosheba
+  - gloss: כָּרִי: כָּרִי֙ (2KI 11:4) — English (generated): the Carites
+  - gloss: מֵאָה: מֵּא֗וֹת (2KI 11:4) — English (generated): of hundreds
+  - gloss: סוּר: ס֔וּר (2KI 11:6) — English (generated): of Sur
+  - gloss: מַתָּן: מַתָּן֙ (2KI 11:18) — English (generated): Mattan
+  - gloss: שַׁעַר: שַׁ֥עַר (2KI 11:19) — English (generated): of the Gate
+  - NT: 2KI 11:2 *Joscheba*
+  - answers: Jehosheba, Carites, hundreds, Sur, Mattan, Gate of the Guards
+  - Formen dieses Kapitels.
+  - agent:2ki011, 2026-11-15
+- **`term:2ki012_forms`** צִבְיָה → **Zibja; Chischte; Schäde; Mürer; Silla; Josabad; Schimeat; Schomer; Amazja** [medium, decided, by-rule]
+  - gloss: צִבְיָה: צִבְיָ֖ה (2KI 12:2) — English (generated): was Zibiah
+  - gloss: אֲרוֹן: אֲר֣וֹן (2KI 12:10) — English (generated): chest
+  - gloss: בֶּדֶק: בֶּ֣דֶק (2KI 12:6) — English (generated): any damage
+  - gloss: גָּדַר: גֹּֽדְרִים֙ (2KI 12:13) — English (generated): masons
+  - gloss: סִלָּא: סִלָּֽא (2KI 12:21) — English (generated): to Silla
+  - gloss: יֹוזָבָד: יוֹזָבָ֣ד (2KI 12:22) — English (generated): Jozabad
+  - gloss: שִׁמְעָת: שִׁ֠מְעָת (2KI 12:22) — English (generated): of Shimeath
+  - gloss: שֹׁמֵר: שֹׁמֵ֤ר (2KI 12:22) — English (generated): of Shomer
+  - gloss: אֲמַצְיָה: אֲמַצְיָ֥ה (2KI 12:22) — English (generated): Amaziah
+  - NT: 2KI 12:2 *Zibja*
+  - answers: Zibiah, chest, damage, masons, Silla, Jozabad, Shimeath, Shomer, Amaziah
+  - Formen dieses Kapitels.
+  - agent:2ki012, 2026-11-15
+- **`term:2ki013_forms`** יְהוֹאָחָז → **Joahas; Retter; Afek; Strifzüg; Fuessvolk** [medium, decided, by-rule]
+  - gloss: יְהוֹאָחָז: יְהוֹאָחָ֨ז (2KI 13:1) — English (generated): Jehoahaz
+  - gloss: יָשַׁע: מוֹשִׁ֔יעַ (2KI 13:5) — English (generated): a deliverer
+  - gloss: אֲפֵק: אֲפֵ֖ק (2KI 13:17) — English (generated): in Aphek
+  - gloss: גְּדוּד: גְדוּדֵ֥י (2KI 13:20) — English (generated): raiders
+  - gloss: רַגְלִי: רַגְלִ֑י (2KI 13:7) — English (generated): foot soldiers
+  - NT: 2KI 13:1 *Joahas*
+  - answers: Jehoahaz, deliverer, Aphek, bands, footmen
+  - Formen dieses Kapitels.
+  - agent:2ki013, 2026-11-15
+- **`term:2ki014_forms`** יְהוֹעַדָּן → **Joaddan; Salztal; Jokteel; Distelstruuch; Efraimtor; Eggtor; Elat; Gat-Hefer; Secharja** [medium, decided, by-rule]
+  - gloss: יְהוֹעַדָּן: יְהֽוֹעַדָּ֖ן (2KI 14:2) — English (generated): was Jehoaddan
+  - gloss: גַּיְא: גֵיא (2KI 14:7) — English (generated): in the Valley
+  - gloss: יׇקְתְאֵל: יָקְתְאֵ֔ל (2KI 14:7) — English (generated): it Joktheel
+  - gloss: הַ: הַ (2KI 14:9) — English (generated): A thistle
+  - gloss: שַׁעַר: שַׁ֤עַר (2KI 14:13) — English (generated): Gate
+  - gloss: הַ: הַ (2KI 14:13) — English (generated): the Corner
+  - gloss: אֵילַת: אֵילַ֔ת (2KI 14:22) — English (generated): Elath
+  - gloss: גַּת הַחֵפֶר: גַּ֥ת (2KI 14:25) — English (generated): from Gath hepher
+  - gloss: זְכַרְיָה: זְכַרְיָ֥ה (2KI 14:29) — English (generated): Zechariah
+  - NT: 2KI 14:2 *Joaddan*
+  - answers: Jehoaddin, Valley of Salt, Joktheel, thistle, Gate of Ephraim, Corner Gate, Elath, Gath-hepher, Zechariah
+  - Formen dieses Kapitels.
+  - agent:2ki014, 2026-11-15
+- **`term:2ki015_forms`** יְכָלְיָהוּ → **Jecholja; Jotam; Schallum; Menachem; Tifsach; Pul; Pekachja; Pekach; Remalja; Tiglat-Pileser; Hoschea; Jeruscha; Rezin; Ahas** [medium, decided, by-rule]
+  - gloss: יְכָלְיָהוּ: יְכָלְיָ֖הוּ (2KI 15:2) — English (generated): was Jecoliah
+  - gloss: יוֹתָם: יוֹתָ֤ם (2KI 15:5) — English (generated): Jotham
+  - gloss: שַׁלּוּם: שַׁלֻּ֣ם (2KI 15:10) — English (generated): Then Shallum
+  - gloss: מְנַחֵם: מְנַחֵ֨ם (2KI 15:14) — English (generated): Then Menahem
+  - gloss: תִּפְסַח: תִּפְסַ֨ח (2KI 15:16) — English (generated): Tiphsah
+  - gloss: פּוּל: פ֤וּל (2KI 15:19) — English (generated): Then Pul
+  - gloss: פְּקַחְיָה: פְּקַחְיָ֥ה (2KI 15:22) — English (generated): Pekahiah
+  - gloss: פֶּקַח: פֶּ֨קַח (2KI 15:25) — English (generated): Pekah
+  - gloss: רְמַלְיָהוּ: רְמַלְיָ֜הוּ (2KI 15:25) — English (generated): of Remaliah
+  - gloss: תִּגְלַת פִּלְאֶסֶר: תִּגְלַ֣ת (2KI 15:29) — English (generated): Tiglath pileser
+  - gloss: הוֹשֵׁעַ: הוֹשֵׁ֣עַ (2KI 15:30) — English (generated): Then Hoshea
+  - gloss: יְרוּשָׁא: יְרוּשָׁ֖א (2KI 15:33) — English (generated): was Jerusha
+  - gloss: רְצִין: רְצִ֖ין (2KI 15:37) — English (generated): Rezin
+  - gloss: אָחָז: אָחָ֥ז (2KI 15:38) — English (generated): Ahaz
+  - NT: 2KI 15:10 *Schallum*
+  - answers: Jecoliah, Jotham, Shallum, Menahem, Tiphsah, Pul, Pekahiah, Pekah, Remaliah, Tiglath-pileser, Hoshea, Jerusha, Rezin, Ahaz
+  - Formen dieses Kapitels.
+  - agent:2ki015, 2026-11-15
+- **`term:2ki016_forms`** אוּרִיָּה → **Urija; Kir; Bronzealtar; Abbild; Bouplan; Sabbatdach; Hiskija** [medium, decided, by-rule]
+  - gloss: אוּרִיָּה: אוּרִיָּ֣ה (2KI 16:10) — English (generated): Uriah
+  - gloss: קִיר: קִ֑ירָ (2KI 16:9) — English (generated): to Kir as captives
+  - gloss: מִזְבֵּחַ: מִּזְבַּ֣ח (2KI 16:14) — English (generated): altar
+  - gloss: דְּמוּת: דְּמ֧וּת (2KI 16:10) — English (generated): a model
+  - gloss: תַּבְנִית: תַּבְנִית֖ (2KI 16:10) — English (generated): and complete plans
+  - gloss: מוּסָךְ: מוּסַ֨ךְ (2KI 16:18) — English (generated): canopy
+  - gloss: חִזְקִיָּהוּ: חִזְקִיָּ֥הוּ (2KI 16:20) — English (generated): Hezekiah
+  - NT: 2KI 16:10 *Urija*
+  - answers: Uriah, Kir, bronze altar, model, plan, Sabbath canopy, Hezekiah
+  - Formen dieses Kapitels.
+  - agent:2ki016, 2026-11-15
+- **`term:2ki017_forms`** שַׁלְמַנְאֶסֶר → **Schalmaneser; So; Halach; Habor; Gosan; Meder; Kuta; Awa; Sefarwajim; Nergal; Aschima; Awiter; Tartak; Adrammelech; Anammelech** [medium, decided, by-rule]
+  - gloss: שַׁלְמַנְאֶסֶר: שַׁלְמַנְאֶ֖סֶר (2KI 17:3) — English (generated): Shalmaneser
+  - gloss: סוֹא: ס֣וֹא (2KI 17:4) — English (generated): So
+  - gloss: חֲלַח: חְלַ֧ח (2KI 17:6) — English (generated): in Halah
+  - gloss: חָבוֹר: חָב֛וֹר (2KI 17:6) — English (generated): by the Habor
+  - gloss: גּוֹזָן: גּוֹזָ֖ן (2KI 17:6) — English (generated): in Gozan
+  - gloss: מָדַי: מָדָֽי (2KI 17:6) — English (generated): of the Medes
+  - gloss: כּוּת: כּוּ֠תָ (2KI 17:24) — English (generated): Cuthah
+  - gloss: עַוָּא: עַוָּ֤א (2KI 17:24) — English (generated): Avva
+  - gloss: סְפַרְוַיִם: סְפַרְוַ֔יִם (2KI 17:24) — English (generated): and Sepharvaim
+  - gloss: נֵרְגָּל: נֵֽרְגַ֑ל (2KI 17:30) — English (generated): Nergal
+  - gloss: אֲשִׁימָא: אֲשִׁימָֽא (2KI 17:30) — English (generated): Ashima
+  - gloss: עַוִּים: עַוִּ֛ים (2KI 17:31) — English (generated): the Avvites
+  - gloss: תַּרְתָּק: תַּרְתָּ֑ק (2KI 17:31) — English (generated): and Tartak
+  - gloss: אַדְרַמֶּלֶךְ: אַדְרַמֶּ֥לֶךְ (2KI 17:31) — English (generated): to Adrammelech
+  - gloss: עֲנַמֶּלֶךְ: עֲנַמֶּ֖לֶךְ (2KI 17:31) — English (generated): and Anammelech
+  - NT: 2KI 17:3 *Schalmaneser*
+  - answers: Shalmaneser, So, Halah, Habor, Gozan, Medes, Cuthah, Avva, Sepharvaim, Nergal, Ashima, Avvites, Tartak, Adrammelech, Anammelech
+  - Formen dieses Kapitels.
+  - agent:2ki017, 2026-11-15
+- **`term:2ki018_forms`** אֲבִי → **Abi; Nehuschtan; Gaza; Sanherib; Tartan; Rab-Saris; Rabschake; Walkerfäld; Eljakim; Hilkija; Schebna; Joach; Arpad; Hena; Iwwa** [medium, decided, by-rule]
+  - gloss: אֲבִי: אֲבִ֖י (2KI 18:2) — English (generated): was Abi
+  - gloss: נְחֻשְׁתָּן: נְחֻשְׁתָּֽן (2KI 18:4) — English (generated): Nehushtan
+  - gloss: עַזָּה: עַזָּ֖ה (2KI 18:8) — English (generated): far as Gaza
+  - gloss: סַנְחֵרִיב: סַנְחֵרִ֤יב (2KI 18:13) — English (generated): Sennacherib
+  - gloss: תַּרְתָּן: תַּרְתָּ֥ן (2KI 18:17) — English (generated): the Tartan
+  - gloss: רַב: רַב (2KI 18:17) — English (generated): the Rabsaris
+  - gloss: רַב שָׁקֵה: רַב (2KI 18:17) — English (generated): the Rabsaris
+  - gloss: שָׂדֶה: שְׂדֵ֥ה (2KI 18:17) — English (generated): Field
+  - gloss: אֶלְיָקִים: אֶלְיָקִ֥ים (2KI 18:18) — English (generated): And Eliakim
+  - gloss: חִלְקִיָּהוּ: חִלְקִיָּ֖הוּ (2KI 18:18) — English (generated): of Hilkiah
+  - gloss: שֶׁבְנָה: שֶׁבְנָה֙ (2KI 18:18) — English (generated): Shebnah
+  - gloss: יוֹאָח: יוֹאָ֥ח (2KI 18:18) — English (generated): and Joah
+  - gloss: אַרְפַּד: אַרְפָּ֗ד (2KI 18:34) — English (generated): and Arpad
+  - gloss: הֵנַע: הֵנַ֣ע (2KI 18:34) — English (generated): Hena
+  - gloss: עַוָּה: עִוָּ֑ה (2KI 18:34) — English (generated): and Ivvah
+  - NT: 2KI 18:17 *Rabschake*
+  - answers: Abi, Nehushtan, Gaza, Sennacherib, Tartan, Rab-saris, Rabshakeh, Fuller's Field, Eliakim, Hilkiah, Shebnah, Joah, Arpad, Hena, Ivvah
+  - Formen dieses Kapitels.
+  - agent:2ki018, 2026-11-15
+- **`term:2ki019_forms`** יְשַׁעְיָהוּ → **Jesaja; Amoz; Libna; Tirhaka; Kusch; Rezef; Telassar; Nisroch; Scharezer; Asarhaddon** [medium, decided, by-rule]
+  - gloss: יְשַׁעְיָהוּ: יְשַֽׁעְיָ֥הוּ (2KI 19:2) — English (generated): Isaiah
+  - gloss: אָמוֹץ: אָמֽוֹץ (2KI 19:2) — English (generated): of Amoz
+  - gloss: לִבְנָה: לִבְנָ֑ה (2KI 19:8) — English (generated): Libnah
+  - gloss: תִּרְהָקָה: תִּרְהָ֤קָה (2KI 19:9) — English (generated): Tirhakah
+  - gloss: כּוּשׁ: כּוּשׁ֙ (2KI 19:9) — English (generated): of Cush
+  - gloss: רֶצֶף: רֶ֥צֶף (2KI 19:12) — English (generated): and Rezeph
+  - gloss: תְּלַאשָּׂר: תְלַאשָּֽׂר (2KI 19:12) — English (generated): in Telassar
+  - gloss: נִסְרֹךְ: נִסְרֹ֣ךְ (2KI 19:37) — English (generated): Nisroch
+  - gloss: שַׁרְאֶצֶר: שַׂרְאֶ֤צֶר (2KI 19:37) — English (generated): and Sharezer
+  - gloss: אֵסַר חַדֹּן: אֵֽסַר (2KI 19:37) — English (generated): Esar haddon
+  - NT: 2KI 19:2 *Jesaja*
+  - answers: Isaiah, Amoz, Libnah, Tirhakah, Cush, Rezeph, Telassar, Nisroch, Sharezer, Esarhaddon
+  - Formen dieses Kapitels.
+  - agent:2ki019, 2026-11-15
+- **`term:2ki020_forms`** בְּרֹאדַךְ בַּלְאֲדָן → **Berodach-Baladan; Baladan; Feigechueche; Hofmanne; Manasse** [medium, decided, by-rule]
+  - gloss: בְּרֹאדַךְ בַּלְאֲדָן: בְּרֹאדַ֣ךְ (2KI 20:12) — English (generated): Merodach baladan
+  - gloss: בַּלְאֲדָן: בַּלְאֲדָ֧ן (2KI 20:12) — English (generated): Merodach baladan
+  - gloss: דְּבֶלֶת: דְּבֶ֣לֶת (2KI 20:7) — English (generated): a poultice
+  - gloss: סָרִיס: סָֽרִיסִ֔ים (2KI 20:18) — English (generated): eunuchs
+  - gloss: מְנַשֶּׁה: מְנַשֶּׁ֥ה (2KI 20:21) — English (generated): Manasseh
+  - NT: 2KI 20:12 *Berodach-Baladan*
+  - answers: Merodach-baladan, Baladan, cake of figs, eunuchs, Manasseh
+  - Formen dieses Kapitels.
+  - agent:2ki020, 2026-11-15
+- **`term:2ki021_forms`** חֶפְצִי בָהּ → **Hefzi-Bah; Usa; Amon; Meschullemet; Haruz; Jotba; Joschija** [medium, decided, by-rule]
+  - gloss: חֶפְצִי בָהּ: חֶפְצִי (2KI 21:1) — English (generated): was Hephzibah
+  - gloss: עֻזָּא: עֻזָּ֑א (2KI 21:18) — English (generated): of Uzza
+  - gloss: אָמוֹן: אָמ֣וֹן (2KI 21:19) — English (generated): Amon
+  - gloss: מְשֻׁלֶּמֶת: מְשֻׁלֶּ֥מֶת (2KI 21:19) — English (generated): was Meshullemeth
+  - gloss: חָרוּץ: חָר֖וּץ (2KI 21:19) — English (generated): of Haruz
+  - gloss: יׇטְבָה: יָטְבָֽה (2KI 21:19) — English (generated): Jotbah
+  - gloss: יֹאשִׁיָּהוּ: יֹאשִׁיָּ֥הוּ (2KI 21:24) — English (generated): Josiah
+  - NT: 2KI 21:1 *Hefzi-Bah*
+  - answers: Hephzibah, Uzza, Amon, Meshullemeth, Haruz, Jotbah, Josiah
+  - Formen dieses Kapitels.
+  - agent:2ki021, 2026-11-15
+- **`term:2ki022_forms`** יְדִידָה → **Jedida; Adaja; Bozkat; Schafan; Azalja; Meschullam; Ahikam; Achbor; Michaja; Asaja; Hulda; Tikwa; Harhas** [medium, decided, by-rule]
+  - gloss: יְדִידָה: יְדִידָ֥ה (2KI 22:1) — English (generated): was Jedidah
+  - gloss: עֲדָיָה: עֲדָ֖יָה (2KI 22:1) — English (generated): of Adaiah
+  - gloss: בׇּצְקַת: בָּצְקַֽת (2KI 22:1) — English (generated): she was from Bozkath
+  - gloss: שָׁפָן: שָׁפָ֨ן (2KI 22:3) — English (generated): Shaphan
+  - gloss: אֲצַלְיָהוּ: אֲצַלְיָ֤הוּ (2KI 22:3) — English (generated): of Azaliah
+  - gloss: מְשֻׁלָּם: מְשֻׁלָּם֙ (2KI 22:3) — English (generated): of Meshullam
+  - gloss: אֲחִיקָם: אֲחִיקָ֣ם (2KI 22:12) — English (generated): Ahikam
+  - gloss: עַכְבּוֹר: עַכְבּ֨וֹר (2KI 22:12) — English (generated): Achbor
+  - gloss: מִיכָיָה: מִיכָיָ֜ה (2KI 22:12) — English (generated): of Micaiah
+  - gloss: עֲשָׂיָה: עֲשָׂיָ֥ה (2KI 22:12) — English (generated): and Asaiah
+  - gloss: חֻלְדָּה: חֻלְדָּ֨ה (2KI 22:14) — English (generated): Huldah
+  - gloss: תִּקְוָה: תִּקְוָ֗ה (2KI 22:14) — English (generated): of Tikvah
+  - gloss: חַרְחַס: חַרְחַס֙ (2KI 22:14) — English (generated): of Harhas
+  - NT: 2KI 22:3 *Schafan*
+  - answers: Jedidah, Adaiah, Bozkath, Shaphan, Azaliah, Meshullam, Ahikam, Achbor, Micaiah, Asaiah, Huldah, Tikvah, Harhas
+  - Formen dieses Kapitels.
+  - agent:2ki022, 2026-11-15
+- **`term:2ki023_forms`** קִדְרוֹן → **Kidron; Götzeprieschter; Tofet; Ben-Hinnom; Netan-Melech; Aschtoret; Neko; Joahas; Hamutal; Jirmeja; Ribla; Jojakim; Sebudda; Pedaja; Ruma** [medium, decided, by-rule]
+  - gloss: קִדְרוֹן: קִדְר֔וֹן (2KI 23:4) — English (generated): of Kidron
+  - gloss: כֹּמֶר: כְּמָרִ֗ים (2KI 23:5) — English (generated): the idolatrous priests
+  - gloss: תֹּפֶת: תֹּ֔פֶת (2KI 23:10) — English (generated): Topheth
+  - gloss: גַּיְא: גֵ֣י (2KI 23:10) — English (generated): in the Valley
+  - gloss: נְתַן מֶלֶךְ: נְתַן (2KI 23:11) — English (generated): named Nathan melech
+  - gloss: עַשְׁתֹּרֶת: עַשְׁתֹּ֣רֶת (2KI 23:13) — English (generated): for Ashtoreth
+  - gloss: נְכֹה: נְכֹ֧ה (2KI 23:29) — English (generated): Neco
+  - gloss: יְהוֹאָחָז: יְהֽוֹאָחָז֙ (2KI 23:30) — English (generated): Jehoahaz
+  - gloss: חֲמוּטַל: חֲמוּטַ֥ל (2KI 23:31) — English (generated): was Hamutal
+  - gloss: יִרְמְיָהוּ: יִרְמְיָ֖הוּ (2KI 23:31) — English (generated): of Jeremiah
+  - gloss: רִבְלָה: רִבְלָה֙ (2KI 23:33) — English (generated): at Riblah
+  - gloss: יְהוֹיָקִים: יְהוֹיָקִ֑ים (2KI 23:34) — English (generated): to Jehoiakim
+  - gloss: זְבוּדָה: זְבוּדָּ֥ה (2KI 23:36) — English (generated): was Zebidah
+  - gloss: פְּדָיָה: פְּדָיָ֖ה (2KI 23:36) — English (generated): of Pedaiah
+  - gloss: רוּמָה: רוּמָֽה (2KI 23:36) — English (generated): Rumah
+  - NT: 2KI 23:34 *Jojakim*
+  - answers: Kidron, idolatrous priests, Topheth, Ben-hinnom, Nathan-melech, Ashtoreth, Neco, Jehoahaz, Hamutal, Jeremiah, Riblah, Jehoiakim, Zebidah, Pedaiah, Rumah
+  - Formen dieses Kapitels.
+  - agent:2ki023, 2026-11-15
+- **`term:2ki024_forms`** נְבוּכַדְנֶאצַּר → **Nebukadnezar; Chaldäer; Jojachin; Nehuschta; Elnatan; Mattanja; Zidkija** [medium, decided, by-rule]
+  - gloss: נְבוּכַדְנֶאצַּר: נְבֻכַדְנֶאצַּ֖ר (2KI 24:1) — English (generated): Nebuchadnezzar
+  - gloss: כַּשְׂדִּים: כַשְׂדִּים֩ (2KI 24:2) — English (generated): Chaldean
+  - gloss: יְהוֹיָכִין: יְהוֹיָכִ֥ין (2KI 24:6) — English (generated): Jehoiachin
+  - gloss: נְחֻשְׁתָּא: נְחֻשְׁתָּ֥א (2KI 24:8) — English (generated): was Nehushta
+  - gloss: אֶלְנָתָן: אֶלְנָתָ֖ן (2KI 24:8) — English (generated): of Elnathan
+  - gloss: מַתַּנְיָה: מַתַּנְיָ֥ה (2KI 24:17) — English (generated): made Mattaniah
+  - gloss: צִדְקִיָּהוּ: צִדְקִיָּֽהוּ (2KI 24:17) — English (generated): to Zedekiah
+  - NT: 2KI 24:1 *Nebukadnezar*
+  - answers: Nebuchadnezzar, Chaldeans, Jehoiachin, Nehushta, Elnathan, Mattaniah, Zedekiah
+  - Formen dieses Kapitels.
+  - agent:2ki024, 2026-11-15
+- **`term:2ki025_forms`** נְבוּזַרְאֲדָן → **Nebusaradan; Seraja; Zefanja; Gedalja; Mizpa; Netanja; Johanan; Kareach; Tanhumet; Netofatiter; Jaasanja; Ewil-Merodach** [medium, decided, by-rule]
+  - gloss: נְבוּזַרְאֲדָן: נְבוּזַרְאֲדָ֧ן (2KI 25:8) — English (generated): Nebuzaradan
+  - gloss: שְׂרָיָה: שְׂרָיָה֙ (2KI 25:18) — English (generated): Seraiah
+  - gloss: צְפַנְיָהוּ: צְפַנְיָ֖הוּ (2KI 25:18) — English (generated): Zephaniah
+  - gloss: גְּדַלְיָהוּ: גְּדַלְיָ֖הוּ (2KI 25:22) — English (generated): Gedaliah
+  - gloss: מִצְפָּה: מִּצְפָּ֑ה (2KI 25:23) — English (generated): at Mizpah
+  - gloss: נְתַנְיָה: נְתַנְיָ֡ה (2KI 25:23) — English (generated): of Nethaniah
+  - gloss: יוֹחָנָן: יוֹחָנָ֣ן (2KI 25:23) — English (generated): Johanan
+  - gloss: קָרֵחַ: קָ֠רֵחַ (2KI 25:23) — English (generated): of Kareah
+  - gloss: תַּנְחֻמֶת: תַּנְחֻ֜מֶת (2KI 25:23) — English (generated): of Tanhumeth
+  - gloss: נְטֹופָתִי: נְּטֹפָתִ֗י (2KI 25:23) — English (generated): the Netophathite
+  - gloss: יַאֲזַנְיָהוּ: יַֽאֲזַנְיָ֨הוּ֙ (2KI 25:23) — English (generated): and Jaazaniah
+  - gloss: אֱוִיל מְרֹדַךְ: אֱוִ֣יל (2KI 25:27) — English (generated): Evil merodach
+  - NT: 2KI 25:8 *Nebusaradan*
+  - answers: Nebuzaradan, Seraiah, Zephaniah, Gedaliah, Mizpah, Nethaniah, Johanan, Kareah, Tanhumeth, Netophathite, Jaazaniah, Evil-merodach
+  - Formen dieses Kapitels.
+  - agent:2ki025, 2026-11-15
+- **`term:1ch001_forms`** אָדָם → **Adam; Noach; Jafet; Arpachschad; Abram; Ketura; Elifas; Se'ir; Bela; Mehetabel** [medium, decided, by-rule]
+  - gloss: אָדָם: אָדָ֥ם (1CH 1:1) — English (generated): Adam
+  - gloss: נֹחַ: נֹ֥חַ (1CH 1:4) — English (generated): Noah
+  - gloss: יֶפֶת: יָֽפֶת (1CH 1:4) — English (generated): and Japheth
+  - gloss: אַרְפַּכְשַׁד: אַרְפַּכְשַׁ֖ד (1CH 1:17) — English (generated): Arphaxad
+  - gloss: אַבְרָם: אַבְרָ֖ם (1CH 1:27) — English (generated): and Abram
+  - gloss: קְטוּרָה: קְטוּרָ֜ה (1CH 1:32) — English (generated): to Keturah
+  - gloss: אֱלִיפַז: אֱלִיפַ֛ז (1CH 1:35) — English (generated): Eliphaz
+  - gloss: שֵׂעִיר: שֵׂעִ֔יר (1CH 1:38) — English (generated): of Seir
+  - gloss: בֶּלַע: בֶּ֚לַע (1CH 1:43) — English (generated): Bela
+  - gloss: מְהֵיטַבְאֵל: מְהֵיטַבְאֵל֙ (1CH 1:50) — English (generated): was Mehetabel
+  - NT: 1CH 1:1 *Adam*
+  - answers: Adam, Noah, Japheth, Arpachshad, Abram, Keturah, Eliphaz, Seir, Bela, Mehetabel
+  - Formen dieses Kapitels.
+  - agent:1ch001, 2026-11-15
+- **`term:1ch002_forms`** יְרַחְמְאֵל → **Jerachmeel; Kelubai; Isai; Abigajil; Kaleb; Asuba; Scheschan; Jarcha; Kirjat-Jearim; Keniter** [medium, decided, by-rule]
+  - gloss: יְרַחְמְאֵל: יְרַחְמְאֵ֥ל (1CH 2:9) — English (generated): Jerahmeel
+  - gloss: כְּלוּבָי: כְּלוּבָֽי (1CH 2:9) — English (generated): and Caleb
+  - gloss: יִשַׁי: יִשָֽׁי (1CH 2:12) — English (generated): Jesse
+  - gloss: אֲבִיגַיִל: אֲבִיגָ֑יִל (1CH 2:16) — English (generated): and Abigail
+  - gloss: כָּלֵב: כָלֵ֣ב (1CH 2:18) — English (generated): Caleb
+  - gloss: עֲזוּבָה: עֲזוּבָ֥ה (1CH 2:18) — English (generated): Azubah
+  - gloss: שֵׁשָׁן: שֵׁשָׁ֔ן (1CH 2:31) — English (generated): Sheshan
+  - gloss: יַרְחָע: יַרְחָֽע (1CH 2:34) — English (generated): Jarha
+  - gloss: קִרְיַת יְעָרִים: קִרְיַ֥ת (1CH 2:50) — English (generated): of Kiriath jearim
+  - gloss: קֵינִי: קִּינִ֣ים (1CH 2:55) — English (generated): are the Kenites
+  - NT: 1CH 2:9 *Jerachmeel*
+  - answers: Jerahmeel, Chelubai, Jesse, Abigail, Caleb, Azubah, Sheshan, Jarha, Kiriath-jearim, Kenites
+  - Formen dieses Kapitels.
+  - agent:1ch002, 2026-11-15
+- **`term:1ch003_forms`** אַמְנוֹן → **Amnon; Abschalom; Adonija; Bat-Schua; Jechonja; Schealtiel; Serubbabel; Eljoënai** [medium, decided, by-rule]
+  - gloss: אַמְנוֹן: אַמְנֹ֗ן (1CH 3:1) — English (generated): Amnon
+  - gloss: אַבְשָׁלֹום: אַבְשָׁל֣וֹם (1CH 3:2) — English (generated): Absalom
+  - gloss: אֲדֹנִיָּה: אֲדֹנִיָּ֥ה (1CH 3:2) — English (generated): Adonijah
+  - gloss: בַּת שׁוּעַ: בַת (1CH 3:5) — English (generated): by Bathsheba
+  - gloss: יְכָנְיָה: יְכָנְיָ֥ה (1CH 3:16) — English (generated): Jeconiah
+  - gloss: שְׁאַלְתִּיאֵל: שְׁאַלְתִּיאֵ֖ל (1CH 3:17) — English (generated): Shealtiel
+  - gloss: זְרֻבָּבֶל: זְרֻבָּבֶ֖ל (1CH 3:19) — English (generated): Zerubbabel
+  - gloss: אֶלְיוֹעֵינַי: אֶלְיוֹעֵינַ֧י (1CH 3:23) — English (generated): Elioenai
+  - NT: 1CH 3:1 *Amnon*
+  - answers: Amnon, Absalom, Adonijah, Bathshua, Jeconiah, Shealtiel, Zerubbabel, Elioenai
+  - Formen dieses Kapitels.
+  - agent:1ch003, 2026-11-15
+- **`term:1ch004_forms`** יַעְבֵּץ → **Jabez; Otniel; Jefunne; Bitja; Beerscheba; Ziklag; Hiskija; Meuniter; Amalekiter** [medium, decided, by-rule]
+  - gloss: יַעְבֵּץ: יַעְבֵּ֔ץ (1CH 4:9) — English (generated): Now Jabez
+  - gloss: עׇתְנִיאֵל: עָתְנִיאֵ֖ל (1CH 4:13) — English (generated): Othniel
+  - gloss: יְפֻנֶּה: יְפֻנֶּ֔ה (1CH 4:15) — English (generated): of Jephunneh
+  - gloss: בִּתְיָה: בִּתְיָ֣ה (1CH 4:18) — English (generated): Bithiah
+  - gloss: בְּאֵר: בְאֵֽר (1CH 4:28) — English (generated): in Beersheba
+  - gloss: צִקְלַג: צִֽיקְלָֽג (1CH 4:30) — English (generated): Ziklag
+  - gloss: יְחִזְקִיָּהוּ: יְחִזְקִיָּ֣הוּ (1CH 4:41) — English (generated): of Hezekiah
+  - gloss: מְעוּנִים: מְּעוּנִ֨ים (1CH 4:41) — English (generated): the Meunites
+  - gloss: לְ: לַ (1CH 4:43) — English (generated): of the Amalekites
+  - NT: 1CH 4:9 *Jabez*
+  - answers: Jabez, Othniel, Jephunneh, Bithiah, Beersheba, Ziklag, Hezekiah, Meunites, Amalekites
+  - Formen dieses Kapitels.
+  - agent:1ch004, 2026-11-15
+- **`term:1ch005_forms`** רְאוּבֵן → **Ruben; Josef; Hagriter; Tiglat-Pileser; Pul; Gosan; Pinchas; Zadok; Jozadak** [medium, decided, by-rule]
+  - gloss: רְאוּבֵן: רְאוּבֵ֥ן (1CH 5:1) — English (generated): of Reuben
+  - gloss: יוֹסֵף: יוֹסֵ֖ף (1CH 5:1) — English (generated): of Joseph
+  - gloss: הַגְרִי: הַגְרִאִ֔ים (1CH 5:10) — English (generated): the Hagrites
+  - gloss: תִּלְּגַת פִּלְנְאֶסֶר: תִּלְּגַ֥ת (1CH 5:6) — English (generated): Tiglath pileser
+  - gloss: פּוּל: פּ֣וּל (1CH 5:26) — English (generated): of Pul
+  - gloss: גּוֹזָן: גּוֹזָ֔ן (1CH 5:26) — English (generated): of Gozan
+  - gloss: פִּינְחָס: פִּֽינְחָ֔ס (1CH 5:30) — English (generated): Phinehas
+  - gloss: צָדוֹק: צָד֔וֹק (1CH 5:34) — English (generated): Zadok
+  - gloss: יְהוֹצָדָק: יְהוֹצָדָֽק (1CH 5:40) — English (generated): Jehozadak
+  - NT: 1CH 5:1 *Ruben*
+  - answers: Reuben, Joseph, Hagrites, Tiglath-pileser, Pul, Gozan, Phinehas, Zadok, Jehozadak
+  - Formen dieses Kapitels.
+  - agent:1ch005, 2026-11-15
+- **`term:1ch006_forms`** גֵּרְשֹׁם → **Gerschom; Kehat; Merari; Heman; Asaf; Etan; Ahimaaz; Wydland; Fluchtstedt** [medium, decided, by-rule]
+  - gloss: גֵּרְשֹׁם: גֵּרְשֹׁ֕ם (1CH 6:1) — English (generated): Gershom
+  - gloss: קְהָת: קְהָ֖ת (1CH 6:1) — English (generated): Kohath
+  - gloss: מְרָרִי: מְרָרִֽי (1CH 6:1) — English (generated): and Merari
+  - gloss: הֵימָן: הֵימָן֙ (1CH 6:18) — English (generated): Heman
+  - gloss: אָסָף: אָסָ֔ף (1CH 6:24) — English (generated): was Asaph
+  - gloss: אֵיתָן: אֵיתָן֙ (1CH 6:29) — English (generated): Ethan
+  - gloss: אֲחִימַעַץ: אֲחִימַ֥עַץ (1CH 6:38) — English (generated): Ahimaaz
+  - gloss: מִגְרָשׁ: מִגְרָשֶׁ֖י (1CH 6:40) — English (generated): pasturelands
+  - gloss: עִיר: עָרֵ֣י (1CH 6:42) — English (generated): a city
+  - NT: 1CH 6:1 *Gerschom*
+  - answers: Gershom, Kohath, Merari, Heman, Asaph, Ethan, Ahimaaz, pasturelands, cities of refuge
+  - Formen dieses Kapitels.
+  - agent:1ch006, 2026-11-15
+- **`term:1ch007_forms`** תּוֹלָע → **Tola; Bela; Machir; Zelofhad; Schutelach; Beria; Scheera; Josua; Ascher** [medium, decided, by-rule]
+  - gloss: תּוֹלָע: תּוֹלָ֧ע (1CH 7:1) — English (generated): Tola
+  - gloss: בֶּלַע: בֶּ֧לַע (1CH 7:6) — English (generated): Bela
+  - gloss: מָכִיר: מָכִ֖יר (1CH 7:14) — English (generated): to Machir
+  - gloss: צְלׇפְחָד: צְלָפְחָ֑ד (1CH 7:15) — English (generated): Zelophehad
+  - gloss: שׁוּתֶלַח: שׁוּתָ֑לַח (1CH 7:20) — English (generated): Shuthelah
+  - gloss: בְּרִיעָה: בְּרִיעָ֔ה (1CH 7:23) — English (generated): Beriah
+  - gloss: שֶׁאֱרָה: שֶׁאֱרָ֔ה (1CH 7:24) — English (generated): was Sheerah
+  - gloss: יְהֹושֻׁעַ: יְהוֹשֻׁ֥עַ (1CH 7:27) — English (generated): and Joshua
+  - gloss: אָשֵׁר: אָשֵׁ֗ר (1CH 7:30) — English (generated): of Asher
+  - NT: 1CH 7:1 *Tola*
+  - answers: Tola, Bela, Machir, Zelophehad, Shuthelah, Beriah, Sheerah, Joshua, Asher
+  - Formen dieses Kapitels.
+  - agent:1ch007, 2026-11-15
+- **`term:1ch008_forms`** בִּנְיָמִן → **Benjamin; Ehud; Elpaal; Gibeon; Saul; Jonatan; Eschbaal; Merib-Baal; Ulam** [medium, decided, by-rule]
+  - gloss: בִּנְיָמִן: בִ֨נְיָמִ֔ן (1CH 8:1) — English (generated): Benjamin
+  - gloss: אֵחוּד: אֵח֑וּד (1CH 8:6) — English (generated): of Ehud
+  - gloss: אֶלְפַּעַל: אֶלְפָּֽעַל (1CH 8:11) — English (generated): and Elpaal
+  - gloss: גִּבְעוֹן: גִבְע֥וֹן (1CH 8:29) — English (generated): of Gibeon
+  - gloss: שָׁאוּל: שָׁא֑וּל (1CH 8:33) — English (generated): Saul
+  - gloss: יְהוֹנָתָן: יְהֽוֹנָתָן֙ (1CH 8:33) — English (generated): Jonathan
+  - gloss: אֶשְׁבַּעַל: אֶשְׁבָּֽעַל (1CH 8:33) — English (generated): and Esh baal
+  - gloss: מְרִיב בַּעַל: מְרִ֣יב (1CH 8:34) — English (generated): Merib baal
+  - gloss: אוּלָם: אוּלָ֣ם (1CH 8:39) — English (generated): Ulam
+  - NT: 1CH 8:1 *Benjamin*
+  - answers: Benjamin, Ehud, Elpaal, Gibeon, Saul, Jonathan, Esh-baal, Merib-baal, Ulam
+  - Formen dieses Kapitels.
+  - agent:1ch008, 2026-11-15
+- **`term:1ch009_forms`** שֹׁועֵר → **Torhüeter; Tämpeldiener; Schoubrot; Fladebrot; Pinchas; Samuel; Jedutun; Korachiter** [medium, decided, by-rule]
+  - gloss: שֹׁועֵר: שֹּׁעֲרִים֙ (1CH 9:17) — English (generated): the gatekeepers
+  - gloss: נָתִין: נְּתִינִֽים (1CH 9:2) — English (generated): and temple servants
+  - gloss: לֶחֶם: לֶ֣חֶם (1CH 9:32) — English (generated): of the showbread
+  - gloss: חֲבִתִּים: חֲבִתִּֽים (1CH 9:31) — English (generated): the bread
+  - gloss: פִּינְחָס: פִֽינְחָ֣ס (1CH 9:20) — English (generated): Phinehas
+  - gloss: שְׁמוּאֵל: שְׁמוּאֵ֥ל (1CH 9:22) — English (generated): and Samuel
+  - gloss: יְדוּתוּן: יְדוּת֑וּן (1CH 9:16) — English (generated): of Jeduthun
+  - gloss: קׇרְחִי: קָּרְחִ֗ים (1CH 9:19) — English (generated): from the Korahites
+  - NT: 1CH 9:17 *Torhüeter*
+  - answers: gatekeepers, temple servants, showbread, flat cakes, Phinehas, Samuel, Jeduthun, Korahites
+  - Formen dieses Kapitels.
+  - agent:1ch009, 2026-11-15
+- **`term:1ch010_forms`** שָׁאוּל → **Saul; Gilboa; Waffeträger; Jabesch-Gilead; Dagon; Lychnam** [medium, decided, by-rule]
+  - gloss: שָׁאוּל: שָׁא֖וּל (1CH 10:2) — English (generated): Saul
+  - gloss: גִּלְבֹּעַ: גִּלְבֹּֽעַ (1CH 10:1) — English (generated): Gilboa
+  - gloss: נָשָׂא: נֹשֵׂ֨א (1CH 10:4) — English (generated): his armor bearer
+  - gloss: יָבֵישׁ: יָבֵ֣ישׁ (1CH 10:11) — English (generated): Jabesh gilead
+  - gloss: דָּגוֹן: דָּגֽוֹן (1CH 10:10) — English (generated): of Dagon
+  - gloss: גּוּפָה: גּוּפַ֣ת (1CH 10:12) — English (generated): the bodies
+  - NT: 1CH 10:2 *Saul*
+  - answers: Saul, Gilboa, armor-bearer, Jabesh-gilead, Dagon, body
+  - Formen dieses Kapitels.
+  - agent:1ch010, 2026-11-15
+- **`term:1ch011_forms`** חֶבְרוֹן → **Hebron; Jebus; Zion; Joab; Jaschobam; Eleasar; Abischai; Benaja; Betlehem; Adullam; Urija** [medium, decided, by-rule]
+  - gloss: חֶבְרוֹן: חֶבְר֣וֹנָ (1CH 11:1) — English (generated): at Hebron
+  - gloss: יְבוּס: יְב֑וּס (1CH 11:4) — English (generated): Jebus
+  - gloss: צִיּוֹן: צִיּ֔וֹן (1CH 11:5) — English (generated): of Zion
+  - gloss: יוֹאָב: יוֹאָ֥ב (1CH 11:6) — English (generated): And Joab
+  - gloss: יָשׇׁבְעָם: יָשָׁבְעָ֣ם (1CH 11:11) — English (generated): Jashobeam
+  - gloss: אֶלְעָזָר: אֶלְעָזָ֥ר (1CH 11:12) — English (generated): Eleazar
+  - gloss: אַבְשַׁי: אַבְשַׁ֣י (1CH 11:20) — English (generated): Now Abishai
+  - gloss: בְּנָיָה: בְּנָיָ֨ה (1CH 11:22) — English (generated): And Benaiah
+  - gloss: בֵּית לֶחֶם: בֵ֥ית (1CH 11:16) — English (generated): was at Bethlehem
+  - gloss: עֲדֻלָּם: עֲדֻלָּ֑ם (1CH 11:15) — English (generated): of Adullam
+  - gloss: אוּרִיָּה: אֽוּרִיָּה֙ (1CH 11:41) — English (generated): Uriah
+  - NT: 1CH 11:1 *Hebron*
+  - answers: Hebron, Jebus, Zion, Joab, Jashobeam, Eleazar, Abishai, Benaiah, Bethlehem, Adullam, Uriah
+  - Formen dieses Kapitels.
+  - agent:1ch011, 2026-11-15
+- **`term:1ch012_forms`** צִקְלַג → **Ziklag; Achiëser; Amasai; Gaditer; Stadtfürschte; Jojada; Zadok; Rosinechueche** [medium, decided, by-rule]
+  - gloss: צִקְלַג: צִ֣יקְלַ֔ג (1CH 12:1) — English (generated): at Ziklag
+  - gloss: אֲחִיעֶזֶר: אֲחִיעֶ֜זֶר (1CH 12:3) — English (generated): Ahiezer
+  - gloss: עֲמָשַׂי: עֲמָשַׂי֮ (1CH 12:19) — English (generated): Amasai
+  - gloss: גָּדִי: גָּדִ֡י (1CH 12:9) — English (generated): Gadites
+  - gloss: סֶרֶן: סַרְנֵ֤י (1CH 12:20) — English (generated): rulers
+  - gloss: יְהוֹיָדָע: יהוֹיָדָ֖ע (1CH 12:28) — English (generated): including Jehoiada
+  - gloss: צָדוֹק: צָד֥וֹק (1CH 12:29) — English (generated): and Zadok
+  - gloss: צִמּוּקִים: צִמּוּקִ֧ים (1CH 12:41) — English (generated): and
+  - NT: 1CH 12:1 *Ziklag*
+  - answers: Ziklag, Ahiezer, Amasai, Gadites, rulers, Jehoiada, Zadok, raisin cakes
+  - Formen dieses Kapitels.
+  - agent:1ch012, 2026-11-15
+- **`term:1ch013_forms`** קִרְיַת יְעָרִים → **Kirjat-Jearim; Baala; Abinadab; Ussa; Achjo; Perez-Ussa; Obed-Edom; Gatiter** [medium, decided, by-rule]
+  - gloss: קִרְיַת יְעָרִים: קִּרְיַ֖ת (1CH 13:5) — English (generated): from Kiriath jearim
+  - gloss: בַּעֲלָה: בַּעֲלָ֔תָ (1CH 13:6) — English (generated): to Baalah
+  - gloss: אֲבִינָדָב: אֲבִינָדָ֑ב (1CH 13:7) — English (generated): of Abinadab
+  - gloss: עֻזָּא: עֻזָּ֣א (1CH 13:7) — English (generated): with Uzzah
+  - gloss: אַחְיוֹ: אַחְי֔וֹ (1CH 13:7) — English (generated): and Ahio
+  - gloss: פֶּרֶץ עֻזָּה: פֶּ֣רֶץ (1CH 13:11) — English (generated): had burst forth
+  - gloss: עֹבֵד אֱדוֹם: עֹבֵֽד (1CH 13:13) — English (generated): of Obed edom
+  - gloss: גִּתִּי: גִּתִּֽי (1CH 13:13) — English (generated): the Gittite
+  - NT: 1CH 13:5 *Kirjat-Jearim*
+  - answers: Kiriath-jearim, Baalah, Abinadab, Uzzah, Ahio, Perez-uzza, Obed-edom, Gittite
+  - Formen dieses Kapitels.
+  - agent:1ch013, 2026-11-15
+- **`term:1ch014_forms`** חִירָם → **Hiram; Tyrus; Schammua; Elischua; Elpelet; Beeljada; Baal-Perazim; Geser** [medium, decided, by-rule]
+  - gloss: חִירָם: חוּרָ֨ם (1CH 14:1) — English (generated): Now Hiram
+  - gloss: צֹר: צֹ֥ר (1CH 14:1) — English (generated): of Tyre
+  - gloss: שַׁמּוּעַ: שַׁמּ֣וּעַ (1CH 14:4) — English (generated): Shammua
+  - gloss: אֱלִישׁוּעַ: אֱלִישׁ֖וּעַ (1CH 14:5) — English (generated): Elishua
+  - gloss: אֶלְפֶּלֶט: אֶלְפָּֽלֶט (1CH 14:5) — English (generated): Elpelet
+  - gloss: בְּעֶלְיָדָע: בְעֶלְיָדָ֖ע (1CH 14:7) — English (generated): Beeliada
+  - gloss: בַּעַל פְּרָצִים: בַֽעַל (1CH 14:11) — English (generated): to Baal perazim
+  - gloss: גֶּזֶר: גָּֽזְרָ (1CH 14:16) — English (generated): to Gezer
+  - NT: 1CH 14:1 *Hiram*
+  - answers: Hiram, Tyre, Shammua, Elishua, Elpelet, Beeliada, Baal-perazim, Gezer
+  - Formen dieses Kapitels.
+  - agent:1ch014, 2026-11-15
+- **`term:1ch015_forms`** אוּרִיאֵל → **Uriel; Asaja; Elizafan; Abjatar; Kenanja; Heman; Asaf; Etan; Michal** [medium, decided, by-rule]
+  - gloss: אוּרִיאֵל: אוּרִיאֵ֣ל (1CH 15:5) — English (generated): Uriel
+  - gloss: עֲשָׂיָה: עֲשָׂיָ֣ה (1CH 15:6) — English (generated): Asaiah
+  - gloss: אֱלִיצָפָן: אֱלִֽיצָפָ֑ן (1CH 15:8)
+  - gloss: אֶבְיָתָר: אֶבְיָתָ֖ר (1CH 15:11) — English (generated): and Abiathar
+  - gloss: כְּנַנְיָהוּ: כְנַנְיָ֥הוּ (1CH 15:22) — English (generated): Chenaniah
+  - gloss: הֵימָן: הֵימָ֣ן (1CH 15:17) — English (generated): Heman
+  - gloss: אָסָף: אָסָ֖ף (1CH 15:17) — English (generated): Asaph
+  - gloss: אֵיתָן: אֵיתָ֖ן (1CH 15:17) — English (generated): Ethan
+  - gloss: מִיכַל: מִיכַ֨ל (1CH 15:29) — English (generated): Michal
+  - NT: 1CH 15:5 *Uriel*
+  - answers: Uriel, Asaiah, Elizaphan, Abiathar, Chenaniah, Heman, Asaph, Ethan, Michal
+  - Formen dieses Kapitels.
+  - agent:1ch015, 2026-11-15
+- **`term:1ch016_forms`** אָסָף → **Asaf; Jachasiël; Jedutun; Hosa; Gibeon; Opferhöchi** [medium, decided, by-rule]
+  - gloss: אָסָף: אָסָ֥ף (1CH 16:5) — English (generated): Asaph
+  - gloss: יַחֲזִיאֵל: יַחֲזִיאֵ֖ל (1CH 16:6) — English (generated): and Jahaziel
+  - gloss: יְדוּתוּן: יְדִית֛וּן (1CH 16:38) — English (generated): of Jeduthun
+  - gloss: חֹסָה: חֹסָ֖ה (1CH 16:38) — English (generated): and also Hosah
+  - gloss: גִּבְעוֹן: גִבְעֽוֹן (1CH 16:39) — English (generated): in Gibeon
+  - gloss: בָּמָה: בָּמָ֖ה (1CH 16:39) — English (generated): at the high place
+  - NT: 1CH 16:5 *Asaf*
+  - answers: Asaph, Jahaziel, Jeduthun, Hosah, Gibeon, high place
+  - Formen dieses Kapitels.
+  - agent:1ch016, 2026-11-15
+- **`term:1ch017_forms`** נָתָן → **Natan; Prophet; Zedereholz; Zebaot; Vision; Zuekunft** [medium, decided, by-rule]
+  - gloss: נָתָן: נָתָ֣ן (1CH 17:1) — English (generated): Nathan
+  - gloss: נָבִיא: נָּבִ֗יא (1CH 17:1) — English (generated): the prophet
+  - gloss: אֶרֶז: אֲרָזִ֔ים (1CH 17:1) — English (generated): of cedar
+  - gloss: צָבָא: צְבָא֔וֹת (1CH 17:7) — English (generated): of Hosts
+  - gloss: חָזוֹן: חָז֣וֹן (1CH 17:15) — English (generated): revelation
+  - gloss: רָחֹוק: רָח֑וֹק (1CH 17:17) — English (generated): the future
+  - NT: 1CH 17:1 *Natan*
+  - answers: Nathan, prophet, cedar, Hosts, vision, future
+  - Formen dieses Kapitels.
+  - agent:1ch017, 2026-11-15
+- **`term:1ch018_forms`** הֲדַדְעֶזֶר → **Hadadeser; Zoba; Tibchat; Kun; Toi; Hadoram; Abischai; Schawscha; Bronzemeer** [medium, decided, by-rule]
+  - gloss: הֲדַדְעֶזֶר: הֲדַדְעֶ֥זֶר (1CH 18:3) — English (generated): Hadadezer
+  - gloss: צוֹבָא: צוֹבָ֖ה (1CH 18:3) — English (generated): of Zobah
+  - gloss: טִבְחַת: טִּבְחַ֤ת (1CH 18:8) — English (generated): And from Tibhath
+  - gloss: כּוּן: כּוּן֙ (1CH 18:8) — English (generated): and Cun
+  - gloss: תֹּעוּ: תֹּ֖עוּ (1CH 18:9) — English (generated): Tou
+  - gloss: הֲדוֹרָם: הֲדֽוֹרָם (1CH 18:10) — English (generated): Hadoram
+  - gloss: אַבְשַׁי: אַבְשַׁ֣י (1CH 18:12) — English (generated): Moreover Abishai
+  - gloss: שַׁוְשָׁא: שַׁוְשָׁ֖א (1CH 18:16) — English (generated): Shavsha
+  - gloss: יָם: יָ֤ם (1CH 18:8) — English (generated): Sea
+  - NT: 1CH 18:3 *Hadadeser*
+  - answers: Hadadezer, Zobah, Tibhath, Cun, Tou, Hadoram, Abishai, Shavsha, bronze Sea
+  - Formen dieses Kapitels.
+  - agent:1ch018, 2026-11-15
+- **`term:1ch019_forms`** נָחָשׁ → **Nahasch; Hanun; Aram-Naharajim; Aram-Maacha; Medeba; Schofach; Talänt** [medium, decided, by-rule]
+  - gloss: נָחָשׁ: נָחָ֖שׁ (1CH 19:1) — English (generated): Nahash
+  - gloss: חָנוּן: חָנ֣וּן (1CH 19:2) — English (generated): Hanun
+  - gloss: אֲרַם נַהֲרַיִם: אֲרַ֨ם (1CH 19:6) — English (generated): Aram naharaim
+  - gloss: אֲרַם מַעֲכָה: אֲרַ֤ם (1CH 19:6) — English (generated): Aram naharaim
+  - gloss: מֵידְבָא: מֵידְבָ֑א (1CH 19:7) — English (generated): Medeba
+  - gloss: שׁוֹפָךְ: שׁוֹפַ֛ךְ (1CH 19:16) — English (generated): with Shophach
+  - gloss: כִּכָּר: כִּכַּר (1CH 19:6) — English (generated): talents
+  - NT: 1CH 19:1 *Nahasch*
+  - answers: Nahash, Hanun, Aram-naharaim, Aram-maacah, Medeba, Shophach, talents
+  - Formen dieses Kapitels.
+  - agent:1ch019, 2026-11-15
+- **`term:1ch020_forms`** רַבָּה → **Rabba; Geser; Sibbechai; Sippai; Elchanan; Lachmi; Goliat; Schima** [medium, decided, by-rule]
+  - gloss: רַבָּה: רַבָּ֔ה (1CH 20:1) — English (generated): to Rabbah
+  - gloss: גֶּזֶר: גֶ֖זֶר (1CH 20:4) — English (generated): at Gezer
+  - gloss: סִבְּכַי: סִבְּכַ֣י (1CH 20:4) — English (generated): Sibbecai
+  - gloss: סִפַּי: סִפַּ֛י (1CH 20:4) — English (generated): Sippai
+  - gloss: אֶלְחָנָן: אֶלְחָנָ֣ן (1CH 20:5) — English (generated): and Elhanan
+  - gloss: לַחְמִי: לַחְמִי֙ (1CH 20:5) — English (generated): Lahmi
+  - gloss: גׇּלְיַת: גָּלְיָ֣ת (1CH 20:5) — English (generated): of Goliath
+  - gloss: שִׁמְעָא: שִׁמְעָ֖א (1CH 20:7) — English (generated): Shimei
+  - NT: 1CH 20:1 *Rabba*
+  - answers: Rabbah, Gezer, Sibbecai, Sippai, Elhanan, Lahmi, Goliath, Shimea
+  - Formen dieses Kapitels.
+  - agent:1ch020, 2026-11-15
+- **`term:1ch021_forms`** שָׂטָן → **Satan; Ornan; Jebusiter; Gad; Seher; Scheide; Schekel** [medium, decided, by-rule]
+  - gloss: שָׂטָן: שָׂטָ֖ן (1CH 21:1) — English (generated): Then Satan
+  - gloss: אׇרְנָן: אָרְנָ֥ן (1CH 21:15) — English (generated): of Ornan
+  - gloss: יְבוּסִי: יְבוּסִֽי (1CH 21:15) — English (generated): the Jebusite
+  - gloss: גָּד: גָּ֔ד (1CH 21:9) — English (generated): Gad
+  - gloss: חֹזֶה: חֹזֵ֥ה (1CH 21:9) — English (generated): seer
+  - gloss: נָדָן: נְדָנָֽ (1CH 21:27) — English (generated): its sheath
+  - gloss: שֶׁקֶל: שִׁקְלֵ֣י (1CH 21:25) — English (generated): shekels
+  - NT: 1CH 21:1 *Satan*
+  - answers: Satan, Ornan, Jebusite, Gad, seer, sheath, shekels
+  - Formen dieses Kapitels.
+  - agent:1ch021, 2026-11-15
+- **`term:1ch022_forms`** צִידֹנִי → **Sidonier; Tyrer; Steimetze; Steihouer; Zimmerlüt; Klammere; Negel** [medium, decided, by-rule]
+  - gloss: צִידֹנִי: צִּֽידֹנִ֨ים (1CH 22:4) — English (generated): the Sidonians
+  - gloss: צֹרִי: צֹּרִ֜ים (1CH 22:4) — English (generated): and Tyrians
+  - gloss: חָצַב: חֹצְבִ֕ים (1CH 22:15) — English (generated): stonecutters
+  - gloss: חָרָשׁ: חָרָשֵׁ֥י (1CH 22:15) — English (generated): masons
+  - gloss: עֵץ: עֵ֑ץ (1CH 22:15) — English (generated): carpenters
+  - gloss: מְחַבְּרֹות: מְחַבְּר֖וֹת (1CH 22:3) — English (generated): and for the fittings
+  - gloss: מַסְמֵר: מִּסְמְרִ֞ים (1CH 22:3) — English (generated): to make the nails
+  - NT: 1CH 22:4 *Sidonier*
+  - answers: Sidonians, Tyrians, stonecutters, masons, carpenters, clamps, nails
+  - Formen dieses Kapitels.
+  - agent:1ch022, 2026-11-15
+- **`term:1ch023_forms`** גֵּרְשֻׁנִּי → **Gerschoniter; Ladan; Setam; Schelomot; Chasiël; Sina; Sisa; Rechabja; Jekamam** [medium, decided, by-rule]
+  - gloss: גֵּרְשֻׁנִּי: גֵּרְשֻׁנִּ֖י (1CH 23:7) — English (generated): The Gershonites
+  - gloss: לַעְדָּן: לַעְדָּ֥ן (1CH 23:7) — English (generated): Ladan
+  - gloss: זֵתָם: זֵתָ֥ם (1CH 23:8) — English (generated): Zetham
+  - gloss: שְׁלֹמִית: שְׁלוֹמִ֧ית (1CH 23:9) — English (generated): Shelomoth
+  - gloss: חֲזִיאֵל: חֲזִיאֵ֛ל (1CH 23:9) — English (generated): Haziel
+  - gloss: זִינָא: זִינָ֔א (1CH 23:10) — English (generated): Zina
+  - gloss: זִיזָה: זִיזָ֖ה (1CH 23:11) — English (generated): and Zizah
+  - gloss: רְחַבְיָה: רְחַבְיָ֣ה (1CH 23:17) — English (generated): Rehabiah
+  - gloss: יְקַמְעָם: יקַמְעָ֖ם (1CH 23:19) — English (generated): and Jekameam
+  - NT: 1CH 23:7 *Ladan*
+  - answers: Gershonites, Ladan, Zetham, Shelomoth, Haziel, Zina, Zizah, Rehabiah, Jekameam
+  - Formen dieses Kapitels.
+  - agent:1ch023, 2026-11-15
+- **`term:1ch024_forms`** יְהוֹיָרִיב → **Jojarib; Jedaja; Seorim; Malkija; Hakkoz; Schechanja; Eljaschib; Chuppa; Jeschebab; Happizez; Jecheskel; Maasja** [medium, decided, by-rule]
+  - gloss: יְהוֹיָרִיב: יה֣וֹיָרִ֔יב (1CH 24:7) — English (generated): to Jehoiarib
+  - gloss: יְדַעְיָה: ידַעְיָ֖ה (1CH 24:7) — English (generated): to Jedaiah
+  - gloss: שְׂעֹרִים: שְׂעֹרִ֖ים (1CH 24:8) — English (generated): to Seorim
+  - gloss: מַלְכִּיָּה: מַלְכִּיָּה֙ (1CH 24:9) — English (generated): to Malchijah
+  - gloss: הַ: הַקּוֹץ֙ (1CH 24:10) — English (generated): to Hakkoz
+  - gloss: שְׁכַנְיָהוּ: שְׁכַנְיָ֖הוּ (1CH 24:11) — English (generated): to Shecaniah
+  - gloss: אֶלְיָשִׁיב: אֶלְיָשִׁיב֙ (1CH 24:12) — English (generated): to Eliashib
+  - gloss: חֻפָּה: חֻפָּה֙ (1CH 24:13) — English (generated): to Huppah
+  - gloss: יֶשֶׁבְאָב: יֶֽשֶׁבְאָ֖ב (1CH 24:13) — English (generated): to Jeshebeab
+  - gloss: הַפִּצֵּץ: הַ (1CH 24:15)
+  - gloss: יְחֶזְקֵאל: יחֶזְקֵ֖אל (1CH 24:16) — English (generated): to Jehezkel
+  - gloss: מַעַזְיָהוּ: מַֽעַזְיָ֖הוּ (1CH 24:18) — English (generated): to Maaziah
+  - NT: 1CH 24:7 *Jojarib*
+  - answers: Jehoiarib, Jedaiah, Seorim, Malchijah, Hakkoz, Shecaniah, Eliashib, Huppah, Jeshebeab, Happizzez, Jehezkel, Maaziah
+  - Formen dieses Kapitels.
+  - agent:1ch024, 2026-11-15
+- **`term:1ch025_forms`** וְ → **Asarela; Jizri; Jesarela; Chaschabja; Joschbekascha; Malloti; Eliata; Hotir; Giddalti; Machasiot; Romamti-Eser** [medium, decided, by-rule]
+  - gloss: וְ: וַ (1CH 25:2) — English (generated): Joseph
+  - gloss: יִצְרִי: יִּצְרִ֔י (1CH 25:11) — English (generated): to Izri
+  - gloss: יְשַׂרְאֵלָה: יְשַׂרְאֵ֔לָה (1CH 25:14) — English (generated): to Jesarelah
+  - gloss: חֲשַׁבְיָה: חֲשַׁבְיָ֔ה (1CH 25:19) — English (generated): to Hashabiah
+  - gloss: יׇשְׁבְּקָשָׁה: יָשְׁבְּקָ֔שָׁה (1CH 25:24) — English (generated): to Joshbekashah
+  - gloss: מַלּוֹתִי: מַלּ֔וֹתִי (1CH 25:26) — English (generated): to Mallothi
+  - gloss: אֱלִיָּתָה: אֱלִיָּ֔תָה (1CH 25:27) — English (generated): to Eliathah
+  - gloss: הוֹתִיר: הוֹתִ֔יר (1CH 25:28) — English (generated): to Hothir
+  - gloss: גִּדַּלְתִּי: גִדַּ֔לְתִּי (1CH 25:29) — English (generated): to Giddalti
+  - gloss: מַחֲזִיאֹות: מַ֣חֲזִיא֔וֹת (1CH 25:30) — English (generated): to Mahazioth
+  - gloss: רֹמַמְתִּי עֶזֶר: רוֹמַ֣מְתִּי (1CH 25:31) — English (generated): to Romamti ezer
+  - NT: 1CH 25:2 *Asarela*
+  - answers: Asharelah, Izri, Jesarelah, Hashabiah, Joshbekashah, Mallothi, Eliathah, Hothir, Giddalti, Mahazioth, Romamti-ezer
+  - Formen dieses Kapitels.
+  - agent:1ch025, 2026-11-15
+- **`term:1ch026_forms`** מְשֶׁלֶמְיָהוּ → **Meschelemja; Kore; Jediaël; Eljoënai; Josabad; Joach; Peulletai; Semachja; Tebalja; Schallechet; Jechiëliter; Jaser** [medium, decided, by-rule]
+  - gloss: מְשֶׁלֶמְיָהוּ: מְשֶֽׁלֶמְיָ֥הוּ (1CH 26:1) — English (generated): Meshelemiah
+  - gloss: קוֹרֵא: קֹרֵ֖א (1CH 26:1) — English (generated): of Kore
+  - gloss: יְדִיעֲאֵל: יְדִֽיעֲאֵ֣ל (1CH 26:2) — English (generated): Jediael
+  - gloss: אֶלְיְהוֹעֵינַי: אֶלְיְהוֹעֵינַ֖י (1CH 26:3) — English (generated): and Eliehoenai
+  - gloss: יְהוֹזָבָד: יְהוֹזָבָ֣ד (1CH 26:4) — English (generated): Jehozabad
+  - gloss: יוֹאָח: יוֹאָ֤ח (1CH 26:4) — English (generated): Joah
+  - gloss: פְּעֻלְּתַי: פְּעֻלְּתַ֖י (1CH 26:5) — English (generated): and Peullethai
+  - gloss: סְמַכְיָהוּ: סְמַכְיָֽהוּ (1CH 26:7) — English (generated): and Semachiah
+  - gloss: טְבַלְיָהוּ: טְבַלְיָ֣הוּ (1CH 26:11) — English (generated): Tebaliah
+  - gloss: שַׁלֶּכֶת: שַׁלֶּ֔כֶת (1CH 26:16) — English (generated): the Shallecheth
+  - gloss: יְחִיאֵלִי: יְחִיאֵלִֽי (1CH 26:21) — English (generated): Jehieli
+  - gloss: יַעְזֵר: יַעְזֵ֥יר (1CH 26:31) — English (generated): at Jazer
+  - NT: 1CH 26:1 *Meschelemja*
+  - answers: Meshelemiah, Kore, Jediael, Eliehoenai, Jehozabad, Joah, Peullethai, Semachiah, Tebaliah, Shallecheth, Jehielites, Jazer
+  - Formen dieses Kapitels.
+  - agent:1ch026, 2026-11-15
+- **`term:1ch027_forms`** זַבְדִּיאֵל → **Sabdiël; Dodai; Miklot; Ammisabad; Schamhut; Jisrachiter; Serachiter; Heldai; Kemuël; Asriël; Jerocham; Kelub; Schifmiter; Schitrai; Obil; Meronotiter; Jasis** [medium, decided, by-rule]
+  - gloss: זַבְדִּיאֵל: זַבְדִּיאֵ֑ל (1CH 27:2) — English (generated): of Zabdiel
+  - gloss: דּוֹדַי: דּוֹדַ֤י (1CH 27:4) — English (generated): Dodai
+  - gloss: מִקְלוֹת: מִקְל֖וֹת (1CH 27:4) — English (generated): and Mikloth
+  - gloss: עַמִּיזָבָד: עַמִּיזָבָ֖ד (1CH 27:6) — English (generated): Ammizabad
+  - gloss: שַׁמְהוּת: שַׁמְה֣וּת (1CH 27:8) — English (generated): Shamhuth
+  - gloss: יִזְרָח: יִּזְרָ֑ח (1CH 27:8) — English (generated): the Izrahite
+  - gloss: זַרְחִי: זַּרְחִ֑י (1CH 27:11) — English (generated): a Zerahite
+  - gloss: חֶלְדַּי: חֶלְדַּ֥י (1CH 27:15) — English (generated): was Heldai
+  - gloss: קְמוּאֵל: קְמוּאֵ֖ל (1CH 27:17) — English (generated): of Kemuel
+  - gloss: עַזְרִיאֵל: עַזְרִיאֵֽל (1CH 27:19) — English (generated): of Azriel
+  - gloss: יְרֹחָם: יְרֹחָ֑ם (1CH 27:22) — English (generated): of Jeroham
+  - gloss: כְּלוּב: כְּלֽוּב (1CH 27:26) — English (generated): of Chelub
+  - gloss: שִׁפְמִי: שִּׁפְמִֽי (1CH 27:27) — English (generated): the Shiphmite
+  - gloss: שִׁרְטַי: שִׁרְטַ֖י (1CH 27:29) — English (generated): Shitrai
+  - gloss: אוֹבִיל: אוֹבִ֖יל (1CH 27:30) — English (generated): Obil
+  - gloss: מֵרֹנֹתִי: מֵּרֹנֹתִֽי (1CH 27:30) — English (generated): the Meronothite
+  - gloss: יָזִיז: יָזִ֣יז (1CH 27:31) — English (generated): Jaziz
+  - NT: 1CH 27:2 *Sabdiël*
+  - answers: Zabdiel, Dodai, Mikloth, Ammizabad, Shamhuth, Izrahite, Zerahites, Heldai, Kemuel, Azriel, Jeroham, Chelub, Shiphmite, Shitrai, Obil, Meronothite, Jaziz
+  - Formen dieses Kapitels.
+  - agent:1ch027, 2026-11-15
+- **`term:1ch028_forms`** מְנוּחָה → **Ruehplatz; Schämeli; Gnadestuel; Lüüchter; Gable; Chrüeg; Rouchopferaltar** [medium, decided, by-rule]
+  - gloss: מְנוּחָה: מְנוּחָ֜ה (1CH 28:2) — English (generated): as a resting place
+  - gloss: הֲדֹם: הֲדֹם֙ (1CH 28:2) — English (generated): and as a footstool
+  - gloss: כַּפֹּרֶת: כַּפֹּֽרֶת (1CH 28:11) — English (generated): for the mercy seat
+  - gloss: מְנוֹרָה: מְנֹר֣וֹת (1CH 28:15) — English (generated): lampstands
+  - gloss: מִזְלָג: מִּזְלָג֧וֹת (1CH 28:17) — English (generated): for the forks
+  - gloss: קַשְׂוָה: קְּשָׂוֺ֖ת (1CH 28:17) — English (generated): and pitchers
+  - gloss: מִזְבֵּחַ: מִזְבַּ֧ח (1CH 28:18) — English (generated): for the altar
+  - NT: 1CH 28:2 *Ruehplatz*
+  - answers: resting place, footstool, mercy seat, lampstands, forks, pitchers, altar of incense
+  - Formen dieses Kapitels.
+  - agent:1ch028, 2026-11-15
+- **`term:1ch029_forms`** אוֹפִיר → **Ofir; Dareike; Onyxsteine; Fassigssteine; Marmorsteine; Bysässe; Palascht** [medium, decided, by-rule]
+  - gloss: אוֹפִיר: אוֹפִ֑יר (1CH 29:4) — English (generated): of Ophir
+  - gloss: אֲדַרְכֹּון: אֲדַרְכֹנִ֣ים (1CH 29:7) — English (generated): darics
+  - gloss: אֶבֶן: אַבְנֵי (1CH 29:2) — English (generated): as well as onyx
+  - gloss: מִלֻּאִים: מִלּוּאִ֜ים (1CH 29:2) — English (generated): for the settings
+  - gloss: אֶבֶן: אַבְנֵי (1CH 29:2) — English (generated): as well as onyx
+  - gloss: תּוֹשָׁב: תוֹשָׁבִ֖ים (1CH 29:15) — English (generated): and strangers
+  - gloss: בִּירָה: בִּירָ֔ה (1CH 29:1) — English (generated): this palace
+  - NT: 1CH 29:4 *Ofir*
+  - answers: Ophir, darics, onyx, settings, marble, sojourners, temple
+  - Formen dieses Kapitels.
+  - agent:1ch029, 2026-11-15
+- **`term:2ch001_forms`** בְּצַלְאֵל → **Bezalel; Uri; Hur; Kue; Bronzealtar; Wagestedt** [medium, decided, by-rule]
+  - gloss: בְּצַלְאֵל: בְּצַלְאֵל֙ (2CH 1:5) — English (generated): Bezalel
+  - gloss: אוּרִי: אוּרִ֣י (2CH 1:5) — English (generated): of Uri
+  - gloss: חוּר: ח֔וּר (2CH 1:5) — English (generated): of Hur
+  - gloss: קְוֵא: קְוֵ֕א (2CH 1:16) — English (generated): from Egypt
+  - gloss: מִזְבֵּחַ: מִזְבַּ֣ח (2CH 1:5) — English (generated): altar
+  - gloss: עִיר: עָרֵ֣י (2CH 1:14) — English (generated): cities
+  - NT: 2CH 1:5 *Bezalel*
+  - answers: Bezalel, Uri, Hur, Kue, bronze altar, chariot cities
+  - Formen dieses Kapitels.
+  - agent:2ch001, 2026-11-15
+- **`term:2ch002_forms`** חִירָם → **Huram; Huram-Abi; Algumholz; Bat; Lascheträger; Jafo** [medium, decided, by-rule]
+  - gloss: חִירָם: חוּרָ֥ם (2CH 2:2) — English (generated): Hiram
+  - gloss: לְ: לְ (2CH 2:12) — English (generated): Huram abi
+  - gloss: אַלְמֻגִּים: אַלְגּוּמִּים֮ (2CH 2:7) — English (generated): and algum
+  - gloss: בַּת: בַּתִּים֙ (2CH 2:9) — English (generated): baths
+  - gloss: סַבָּל: סַבָּ֔ל (2CH 2:1) — English (generated): porters
+  - gloss: יָפוֹ: יָפ֑וֹ (2CH 2:15) — English (generated): down to Joppa
+  - NT: 2CH 2:2 *Huram*
+  - answers: Huram, Huram-abi, algum, baths, bear burdens, Joppa
+  - Formen dieses Kapitels.
+  - agent:2ch002, 2026-11-15
+- **`term:2ch003_forms`** הַ → **Morija; Parwajim; Chapitäl; Granatöpfel; Jachin; Boas** [medium, decided, by-rule]
+  - gloss: הַ: הַ (2CH 3:1) — English (generated): Moriah
+  - gloss: פַּרְוָיִם: פַּרְוָֽיִם (2CH 3:6) — English (generated): from Parvaim
+  - gloss: צֶפֶת: צֶּ֥פֶת (2CH 3:15) — English (generated): each with a capital
+  - gloss: רִמּוֹן: רִמּוֹנִים֙ (2CH 3:16) — English (generated): pomegranates
+  - gloss: יָכִין: יָכִ֔ין (2CH 3:17) — English (generated): Jachin
+  - gloss: בֹּעַז: בֹּֽעַז (2CH 3:17) — English (generated): Boaz
+  - NT: 2CH 3:1 *Morija*
+  - answers: Moriah, Parvaim, capital, pomegranates, Jachin, Boaz
+  - Formen dieses Kapitels.
+  - agent:2ch003, 2026-11-15
+- **`term:2ch004_forms`** חִירָם → **Huram; Sukkot; Zereda; Jordanebeni; Sprützschale; Gstell** [medium, decided, by-rule]
+  - gloss: חִירָם: חוּרָ֔ם (2CH 4:11) — English (generated): Additionally Huram
+  - gloss: סֻכּוֹת: סֻכּ֖וֹת (2CH 4:17) — English (generated): Succoth
+  - gloss: צְרֵדָה: צְרֵדָֽתָ (2CH 4:17) — English (generated): and Zeredah
+  - gloss: כִּכָּר: כִכַּ֤ר (2CH 4:17) — English (generated): in the plain
+  - gloss: מִזְרָק: מִזְרְקֵ֥י (2CH 4:8) — English (generated): bowls
+  - gloss: מְכוֹנָה: מְּכֹנ֖וֹת (2CH 4:14) — English (generated): the stands
+  - NT: 2CH 4:11 *Huram*
+  - answers: Huram, Succoth, Zeredah, plain of the Jordan, bowls, stands
+  - Formen dieses Kapitels.
+  - agent:2ch004, 2026-11-15
+- **`term:2ch005_forms`** צִיּוֹן → **Zion; Horeb; Steitafele; Tragstange; Trumpetebleser** [medium, decided, by-rule]
+  - gloss: צִיּוֹן: צִיּֽוֹן (2CH 5:2) — English (generated): from Zion
+  - gloss: חֹרֵב: חֹרֵ֑ב (2CH 5:10) — English (generated): at Horeb
+  - gloss: לוּחַ: לֻּח֔וֹת (2CH 5:10) — English (generated): tablets
+  - gloss: בַּד: בַּדָּ֖י (2CH 5:8) — English (generated): its poles
+  - gloss: חָצַר: מְחַצְּרִ֨ים (2CH 5:13) — English (generated): The trumpeters
+  - NT: 2CH 5:2 *Zion*
+  - answers: Zion, Horeb, tablets, poles, trumpeters
+  - Formen dieses Kapitels.
+  - agent:2ch005, 2026-11-15
+- **`term:2ch006_forms`** כִּיֹּור → **Podium; Wulchedunkel; Ruehplatz; Höigümper; Getreidebrand** [medium, decided, by-rule]
+  - gloss: כִּיֹּור: כִּיּ֣וֹר (2CH 6:13) — English (generated): platform
+  - gloss: עֲרָפֶל: עֲרָפֶֽל (2CH 6:1) — English (generated): in the thick cloud
+  - gloss: נוּחַ: נוּחֶ֔ (2CH 6:41) — English (generated): and enter Your resting place
+  - gloss: אַרְבֶּה: אַרְבֶּ֤ה (2CH 6:28) — English (generated): locusts
+  - gloss: שִׁדָּפוֹן: שִׁדָּפ֨וֹן (2CH 6:28) — English (generated): blight
+  - NT: 2CH 6:13 *Podium*
+  - answers: platform, thick darkness, resting place, locust, blight
+  - Formen dieses Kapitels.
+  - agent:2ch006, 2026-11-15
+- **`term:2ch007_forms`** חֲמָת → **Hamat; Feschtversammlig; Ywyhig; Bronzealtar; Opferhuus** [medium, decided, by-rule]
+  - gloss: חֲמָת: חֲמָ֖ת (2CH 7:8) — English (generated): from Lebo hamath
+  - gloss: עֲצֶרֶת: עֲצָ֑רֶת (2CH 7:9) — English (generated): a solemn assembly
+  - gloss: חֲנֻכָּה: חֲנֻכַּ֣ת (2CH 7:9) — English (generated): the dedication
+  - gloss: מִזְבֵּחַ: מִזְבַּ֤ח (2CH 7:7) — English (generated): altar
+  - gloss: בַּיִת: בֵ֥ית (2CH 7:12) — English (generated): as a house
+  - NT: 2CH 7:8 *Hamat*
+  - answers: Hamath, solemn assembly, dedication, bronze altar, house of sacrifice
+  - Formen dieses Kapitels.
+  - agent:2ch007, 2026-11-15
+- **`term:2ch008_forms`** חֲמָת צֹובָא → **Hamat-Zoba; Tadmor; Bet-Horon; Baalat; Ezjon-Geber; Elot; Ofir** [medium, decided, by-rule]
+  - gloss: חֲמָת צֹובָא: חֲמָ֣ת (2CH 8:3) — English (generated): to Hamath zobah
+  - gloss: תַּדְמֹר: תַּדְמֹ֖ר (2CH 8:4) — English (generated): Tadmor
+  - gloss: בֵּית חֹורֹון: בֵּ֤ית (2CH 8:5)
+  - gloss: בַּעֲלָת: בַּעֲלָ֗ת (2CH 8:6) — English (generated): Baalath
+  - gloss: עֶצְיוֹן גֶּבֶר: עֶצְיֽוֹן (2CH 8:17) — English (generated): to Ezion geber
+  - gloss: אֵילַת: אֵיל֛וֹת (2CH 8:17) — English (generated): Eloth
+  - gloss: אוֹפִיר: אוֹפִ֔ירָ (2CH 8:18) — English (generated): to Ophir
+  - NT: 2CH 8:3 *Hamat-Zoba*
+  - answers: Hamath-zobah, Tadmor, Beth-horon, Baalath, Ezion-geber, Eloth, Ophir
+  - Formen dieses Kapitels.
+  - agent:2ch008, 2026-11-15
+- **`term:2ch009_forms`** שְׁבָא → **Scheba; Algumholz; Libanonwaldhuus; Tarsisschiff; Schilo; Iddo; Nebat; Rehabeam** [medium, decided, by-rule]
+  - gloss: שְׁבָא: שְׁבָ֗א (2CH 9:1) — English (generated): of Sheba
+  - gloss: עֵץ: עֲצֵ֥י (2CH 9:10) — English (generated): wood
+  - gloss: בַּיִת: בֵ֖ית (2CH 9:16) — English (generated): in the House
+  - gloss: אֳנִיָּה: אֳנִיּ֣וֹת (2CH 9:21) — English (generated): the ships
+  - gloss: שִׁילֹנִי: שִּֽׁילוֹנִ֗י (2CH 9:29) — English (generated): the Shilonite
+  - gloss: יֶעְדּוֹ: יֶעְדּ֣וֹ (2CH 9:29) — English (generated): of Iddo
+  - gloss: נְבָט: נְבָֽט (2CH 9:29) — English (generated): of Nebat
+  - gloss: רְחַבְעָם: רְחַבְעָ֥ם (2CH 9:31) — English (generated): Rehoboam
+  - NT: 2CH 9:1 *Scheba*
+  - answers: Sheba, algum wood, House of the Forest of Lebanon, ships of Tarshish, Shiloh, Iddo, Nebat, Rehoboam
+  - Formen dieses Kapitels.
+  - agent:2ch009, 2026-11-15
+- **`term:2ch010_forms`** שְׁכֶם → **Sichem; Jerobeam; Hadoram; Achija; Isai** [medium, decided, by-rule]
+  - gloss: שְׁכֶם: שְׁכֶ֑מָ (2CH 10:1) — English (generated): to Shechem
+  - gloss: יָרָבְעָם: יָרָבְעָ֤ם (2CH 10:2) — English (generated): When Jeroboam
+  - gloss: הֲדֹורָם: הֲדֹרָם֙ (2CH 10:18) — English (generated): Hadoram
+  - gloss: אֲחִיָּהוּ: אֲחִיָּ֣הוּ (2CH 10:15) — English (generated): Ahijah
+  - gloss: יִשַׁי: יִשַׁ֗י (2CH 10:16) — English (generated): of Jesse
+  - NT: 2CH 10:1 *Sichem*
+  - answers: Shechem, Jeroboam, Hadoram, Ahijah, Jesse
+  - Formen dieses Kapitels.
+  - agent:2ch010, 2026-11-15
+- **`term:2ch011_forms`** שְׁמַעְיָהוּ → **Schemaja; Etam; Tekoa; Bet-Zur; Socho; Adullam; Marescha; Adorajim; Lachisch; Aseka; Zora; Ajalon; Machalat; Jerimot** [medium, decided, by-rule]
+  - gloss: שְׁמַעְיָהוּ: שְׁמַֽעְיָ֥הוּ (2CH 11:2) — English (generated): Shemaiah
+  - gloss: עֵיטָם: עֵיטָ֖ם (2CH 11:6) — English (generated): Etam
+  - gloss: תְּקוֹעַ: תְּקֽוֹעַ (2CH 11:6) — English (generated): Tekoa
+  - gloss: בֵּית צוּר: בֵּֽית (2CH 11:7) — English (generated): Beth zur
+  - gloss: שׂוֹכֹה: שׂוֹכ֖וֹ (2CH 11:7) — English (generated): Soco
+  - gloss: עֲדֻלָּם: עֲדֻלָּֽם (2CH 11:7) — English (generated): Adullam
+  - gloss: מָרֵשָׁה: מָרֵשָׁ֖ה (2CH 11:8) — English (generated): Mareshah
+  - gloss: אֲדוֹרַיִם: אֲדוֹרַ֥יִם (2CH 11:9) — English (generated): Adoraim
+  - gloss: לָכִישׁ: לָכִ֖ישׁ (2CH 11:9) — English (generated): Lachish
+  - gloss: עֲזֵקָה: עֲזֵקָֽה (2CH 11:9) — English (generated): Azekah
+  - gloss: צׇרְעָה: צָרְעָה֙ (2CH 11:10) — English (generated): Zorah
+  - gloss: אַיָּלוֹן: אַיָּל֔וֹן (2CH 11:10) — English (generated): Aijalon
+  - gloss: מַחֲלַת: מָ֣חֲלַ֔ת (2CH 11:18) — English (generated): Mahalath
+  - gloss: יְרֵימוֹת: יְרִימ֖וֹת (2CH 11:18) — English (generated): Jerimoth
+  - NT: 2CH 11:2 *Schemaja*
+  - answers: Shemaiah, Etam, Tekoa, Beth-zur, Soco, Adullam, Mareshah, Adoraim, Lachish, Azekah, Zorah, Aijalon, Mahalath, Jerimoth
+  - Formen dieses Kapitels.
+  - agent:2ch011, 2026-11-15
+- **`term:2ch012_forms`** שִׁישַׁק → **Schischak; Libyer; Sukkiter; Kuschiter; Naama; Ammoniterin; Abija** [medium, decided, by-rule]
+  - gloss: שִׁישַׁק: שִׁישַׁ֥ק (2CH 12:2) — English (generated): Shishak
+  - gloss: לוּבִי: לוּבִ֥ים (2CH 12:3) — English (generated): Libyans
+  - gloss: סֻכִּי: סֻכִּיִּ֖ים (2CH 12:3) — English (generated): Sukkites
+  - gloss: כֻּשִׁי: כוּשִֽׁים (2CH 12:3) — English (generated): and Cushites
+  - gloss: נַעֲמָה: נַעֲמָ֖ה (2CH 12:13) — English (generated): was Naamah
+  - gloss: עַמֹּונִי: עַמֹּנִֽית (2CH 12:13) — English (generated): the Ammonite
+  - gloss: אֲבִיָּה: אֲבִיָּ֥ה (2CH 12:16) — English (generated): Abijah
+  - NT: 2CH 12:2 *Schischak*
+  - answers: Shishak, Libyans, Sukkites, Cushites, Naamah, Ammonite, Abijah
+  - Formen dieses Kapitels.
+  - agent:2ch012, 2026-11-15
+- **`term:2ch013_forms`** מִיכָיָהוּ → **Michaja; Uriel; Zemarajim; Salzbund; Jeschana; Efron; Asa** [medium, decided, by-rule]
+  - gloss: מִיכָיָהוּ: מִיכָיָ֥הוּ (2CH 13:2) — English (generated): was Micaiah
+  - gloss: אוּרִיאֵל: אוּרִיאֵ֖ל (2CH 13:2) — English (generated): of Uriel
+  - gloss: צְמָרַיִם: צְמָרַ֔יִם (2CH 13:4) — English (generated): Zemaraim
+  - gloss: בְּרִית: בְּרִ֥ית (2CH 13:5) — English (generated): by a covenant
+  - gloss: יְשָׁנָה: יְשָׁנָ֖ה (2CH 13:19) — English (generated): Jeshanah
+  - gloss: עֶפְרַיִן: עֶפְרַ֖יִן (2CH 13:19) — English (generated): Ephron
+  - gloss: אָסָא: אָסָ֥א (2CH 13:23) — English (generated): Asa
+  - NT: 2CH 13:2 *Michaja*
+  - answers: Micaiah, Uriel, Zemaraim, covenant of salt, Jeshanah, Ephron, Asa
+  - Formen dieses Kapitels.
+  - agent:2ch013, 2026-11-15
+- **`term:2ch014_forms`** זֶרַח → **Serach; Kuschiter; Marescha; Zefata; Gerar; Röucheraltär** [medium, decided, by-rule]
+  - gloss: זֶרַח: זֶ֣רַח (2CH 14:8) — English (generated): Then Zerah
+  - gloss: הַ: הַ (2CH 14:8) — English (generated): the Cushite
+  - gloss: מָרֵשָׁה: מָרֵשָֽׁה (2CH 14:8) — English (generated): Mareshah
+  - gloss: גַּיְא: גֵ֥יא (2CH 14:9) — English (generated): in the Valley
+  - gloss: גְּרָר: גְרָר֒ (2CH 14:12) — English (generated): Gerar
+  - gloss: חַמָּן: חַמָּנִ֑ים (2CH 14:4) — English (generated): and incense altars
+  - NT: 2CH 14:8 *Serach*
+  - answers: Zerah, Cushite, Mareshah, Zephathah, Gerar, incense altars
+  - Formen dieses Kapitels.
+  - agent:2ch014, 2026-11-15
+- **`term:2ch015_forms`** עֲזַרְיָהוּ → **Asarja; Oded; Maacha; Kidrontal; Chünigsmueter** [medium, decided, by-rule]
+  - gloss: עֲזַרְיָהוּ: עֲזַרְיָ֨הוּ֙ (2CH 15:1) — English (generated): Azariah
+  - gloss: עֹדֵד: עוֹדֵ֔ד (2CH 15:1) — English (generated): of Oded
+  - gloss: מַעֲכָה: מַעֲכָ֞ה (2CH 15:16) — English (generated): Maacah
+  - gloss: נַחַל: נַ֥חַל (2CH 15:16) — English (generated): Valley
+  - gloss: גְּבִירָה: גְּבִירָ֔ה (2CH 15:16) — English (generated): from queen mother
+  - NT: 2CH 15:1 *Asarja*
+  - answers: Azariah, Oded, Maacah, Kidron Valley, queen mother
+  - Formen dieses Kapitels.
+  - agent:2ch015, 2026-11-15
+- **`term:2ch016_forms`** בַּעְשָׁא → **Bascha; Rama; Ben-Hadad; Ijon; Abel-Majim; Geba; Mizpa; Hanani** [medium, decided, by-rule]
+  - gloss: בַּעְשָׁא: בַּעְשָׁ֤א (2CH 16:1) — English (generated): Baasha
+  - gloss: רָמָה: רָמָ֑ה (2CH 16:1) — English (generated): Ramah
+  - gloss: בֶּן הֲדַד: בֶּן (2CH 16:2) — English (generated): Ben hadad
+  - gloss: עִיּוֹן: עִיּ֣וֹן (2CH 16:4) — English (generated): Ijon
+  - gloss: אַבֵל מַיִם: אָבֵ֣ל (2CH 16:4) — English (generated): Abel maim
+  - gloss: גֶּבַע: גֶּ֖בַע (2CH 16:6) — English (generated): Geba
+  - gloss: הַ: הַ (2CH 16:6) — English (generated): Then King
+  - gloss: חֲנָנִי: חֲנָ֣נִי (2CH 16:7) — English (generated): Hanani
+  - NT: 2CH 16:1 *Bascha*
+  - answers: Baasha, Ramah, Ben-hadad, Ijon, Abel-maim, Geba, Mizpah, Hanani
+  - Formen dieses Kapitels.
+  - agent:2ch016, 2026-11-15
+- **`term:2ch017_forms`** יְהוֹשָׁפָט → **Joschafat; Ben-Hajil; Netanel; Sebadja; Schemiramot; Tob-Adonija; Adna; Johanan; Amasja; Sichri; Eljada; Josabad** [medium, decided, by-rule]
+  - gloss: יְהוֹשָׁפָט: יְהוֹשָׁפָ֥ט (2CH 17:1) — English (generated): Jehoshaphat
+  - gloss: בֶּן חַיִל: בֶן (2CH 17:7) — English (generated): Ben hail
+  - gloss: נְתַנְאֵל: נְתַנְאֵ֖ל (2CH 17:7) — English (generated): Nethanel
+  - gloss: זְבַדְיָהוּ: זְבַדְיָ֡הוּ (2CH 17:8) — English (generated): Zebadiah
+  - gloss: שְׁמִירָמוֹת: שְׁמִֽירָמ֡וֹת (2CH 17:8) — English (generated): Shemiramoth
+  - gloss: טוֹב אֲדֹנִיָּה: ט֥וֹב (2CH 17:8) — English (generated): and Tob adonijah
+  - gloss: עַדְנָה: עַדְנָ֣ה (2CH 17:14) — English (generated): Adnah
+  - gloss: יְהוֹחָנָן: יְהוֹחָנָ֣ן (2CH 17:15) — English (generated): Jehohanan
+  - gloss: עֲמַסְיָה: עֲמַסְיָ֣ה (2CH 17:16) — English (generated): Amasiah
+  - gloss: זִכְרִי: זִכְרִ֔י (2CH 17:16) — English (generated): of Zichri
+  - gloss: אֶלְיָדָע: אֶלְיָדָ֑ע (2CH 17:17) — English (generated): Eliada
+  - gloss: יְהוֹזָבָד: יְהוֹזָבָ֑ד (2CH 17:18) — English (generated): Jehozabad
+  - NT: 2CH 17:1 *Joschafat*
+  - answers: Jehoshaphat, Ben-hail, Nethanel, Zebadiah, Shemiramoth, Tob-adonijah, Adnah, Jehohanan, Amasiah, Zichri, Eliada, Jehozabad
+  - Formen dieses Kapitels.
+  - agent:2ch017, 2026-11-15
+- **`term:2ch018_forms`** אַחְאָב → **Ahab; Samarie; Ramot; Michaja; Jimla; Zidkija; Kenaana; Amon; Joasch** [medium, decided, by-rule]
+  - gloss: אַחְאָב: אַחְאָֽב (2CH 18:1) — English (generated): and he allied himself with Ahab
+  - gloss: שֹׁמְרוֹן: שֹׁ֣מְר֔וֹן (2CH 18:2) — English (generated): in Samaria
+  - gloss: רָמֹת: רָמ֥וֹת (2CH 18:2) — English (generated): Ramoth gilead
+  - gloss: מִיכָיְהוּ: מִיכָ֣יְהוּ (2CH 18:7) — English (generated): is Micaiah
+  - gloss: יִמְלָא: יִמְלָ֑א (2CH 18:7) — English (generated): of Imlah
+  - gloss: צִדְקִיָּהוּ: צִדְקִיָּ֥הוּ (2CH 18:10) — English (generated): Now Zedekiah
+  - gloss: כְּנַעֲנָה: כְּנַעֲנָ֖ה (2CH 18:10) — English (generated): of Chenaanah
+  - gloss: אָמוֹן: אָמ֣וֹן (2CH 18:25) — English (generated): Amon
+  - gloss: יוֹאָשׁ: יוֹאָ֖שׁ (2CH 18:25) — English (generated): Joash
+  - NT: 2CH 18:1 *Ahab*
+  - answers: Ahab, Samaria, Ramoth, Micaiah, Imlah, Zedekiah, Chenaanah, Amon, Joash
+  - Formen dieses Kapitels.
+  - agent:2ch018, 2026-11-15
+- **`term:2ch019_forms`** יֵהוּא → **Jehu; Hanani; Amarja; Sebadja; Beerscheba** [medium, decided, by-rule]
+  - gloss: יֵהוּא: יֵה֣וּא (2CH 19:2) — English (generated): Jehu
+  - gloss: חֲנָנִי: חֲנָ֘נִי֮ (2CH 19:2) — English (generated): of Hanani
+  - gloss: אֲמַרְיָהוּ: אֲמַרְיָ֣הוּ (2CH 19:11) — English (generated): Amariah
+  - gloss: זְבַדְיָהוּ: זְבַדְיָ֨הוּ (2CH 19:11) — English (generated): and Zebadiah
+  - gloss: בְּאֵר: בְּאֵ֥ר (2CH 19:4) — English (generated): from Beersheba
+  - NT: 2CH 19:2 *Jehu*
+  - answers: Jehu, Hanani, Amariah, Zebadiah, Beersheba
+  - Formen dieses Kapitels.
+  - agent:2ch019, 2026-11-15
+- **`term:2ch020_forms`** עַמּוֹנִי → **Meuniter; Hazezon-Tamar; En-Gedi; Jahasiël; Ziz; Jeruël; Kehatiter; Korachiter; Beracha; Asuba; Schilchi; Ahasja; Dodawahu** [medium, decided, by-rule]
+  - gloss: עַמּוֹנִי: עַמּוֹנִ֛ים (2CH 20:1) — English (generated): some of the Meunites
+  - gloss: חַצֲצֹן תָּמָר: חַֽצְצ֣וֹן (2CH 20:2) — English (generated): in Hazazon tamar
+  - gloss: עֵין גֶּדִי: עֵ֥ין (2CH 20:2) — English (generated): En gedi
+  - gloss: יַחֲזִיאֵל: יַחֲזִיאֵ֡ל (2CH 20:14) — English (generated): Jahaziel
+  - gloss: צִיץ: צִּ֑יץ (2CH 20:16) — English (generated): of Ziz
+  - gloss: יְרוּאֵל: יְרוּאֵֽל (2CH 20:16) — English (generated): of Jeruel
+  - gloss: קְהָתִי: קְּהָתִ֖ים (2CH 20:19) — English (generated): the Kohathites
+  - gloss: קׇרְחִי: קָּרְחִ֑ים (2CH 20:19) — English (generated): and Korahites
+  - gloss: בְּרָכָה: בְּרָכָ֔ה (2CH 20:26) — English (generated): of Beracah
+  - gloss: עֲזוּבָה: עֲזוּבָ֖ה (2CH 20:31) — English (generated): was Azubah
+  - gloss: שִׁלְחִי: שִׁלְחִֽי (2CH 20:31) — English (generated): of Shilhi
+  - gloss: אֲחַזְיָה: אֲחַזְיָ֣ה (2CH 20:35) — English (generated): Ahaziah
+  - gloss: דֹּדָוָהוּ: דֹּדָוָ֨הוּ֙ (2CH 20:37) — English (generated): of Dodavahu
+  - NT: 2CH 20:1 *Meuniter*
+  - answers: Meunites, Hazazon-tamar, En-gedi, Jahaziel, Ziz, Jeruel, Kohathites, Korahites, Beracah, Azubah, Shilhi, Ahaziah, Dodavahu
+  - Formen dieses Kapitels.
+  - agent:2ch020, 2026-11-15
+- **`term:2ch021_forms`** יְהוֹרָם → **Joram; Jechiël; Michaël; Schefatja; Libna; Joahas; Kostbarkeite** [medium, decided, by-rule]
+  - gloss: יְהוֹרָם: יְהוֹרָ֥ם (2CH 21:1) — English (generated): Jehoram
+  - gloss: יְחִיאֵל: יחִיאֵל֙ (2CH 21:2) — English (generated): Jehiel
+  - gloss: מִיכָאֵל: מִיכָאֵ֖ל (2CH 21:2) — English (generated): Michael
+  - gloss: שְׁפַטְיָהוּ: שְׁפַטְיָ֑הוּ (2CH 21:2) — English (generated): and Shephatiah
+  - gloss: לִבְנָה: לִבְנָ֛ה (2CH 21:10) — English (generated): Libnah
+  - gloss: יְהוֹאָחָז: יְהוֹאָחָ֖ז (2CH 21:17) — English (generated): Jehoahaz
+  - gloss: מִגְדָּנֹות: מִגְדָּנ֔וֹת (2CH 21:3) — English (generated): and precious things
+  - NT: 2CH 21:1 *Joram*
+  - answers: Jehoram, Jehiel, Michael, Shephatiah, Libnah, Jehoahaz, valuable possessions
+  - Formen dieses Kapitels.
+  - agent:2ch021, 2026-11-15
+- **`term:2ch022_forms`** אֲחַזְיָהוּ → **Ahasja; Atalja; Omri; Hasael; Jesreel; Nimschi; Joschabat; Jojada** [medium, decided, by-rule]
+  - gloss: אֲחַזְיָהוּ: אֲחַזְיָ֨הוּ (2CH 22:1) — English (generated): made Ahaziah
+  - gloss: עֲתַלְיָהוּ: עֲתַלְיָ֖הוּ (2CH 22:2) — English (generated): was Athaliah
+  - gloss: עׇמְרִי: עָמְרִֽי (2CH 22:2) — English (generated): of Omri
+  - gloss: חֲזָאֵל: חֲזָאֵ֥ל (2CH 22:5) — English (generated): Hazael
+  - gloss: יִזְרְעֶאל: יִזְרְעֶ֗אל (2CH 22:6) — English (generated): to Jezreel
+  - gloss: נִמְשִׁי: נִמְשִׁ֔י (2CH 22:7) — English (generated): of Nimshi
+  - gloss: יְהוֹשַׁבְעַת: יְהוֹשַׁבְעַ֨ת (2CH 22:11) — English (generated): But Jehoshabeath
+  - gloss: יְהוֹיָדָע: יְהוֹיָדָ֨ע (2CH 22:11) — English (generated): of Jehoiada
+  - NT: 2CH 22:1 *Ahasja*
+  - answers: Ahaziah, Athaliah, Omri, Hazael, Jezreel, Nimshi, Jehoshabeath, Jehoiada
+  - Formen dieses Kapitels.
+  - agent:2ch022, 2026-11-15
+- **`term:2ch023_forms`** יְרֹחָם → **Jeroham; Maaseja; Adaja; Elischafat; Sichri; Mattan; Grundtor; Rosstor** [medium, decided, by-rule]
+  - gloss: יְרֹחָם: יְרֹחָ֡ם (2CH 23:1) — English (generated): of Jeroham
+  - gloss: מַעֲשֵׂיָהוּ: מַעֲשֵׂיָ֧הוּ (2CH 23:1) — English (generated): Maaseiah
+  - gloss: עֲדָיָהוּ: עֲדָיָ֛הוּ (2CH 23:1) — English (generated): of Adaiah
+  - gloss: אֱלִישָׁפָט: אֱלִישָׁפָ֥ט (2CH 23:1) — English (generated): and Elishaphat
+  - gloss: זִכְרִי: זִכְרִ֖י (2CH 23:1) — English (generated): of Zichri
+  - gloss: מַתָּן: מַתָּן֙ (2CH 23:17) — English (generated): Mattan
+  - gloss: שַׁעַר: שַׁ֣עַר (2CH 23:5) — English (generated): Gate
+  - gloss: שַׁעַר: שַֽׁעַר (2CH 23:15) — English (generated): Gate
+  - NT: 2CH 23:1 *Jeroham*
+  - answers: Jeroham, Maaseiah, Adaiah, Elishaphat, Zichri, Mattan, Foundation Gate, Horse Gate
+  - Formen dieses Kapitels.
+  - agent:2ch023, 2026-11-15
+- **`term:2ch024_forms`** צִבְיָה → **Zibja; Secharja; Sabad; Schimat; Josabad; Schimrit; Amazja** [medium, decided, by-rule]
+  - gloss: צִבְיָה: צִבְיָ֖ה (2CH 24:1) — English (generated): was Zibiah
+  - gloss: זְכַרְיָה: זְכַרְיָה֙ (2CH 24:20) — English (generated): Zechariah
+  - gloss: זָבָד: זָבָ֗ד (2CH 24:26) — English (generated): were Zabad
+  - gloss: שִׁמְעָת: שִׁמְעָת֙ (2CH 24:26) — English (generated): of Shimeath
+  - gloss: יְהוֹזָבָד: יה֣וֹזָבָ֔ד (2CH 24:26) — English (generated): and Jehozabad
+  - gloss: שִׁמְרִית: שִׁמְרִ֖ית (2CH 24:26) — English (generated): of Shimrith
+  - gloss: אֲמַצְיָהוּ: אֲמַצְיָ֥הוּ (2CH 24:27) — English (generated): Amaziah
+  - NT: 2CH 24:1 *Zibja*
+  - answers: Zibiah, Zechariah, Zabad, Shimeath, Jehozabad, Shimrith, Amaziah
+  - Formen dieses Kapitels.
+  - agent:2ch024, 2026-11-15
+- **`term:2ch025_forms`** אֲמַצְיָהוּ → **Amazja; Joaddan; Salztal; Bet-Schemesch; Efraimtor; Eggtor; Obed-Edom; Lachisch** [medium, decided, by-rule]
+  - gloss: אֲמַצְיָהוּ: אֲמַצְיָ֔הוּ (2CH 25:1) — English (generated): Amaziah
+  - gloss: יְהוֹעַדָּן: יְהוֹעַדָּ֖ן (2CH 25:1) — English (generated): was Jehoaddan
+  - gloss: גַּיְא: גֵּ֣יא (2CH 25:11) — English (generated): to the Valley of Salt
+  - gloss: בֵּית שֶׁמֶשׁ: בֵ֥ית (2CH 25:21) — English (generated): at Beth shemesh
+  - gloss: שַׁעַר: שַּׁ֤עַר (2CH 25:23) — English (generated): Gate
+  - gloss: הַ: הַ (2CH 25:23) — English (generated): the Corner
+  - gloss: עֹבֵד אֱדוֹם: עֹבֵ֣ד (2CH 25:24) — English (generated): Obed edom
+  - gloss: לָכִישׁ: לָכִ֑ישָׁ (2CH 25:27) — English (generated): to Lachish
+  - NT: 2CH 25:1 *Amazja*
+  - answers: Amaziah, Jehoaddan, Valley of Salt, Beth-shemesh, Gate of Ephraim, Corner Gate, Obed-edom, Lachish
+  - Formen dieses Kapitels.
+  - agent:2ch025, 2026-11-15
+- **`term:2ch026_forms`** עֻזִּיָּהוּ → **Usija; Elot; Jecholja; Jabne; Aschdod; Gur-Baal; Hananja; Jotam; Jesaja; Amoz** [medium, decided, by-rule]
+  - gloss: עֻזִּיָּהוּ: עֻזִּיָּ֔הוּ (2CH 26:1) — English (generated): Uzziah
+  - gloss: אֵילַת: אֵיל֔וֹת (2CH 26:2) — English (generated): Eloth
+  - gloss: יְכָלְיָהוּ: יְכָלְיָ֖ה (2CH 26:3) — English (generated): was Jecoliah
+  - gloss: יַבְנֶה: יַבְנֵ֔ה (2CH 26:6) — English (generated): Jabneh
+  - gloss: אַשְׁדּוֹד: אַשְׁדּ֑וֹד (2CH 26:6) — English (generated): Ashdod
+  - gloss: גּוּר בָּעַל: גוּר (2CH 26:7) — English (generated): in Gur baal
+  - gloss: חֲנַנְיָהוּ: חֲנַנְיָ֔הוּ (2CH 26:11) — English (generated): of Hananiah
+  - gloss: יוֹתָם: יוֹתָ֤ם (2CH 26:21) — English (generated): Jotham
+  - gloss: יְשַׁעְיָהוּ: יְשַֽׁעְיָ֥הוּ (2CH 26:22) — English (generated): Isaiah
+  - gloss: אָמוֹץ: אָמ֖וֹץ (2CH 26:22) — English (generated): of Amoz
+  - NT: 2CH 26:1 *Usija*
+  - answers: Uzziah, Eloth, Jecoliah, Jabneh, Ashdod, Gur-baal, Hananiah, Jotham, Isaiah, Amoz
+  - Formen dieses Kapitels.
+  - agent:2ch026, 2026-11-15
+- **`term:2ch027_forms`** יוֹתָם → **Jotam; Jeruscha; Zadok; Ofel; Ahas** [medium, decided, by-rule]
+  - gloss: יוֹתָם: יוֹתָ֣ם (2CH 27:1) — English (generated): Jotham
+  - gloss: יְרוּשָׁא: יְרוּשָׁ֖ה (2CH 27:1) — English (generated): was Jerushah
+  - gloss: צָדוֹק: צָדֽוֹק (2CH 27:1) — English (generated): of Zadok
+  - gloss: עֹפֶל: עֹ֛פֶל (2CH 27:3) — English (generated): at Ophel
+  - gloss: אָחָז: אָחָ֥ז (2CH 27:9) — English (generated): Ahaz
+  - NT: 2CH 27:1 *Jotam*
+  - answers: Jotham, Jerushah, Zadok, Ophel, Ahaz
+  - Formen dieses Kapitels.
+  - agent:2ch027, 2026-11-15
+- **`term:2ch028_forms`** גַּיְא → **Ben-Hinnom; Sichri; Maaseja; Asrikam; Elkana; Oded; Meschillemot; Jehiskija; Hadlai; Gederot; Gimso** [medium, decided, by-rule]
+  - gloss: גַּיְא: גֵ֣יא (2CH 28:3) — English (generated): in the Valley
+  - gloss: זִכְרִי: זִכְרִ֣י (2CH 28:7) — English (generated): Zichri
+  - gloss: מַעֲשֵׂיָהוּ: מַעֲשֵׂיָ֨הוּ֙ (2CH 28:7) — English (generated): Maaseiah
+  - gloss: עַזְרִיקָם: עַזְרִיקָ֖ם (2CH 28:7) — English (generated): Azrikam
+  - gloss: אֶלְקָנָה: אֶלְקָנָ֖ה (2CH 28:7) — English (generated): and Elkanah
+  - gloss: עֹדֵד: עֹדֵ֣ד (2CH 28:9) — English (generated): Oded
+  - gloss: מְשִׁלֵּמוֹת: מְשִׁלֵּמ֔וֹת (2CH 28:12) — English (generated): of Meshillemoth
+  - gloss: יְחִזְקִיָּהוּ: יחִזְקִיָּ֨הוּ֙ (2CH 28:12) — English (generated): Jehizkiah
+  - gloss: חַדְלָי: חַדְלָ֑י (2CH 28:12) — English (generated): of Hadlai
+  - gloss: גְּדֵרוֹת: גְּדֵר֗וֹת (2CH 28:18) — English (generated): Gederoth
+  - gloss: גִּמְזוֹ: גִּמְז֖וֹ (2CH 28:18) — English (generated): Gimzo
+  - NT: 2CH 28:3 *Ben-Hinnom*
+  - answers: Ben-hinnom, Zichri, Maaseiah, Azrikam, Elkanah, Oded, Meshillemoth, Jehizkiah, Hadlai, Gederoth, Gimzo
+  - Formen dieses Kapitels.
+  - agent:2ch028, 2026-11-15
+- **`term:2ch029_forms`** אֲבִיָּה → **Abija; Mahat; Joach; Jehallelel; Simma; Elizafan; Schimri; Jechiël; Usiël; Schoubrot** [medium, decided, by-rule]
+  - gloss: אֲבִיָּה: אֲבִיָּ֖ה (2CH 29:1) — English (generated): was Abijah
+  - gloss: מַחַת: מַ֣חַת (2CH 29:12) — English (generated): Mahath
+  - gloss: יוֹאָח: יוֹאָח֙ (2CH 29:12) — English (generated): Joah
+  - gloss: יְהַלֶּלְאֵל: יְהַלֶּלְאֵ֑ל (2CH 29:12) — English (generated): of Jehallelel
+  - gloss: זִמָּה: זִמָּ֔ה (2CH 29:12) — English (generated): of Zimmah
+  - gloss: אֱלִיצָפָן: אֱלִ֣יצָפָ֔ן (2CH 29:13)
+  - gloss: שִׁמְרִי: שִׁמְרִ֖י (2CH 29:13) — English (generated): Shimri
+  - gloss: יְחִיאֵל: יְחִיאֵ֣ל (2CH 29:14) — English (generated): Jehiel
+  - gloss: עֻזִּיאֵל: עֻזִּיאֵֽל (2CH 29:14) — English (generated): and Uzziel
+  - gloss: הַ: הַֽ (2CH 29:18) — English (generated): King
+  - NT: 2CH 29:12 *Joach*
+  - answers: Abijah, Mahath, Joah, Jehallelel, Zimmah, Elizaphan, Shimri, Jehiel, Uzziel, showbread
+  - Formen dieses Kapitels.
+  - agent:2ch029, 2026-11-15
+- **`term:2ch030_forms`** פֶּסַח → **Passa; Passalamm; Passalämmer; Läufer; Grettete; Ascher; Sebulon; Issachar** [medium, decided, by-rule]
+  - gloss: פֶּסַח: פֶּ֔סַח (2CH 30:1) — English (generated): the Passover
+  - gloss: פֶּסַח: פֶּ֔סַח (2CH 30:15) — English (generated): the Passover lamb
+  - gloss: פֶּסַח: פְּסָחִ֗ים (2CH 30:17) — English (generated): the Passover
+  - gloss: רוּץ: רָצִ֨ים (2CH 30:6) — English (generated): the couriers
+  - gloss: פְּלֵיטָה: פְּלֵיטָ֔ה (2CH 30:6) — English (generated): who have escaped
+  - gloss: אָשֵׁר: אָשֵׁ֥ר (2CH 30:11) — English (generated): from Asher
+  - gloss: זְבוּלֻן: זְבֻל֑וּן (2CH 30:10) — English (generated): far as Zebulun
+  - gloss: יִשָּׂשכָר: יִשָּׂשכָ֤ר (2CH 30:18) — English (generated): Issachar
+  - NT: 2CH 30:1 *Passa*
+  - answers: Passover, Passover lamb, Passover lambs, couriers, escaped, Asher, Zebulun, Issachar
+  - Formen dieses Kapitels.
+  - agent:2ch030, 2026-11-15
+- **`term:2ch031_forms`** כָּנַנְיָהוּ → **Konanja; Jismachja; Miniamin; Jimna; Kore; Hüüffe** [medium, decided, by-rule]
+  - gloss: כָּנַנְיָהוּ: כָּֽנַנְיָ֣הוּ (2CH 31:12) — English (generated): Conaniah
+  - gloss: יִסְמַכְיָהוּ: יִסְמַכְיָ֔הוּ (2CH 31:13) — English (generated): Ismachiah
+  - gloss: מִנְיָמִין: מִנְיָמִן (2CH 31:15) — English (generated): Miniamin
+  - gloss: יִמְנָה: יִמְנָ֤ה (2CH 31:14) — English (generated): of Imnah
+  - gloss: קוֹרֵא: קוֹרֵ֨א (2CH 31:14) — English (generated): Kore
+  - gloss: עֲרֵמָה: עֲרֵמ֥וֹת (2CH 31:6) — English (generated): in large heaps
+  - NT: 2CH 31:12 *Konanja*
+  - answers: Conaniah, Ismachiah, Miniamin, Imnah, Kore, heaps
+  - Formen dieses Kapitels.
+  - agent:2ch031, 2026-11-15
+- **`term:2ch032_forms`** סַנְחֵרִיב → **Sanherib; Millo; Gihon; Stygi; Ställ; Härde** [medium, decided, by-rule]
+  - gloss: סַנְחֵרִיב: סַנְחֵרִ֣יב (2CH 32:1) — English (generated): Sennacherib
+  - gloss: מִלּוֹא: מִּלּ֖וֹא (2CH 32:5) — English (generated): the supporting terraces
+  - gloss: גִּיחוֹן: גִיחוֹן֙ (2CH 32:30) — English (generated): of Gihon
+  - gloss: מַעֲלֶה: מַעֲלֵה֮ (2CH 32:33) — English (generated): in the upper
+  - gloss: אֻרְוָה: אֻֽרָוֺת֙ (2CH 32:28) — English (generated): stalls
+  - gloss: עֵדֶר: עֲדָרִ֖ים (2CH 32:28) — English (generated): for the flocks
+  - NT: 2CH 32:1 *Sanherib*
+  - answers: Sennacherib, Millo, Gihon, ascent, stalls, flocks
+  - Formen dieses Kapitels.
+  - agent:2ch032, 2026-11-15
+- **`term:2ch033_forms`** מְנַשֶּׁה → **Manasse; Amon; Joschija; Fischtor; Hagge; Chettene** [medium, decided, by-rule]
+  - gloss: מְנַשֶּׁה: מְנַשֶּׁ֣ה (2CH 33:1) — English (generated): Manasseh
+  - gloss: אָמוֹן: אָמ֥וֹן (2CH 33:20) — English (generated): Amon
+  - gloss: יֹאשִׁיָּהוּ: יֹאשִׁיָּ֥הוּ (2CH 33:25) — English (generated): Josiah
+  - gloss: שַׁעַר: שַׁ֤עַר (2CH 33:14) — English (generated): Gate
+  - gloss: חוֹחַ: חֹחִ֑ים (2CH 33:11) — English (generated): put a hook in his nose
+  - gloss: נְחֹשֶׁת: נְחֻשְׁתַּ֔יִם (2CH 33:11) — English (generated): with bronze shackles
+  - NT: 2CH 33:1 *Manasse*
+  - answers: Manasseh, Amon, Josiah, Fish Gate, hooks, shackles
+  - Formen dieses Kapitels.
+  - agent:2ch033, 2026-11-15
+- **`term:2ch034_forms`** יֹאשִׁיָּהוּ → **Joschija; Azalja; Joach; Jahat; Hulda; Tokhat; Hasra; Chleiderchammer** [medium, decided, by-rule]
+  - gloss: יֹאשִׁיָּהוּ: יֹאשִׁיָּ֣הוּ (2CH 34:1) — English (generated): Josiah
+  - gloss: אֲצַלְיָהוּ: אֲצַלְיָ֜הוּ (2CH 34:8) — English (generated): of Azaliah
+  - gloss: יוֹאָח: יוֹאָ֤ח (2CH 34:8) — English (generated): Joah
+  - gloss: יַחַת: יַ֣חַת (2CH 34:12) — English (generated): were Jahath
+  - gloss: חֻלְדָּה: חֻלְדָּ֨ה (2CH 34:22) — English (generated): Huldah
+  - gloss: תָּקְהַת: תָּקְהַ֗ת (2CH 34:22) — English (generated): of Tokhath
+  - gloss: חַסְרָה: חַסְרָה֙ (2CH 34:22) — English (generated): of Hasrah
+  - gloss: הַ: הַ (2CH 34:22) — English (generated): the king
+  - NT: 2CH 34:8 *Joach*
+  - answers: Josiah, Azaliah, Joah, Jahath, Huldah, Tokhath, Hasrah, wardrobe
+  - Formen dieses Kapitels.
+  - agent:2ch034, 2026-11-15
+- **`term:2ch035_forms`** יֹאשִׁיָּהוּ → **Joschija; Neko; Karkemisch; Euphrat; Jeremia; Chlaglieder; Haschabja; Bogeschütze** [medium, decided, by-rule]
+  - gloss: יֹאשִׁיָּהוּ: יֹאשִׁיָּ֧הוּ (2CH 35:1) — English (generated): Then Josiah
+  - gloss: נְכוֹ: נְכ֧וֹ (2CH 35:20) — English (generated): Neco
+  - gloss: כַּרְכְּמִישׁ: כַרְכְּמִ֖ישׁ (2CH 35:20) — English (generated): at Carchemish
+  - gloss: פְּרָת: פְּרָ֑ת (2CH 35:20) — English (generated): the Euphrates
+  - gloss: יִרְמְיָהוּ: יִרְמְיָהוּ֮ (2CH 35:25) — English (generated): Then Jeremiah
+  - gloss: קִינָה: קִּינֽוֹת (2CH 35:25) — English (generated): the Book of Laments
+  - gloss: חֲשַׁבְיָהוּ: חֲשַׁבְיָ֧הוּ (2CH 35:9) — English (generated): as well as Hashabiah
+  - gloss: יָרָה: יֹּרִ֔ים (2CH 35:23) — English (generated): shot
+  - NT: 2CH 35:20 *Euphrat*
+  - answers: Josiah, Neco, Carchemish, Euphrates, Jeremiah, Laments, Hashabiah, archers
+  - Formen dieses Kapitels.
+  - agent:2ch035, 2026-11-15
+- **`term:2ch036_forms`** אֶלְיָקִים → **Eljakim; Jojakim; Jojachin; Zidkija; Nebukadnezar; Chaldäer; Kyrus; Persie** [medium, decided, by-rule]
+  - gloss: אֶלְיָקִים: אֶלְיָקִ֣ים (2CH 36:4) — English (generated): made Eliakim
+  - gloss: יְהוֹיָקִים: יְהוֹיָקִ֑ים (2CH 36:4) — English (generated): to Jehoiakim
+  - gloss: יְהוֹיָכִין: יְהוֹיָכִ֥ין (2CH 36:8) — English (generated): Jehoiachin
+  - gloss: צִדְקִיָּהוּ: צִדְקִיָּ֣הוּ (2CH 36:10) — English (generated): Zedekiah
+  - gloss: נְבוּכַדְנֶאצַּר: נְבוּכַדְנֶאצַּ֖ר (2CH 36:6) — English (generated): Then Nebuchadnezzar
+  - gloss: כַּשְׂדִּים: כַּשְׂדִּ֗ים (2CH 36:17) — English (generated): of the Chaldeans
+  - gloss: כּוֹרֶשׁ: כ֨וֹרֶשׁ֙ (2CH 36:22) — English (generated): of Cyrus
+  - gloss: פָּרַס: פָּרָֽס (2CH 36:20) — English (generated): of Persia
+  - NT: 2CH 36:22 *Kyrus*
+  - answers: Eliakim, Jehoiakim, Jehoiachin, Zedekiah, Nebuchadnezzar, Chaldeans, Cyrus, Persia
+  - Formen dieses Kapitels.
+  - agent:2ch036, 2026-11-15
+- **`term:ezr001_forms`** כּוֹרֶשׁ → **Kyrus; Mitredat; Scheschbazar; Schatzmeischter; Verbannte** [medium, decided, by-rule]
+  - gloss: כּוֹרֶשׁ: כ֨וֹרֶשׁ֙ (EZR 1:1) — English (generated): of Cyrus
+  - gloss: מִתְרְדָת: מִתְרְדָ֣ת (EZR 1:8) — English (generated): of Mithredath
+  - gloss: שֵׁשְׁבַּצַּר: שֵׁשְׁבַּצַּ֔ר (EZR 1:8) — English (generated): to Sheshbazzar
+  - gloss: הַ: הַ (EZR 1:8) — English (generated): the treasurer
+  - gloss: גּוֹלָה: גּוֹלָ֔ה (EZR 1:11) — English (generated): when the exiles
+  - NT: EZR 1:8 *Scheschbazar*
+  - answers: Cyrus, Mithredath, Sheshbazzar, treasurer, exiles
+  - Formen dieses Kapitels.
+  - agent:ezr001, 2026-11-15
+- **`term:ezr002_forms`** הַ → **Ai; Mina; Kerub; Dareike; Tämpeldiener; Pahat-Moab; Netofa; Kadmiël; Mordochai; Pocheret-Zebajim** [medium, decided, by-rule]
+  - gloss: הַ: הָ (EZR 2:28) — English (generated): and Ai
+  - gloss: מָנֶה: מָנִ֖ים (EZR 2:69) — English (generated): minas
+  - gloss: כְּרוּב: כְּר֥וּב (EZR 2:59) — English (generated): Cherub
+  - gloss: דַּרְכְּמֹנִים: דַּרְכְּמוֹנִים֙ (EZR 2:69) — English (generated): darics
+  - gloss: נָתִין: נְּתִינִ֑ים (EZR 2:43) — English (generated): The temple servants
+  - gloss: פַּחַת מוֹאָב: פַחַ֥ת (EZR 2:6) — English (generated): of Pahath moab
+  - gloss: נְטֹפָה: נְטֹפָ֖ה (EZR 2:22) — English (generated): of Netophah
+  - gloss: קַדְמִיאֵל: קַדְמִיאֵ֛ל (EZR 2:40) — English (generated): and Kadmiel
+  - gloss: מׇרְדֳּכַי: מָרְדֳּכַ֥י (EZR 2:2) — English (generated): Mordecai
+  - gloss: פֹּכֶרֶת הַצְּבָיִים: פֹּכֶ֥רֶת (EZR 2:57) — English (generated): of Pochereth hazzebaim
+  - NT: EZR 2:28 *Ai*
+  - answers: Ai, minas, Cherub, drachmas, temple servants, Pahath-moab, Netophah, Kadmiel, Mordecai, Pochereth-hazzebaim
+  - Formen dieses Kapitels.
+  - agent:ezr002, 2026-11-15
+- **`term:ezr003_forms`** יוֹצָדָק → **Jozadak; Schealtiel; Henadad; Tyrer; Amtschleider** [medium, decided, by-rule]
+  - gloss: יוֹצָדָק: יֽוֹצָדָ֜ק (EZR 3:2) — English (generated): of Jozadak
+  - gloss: שְׁאַלְתִּיאֵל: שְׁאַלְתִּיאֵל֙ (EZR 3:2) — English (generated): of Shealtiel
+  - gloss: חֵנָדָד: חֵֽנָדָ֔ד (EZR 3:9) — English (generated): of Henadad
+  - gloss: צֹרִי: צֹּרִ֔ים (EZR 3:7) — English (generated): and Tyre
+  - gloss: לָבֵשׁ: מְלֻבָּשִׁ֜ים (EZR 3:10) — English (generated): in their apparel
+  - NT: EZR 3:2 *Schealtiel*
+  - answers: Jozadak, Shealtiel, Henadad, Tyrians, vestments
+  - Formen dieses Kapitels.
+  - agent:ezr003, 2026-11-15
+- **`term:ezr004_forms`** אֵסַר חַדֹּן → **Asarhaddon; Darius; Ahasveros; Artaxerxes; Bischlam; Tabeel; Rehum; Schimschai; Osnappar; Elamiter; Babylonier** [medium, decided, by-rule]
+  - gloss: אֵסַר חַדֹּן: אֵסַ֤ר (EZR 4:2) — English (generated): Esar haddon
+  - gloss: דָּרְיָוֶשׁ: דָּרְיָ֥וֶשׁ (EZR 4:5) — English (generated): of Darius
+  - gloss: אֲחַשְׁוֵרוֹשׁ: אֲחַשְׁוֵר֔וֹשׁ (EZR 4:6) — English (generated): of Xerxes
+  - gloss: אַרְתַּחְשַׁשְׂתָּא: אַרְתַּחְשַׁ֗שְׂתָּא (EZR 4:7) — English (generated): of Artaxerxes
+  - gloss: בִּשְׁלָם: בִּשְׁלָ֜ם (EZR 4:7) — English (generated): Bishlam
+  - gloss: טָבְאֵל: טָֽבְאֵל֙ (EZR 4:7) — English (generated): Tabeel
+  - gloss: רְחוּם: רְח֣וּם (EZR 4:8)
+  - gloss: שִׁמְשַׁי: שִׁמְשַׁי֙ (EZR 4:8)
+  - gloss: אָסְנַפַּר: אָסְנַפַּר֙ (EZR 4:10)
+  - gloss: עֵלָמִי: עֵלְמָיֵֽ (EZR 4:9)
+  - gloss: בָּבְלַי: בָבְלָיֵ (EZR 4:9)
+  - NT: EZR 4:7 *Artaxerxes*
+  - answers: Esarhaddon, Darius, Ahasuerus, Artaxerxes, Bishlam, Tabeel, Rehum, Shimshai, Osnappar, Elamites, Babylonians
+  - Formen dieses Kapitels.
+  - agent:ezr004, 2026-11-15
+- **`term:ezr005_forms`** חַגַּי → **Haggai; Iddo; Tattenai; Schetar-Bosnai; Quadersteine** [medium, decided, by-rule]
+  - gloss: חַגַּי: חַגַּ֣י (EZR 5:1)
+  - gloss: עִדֹּוא: עִדּוֹא֙ (EZR 5:1)
+  - gloss: תַּתְּנַי: תַּ֠תְּנַי (EZR 5:3)
+  - gloss: שְׁתַר בּוֹזְנַי: שְׁתַ֥ר (EZR 5:3)
+  - gloss: אֶבֶן: אֶ֣בֶן (EZR 5:8)
+  - NT: EZR 5:1 *Haggai*
+  - answers: Haggai, Iddo, Tattenai, Shethar-bozenai, huge stones
+  - Formen dieses Kapitels.
+  - agent:ezr005, 2026-11-15
+- **`term:ezr006_forms`** אַחְמְתָא → **Ekbatana; Medie; Adar; Ywyhig; Widder** [medium, decided, by-rule]
+  - gloss: אַחְמְתָא: אַחְמְתָ֗א (EZR 6:2)
+  - gloss: מָדַי: מָדַ֥י (EZR 6:2)
+  - gloss: אֲדָר: אֲדָ֑ר (EZR 6:15)
+  - gloss: חֲנֻכָּה: חֲנֻכַּ֛ת (EZR 6:16)
+  - gloss: דְּכַר: דִכְרִ֣ין (EZR 6:9)
+  - NT: EZR 6:2 *Ekbatana*
+  - answers: Ecbatana, Media, Adar, dedication, rams
+  - Formen dieses Kapitels.
+  - agent:ezr006, 2026-11-15
+- **`term:ezr007_forms`** עֶזְרָא → **Esra; Schriftglehrte; Bat; Kor; Abischua** [medium, decided, by-rule]
+  - gloss: עֶזְרָא: עֶזְרָא֙ (EZR 7:1) — English (generated): Ezra
+  - gloss: סֹפֵר: סֹפֵ֤ר (EZR 7:6) — English (generated): a scribe
+  - gloss: בַּת: בַּתִּ֣ין (EZR 7:22)
+  - gloss: כֹּר: כֹּרִ֣ין (EZR 7:22)
+  - gloss: אֲבִישׁוּעַ: אֲבִישׁ֗וּעַ (EZR 7:5) — English (generated): of Abishua
+  - NT: EZR 7:1 *Esra*
+  - answers: Ezra, scribe, baths, cors, Abishua
+  - Formen dieses Kapitels.
+  - agent:ezr007, 2026-11-15
+- **`term:ezr008_forms`** אַהֲוָא → **Ahawa; Kasifja; Dareike; Satrape; Scherebja** [medium, decided, by-rule]
+  - gloss: אַהֲוָא: אַהֲוָ֔א (EZR 8:15) — English (generated): Ahava
+  - gloss: כָּסִפְיָא: כָסִפְיָ֖א (EZR 8:17) — English (generated): at Casiphia
+  - gloss: אֲדַרְכֹּון: אֲדַרְכֹנִ֖ים (EZR 8:27) — English (generated): darics
+  - gloss: אֲחַשְׁדַּרְפַּן: אֲחַשְׁדַּרְפְּנֵי֙ (EZR 8:36) — English (generated): satraps
+  - gloss: שֵׁרֵבְיָה: שֵׁרֵֽבְיָ֛ה (EZR 8:18) — English (generated): Sherebiah
+  - NT: EZR 8:15 *Ahawa*
+  - answers: Ahava, Casiphia, darics, satraps, Sherebiah
+  - Formen dieses Kapitels.
+  - agent:ezr008, 2026-11-15
+- **`term:ezr009_forms`** יָתֵד → **Pflock; Sklavedasy; Obergwand; Gröiel; Nachkommeschaft** [medium, decided, by-rule]
+  - gloss: יָתֵד: יָתֵ֖ד (EZR 9:8) — English (generated): a stake
+  - gloss: עַבְדֻת: עַבְדֻתֵֽ (EZR 9:8) — English (generated): Even in our bondage
+  - gloss: מְעִיל: מְעִילִ֑ (EZR 9:3) — English (generated): and cloak
+  - gloss: תּוֹעֵבַה: תוֹעֲבֹֽתֵי (EZR 9:1) — English (generated): whose abominations
+  - gloss: זֶרַע: זֶ֣רַע (EZR 9:2) — English (generated): seed
+  - NT: EZR 9:8 *Pflock*
+  - answers: stake, bondage, robe, abominations, seed
+  - Formen dieses Kapitels.
+  - agent:ezr009, 2026-11-15
+- **`term:ezr010_forms`** שְׁכַנְיָה → **Schechanja; Eljaschib; Rägewätter; Schabbetai; Kelita** [medium, decided, by-rule]
+  - gloss: שְׁכַנְיָה: שְׁכַנְיָ֨ה (EZR 10:2) — English (generated): Shecaniah
+  - gloss: אֶלְיָשִׁיב: אֶלְיָשִׁ֑יב (EZR 10:6) — English (generated): of Eliashib
+  - gloss: גֶּשֶׁם: גְּשָׁמִֽים (EZR 10:9) — English (generated): and because of the heavy rain
+  - gloss: שַׁבְּתַי: שַׁבְּתַ֥י (EZR 10:15) — English (generated): and Shabbethai
+  - gloss: קְלִיטָא: קְלִיטָ֔א (EZR 10:23) — English (generated): Kelita
+  - NT: EZR 10:2 *Schechanja*
+  - answers: Shecaniah, Eliashib, heavy rain, Shabbethai, Kelita
+  - Formen dieses Kapitels.
+  - agent:ezr010, 2026-11-15
+- **`term:neh001_forms`** נְחֶמְיָה → **Nehemia; Hachalja; Kislew; Susa; Mundschänk** [medium, decided, by-rule]
+  - gloss: נְחֶמְיָה: נְחֶמְיָ֖ה (NEH 1:1) — English (generated): of Nehemiah
+  - gloss: חֲכַלְיָה: חֲכַלְיָ֑ה (NEH 1:1) — English (generated): of Hacaliah
+  - gloss: כִּסְלֵו: כִּסְלֵיו֙ (NEH 1:1) — English (generated): of Chislev
+  - gloss: שׁוּשַׁן: שׁוּשַׁ֥ן (NEH 1:1) — English (generated): of Susa
+  - gloss: מַשְׁקֶה: מַשְׁקֶ֖ה (NEH 1:11) — English (generated): the cupbearer
+  - NT: NEH 1:1 *Nehemia*
+  - answers: Nehemiah, Hacaliah, Chislev, Susa, cupbearer
+  - Formen dieses Kapitels.
+  - agent:neh001, 2026-11-15
+- **`term:neh002_forms`** סַנְבַלַּט → **Sanballat; Horoniter; Geschem; Taltor; Mischttor** [medium, decided, by-rule]
+  - gloss: סַנְבַלַּט: סַנְבַלַּ֣ט (NEH 2:10) — English (generated): But when Sanballat
+  - gloss: חֹרֹנִי: חֹרֹנִ֗י (NEH 2:10) — English (generated): the Horonite
+  - gloss: גֶּשֶׁם: גֶ֨שֶׁם֙ (NEH 2:19) — English (generated): and Geshem
+  - gloss: שַׁעַר: שַֽׁעַר (NEH 2:13) — English (generated): Gate
+  - gloss: שַׁעַר: שַׁ֖עַר (NEH 2:13) — English (generated): Gate
+  - NT: NEH 2:10 *Sanballat*
+  - answers: Sanballat, Horonite, Geshem, Valley Gate, Dung Gate
+  - Formen dieses Kapitels.
+  - agent:neh002, 2026-11-15
+- **`term:neh003_forms`** בֵּית הַכֶּרֶם → **Bet-Kerem; Gibeon; Schaftor; Hananel; usbesseret** [medium, decided, by-rule]
+  - gloss: בֵּית הַכֶּרֶם: בֵּית (NEH 3:14) — English (generated): of Beth haccherem
+  - gloss: גִּבְעוֹן: גִבְע֖וֹן (NEH 3:7) — English (generated): of Gibeon
+  - gloss: הַ: הַ (NEH 3:1) — English (generated): priest
+  - gloss: חֲנַנְאֵל: חֲנַנְאֵֽל (NEH 3:1) — English (generated): of Hananel
+  - gloss: חָזַק: הֶחֱזִ֗יק (NEH 3:4) — English (generated): made repairs
+  - NT: NEH 3:14 *Bet-Kerem*
+  - answers: Beth-haccerem, Gibeon, Sheep Gate, Hananel, repaired
+  - Formen dieses Kapitels.
+  - agent:neh003, 2026-11-15
+- **`term:neh004_forms`** אַשְׁדּוֹדִי → **Aschdoditer; Böge; Schilde; Panzer; Posuune** [medium, decided, by-rule]
+  - gloss: אַשְׁדּוֹדִי: אַשְׁדּוֹדִ֗ים (NEH 4:1) — English (generated): and Ashdodites
+  - gloss: קֶשֶׁת: קַשְּׁתֹתֵי (NEH 4:7) — English (generated): and bows
+  - gloss: מָגֵן: מָּגִנִּ֔ים (NEH 4:10) — English (generated): shields
+  - gloss: שִׁרְיוֹן: שִּׁרְיֹנִ֑ים (NEH 4:10) — English (generated): and armor
+  - gloss: שֹׁופָר: שּׁוֹפָ֖ר (NEH 4:12)
+  - NT: NEH 4:1 *Aschdoditer*
+  - answers: Ashdodites, bows, shields, breastplates, trumpet
+  - Formen dieses Kapitels.
+  - agent:neh004, 2026-11-15
+- **`term:neh005_forms`** כֶּרֶם → **Räbbärge; verpfände; Hundertschtel; Gwandbusch; Ölbäum** [medium, decided, by-rule]
+  - gloss: כֶּרֶם: כְרָמֵ֥י (NEH 5:3) — English (generated): our vineyards
+  - gloss: עָרַב: עֹרְבִ֑ים (NEH 5:3) — English (generated): are mortgaging
+  - gloss: מֵאָה: מְאַ֨ת (NEH 5:11) — English (generated): along with the percentage
+  - gloss: חֹצֶן: חָצְנִ֣ (NEH 5:13) — English (generated): the folds of my robe
+  - gloss: זַיִת: זֵיתֵי (NEH 5:11) — English (generated): olive groves
+  - NT: NEH 5:3 *Räbbärge*
+  - answers: vineyards, mortgaging, percentage, folds of my robe, olive groves
+  - Formen dieses Kapitels.
+  - agent:neh005, 2026-11-15
+- **`term:neh006_forms`** אוֹנוֹ → **Ono; Elul; Noadja; Mehetabel; Schwigersuhn** [medium, decided, by-rule]
+  - gloss: אוֹנוֹ: אוֹנ֑וֹ (NEH 6:2) — English (generated): of Ono
+  - gloss: אֱלוּל: אֱל֑וּל (NEH 6:15) — English (generated): of Elul
+  - gloss: נוֹעַדְיָה: נוֹעַדְיָ֤ה (NEH 6:14) — English (generated): Noadiah
+  - gloss: מְהֵיטַבְאֵל: מְהֵֽיטַבְאֵ֖ל (NEH 6:10) — English (generated): of Mehetabel
+  - gloss: חָתָן: חָתָ֥ן (NEH 6:18) — English (generated): was a son in law
+  - NT: NEH 6:2 *Ono*
+  - answers: Ono, Elul, Noadiah, Mehetabel, son-in-law
+  - Formen dieses Kapitels.
+  - agent:neh006, 2026-11-15
+- **`term:neh007_forms`** גִּבְעוֹן → **Gibeon; Bet-Asmawet; Ai; Raamja; Nefuschesim** [medium, decided, by-rule]
+  - gloss: גִּבְעוֹן: גִבְע֖וֹן (NEH 7:25) — English (generated): of Gibeon
+  - gloss: בֵּית עַזְמָוֶת: בֵית (NEH 7:28) — English (generated): of Beth azmaveth
+  - gloss: הַ: הָ (NEH 7:32) — English (generated): and Ai
+  - gloss: רַעַמְיָה: רַֽעַמְיָ֨ה (NEH 7:7) — English (generated): Raamiah
+  - gloss: נְפוּשְׁסִים: נְפִֽישְׁסִֽים (NEH 7:52) — English (generated): of Nephushesim
+  - NT: NEH 7:25 *Gibeon*
+  - answers: Gibeon, Beth-azmaveth, Ai, Raamiah, Nephushesim
+  - Formen dieses Kapitels.
+  - agent:neh007, 2026-11-15
+- **`term:neh008_forms`** מִגְדָּל → **Holzpodescht; Haschbaddana; Myrte; Feschtversammlig; Efraimtor** [medium, decided, by-rule]
+  - gloss: מִגְדָּל: מִגְדַּל (NEH 8:4) — English (generated): platform
+  - gloss: חַשְׁבַּדָּנָה: חַשְׁבַּדָּ֖נָה (NEH 8:4) — English (generated): Hash baddanah
+  - gloss: הֲדַס: הֲדַס֙ (NEH 8:15) — English (generated): myrtle
+  - gloss: עֲצֶרֶת: עֲצֶ֖רֶת (NEH 8:18) — English (generated): they held an assembly
+  - gloss: שַׁעַר: שַׁ֥עַר (NEH 8:16) — English (generated): Gate
+  - NT: NEH 8:4 *Holzpodescht*
+  - answers: wooden platform, Hashbaddanah, myrtle, assembly, Gate of Ephraim
+  - Formen dieses Kapitels.
+  - agent:neh008, 2026-11-15
+- **`term:neh009_forms`** עַמּוּד → **Wulchesüüle; Füürsüüle; Girgaschiter; Sichon; Lesterige** [medium, decided, by-rule]
+  - gloss: עַמּוּד: עַמּ֣וּד (NEH 9:12) — English (generated): with a pillar
+  - gloss: עַמּוּד: עַמּ֥וּד (NEH 9:12) — English (generated): with a pillar
+  - gloss: גִּרְגָּשִׁי: גִּרְגָּשִׁ֖י (NEH 9:8) — English (generated): and Girgashites
+  - gloss: סִיחוֹן: סִיח֗וֹן (NEH 9:22) — English (generated): of Sihon
+  - gloss: נֶאָצָה: נֶאָצ֖וֹת (NEH 9:18) — English (generated): blasphemies
+  - NT: NEH 9:12 *Wulchesüüle*
+  - answers: pillar of cloud, pillar of fire, Girgashite, Sihon, blasphemies
+  - Formen dieses Kapitels.
+  - agent:neh009, 2026-11-15
+- **`term:neh010_forms`** גִּנְּתוֹן → **Ginneton; Beninu; Magpiasch; Pilcha; Holzgab** [medium, decided, by-rule]
+  - gloss: גִּנְּתוֹן: גִּנְּת֖וֹן (NEH 10:7) — English (generated): Ginnethon
+  - gloss: בְּנִינוּ: בְּנִֽינוּ (NEH 10:14) — English (generated): and Beninu
+  - gloss: מַגְפִּיעָשׁ: מַגְפִּיעָ֥שׁ (NEH 10:21) — English (generated): Magpiash
+  - gloss: פִּלְחָא: פִּלְחָ֖א (NEH 10:25) — English (generated): Pilha
+  - gloss: קֻרְבָּן: קֻרְבַּ֣ן (NEH 10:35) — English (generated): the donation
+  - NT: NEH 10:7 *Ginneton*
+  - answers: Ginnethon, Beninu, Magpiash, Pilha, wood offering
+  - Formen dieses Kapitels.
+  - agent:neh010, 2026-11-15
+- **`term:neh011_forms`** בֵּית פָּלֶט → **Bet-Pelet; Jekabzeel; Mechona; Neballat; Haggedolim** [medium, decided, by-rule]
+  - gloss: בֵּית פָּלֶט: בֵ֥ית (NEH 11:26) — English (generated): and Beth pelet
+  - gloss: יְקַבְצְאֵל: יקַּבְצְאֵ֖ל (NEH 11:25) — English (generated): Jekabzeel
+  - gloss: מְכֹנָה: מְכֹנָ֖ה (NEH 11:28) — English (generated): in Meconah
+  - gloss: נְבַלָּט: נְבַלָּֽט (NEH 11:34) — English (generated): Neballat
+  - gloss: גָּדֹול: גְּדוֹלִֽים (NEH 11:14) — English (generated): Haggedolim
+  - NT: NEH 11:26 *Bet-Pelet*
+  - answers: Beth-pelet, Jekabzeel, Meconah, Neballat, Haggedolim
+  - Formen dieses Kapitels.
+  - agent:neh011, 2026-11-15
+- **`term:neh012_forms`** בֵּית הַגִּלְגָּל → **Bet-Gilgal; Dankchör; Wachttor; Netofatiter; Melichu** [medium, decided, by-rule]
+  - gloss: בֵּית הַגִּלְגָּל: בֵּית֙ (NEH 12:29) — English (generated): from Beth gilgal
+  - gloss: תּוֹדָה: תוֹדֹת֩ (NEH 12:31) — English (generated): thanksgiving
+  - gloss: שַׁעַר: שַׁ֖עַר (NEH 12:39) — English (generated): the Gate
+  - gloss: נְטֹופָתִי: נְטֹפָתִֽי (NEH 12:28) — English (generated): of the Netophathites
+  - gloss: מְלִיכוּ: מְלִ֨יכוּ֙ (NEH 12:14) — English (generated): of Malluchi
+  - NT: NEH 12:29 *Bet-Gilgal*
+  - answers: Beth-gilgal, choirs, Gate of the Guard, Netophathites, Malluchi
+  - Formen dieses Kapitels.
+  - agent:neh012, 2026-11-15
+- **`term:neh013_forms`** אַשְׁדֹּודִי → **Aschdodisch; Jüdisch; Tyrer; Huusrat; Urloub** [medium, decided, by-rule]
+  - gloss: אַשְׁדֹּודִי: אַשְׁדּוֹדִ֔ית (NEH 13:24) — English (generated): the language of Ashdod
+  - gloss: יְהוּדִי: יְהוּדִ֑ית (NEH 13:24) — English (generated): the language of Judah
+  - gloss: צֹרִי: צֹּרִים֙ (NEH 13:16) — English (generated): Additionally Tyre
+  - gloss: בַּיִת: בֵית (NEH 13:8) — English (generated): household
+  - gloss: שָׁאַל: נִשְׁאַ֥לְתִּי (NEH 13:6) — English (generated): I obtained leave
+  - NT: NEH 13:24 *Aschdodisch*
+  - answers: language of Ashdod, language of Judah, Tyrians, household goods, permission
+  - Formen dieses Kapitels.
+  - agent:neh013, 2026-11-15
+- **`term:est001_forms`** וַשְׁתִּי → **Waschti; Indie; Memuchan; Hofmanne; Chüniginnewürdi** [medium, decided, by-rule]
+  - gloss: וַשְׁתִּי: וַשְׁתִּ֣י (EST 1:9) — English (generated): Vashti
+  - gloss: הֹדּוּ: הֹ֣דּוּ (EST 1:1) — English (generated): from India
+  - gloss: מְמוּכָן: מְמוּכָ֑ן (EST 1:14) — English (generated): and Memucan
+  - gloss: סָרִיס: סָּ֣רִיסִ֔ים (EST 1:10) — English (generated): eunuchs
+  - gloss: מַלְכוּת: מַלְכוּתָ (EST 1:19) — English (generated): a royal
+  - NT: EST 1:9 *Waschti*
+  - answers: Vashti, India, Memucan, eunuchs, royal position
+  - Formen dieses Kapitels.
+  - agent:est001, 2026-11-15
+- **`term:est002_forms`** הֲדַסָּה → **Hadassa; Hegai; Tebet; Froueshuus; Schaaschgas** [medium, decided, by-rule]
+  - gloss: הֲדַסָּה: הֲדַסָּ֗ה (EST 2:7) — English (generated): Hadassah
+  - gloss: הֵגַי: הֵגֶ֛א (EST 2:3) — English (generated): of Hegai
+  - gloss: טֵבֶת: טֵבֵ֑ת (EST 2:16) — English (generated): of Tebeth
+  - gloss: בַּיִת: בֵּ֣ית (EST 2:3) — English (generated): the harem
+  - gloss: שַׁעַשְׁגַּז: שַֽׁעֲשְׁגַ֛ז (EST 2:14) — English (generated): of Shaashgaz
+  - NT: EST 2:7 *Hadassa*
+  - answers: Hadassah, Hegai, Tebeth, harem, Shaashgaz
+  - Formen dieses Kapitels.
+  - agent:est002, 2026-11-15
+- **`term:est003_forms`** הָמָן → **Haman; Hammedata; Agagiter; Pur; Siegelring** [medium, decided, by-rule]
+  - gloss: הָמָן: הָמָ֧ן (EST 3:1) — English (generated): Haman
+  - gloss: הַמְּדָתָא: הַמְּדָ֛תָא (EST 3:1) — English (generated): of Hammedatha
+  - gloss: אֲגָגִי: אֲגָגִ֖י (EST 3:1) — English (generated): the Agagite
+  - gloss: פּוּר: פּוּר֩ (EST 3:7) — English (generated): the Pur
+  - gloss: טַבַּעַת: טַבַּעְתּ֖ (EST 3:10) — English (generated): the signet ring
+  - NT: EST 3:1 *Haman*
+  - answers: Haman, Hammedatha, Agagite, pur, signet ring
+  - Formen dieses Kapitels.
+  - agent:est003, 2026-11-15
+- **`term:est004_forms`** הֲתָךְ → **Hatach; Faschte; Zepter; Sackchleider** [medium, decided, by-rule]
+  - gloss: הֲתָךְ: הֲתָ֜ךְ (EST 4:5) — English (generated): Hathach
+  - gloss: צוֹם: צ֥וֹם (EST 4:3) — English (generated): They fasted
+  - gloss: שַׁרְבִיט: שַׁרְבִ֥יט (EST 4:11) — English (generated): scepter
+  - gloss: לְבוּשׁ: לְב֥וּשׁ (EST 4:2) — English (generated): anyone wearing
+  - NT: EST 4:5 *Hatach*
+  - answers: Hathach, fasting, scepter, sackcloth
+  - Formen dieses Kapitels.
+  - agent:est004, 2026-11-15
+- **`term:est005_forms`** זֶרֶשׁ → **Seresch; Wytrinke; Thronsaal; Fründe** [medium, decided, by-rule]
+  - gloss: זֶרֶשׁ: זֶ֥רֶשׁ (EST 5:10) — English (generated): Zeresh
+  - gloss: מִשְׁתֶּה: מִשְׁתֵּ֣ה (EST 5:6) — English (generated): And as they drank
+  - gloss: בַּיִת: בֵ֣ית (EST 5:1) — English (generated): of the palace
+  - gloss: אָהֵב: אֹהֲבָ֖י (EST 5:10) — English (generated): his friends
+  - NT: EST 5:10 *Seresch*
+  - answers: Zeresh, drinking wine, throne room, friends
+  - Formen dieses Kapitels.
+  - agent:est005, 2026-11-15
+- **`term:est006_forms`** בִּגְתָן → **Bigtana; Uszeichnig; Gwand; Berater** [medium, decided, by-rule]
+  - gloss: בִּגְתָן: בִּגְתָ֣נָא (EST 6:2) — English (generated): Bigthana
+  - gloss: גְּדוּלָּה: גְדוּלָּ֛ה (EST 6:3) — English (generated): or dignity
+  - gloss: לְבוּשׁ: לְב֣וּשׁ (EST 6:8) — English (generated): robe
+  - gloss: חָכָם: חֲכָמָ֜י (EST 6:13) — English (generated): His advisers
+  - NT: EST 6:2 *Bigtana*
+  - answers: Bigthana, distinction, robe, advisers
+  - Formen dieses Kapitels.
+  - agent:est006, 2026-11-15
+- **`term:est007_forms`** צַר → **Bedränger; Palastgarte; Ruebett; Harbona** [medium, decided, by-rule]
+  - gloss: צַר: צַ֣ר (EST 7:6) — English (generated): The adversary
+  - gloss: גִּנָּה: גִּנַּ֖ת (EST 7:7) — English (generated): garden
+  - gloss: מִטָּה: מִּטָּה֙ (EST 7:8) — English (generated): the couch
+  - gloss: חַרְבֹונָה: חַ֠רְבוֹנָה (EST 7:9) — English (generated): Then Harbonah
+  - NT: EST 7:7 *Palastgarte*
+  - answers: adversary, palace garden, couch, Harbona
+  - Formen dieses Kapitels.
+  - agent:est007, 2026-11-15
+- **`term:est008_forms`** סִיוָן → **Siwan; Chünigspfärd; Firtig; Heeresmacht** [medium, decided, by-rule]
+  - gloss: סִיוָן: סִיוָ֗ן (EST 8:9) — English (generated): of Sivan
+  - gloss: הַ: הָֽ (EST 8:10) — English (generated): of King
+  - gloss: יוֹם: י֣וֹם (EST 8:17) — English (generated): and celebrating
+  - gloss: חַיִל: חֵ֨יל (EST 8:11) — English (generated): the forces
+  - NT: EST 8:9 *Siwan*
+  - answers: Sivan, royal horses, holiday, army
+  - Formen dieses Kapitels.
+  - agent:est008, 2026-11-15
+- **`formula:neum_yhwh`** נְאֻם → **seit der HERR** [high, decided, by-rule]
+  - gloss: נְאֻם: נְאֻם (JER 1:8) — English (generated): declares
+  - NT: GEN 22:16 *seit der HERR*; 2KI 22:19 *seit der HERR*
+  - answers: declares the lord, says the lord
+  - Prophetische Formel נְאֻם יְהוָה (Jer, alle Propheten) als eingeschobenes »seit der HERR« (Komma davor), wie 1 Mo 22,16, 4 Mo 14,28, 2 Kön 9,26; 19,33; 22,19. Mit Titeln: »seit der Herr, der HERR« (נְאֻם אֲדֹנָי יְהוִה), »seit der HERR Zebaoth«. »Usspruch vom …« bleibt für Bileam (4 Mo 24) und 1 Sam 2,30.
+  - agent:jer001, 2026-11-15
+- **`formula:word_of_yhwh_came`** דָּבָר → **Ds Wort vom HERR isch zu mir cho:** [high, decided, by-rule]
+  - gloss: דָּבָר: דְבַר (JER 1:4) — English (generated): The word
+  - gloss: אָמַר: אמֹֽר (JER 1:4) — English (generated): saying
+  - NT: 1KI 6:11 *Ds Wort vom HERR*
+  - answers: the word of the lord came to me, saying
+  - וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר: »Ds Wort vom HERR isch zu mir cho:« (לֵאמֹר als Doppelpunkt, nicht übersetzt), wie 1 Kön 6,11 »isch zum Salomo cho«. Dritte Person: »isch zum Jeremia cho«. Der Titel הַדָּבָר אֲשֶׁר הָיָה אֶל־יִרְמְיָהוּ מֵאֵת יְהוָה: »Ds Wort, wo vom HERR zum Jeremia cho isch«.
+  - agent:jer001, 2026-11-15
+- **`term:est009_forms`** פַּרְשַׁנְדָּתָא → **Parschandata; Wajesata; Purim; Purimtage; Büte** [medium, decided, by-rule]
+  - gloss: פַּרְשַׁנְדָּתָא: פַּרְשַׁנְדָּ֛תָא (EST 9:7) — English (generated): including Parshandatha
+  - gloss: וַיְזָתָא: וַיְזָֽתָא (EST 9:9) — English (generated): and Vaizatha
+  - gloss: פּוּר: פוּרִים֙ (EST 9:26) — English (generated): Purim
+  - gloss: יוֹם: ימֵ֞י (EST 9:28) — English (generated): days
+  - gloss: בִּזָּה: בִּזָּ֔ה (EST 9:10) — English (generated): on the plunder
+  - NT: EST 9:26 *Purim*
+  - answers: Parshandatha, Vaizatha, Purim, days of Purim, plunder
+  - Formen dieses Kapitels.
+  - agent:est009, 2026-11-15
+- **`term:est010_forms`** מַס → **Fron; Insle; Zwöit** [medium, decided, by-rule]
+  - gloss: מַס: מַ֛ס (EST 10:1) — English (generated): tribute
+  - gloss: אִי: אִיֵּ֥י (EST 10:1) — English (generated): even to its farthest shores
+  - gloss: מִשְׁנֶה: מִשְׁנֶה֙ (EST 10:3) — English (generated): was second
+  - NT: EST 10:1 *Fron*
+  - answers: tribute, islands, second
+  - Formen dieses Kapitels.
+  - agent:est010, 2026-11-15
+- **`term:H2416_living_creatures`** חַיָּה → **Wäse** [high, decided, by-rule]
+  - gloss: חַיָּה: חַיּ֑וֹת (EZK 1:5) — English (generated): living creatures
+  - NT: REV 4:6 *vier Wäse*
+  - answers: living creatures, creatures
+  - Die vier lebenden Wesen der Thronvision (Ez 1; 3; 10) wie Offb 4.
+  - agent:ezk001, 2026-11-15
+- **`term:H212_wheel`** אוֹפָן → **Rad; Räder** [high, decided, by-rule]
+  - gloss: אוֹפָן: אוֹפַ֨ן (EZK 1:15) — English (generated): wheel
+  - NT: EZK 1:15 *es Rad*
+  - answers: wheel, wheels
+  - אוֹפַן; Ez 1; 10.
+  - agent:ezk001, 2026-11-15
+- **`term:H2830_amber`** חַשְׁמַל → **Bärnstei** [high, decided, by-rule]
+  - gloss: חַשְׁמַל: חַשְׁמַ֖ל (EZK 1:4) — English (generated): like amber
+  - NT: EZK 1:4 *Bärnstei*
+  - answers: amber
+  - חַשְׁמַל, Ez 1,4.27; 8,2.
+  - agent:ezk001, 2026-11-15
+- **`formula:hand_of_yhwh`** יָד → **d Hand vom HERR isch uf ihm / uf mir gsi** [high, decided, by-rule]
+  - gloss: יָד: יַד (EZK 1:3) — English (generated): hand
+  - NT: EZK 1:3 *d Hand vom HERR*
+  - answers: hand of the lord
+  - Formel der prophetischen Ergriffenheit (Ez 1,3; 3,14.22; 8,1; 37,1; 40,1).
+  - agent:ezk001, 2026-11-15
+- **`formula:hoy`** הוֹי → **Gnad Gott dir / Gnad Gott dene, wo …** [high, decided, by-rule]
+  - gloss: הוֹי: ה֣וֹי (ISA 1:4) — English (generated): Alas
+  - NT: ISA 1:4 *Gnad Gott dir*; LUK 17:1 *Gnad Gott däm*
+  - answers: woe, woe to, alas
+  - הוֹי und אוֹי לְ als Weheruf: »Gnad Gott …« mit Dativ (»Gnad Gott dir«, »Gnad Gott ne«, »Gnad Gott dene, wo …«), nach Bietenhards Wiedergabe von οὐαί mit der 3. Person (Lk 17,1; Mt 18,7); הוֹי als blosser Ausruf (Jes 1,24; 55,1) »Ha« / »He«; אוֹי לִי (Klage über sich selbst) »O weh mir«. Für alle Prophetenbücher.
+  - agent:isa001, 2026-11-15
+- **`term:qedosh_israel`** קָדוֹשׁ → **der Heilig vo Israel** [high, decided, by-rule]
+  - gloss: קָדוֹשׁ: קְד֥וֹשׁ (ISA 1:4) — English (generated): the Holy
+  - NT: ISA 1:4 *der Heilig vo Israel*; PSA 78:41 *der Heilig vo Israel*
+  - answers: holy one of israel
+  - Gottestitel קְדוֹשׁ יִשְׂרָאֵל; Dativ »em Heilige vo Israel« (Ps 89,19).
+  - agent:isa001, 2026-11-15
+- **`formula:mouth_yhwh_spoken`** פֶּה → **Denn ds Muul vom HERR het gredt** [high, decided, by-rule]
+  - gloss: פֶּה: פִּ֥י (ISA 1:20) — English (generated): the mouth
+  - NT: ISA 1:20 *ds Muul vom HERR*
+  - answers: for the mouth of the lord has spoken
+  - כִּי פִּי יְהוָה דִּבֵּר (Jes 1,20; 40,5; 58,14).
+  - agent:isa001, 2026-11-15
+- **`term:neum_prophets`** נְאֻם → **seit** [high, decided, by-rule]
+  - gloss: נְאֻם: נְאֻם (JER 1:8) — English (generated): declares
+  - NT: JER 1:8 *seit der HERR*; JER 1:19 *seit der HERR*
+  - answers: declares, says the lord
+  - נְאֻם יְהוָה bei den Propheten »seit der HERR« (formula:neum_yhwh); »Usspruch« (term:H5002_utterance) nur für Bileam und 1 Sam 2,30.
+  - agent:jer001, 2026-11-15
+- **`term:H2451_wisdom_pro`** חׇכְמָה → **Wysheit** [high, decided, by-rule]
+  - gloss: חׇכְמָה: חָכְמָ֣ה (PRO 1:2) — English (generated): wisdom
+  - NT: 1CO 1:21 *i syr Wysheit*; PRO 1:2 *Wysheit*
+  - answers: wisdom
+  - Sprüche: חָכְמָה durchgehend »Wysheit«, auch personifiziert (»D Wysheit rüeft«).
+  - agent:pro001, 2026-11-15
+- **`term:H2450_wise_pro`** חָכָם → **gschyd; Gschyde** [high, decided, by-rule]
+  - gloss: חָכָם: חָ֭כָם (PRO 1:5) — English (generated): let the wise
+  - gloss: חָכָם: חֲ֝כָמִ֗ים (PRO 1:6) — English (generated): of the wise
+  - NT: 1CO 1:19 *vo de Gschyde*; PRO 1:5 *Der Gschyd*
+  - answers: wise
+  - Sprüche: חָכָם »gschyd«, substantiviert »der Gschyd, di Gschyde«.
+  - agent:pro001, 2026-11-15
+- **`term:H998_binah_pro`** בִּינָה → **Verstand** [high, decided, by-rule]
+  - gloss: בִּינָה: בִינָֽה (PRO 1:2) — English (generated): of insight
+  - NT: 1CO 1:19 *der Verstand*; PRO 1:2 *vom Verstand*
+  - answers: understanding, insight
+  - Sprüche: בִּינָה »Verstand«; תְּבוּנָה »Ysicht«.
+  - agent:pro001, 2026-11-15
+- **`term:H1847_daat_pro`** דַּעַת → **Wüsse** [high, decided, by-rule]
+  - gloss: דַּעַת: דָּ֑עַת (PRO 1:7) — English (generated): of knowledge
+  - gloss: דַּעַת: דָֽעַת (PRO 1:22) — English (generated): knowledge
+  - NT: PRO 1:7 *vom Wüsse*
+  - answers: knowledge
+  - Sprüche: דַּעַת »ds Wüsse« (wie die bisherigen Entwürfe).
+  - agent:pro001, 2026-11-15
+- **`term:H4148_musar_pro`** מוּסָר → **Erziehig** [high, decided, by-rule]
+  - gloss: מוּסָר: מוּסָ֑ר (PRO 1:2) — English (generated): and discipline
+  - gloss: מוּסָר: מוּסָ֗ר (PRO 1:7) — English (generated): and discipline
+  - gloss: מוּסָר: מוּסַ֣ר (PRO 1:8) — English (generated): instruction
+  - NT: HEB 12:7 *erzoge*; PRO 1:2 *Erziehig*
+  - answers: discipline, instruction
+  - Sprüche: מוּסָר »Erziehig«, gebildet zu »erzie« (Korpus erzie, erzoge; kein Substantiv). Not »Zucht« (Korpus nur zuchtlos).
+  - agent:pro001, 2026-11-15
+- **`term:H8433_reproof_pro`** תּוֹכַחַת → **Zrächtwysig** [high, decided, by-rule]
+  - gloss: תּוֹכַחַת: ת֫וֹכַחְתִּ֥ (PRO 1:23) — English (generated): at my rebuke
+  - gloss: תּוֹכַחַת: תוֹכַחְתִּ֗ (PRO 1:25) — English (generated): of my correction
+  - gloss: תּוֹכַחַת: תּוֹכַחְתִּֽ (PRO 1:30) — English (generated): my reproof
+  - NT: 1TI 5:20 *zrächtwyse*; PRO 1:23 *Zrächtwysig*
+  - answers: rebuke, reproof, correction
+  - Sprüche: תּוֹכַחַת »Zrächtwysig«, gebildet zu »zrächtwyse« (Korpus 3×).
+  - agent:pro001, 2026-11-15
+- **`term:H4209_discretion_pro`** מְזִמָּה → **Überlegig** [high, decided, by-rule]
+  - gloss: מְזִמָּה: מְזִמָּֽה (PRO 1:4) — English (generated): and discretion
+  - NT: HEB 4:12 *d Überlegige*; PRO 1:4 *Überlegig*
+  - answers: discretion
+  - Sprüche: מְזִמָּה im guten Sinn »Überlegig«; im bösen Sinn »Plän« oder »bösi Absicht«.
+  - agent:pro001, 2026-11-15
+- **`term:H6195_prudence_pro`** עׇרְמָה → **Gschydi** [high, decided, by-rule]
+  - gloss: עׇרְמָה: עָרְמָ֑ה (PRO 1:4) — English (generated): prudence
+  - NT: 1CO 1:20 *d Gschydi*; PRO 1:4 *Gschydi*
+  - answers: prudence
+  - Sprüche: עָרְמָה »Gschydi«; עָרוּם »gwitzt« (Mt 25).
+  - agent:pro001, 2026-11-15
+- **`term:H6612_simple_pro`** פֶּתִי → **Eifache** [high, decided, by-rule]
+  - gloss: פֶּתִי: פְתָאיִ֣ם (PRO 1:4) — English (generated): to the simple
+  - gloss: פֶּתִי: פְּתָיִם֮ (PRO 1:22) — English (generated): O simple ones
+  - gloss: פֶּתִי: פְּתָיִ֣ם (PRO 1:32) — English (generated): of the simple
+  - NT: PRO 1:4 *de Eifache*
+  - answers: simple
+  - Sprüche: פֶּתִי »di Eifache« (Unerfahrene).
+  - agent:pro001, 2026-11-15
+- **`term:H3684_fool_pro`** אֱוִיל → **Dumme; dumm** [high, decided, by-rule]
+  - gloss: אֱוִיל: אֱוִילִ֥ים (PRO 1:7) — English (generated): fools
+  - gloss: כְּסִיל: כְסִילִ֗ים (PRO 1:22) — English (generated): and fools
+  - gloss: כְּסִיל: כְּסִילִ֣ים (PRO 1:32) — English (generated): of fools
+  - NT: MAT 25:3 *Di Dumme*; PRO 1:7 *di Dumme*
+  - answers: fool, fools
+  - Sprüche: כְּסִיל und אֱוִיל »der Dumm, di Dumme«; אִוֶּלֶת »Dümmi« (1 Kor 1,20).
+  - agent:pro001, 2026-11-15
+- **`term:H8451_teaching_pro`** תּוֹרָה → **Wysig** [high, decided, by-rule]
+  - gloss: תּוֹרָה: תּוֹרַ֥ת (PRO 1:8) — English (generated): the teaching
+  - NT: MAT 11:1 *di Wysig*; PRO 1:8 *d Wysig*
+  - answers: teaching
+  - Sprüche: תּוֹרָה der Eltern, der Weisheit »d Wysig«; das Gesetz bleibt »ds Gsetz«.
+  - agent:pro001, 2026-11-15
+- **`term:H4912_proverb_pro`** מָשָׁל → **Sprüch (Pl.); Spruch** [high, decided, by-rule]
+  - gloss: מָשָׁל: מִ֭שְׁלֵי (PRO 1:1) — English (generated): the proverbs
+  - gloss: מָשָׁל: מָ֭שָׁל (PRO 1:6) — English (generated): the proverbs
+  - NT: PRO 1:1 *D Sprüch*
+  - answers: proverbs
+  - Sprüche: מָשָׁל »Spruch«, Pl. »Sprüch« (Korpus Sprüch 1×); Buchtitel »Ds Buech vo de Sprüch« offen.
+  - agent:pro001, 2026-11-15
+- **`term:jer001_forms`** נָתַשׁ → **uszrysse; abzrysse; umzrysse; Zweig; Mandelboum; süttet; gneigt; gröucheret; verschleppt; spriche** [medium, decided, by-rule]
+  - gloss: נָתַשׁ: נְת֥וֹשׁ (JER 1:10) — English (generated): to uproot
+  - gloss: נָתַץ: נְת֖וֹץ (JER 1:10) — English (generated): and tear down
+  - gloss: הָרַס: הֲר֑וֹס (JER 1:10) — English (generated): and overthrow
+  - gloss: מַקֵּל: מַקֵּ֥ל (JER 1:11) — English (generated): a branch
+  - gloss: שָׁקֵד: שָׁקֵ֖ד (JER 1:11) — English (generated): of an almond tree
+  - gloss: נָפַח: נָפ֨וּחַ֙ (JER 1:13) — English (generated): a boiling
+  - gloss: קָטַר: יְקַטְּרוּ֙ (JER 1:16) — English (generated): and they have burned incense
+  - gloss: גָּלָה: גְּל֥וֹת (JER 1:3) — English (generated): went into exile
+  - NT: JER 1:10 *uszrysse*; JER 1:11 *Mandelboum*
+  - answers: uproot, tear down, overthrow, branch, almond tree, boiling, burned incense
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet (rysse, röuchere).
+  - agent:jer001, 2026-11-15
+- **`term:isa001_forms`** סִיג → **Schlacke; Underdrücker; Karmesin; Zunder; Funke; Wächterhüsli** [medium, decided, by-rule]
+  - gloss: סִיג: סִיגִ֑ים (ISA 1:22) — English (generated): dross
+  - gloss: חָמוֹץ: חָמ֑וֹץ (ISA 1:17) — English (generated): the oppressor
+  - gloss: תּוֹלָע: תּוֹלָ֖ע (ISA 1:18) — English (generated): as crimson
+  - gloss: נְעֹרֶת: נְעֹ֔רֶת (ISA 1:31) — English (generated): tinder
+  - gloss: נִיצוֹץ: נִיצ֑וֹץ (ISA 1:31) — English (generated): a spark
+  - gloss: מְלוּנָה: מְלוּנָ֥ה (ISA 1:8) — English (generated): like a shack
+  - NT: ISA 1:22 *Schlacke*
+  - answers: dross, oppressor, crimson, tinder, spark, shack
+  - Formen dieses Kapitels.
+  - agent:isa001, 2026-11-15
+- **`formula:ben_adam`** בֵּן → **Mönschesuhn** [high, decided, by-rule]
+  - gloss: בֵּן: בֶּן (EZK 2:1) — English (generated): Son
+  - NT: EZK 2:1 *Mönschesuhn*
+  - answers: son of man
+  - Anrede Gottes an Ezechiel (בֶּן־אָדָם), immer ohne Artikel: »Mönschesuhn, …«, »Du, Mönschesuhn«.
+  - agent:ezk002, 2026-11-15
+- **`formula:bet_meri`** בַּיִת → **es ufsässigs Huus** [high, decided, by-rule]
+  - gloss: בַּיִת: בֵּ֥ית (EZK 2:5) — English (generated): house
+  - NT: EZK 2:5 *es ufsässigs Huus*
+  - answers: rebellious house
+  - בֵּית מְרִי, Ezechiel; »ufsässig« auch für מְרִי allein; Korpus »ufsässig« 1×.
+  - agent:ezk002, 2026-11-15
+- **`formula:thus_says_adonai_yhwh`** כֹּה → **So seit der Herr, HERR** [high, decided, by-rule]
+  - gloss: כֹּה: כֹּ֥ה (EZK 2:4) — English (generated): This is what
+  - NT: EZK 2:4 *seit der Herr, HERR*
+  - answers: thus says the lord god
+  - כֹּה אָמַר אֲדֹנָי יְהוִה, Propheten (Ezechiel); YHWH allein: »So seit der HERR« (formula:thus_says_yhwh).
+  - agent:ezk002, 2026-11-15
+- **`formula:hear_or_refuse`** אִם → **ob si lose oder ’s la sy** [high, decided, by-rule]
+  - gloss: אִם: אִם (EZK 2:5) — English (generated): And whether
+  - NT: EZK 2:5 *ob si lose*
+  - answers: whether they listen or refuse
+  - אִם־יִשְׁמְעוּ וְאִם־יֶחְדָּלוּ, Ez 2,5.7; 3,11.27.
+  - agent:ezk002, 2026-11-15
+- **`term:ezk002_forms`** מָרַד → **ufsässige; ufsässigs; Stachle; Süüfzger; bschribe** [medium, decided, by-rule]
+  - gloss: מָרַד: מּוֹרְדִ֖ים (EZK 2:3) — English (generated): a rebellious
+  - gloss: סַלּוֹן: סַלּוֹנִים֙ (EZK 2:6) — English (generated): and thorns
+  - gloss: הֶגֶה: הֶ֖גֶה (EZK 2:10) — English (generated): mourning
+  - NT: EZK 2:2 *empöret*
+  - answers: rebellious, thorns, mourning
+  - Formen dieses Kapitels.
+  - agent:ezk002, 2026-11-15
+- **`term:job001_forms`** אִיּוֹב → **Ijob; Uz; Sabäer; Gottessühn; Eselinne** [medium, decided, by-rule]
+  - gloss: אִיּוֹב: אִיּ֣וֹב (JOB 1:1) — English (generated): Job
+  - gloss: עוּץ: ע֖וּץ (JOB 1:1) — English (generated): of Uz
+  - gloss: שְׁבָא: שְׁבָא֙ (JOB 1:15) — English (generated): the Sabeans
+  - gloss: בֵּן: בְּנֵ֣י (JOB 1:6) — English (generated): the sons
+  - gloss: אָתוֹן: אֲתוֹנ֔וֹת (JOB 1:3) — English (generated): female donkeys
+  - NT: JOB 1:1 *Ijob*
+  - answers: Job, Uz, Sabeans, sons of God, female donkeys
+  - Formen dieses Kapitels.
+  - agent:job001, 2026-11-15
+- **`term:H7496_rephaim_pro`** רְפָאִים → **Schatte vo de Tote** [high, decided, by-rule]
+  - gloss: רְפָאִים: רְ֝פָאִ֗ים (PRO 2:18) — English (generated): the departed spirits
+  - NT: PRO 2:18 *Schatte vo de Tote*
+  - answers: departed spirits, dead
+  - Sprüche: רְפָאִים »d Schatte vo de Tote« (Totenwelt).
+  - agent:pro002, 2026-11-15
+- **`term:H5237_strange_woman_pro`** אִשָּׁה → **frömdi Frou; Frömdi** [high, decided, by-rule]
+  - gloss: אִשָּׁה: אִשָּׁ֣ה (PRO 2:16) — English (generated): woman
+  - gloss: נׇכְרִי: נָּכְרִיָּ֗ה (PRO 2:16) — English (generated): from the stranger
+  - NT: PRO 2:16 *der frömde Frou*
+  - answers: forbidden woman, adulteress, stranger
+  - Sprüche: אִשָּׁה זָרָה / נָכְרִיָּה »di frömdi Frou«, »di Frömdi«.
+  - agent:pro002, 2026-11-15
+- **`formula:isa002_mic004`** כָּתַת → **De verschmiede si iri Schwärter zu Pfluegschare und iri Spiess zu Räbmässer. Kes Volk lüpft meh ds Schwärt gäge nes anders, und si lehre nie meh Chrieg füere** [high, decided, by-rule]
+  - gloss: כָּתַת: כִתְּת֨וּ (ISA 2:4) — English (generated): their swords
+  - gloss: אֵת: אִתִּ֗ים (ISA 2:4) — English (generated): into plowshares
+  - gloss: מַזְמֵרָה: מַזְמֵר֔וֹת (ISA 2:4) — English (generated): into pruning hooks
+  - NT: ISA 2:4 *Pfluegschare*
+  - answers: they will beat their swords into plowshares, nation will no longer take up the sword against nation
+  - Jes 2,2-4 = Mi 4,1-3: Micha übernimmt den Wortlaut von Jes 2,2-4 (»I de letschte Tage wird ’s gscheh: Der Bärg mit em Huus vom HERR steit fescht als der höchscht vo de Bärge …«; »Chömet, mir wei ufe zum Bärg vom HERR, zum Huus vom Gott vom Jakob«; »Denn vo Zion chunt ds Gsetz und ds Wort vom HERR vo Jerusalem«), angepasst nur, wo das Hebräische abweicht.
+  - agent:isa002, 2026-11-15
+- **`formula:bayyom_hahu`** בְּ → **a däm Tag** [high, decided, by-rule]
+  - gloss: בְּ: בַּ (ISA 2:11) — English (generated): day
+  - NT: ISA 2:11 *a däm Tag*; ISA 2:20 *A däm Tag*
+  - answers: in that day, on that day
+  - בַּיּוֹם הַהוּא in den Propheten: »a däm Tag« (am Satzanfang »A däm Tag«), wie die Erzählbücher.
+  - agent:isa002, 2026-11-15
+- **`formula:yom_yhwh`** יוֹם → **der Tag vom HERR** [high, decided, by-rule]
+  - gloss: יוֹם: י֞וֹם (ISA 2:12) — English (generated): the Day
+  - NT: ISA 2:12 *e Tag*
+  - answers: the day of the lord
+  - יוֹם לַיהוָה / יוֹם יְהוָה: »der Tag vom HERR«; mit צְבָאוֹת »der HERR Zebaoth het e Tag«.
+  - agent:isa002, 2026-11-15
+- **`term:isa002_forms`** אֵת → **Pfluegschare; Räbmässer; Muulwürf; Fledermüüs; Spälte; Flüe; erhabnige** [medium, decided, by-rule]
+  - gloss: אֵת: אִתִּ֗ים (ISA 2:4) — English (generated): into plowshares
+  - gloss: מַזְמֵרָה: מַזְמֵר֔וֹת (ISA 2:4) — English (generated): into pruning hooks
+  - gloss: חֲפֹר: חְפֹּ֥ר (ISA 2:20) — English (generated): to the moles
+  - gloss: עֲטַלֵּף: עֲטַלֵּפִֽים (ISA 2:20) — English (generated): and bats
+  - gloss: סָעִיף: סְעִפֵ֖י (ISA 2:21) — English (generated): and crevices
+  - gloss: סֶלַע: סְּלָעִ֑ים (ISA 2:21) — English (generated): in the cliffs
+  - NT: ISA 2:4 *Pfluegschare*
+  - answers: plowshares, pruning hooks, moles, bats, clefts, crags, lofty
+  - Formen dieses Kapitels.
+  - agent:isa002, 2026-11-15
+- **`formula:word_came_to_me`** דָּבָר → **Ds Wort vom HERR isch zu mir cho:** [high, decided, by-rule]
+  - gloss: דָּבָר: דְבַר (EZK 3:16) — English (generated): the word
+  - NT: EZK 3:16 *Ds Wort vom HERR*
+  - answers: the word of the lord came to me
+  - וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר (Ezechiel, Jeremia); לֵאמֹר bleibt ohne Wort (Doppelpunkt); 3. Person »isch zum … cho« wie in den Königebüchern.
+  - agent:ezk003, 2026-11-15
+- **`term:H6822_watchman`** צָפָה → **Wächter** [high, decided, by-rule]
+  - gloss: צָפָה: צֹפֶ֥ה (EZK 3:17) — English (generated): you a watchman
+  - NT: EZK 3:17 *Wächter*
+  - answers: watchman
+  - צֹפֶה (Ez 3,17; 33,2-7).
+  - agent:ezk003, 2026-11-15
+- **`term:H2094_warn`** זָהַר → **warne; gwarnet** [high, decided, by-rule]
+  - gloss: זָהַר: הִזְהַרְתָּ֥ (EZK 3:17) — English (generated): give them a warning
+  - NT: EZK 3:17 *warne*
+  - answers: warn, warning
+  - זָהַר Hif., Ez 3; 33; Korpus »warne« 25×.
+  - agent:ezk003, 2026-11-15
+- **`term:ezk003_forms`** זָהַר → **warnsch; füll; verstasch; gstreift; glüejigem; Goume; chläbe** [medium, decided, by-rule]
+  - gloss: זָהַר: הִזְהַרְתּ֗ (EZK 3:18) — English (generated): warn him
+  - gloss: מָלֵא: תְמַלֵּ֔א (EZK 3:3) — English (generated): and fill
+  - gloss: שָׁמַע: תִשְׁמַ֖ע (EZK 3:6) — English (generated): understand
+  - gloss: נָשַׁק: מַשִּׁיקוֹת֙ (EZK 3:13) — English (generated): brushing
+  - gloss: חֵמָה: חֲמַ֣ת (EZK 3:14) — English (generated): and in the anger
+  - gloss: חֵךְ: חִכֶּ֔ (EZK 3:26) — English (generated): the roof of your mouth
+  - gloss: דָּבַק: אַדְבִּ֣יק (EZK 3:26) — English (generated): stick
+  - NT: EZK 3:26 *chläbe*
+  - answers: warn, fill, understand, brushing, roof of mouth, stick
+  - Formen dieses Kapitels.
+  - agent:ezk003, 2026-11-15
+- **`term:jer002_forms`** שׁוּחָה → **zuegeisch; Gruebe; dürzieht; Chindeschind; usgwächslet; ytuuscht; schuderet; uszhoue; verheiti; schäre; Abtrünnigkeite; Edelräbe; Wildling; Louge; Seife; flinki; Kamelstuete; umeseckelt; Wildeslin; gwanet; Gier; schnaagget; Brunscht; barfuess; umsünscht; rysende; Rocksüüm; bybbracht; liechtfertig** [medium, decided, by-rule]
+  - gloss: שׁוּחָה: שׁוּחָה֙ (JER 2:6) — English (generated): and pits
+  - gloss: בֵּן: בְּנֵ֥י (JER 2:9) — English (generated): your children s
+  - gloss: ימר: הֵימִ֥יר (JER 2:11) — English (generated): have exchanged
+  - gloss: מוּר: הֵמִ֥יר (JER 2:11) — English (generated): their Glory
+  - gloss: שָׂעַר: שַׂעֲר֛וּ (JER 2:12) — English (generated): be shocked
+  - gloss: חָצַב: חְצֹ֤ב (JER 2:13) — English (generated): and they have dug
+  - gloss: שָׁבַר: נִשְׁבָּרִ֔ים (JER 2:13) — English (generated): broken
+  - gloss: מְשׁוּבָה: מְשֻֽׁבוֹתַ֨יִ (JER 2:19) — English (generated): your own apostasies
+  - gloss: שֹׂרֵק: שֹׂרֵ֔ק (JER 2:21) — English (generated): vine
+  - gloss: נֶתֶר: נֶּ֔תֶר (JER 2:22) — English (generated): with lye
+  - gloss: בֹּרִית: בֹּרִ֑ית (JER 2:22) — English (generated): of soap
+  - gloss: בִּכְרָה: בִּכְרָ֥ה (JER 2:23) — English (generated): young she camel
+  - gloss: פֶּרֶא: פֶּ֣רֶה (JER 2:24) — English (generated): a wild donkey
+  - gloss: תַּאֲנָה: תַּאֲנָתָ֖ (JER 2:24) — English (generated): in the heat
+  - gloss: יָאַשׁ: נוֹאָ֔שׁ (JER 2:25) — English (generated): It is hopeless
+  - gloss: כָּנָף: כְנָפַ֨יִ (JER 2:34) — English (generated): your skirts
+  - NT: JER 2:13 *Zischtärne*; JER 2:24 *Wildeslin*
+  - answers: pits, children's children, changed, exchanged, shudder, cisterns, broken, apostasies, choice vine, lye, soap, she-camel, wild donkey, heat, hopeless, skirts
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet; Tiernamen und Bildwörter der Poesie.
+  - agent:jer002, 2026-11-15
+- **`term:job002_forms`** בִּלְדַּד → **Bildad; Zofar; Schuach; Naama; Gschwür; Schärbe** [medium, decided, by-rule]
+  - gloss: בִּלְדַּד: בִלְדַּ֣ד (JOB 2:11) — English (generated): Bildad
+  - gloss: צֹפַר: צוֹפַ֖ר (JOB 2:11) — English (generated): and Zophar
+  - gloss: שׁוּחִי: שּׁוּחִ֔י (JOB 2:11) — English (generated): the Shuhite
+  - gloss: נַעֲמָתִי: נַּֽעֲמָתִ֑י (JOB 2:11) — English (generated): the Naamathite
+  - gloss: שְׁחִין: שְׁחִ֣ין (JOB 2:7) — English (generated): boils
+  - gloss: חֶרֶשׂ: חֶ֔רֶשׂ (JOB 2:8) — English (generated): a piece of broken pottery
+  - NT: JOB 2:11 *Bildad*
+  - answers: Bildad, Zophar, Shuah, Naamah, sores, potsherd
+  - Formen dieses Kapitels.
+  - agent:job002, 2026-11-15
+- **`term:ezk004_forms`** שָׁכַב → **lig; ligsch; drühundertnüünzg; abgwoge; abgmässe; Mönschemischt; Ziegel; Belagerigsmuur; Murebrecher; Gärschtefladen; Chüemischt; versprenge** [medium, decided, by-rule]
+  - gloss: שָׁכַב: שְׁכַב֙ (EZK 4:4) — English (generated): lie down
+  - gloss: עֻגָה: עֻגַ֥ת (EZK 4:12) — English (generated): cake
+  - gloss: גֵּל: גֶֽלְלֵי֙ (EZK 4:12) — English (generated): excrement
+  - gloss: נָדַח: אַדִּיחֵ֖ (EZK 4:13) — English (generated): I will banish them
+  - gloss: לְבֵנָה: לְבֵנָ֔ה (EZK 4:1) — English (generated): a brick
+  - gloss: כַּר: כָּרִ֖ים (EZK 4:2) — English (generated): battering rams
+  - NT: EZK 4:4 *lig*
+  - answers: lie down, bread cake, dung, scatter, brick, battering rams
+  - Formen dieses Kapitels.
+  - agent:ezk004, 2026-11-15
+- **`term:H4294_staff_of_bread`** מַטֶּה → **der Stab vom Brot** [high, decided, by-rule]
+  - gloss: מַטֶּה: מַטֵּה (EZK 4:16) — English (generated): the supply
+  - NT: EZK 4:16 *der Stab vom Brot*
+  - answers: supply of food, staff of bread
+  - מַטֵּה־לֶחֶם שָׁבַר, Ez 4,16; 5,16; 14,13.
+  - agent:ezk004, 2026-11-15
+- **`term:jer003_forms`** מְשׁוּבָה → **abtrünnigi; abtrünnige; Liebhaber; furtschickt; wäggeit; gschändet; usbblibe; Groll; grächter; verzettlet; vermisst; herrlechs; chehrtisch; flehe; Schmach** [medium, decided, by-rule]
+  - gloss: מְשׁוּבָה: מְשֻׁבָ֣ה (JER 3:6) — English (generated): faithless
+  - gloss: רֵעַ: רֵעִ֣ים (JER 3:1) — English (generated): lovers
+  - gloss: שָׁלַח: יְשַׁלַּ֣ח (JER 3:1) — English (generated): divorces
+  - gloss: הָלַךְ: הָלְכָ֨ה (JER 3:1) — English (generated): and she leaves
+  - gloss: שָׁכַב: שֻׁכַּ֔בְתְּ (JER 3:2) — English (generated): been violated
+  - gloss: מָנַע: יִּמָּנְע֣וּ (JER 3:3) — English (generated): have been withheld
+  - gloss: צָדֵק: צִדְּקָ֥ה (JER 3:11) — English (generated): more righteous
+  - gloss: פָּזַר: תְּפַזְּרִ֨י (JER 3:13) — English (generated): You have scattered
+  - gloss: פָּקַד: יִפְקֹ֔דוּ (JER 3:16) — English (generated): or miss it
+  - gloss: חֶמְדָּה: חֶמְדָּ֔ה (JER 3:19) — English (generated): a desirable
+  - gloss: תַּחֲנוּן: תַחֲנוּנֵ֖י (JER 3:21) — English (generated): and begging for mercy
+  - gloss: כְּלִמָּה: כְּלִמָּתֵ (JER 3:25) — English (generated): let our disgrace
+  - NT: JER 3:6 *abtrünnigi*; JER 3:1 *Liebhaber*
+  - answers: faithless, lovers, divorces, goes, violated, withheld, more righteous, scattered, miss, pleasant, pleading, disgrace
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer003, 2026-11-15
+- **`term:isa003_forms`** מִשְׁעֵנָה → **Stützi; Wundarzt; gstrouchlet; Trümmerhufe; Fuessringli; Halbmönd; Gstank; Brandmal** [medium, decided, by-rule]
+  - gloss: מִשְׁעֵנָה: מַשְׁעֵנָ֑ה (ISA 3:1) — English (generated): and support
+  - gloss: חָבַשׁ: חֹבֵ֔שׁ (ISA 3:7) — English (generated): a healer
+  - gloss: כָּשַׁל: כָשְׁלָה֙ (ISA 3:8) — English (generated): has stumbled
+  - gloss: מַכְשֵׁלָה: מַּכְשֵׁלָ֥ה (ISA 3:6) — English (generated): heap of rubble
+  - gloss: עֶכֶס: עֲכָסִ֛ים (ISA 3:18) — English (generated): anklets
+  - gloss: שַׂהֲרֹנִים: שַּׂהֲרֹנִֽים (ISA 3:18) — English (generated): and crescents
+  - gloss: מַק: מַ֣ק (ISA 3:24) — English (generated): a stench
+  - gloss: כִּי: כִּי (ISA 3:24) — English (generated): shame
+  - NT: ISA 3:7 *Wundarzt*
+  - answers: support, healer, stumbled, heap of rubble, anklets, crescents, stench, branding
+  - Formen dieses Kapitels.
+  - agent:isa003, 2026-11-15
+- **`term:job003_forms`** לִוְיָתָן → **Leviatan; Todesschatte; Fehlgeburt; Süüfzge** [medium, decided, by-rule]
+  - gloss: לִוְיָתָן: לִוְיָתָֽן (JOB 3:8) — English (generated): Leviathan
+  - gloss: צַלְמָוֶת: צַלְמָוֶת (JOB 3:5) — English (generated): and gloom
+  - gloss: נֵפֶל: נֵ֣פֶל (JOB 3:16) — English (generated): like a stillborn child
+  - gloss: אֲנָחָה: אַנְחָתִ֣ (JOB 3:24) — English (generated): I sigh
+  - NT: JOB 3:8 *Leviatan*
+  - answers: Leviathan, deep shadow, stillborn, sighing
+  - Formen dieses Kapitels.
+  - agent:job003, 2026-11-15
+- **`formula:i_yhwh_have_spoken`** אֲנִי → **I, der HERR, ha ’s gseit** [high, decided, by-rule]
+  - gloss: אֲנִי: אֲנִ֥י (EZK 5:15) — English (generated): I
+  - NT: EZK 5:15 *I, der HERR*
+  - answers: i the lord have spoken
+  - אֲנִי יְהוָה דִּבַּרְתִּי, Ezechiel (5,13.15.17; 17,21.24 u. ö.).
+  - agent:ezk005, 2026-11-15
+- **`term:H8251_detestable`** שִׁקּוּץ → **gruusigi Götze** [high, decided, by-rule]
+  - gloss: שִׁקּוּץ: שִׁקּוּצַ֖יִ (EZK 5:11) — English (generated): your detestable idols
+  - NT: EZK 5:11 *gruusige Götze*
+  - answers: detestable idols, detestable things
+  - שִׁקּוּצִים in Ezechiel; Korpus »gruusig« (gruusige 2×); גִּלּוּלִים »Götze«.
+  - agent:ezk005, 2026-11-15
+- **`term:H7307_every_wind`** רוּחַ → **i alli Himelsrichtige** [high, decided, by-rule]
+  - gloss: רוּחַ: רֽוּחַ (EZK 5:10) — English (generated): wind
+  - NT: MAT 24:31 *allne vier Himelsrichtige*
+  - answers: to every wind, to all the winds
+  - לְכָל־רוּחַ (Ez 5,10.12; 12,14; 17,21); לָרוּחַ allein »i Luft«.
+  - agent:ezk005, 2026-11-15
+- **`term:ezk005_forms`** בָּעַר → **verbrönn; schla; verströi; verströie; gottloser; ufrüerischer; usgobet; Trümmerstatt; Hohn; wüetige** [medium, decided, by-rule]
+  - gloss: בָּעַר: תַּבְעִיר֙ (EZK 5:2) — English (generated): you are to burn up
+  - gloss: נָכָה: תַּכֶּ֤ה (EZK 5:2) — English (generated): and slash
+  - gloss: זָרָה: תִּזְרֶ֣ה (EZK 5:2) — English (generated): and you are to scatter
+  - gloss: זָרָה: זֵרִיתִ֥י (EZK 5:10) — English (generated): and scatter
+  - gloss: רִשְׁעָה: רִשְׁעָה֙ (EZK 5:6) — English (generated): more wickedly
+  - gloss: הָמַן: הֲמָנְ (EZK 5:7) — English (generated): You have been more insubordinate
+  - gloss: כָּלָה: כָלָ֣ה (EZK 5:13) — English (generated): is spent
+  - gloss: חׇרְבָּה: חָרְבָּ֣ה (EZK 5:14) — English (generated): you a ruin
+  - gloss: גְּדוּפָה: גְדוּפָה֙ (EZK 5:15) — English (generated): and a taunt
+  - gloss: חֵמָה: חֵמָ֔ה (EZK 5:15) — English (generated): wrath
+  - NT: EZK 5:14 *Trümmerstatt*
+  - answers: burn, strike, scatter, wicked, turbulent, spent, ruin, taunt, furious
+  - Formen dieses Kapitels.
+  - agent:ezk005, 2026-11-15
+- **`term:isa004_forms`** צֶמַח → **Spross; dervocho; usgschwänkt; Füürflamme; Unwätter** [medium, decided, by-rule]
+  - gloss: צֶמַח: צֶ֣מַח (ISA 4:2) — English (generated): the Branch
+  - gloss: פְּלֵיטָה: פְלֵיטַ֖ת (ISA 4:2) — English (generated): survivors
+  - gloss: דּוּחַ: יָדִ֣יחַ (ISA 4:4) — English (generated): and cleansed
+  - gloss: לֶהָבָה: לֶהָבָ֖ה (ISA 4:5) — English (generated): flame
+  - gloss: זֶרֶם: זֶּ֖רֶם (ISA 4:6) — English (generated): from the storm
+  - NT: ISA 4:2 *der Spross*
+  - answers: branch, survivors, cleansed, flaming fire, storm
+  - Formen dieses Kapitels.
+  - agent:isa004, 2026-11-15
+- **`term:job004_forms`** יֶתֶר → **Zältschnuer; Hälch; Motte; Löiin** [medium, decided, by-rule]
+  - gloss: יֶתֶר: יִתְרָ֣ (JOB 4:21) — English (generated): Are not their tent cords
+  - gloss: נְשָׁמָה: נִּשְׁמַ֣ת (JOB 4:9) — English (generated): By the breath
+  - gloss: עָשׁ: עָֽשׁ (JOB 4:19) — English (generated): like a moth
+  - gloss: לָבִיא: לָ֝בִ֗יא (JOB 4:11) — English (generated): of the lioness
+  - NT: JOB 4:21 *Zältschnuer*
+  - answers: tent-cord, breath, moth, lioness
+  - Formen dieses Kapitels.
+  - agent:job004, 2026-11-15
+- **`term:jer004_forms`** שֶׁבֶר → **Zämebruch; Fahnezeiche; Dickicht; wägtuesch; schwanksch; schwörsch; säiet; Vernichter; chlaget; entsetzt; erstarre; worfle; Belagerer; entfärnte; ytreit; Zälttüecher; unvernünftigi; gwagglet; Fruchtland; grout; verwüeschteti; Scharlach; chleidisch; schmücksch; schnuufet** [medium, decided, by-rule]
+  - gloss: שֶׁבֶר: שֶׁ֥בֶר (JER 4:6) — English (generated): destruction
+  - gloss: נֵס: נֵ֣ס (JER 4:6) — English (generated): a signal flag
+  - gloss: סְבֹךְ: סֻּבְּכ֔ (JER 4:7) — English (generated): from his thicket
+  - gloss: סוּר: תָּסִ֧יר (JER 4:1) — English (generated): you will remove
+  - gloss: נוּד: תָנֽוּד (JER 4:1) — English (generated): waver
+  - gloss: זָרַע: תִּזְרְע֖וּ (JER 4:3) — English (generated): sow
+  - gloss: שָׁחַת: מַשְׁחִ֣ית (JER 4:7) — English (generated): and a destroyer
+  - gloss: שָׁמֵם: נָשַׁ֨מּוּ֙ (JER 4:9) — English (generated): will tremble in fear
+  - gloss: תָּמַהּ: יִתְמָֽהוּ (JER 4:9) — English (generated): will be astounded
+  - gloss: זָרָה: זְר֖וֹת (JER 4:11) — English (generated): to winnow
+  - gloss: נָצַר: נֹצְרִ֥ים (JER 4:16) — English (generated): A besieging army
+  - gloss: יְרִיעָה: יְרִיעֹתָֽ (JER 4:20) — English (generated): my curtains
+  - gloss: סָכָל: סְכָלִים֙ (JER 4:22) — English (generated): are foolish
+  - gloss: קָלַל: הִתְקַלְקָֽלוּ (JER 4:24) — English (generated): were swaying
+  - gloss: כַּרְמֶל: כַּרְמֶ֖ל (JER 4:26) — English (generated): and the fruitful land
+  - gloss: נָחַם: נִחַ֖מְתִּי (JER 4:28) — English (generated): relent
+  - gloss: שָׁנִי: שָׁנִ֜י (JER 4:30) — English (generated): yourself in scarlet
+  - gloss: יָפַח: תִּתְיַפֵּ֖חַ (JER 4:31) — English (generated): gasping for breath
+  - NT: JER 4:6 *Zämebruch*; JER 4:23 *wüescht und läär*
+  - answers: destruction, standard, thicket, remove, waver, sow, destroyer, appalled, astounded, winnow, besiegers, curtains, stupid, moved, fruitful land, relented, scarlet, gasping
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer004, 2026-11-15
+- **`formula:know_that_i_am_yhwh`** יָדַע → **De wärdet dihr erchenne, dass i der HERR bi** [high, decided, by-rule]
+  - gloss: יָדַע: ידַעְתֶּ֖ם (EZK 6:7) — English (generated): and you will know
+  - NT: EZK 6:7 *wärdet erchenne*
+  - answers: you will know that i am the lord, they will know that i am the lord
+  - וִידַעְתֶּם כִּי־אֲנִי יְהוָה (Ezechiel, über 70×; 2 Mo 6,7 u. ö.); 3. Person »si wärde erchenne, dass i der HERR bi«; Korpus »erchenne« 8×.
+  - agent:ezk006, 2026-11-15
+- **`term:ezk006_forms`** שָׁבַר → **zerschlage; Schluchte; verströien; Erschlageni; Räscht; Entrunnene; nachegluschtet; stampf; verschont; Bärggipfle; öd** [medium, decided, by-rule]
+  - gloss: שָׁבַר: נִשְׁבְּר֖וּ (EZK 6:4) — English (generated): will be smashed
+  - gloss: אָפִיק: אֲפִיקִ֣ים (EZK 6:3) — English (generated): to the ravines
+  - gloss: זָרָה: זֵרִיתִי֙ (EZK 6:5) — English (generated): and scatter
+  - gloss: חָלָל: חָלָ֖ל (EZK 6:7) — English (generated): The slain
+  - gloss: יָתַר: הוֹתַרְתִּ֗י (EZK 6:8) — English (generated): Yet I will leave a remnant
+  - gloss: פָּלִיט: פְלִֽיטֵי (EZK 6:9) — English (generated): your survivors
+  - gloss: זָנָה: זֹּנ֕וֹת (EZK 6:9) — English (generated): that lusted
+  - gloss: רָקַע: רְקַ֤ע (EZK 6:11) — English (generated): stomp
+  - gloss: נָצַר: נָּצ֔וּר (EZK 6:12)
+  - gloss: רֹאשׁ: רָאשֵׁ֣י (EZK 6:13) — English (generated): the mountaintops
+  - gloss: שְׁמָמָה: שְׁמָמָ֤ה (EZK 6:14) — English (generated): a desolate
+  - NT: EZK 6:7 *Erschlageni*
+  - answers: smashed, ravines, scatter, slain, remnant, escape, lusted, stomp, spared, mountaintops, desolate
+  - Formen dieses Kapitels.
+  - agent:ezk006, 2026-11-15
+- **`term:job005_forms`** אֱוִיל → **Narr; Funke; Schlöui; Garbehuufe** [medium, decided, by-rule]
+  - gloss: אֱוִיל: אֱוִיל (JOB 5:2) — English (generated): a fool
+  - gloss: בֵּן: בְנֵי (JOB 5:7) — English (generated): as surely as sparks
+  - gloss: עֹרֶם: עָרְמָ֑ (JOB 5:13) — English (generated): in their craftiness
+  - gloss: גָּדִישׁ: גָּדִ֣ישׁ (JOB 5:26) — English (generated): like a sheaf of grain
+  - NT: JOB 5:13 *Schlöui*
+  - answers: fool, sparks, craftiness, stack of sheaves
+  - Formen dieses Kapitels.
+  - agent:job005, 2026-11-15
+- **`term:H3372_reverence`** יָרֵא → **Ehrfurcht** [high, decided, by-rule]
+  - gloss: יָרֵא: תִירָ֜אוּ (JER 5:22) — English (generated): fear Me
+  - gloss: יָרֵא: נִ֤ירָא (JER 5:24) — English (generated): Let us fear
+  - NT: JER 5:22 *Ehrfurcht*; JER 5:24 *Ehrfurcht*
+  - answers: fear, revere
+  - יָרֵא gegenüber Gott (dem HERRN): »Ehrfurcht ha vor«, wie formula:fear_god und formula:yirei_yhwh; gegenüber Menschen und Gefahren »Angscht ha« (term:H3374_fear).
+  - agent:jer005, 2026-11-15
+- **`term:ruach_luft`** רוּחַ → **Luft** [high, decided, by-rule]
+  - gloss: רוּחַ: ר֔וּחַ (JER 5:13) — English (generated): but wind
+  - gloss: רוּחַ: ר֣וּחַ (JER 4:11) — English (generated): wind
+  - NT: JER 5:13 *Luft*; JER 4:11 *heissi Luft*
+  - answers: wind
+  - רוּחַ als Wind im Bild (Jer 4,11-12; 5,13; 2,24): »Luft«, wie die bisherigen Entwürfe; benannte Winde nach term:H7307_wind (Oschtwind, Weschtwind), »Sturm« für den Sturmwind.
+  - agent:jer005, 2026-11-15
+- **`term:jer005_forms`** סָלַח → **vergiben; aazne; Leopard; luuret; zahllos; scharewys; gfuetereti; Hängschte; umeschwärme; wieheret; verderbet; Rankle; verleugnet; uralts; kennsch; verstahsch; Räbstöck; Fygeböim; vertrousch; Schranke; überschrytte; störrischs; widerspänstigs; vorenthalte; luure; Vogelfänger; ducke; fö; Chefig; grati; verhulfe; entsetzlechs; Guetdünke** [medium, decided, by-rule]
+  - gloss: סָלַח: אֶסְלַ֖ח (JER 5:1) — English (generated): then I will forgive
+  - gloss: נָמֵר: נָמֵ֤ר (JER 5:6) — English (generated): A leopard
+  - gloss: סוּס: סוּסִ֥ים (JER 5:8) — English (generated): stallions
+  - gloss: צָהַל: יִצְהָֽלוּ (JER 5:8) — English (generated): neighing
+  - gloss: נְטִישֹׁות: נְטִ֣ישׁוֹתֶ֔י (JER 5:10) — English (generated): her branches
+  - gloss: כָּחַשׁ: כִּֽחֲשׁוּ֙ (JER 5:12) — English (generated): They have lied
+  - gloss: חֹק: חָק (JER 5:22) — English (generated): barrier
+  - gloss: סָרַר: סוֹרֵ֣ר (JER 5:23) — English (generated): stubborn
+  - gloss: מָרָה: מוֹרֶ֑ה (JER 5:23) — English (generated): and rebellious
+  - gloss: יָקוּשׁ: יְקוּשִׁ֔ים (JER 5:26) — English (generated): like fowlers
+  - gloss: כְּלוּב: כְלוּב֙ (JER 5:27) — English (generated): Like cages
+  - gloss: שַׁעֲרוּר: שַׁ֣עֲרוּרָ֔ה (JER 5:30) — English (generated): and shocking thing
+  - NT: JER 5:6 *Leopard*; JER 5:27 *Chefig*
+  - answers: forgive, leopard, stallions, neighing, branches, lied, barrier, stubborn, rebellious, fowlers, cage, horrible
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer005, 2026-11-15
+- **`formula:isa_refrain_hand`** שׁוּב → **Bi allem däm het sich sy Töubi nid gleit, und sy Hand isch geng no usgstreckt** [high, decided, by-rule]
+  - gloss: שׁוּב: שָׁ֣ב (ISA 5:25) — English (generated): turned away
+  - gloss: נָטָה: נְטוּיָֽה (ISA 5:25) — English (generated): upraised
+  - NT: ISA 5:25 *sy Hand isch geng*
+  - answers: his anger is not turned away, his hand is still upraised
+  - Refrain Jes 5,25; 9,11.16.20; 10,4 (בְּכָל־זֹאת לֹא־שָׁב אַפּוֹ וְעוֹד יָדוֹ נְטוּיָה); immer gleich.
+  - agent:isa005, 2026-11-15
+- **`term:isa005_forms`** יָדִיד → **Liebscht; suuri; Pflanzig; Rächtsbruch; Hilfeschrei; Jucharte; Füürzunge; Kieselstei; Wirbelsturm** [medium, decided, by-rule]
+  - gloss: יָדִיד: ידִידִ֔ (ISA 5:1) — English (generated): for my beloved
+  - gloss: בָּאֻשׁ: בְּאֻשִֽׁים (ISA 5:2) — English (generated): was sour
+  - gloss: נֶטַע: נְטַ֖ע (ISA 5:7) — English (generated): are the plant
+  - gloss: מִשְׂפָּח: מִשְׂפָּ֔ח (ISA 5:7) — English (generated): bloodshed
+  - gloss: צְעָקָה: צְעָקָֽה (ISA 5:7) — English (generated): a cry of distress
+  - gloss: צֶמֶד: צִמְדֵּי (ISA 5:10) — English (generated): acres
+  - gloss: לָשׁוֹן: לְשׁ֣וֹן (ISA 5:24) — English (generated): as a tongue
+  - gloss: צַר: צַּ֣ר (ISA 5:28) — English (generated): are like flint
+  - gloss: סוּפָה: סּוּפָֽה (ISA 5:28) — English (generated): like a whirlwind
+  - NT: ISA 5:10 *zäh Jucharte*
+  - answers: beloved, wild grapes, plant, bloodshed, cry of distress, acres, tongue of fire, flint, whirlwind
+  - Formen dieses Kapitels.
+  - agent:isa005, 2026-11-15
+- **`term:H7093_end`** קֵץ → **ds Ändi** [high, decided, by-rule]
+  - gloss: קֵץ: קֵ֑ץ (EZK 7:2) — English (generated): The end
+  - NT: EZK 7:2 *Es Ändi*
+  - answers: end, the end
+  - קֵץ in Ezechiel 7 und 21; »ds Änd« in »es Änd mache«.
+  - agent:ezk007, 2026-11-15
+- **`term:ezk007_forms`** צְפִירָה → **zrüggfalle; Verhängnis; Unrat; Hochmuet; Gerücht; einzigartigs; Durenand; Jubel; blüejt; zrügggno; Entrunneni; schlapp; Fallstrick; Büti; Ruub; verborgne; dringe; Schlimmschte; Wandel** [medium, decided, by-rule]
+  - gloss: צְפִירָה: צְּפִירָ֛ה (EZK 7:7) — English (generated): Doom
+  - gloss: נִדָּה: נִדָּ֣ה (EZK 7:19) — English (generated): unclean
+  - gloss: גָּאוֹן: גָא֣וֹן (EZK 7:20) — English (generated): into pride
+  - gloss: שְׁמוּעָה: שְׁמֻעָ֥ה (EZK 7:26) — English (generated): rumor
+  - gloss: מְהוּמָה: מְהוּמָ֖ה (EZK 7:7) — English (generated): there is panic
+  - gloss: הֵד: הֵ֥ד (EZK 7:7)
+  - gloss: צוּץ: צָ֚ץ (EZK 7:10) — English (generated): has bloomed
+  - gloss: מִכְשׁוֹל: מִכְשׁ֥וֹל (EZK 7:19) — English (generated): the stumbling block
+  - gloss: בַּז: בַ֔ז (EZK 7:21) — English (generated): as plunder
+  - gloss: שָׁלָל: שָׁלָ֑ל (EZK 7:21) — English (generated): and loot
+  - gloss: רַע: רָעֵ֣י (EZK 7:24) — English (generated): the most wicked
+  - gloss: דֶּרֶךְ: דַּרְכָּ֞ (EZK 7:27) — English (generated): according to their conduct
+  - NT: EZK 7:7 *Verhängnis*
+  - answers: doom, unclean, pride, rumor, panic, joyful shouting, budded, stumbling block, plunder, spoil, worst, conduct
+  - Formen dieses Kapitels.
+  - agent:ezk007, 2026-11-15
+- **`term:job006_forms`** פֶּרֶא → **Wildesel; Waag; Karawane; Tema; Saba** [medium, decided, by-rule]
+  - gloss: פֶּרֶא: פֶּ֥רֶא (JOB 6:5) — English (generated): Does a wild donkey
+  - gloss: מֹאזְנַיִם: מֹאזְנַ֥יִם (JOB 6:2) — English (generated): on the scales
+  - gloss: אֹרַח: אָרְח֣וֹת (JOB 6:18) — English (generated): Caravans
+  - gloss: תֵּימָא: תֵּמָ֑א (JOB 6:19) — English (generated): of Tema
+  - gloss: שְׁבָא: שְׁ֝בָ֗א (JOB 6:19) — English (generated): of Sheba
+  - NT: JOB 6:19 *Tema*
+  - answers: wild donkey, scales, caravans, Tema, Sheba
+  - Formen dieses Kapitels.
+  - agent:job006, 2026-11-15
+- **`formula:qadosh3`** קָדוֹשׁ → **Heilig, heilig, heilig isch der HERR Zebaoth** [high, decided, by-rule]
+  - gloss: קָדוֹשׁ: קָד֧וֹשׁ (ISA 6:3) — English (generated): Holy
+  - NT: ISA 6:3 *Heilig, heilig, heilig*
+  - answers: holy, holy, holy
+  - קָדוֹשׁ קָדוֹשׁ קָדוֹשׁ (Jes 6,3; Offb 4,8).
+  - agent:isa006, 2026-11-15
+- **`term:isa006_forms`** שָׂרָף → **Seraphe; Pfoschte; Chole; gsüehnt; Zächtel; Terebinthe; Strunk** [medium, decided, by-rule]
+  - gloss: שָׂרָף: שְׂרָפִ֨ים (ISA 6:2) — English (generated): seraphim
+  - gloss: אַמָּה: אַמּ֣וֹת (ISA 6:4) — English (generated): the doorposts
+  - gloss: רִצְפָּה: רִצְפָּ֑ה (ISA 6:6) — English (generated): was a glowing coal
+  - gloss: כִּפֶּר: תְּכֻפָּֽר (ISA 6:7) — English (generated): is atoned for
+  - gloss: עֲשִׂירִי: עֲשִׂ֣רִיָּ֔ה (ISA 6:13) — English (generated): a tenth
+  - gloss: אֵלָה: אֵלָ֣ה (ISA 6:13) — English (generated): As the terebinth
+  - gloss: מַצֶּבֶת: מַצֶּ֣בֶת (ISA 6:13) — English (generated): leave stumps
+  - NT: ISA 6:2 *Seraphe*
+  - answers: seraphim, doorposts, coal, atoned, tenth, terebinth, stump
+  - Formen dieses Kapitels.
+  - agent:isa006, 2026-11-15
+- **`term:H197_portico`** אֵילָם → **Vorhalle** [high, decided, by-rule]
+  - gloss: אֵילָם: אוּלָם֙ (EZK 8:16) — English (generated): the portico
+  - NT: EZK 8:16 *Vorhalle*
+  - answers: portico, vestibule
+  - אוּלָם am Tempel (Ez 8,16; 40-46; 1 Kön 6,3).
+  - agent:ezk008, 2026-11-15
+- **`term:ezk008_forms`** נָשָׂא → **glüpft; Altartor; Chriechtier; ygritzt; Röucherpfanne; duftigi; Bildchammer; Zwyg; nördlech; Röucherwärch** [medium, decided, by-rule]
+  - gloss: נָשָׂא: אֶשָּׂ֤א (EZK 8:5) — English (generated): So I lifted up
+  - gloss: שַׁעַר: שַׁ֣עַר (EZK 8:5) — English (generated): Gate
+  - gloss: רֶמֶשׂ: רֶ֤מֶשׂ (EZK 8:10) — English (generated): of crawling creature
+  - gloss: חָקָה: מְחֻקֶּ֥ה (EZK 8:10) — English (generated): engraved
+  - gloss: מִקְטֶרֶת: מִקְטַרְתּ֖ (EZK 8:11) — English (generated): had a censer
+  - gloss: עָתָר: עֲתַ֥ר (EZK 8:11) — English (generated): and a fragrant
+  - gloss: חֶדֶר: חַדְרֵ֣י (EZK 8:12) — English (generated): at the shrine
+  - gloss: זְמוֹרָה: זְּמוֹרָ֖ה (EZK 8:17) — English (generated): the branch
+  - gloss: מִן: מִ (EZK 8:5) — English (generated): I saw
+  - gloss: קְטֹרֶת: קְּטֹ֖רֶת (EZK 8:11) — English (generated): of incense
+  - NT: EZK 8:11 *Röucherpfanne*
+  - answers: lifted, altar gate, crawling creature, portrayed, censer, fragrant, shrine, branch, north, incense
+  - Formen dieses Kapitels.
+  - agent:ezk008, 2026-11-15
+- **`term:H7198_bow`** קֶשֶׁת → **Boge** [high, decided, by-rule]
+  - gloss: קֶשֶׁת: קֶ֣שֶׁת (JER 6:23) — English (generated): the bow
+  - gloss: קֶשֶׁת: קֶ֗שֶׁת (JER 4:29)
+  - NT: JER 6:23 *Boge*; JER 4:29 *Bogeschütze*
+  - answers: bow, bows, archer
+  - קֶשֶׁת als Waffe »Boge« (Bogeschütze für רֹמֵה קֶשֶׁת); »Rägeboge« (term:H7198) nur für den Regenbogen.
+  - agent:jer006, 2026-11-15
+- **`term:jer006_forms`** עָלָה → **aagryffe; sprudle; schmelzt; Betkerem; Rouchzeiche; verwöhnti; Aabeschatte; Paläscht; Unterdrückig; lieset; zrüggzhalte; Rundi; obehii; verüebt; Pfäd; wohlschmöckende; aagnähm; Nachber; hinderschte; toset; Nachricht; wälz; Verwüeschter; Prüefer; Schmelzer; erchennsch; störrischi; verleumde; Blasbalg; schnuubt; vertilgt; usgschide; verworfnigs** [medium, decided, by-rule]
+  - gloss: עָלָה: נַעֲלֶ֣ה (JER 6:4) — English (generated): let us attack
+  - gloss: אַרְמוֹן: אַרְמְנוֹתֶֽי (JER 6:5) — English (generated): her fortresses
+  - gloss: עֹשֶׁק: עֹ֥שֶׁק (JER 6:6) — English (generated): oppression
+  - gloss: עָלַל: עוֹלֵ֛ל (JER 6:9) — English (generated): as thoroughly
+  - gloss: כּוּל: הָכִ֔יל (JER 6:11) — English (generated): of holding it back
+  - gloss: סוֹד: ס֥וֹד (JER 6:11) — English (generated): gathered
+  - gloss: נְתִיבָה: נְתִב֣וֹת (JER 6:16) — English (generated): paths
+  - gloss: טוֹב: טּ֖וֹב (JER 6:20) — English (generated): or sweet
+  - gloss: רָצוֹן: רָצ֔וֹן (JER 6:20)
+  - gloss: שָׁכֵן: שָׁכֵ֥ן (JER 6:21) — English (generated): and neighbors
+  - gloss: יַרְכָה: יַּרְכְּתֵי (JER 6:22) — English (generated): from the ends
+  - gloss: הָמָה: יֶהֱמֶ֔ה (JER 6:23) — English (generated): roars
+  - gloss: שֹׁמַע: שָׁמְע֖ (JER 6:24) — English (generated): the report
+  - gloss: פָּלַשׁ: הִתְפַּלְּשִׁ֣י (JER 6:26) — English (generated): and roll
+  - gloss: שָׁדַד: שֹּׁדֵ֖ד (JER 6:26) — English (generated): the destroyer
+  - gloss: בָּחוֹן: בָּח֛וֹן (JER 6:27) — English (generated): to examine
+  - gloss: מִבְצָר: מִבְצָ֑ר (JER 6:27) — English (generated): like ore
+  - gloss: רָכִיל: רָכִ֖יל (JER 6:28) — English (generated): as slanderers
+  - gloss: מַפֻּחַ: מַפֻּ֔חַ (JER 6:29) — English (generated): The bellows
+  - gloss: חָרַר: נָחַ֣ר (JER 6:29) — English (generated): blow fiercely
+  - gloss: נָתַק: נִתָּֽקוּ (JER 6:29) — English (generated): purged
+  - gloss: מָאַס: נִמְאָ֔ס (JER 6:30) — English (generated): rejected
+  - NT: JER 6:4 *aagryffe*; JER 6:29 *Blasbalg*
+  - answers: attack, palaces, oppression, glean, holding, gathering, paths, sweet, acceptable, neighbor, farthest, roars, report, roll, destroyer, assayer, refiner, slander, bellows, blow, removed, rejected
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer006, 2026-11-15
+- **`term:job007_forms`** אֶרֶג → **Wäberschiffli; Taglöhner; Zielschybe; Spöiz** [medium, decided, by-rule]
+  - gloss: אֶרֶג: אָ֑רֶג (JOB 7:6) — English (generated): a weaver s shuttle
+  - gloss: שָׂכִיר: שָׂכִ֣יר (JOB 7:1) — English (generated): of a hired hand
+  - gloss: מִפְגָּע: מִפְגָּ֣ע (JOB 7:20) — English (generated): target
+  - gloss: רֹק: רֻקִּֽ (JOB 7:19) — English (generated): my spittle
+  - NT: JOB 7:6 *Wäberschiffli*
+  - answers: weaver’s shuttle, hired laborer, target, spittle
+  - Formen dieses Kapitels.
+  - agent:job007, 2026-11-15
+- **`term:job008_forms`** גֹּמֶא → **Papyrus; Schilf; Spinnenetz; Steihuufe** [medium, decided, by-rule]
+  - gloss: גֹּמֶא: גֹּ֭מֶא (JOB 8:11) — English (generated): Does papyrus
+  - gloss: אָחוּ: אָ֥חוּ (JOB 8:11) — English (generated): Do reeds
+  - gloss: בַּיִת: בֵ֥ית (JOB 8:14) — English (generated): web
+  - gloss: גַּל: גַּ֭ל (JOB 8:17) — English (generated): the rock heap
+  - NT: JOB 8:14 *Spinnenetz*
+  - answers: papyrus, reeds, spider’s web, pile of rocks
+  - Formen dieses Kapitels.
+  - agent:job008, 2026-11-15
+- **`term:H906_linen`** בַּד → **i Lyne aagleit** [high, decided, by-rule]
+  - gloss: בַּד: בַּדִּ֔ים (EZK 9:2) — English (generated): in linen
+  - NT: EZK 9:2 *i Lyne*
+  - answers: clothed in linen
+  - לְבֻשׁ הַבַּדִּים, Ez 9; 10; Dan 10,5.
+  - agent:ezk009, 2026-11-15
+- **`term:H7083_writing_kit`** קֶסֶת → **Schrybzüüg** [high, decided, by-rule]
+  - gloss: קֶסֶת: קֶ֥סֶת (EZK 9:2) — English (generated): who had a writing kit
+  - NT: EZK 9:2 *Schrybzüüg*
+  - answers: writing kit, writing case
+  - קֶסֶת הַסֹּפֵר, Ez 9,2.3.11.
+  - agent:ezk009, 2026-11-15
+- **`term:ezk009_forms`** קָרַב → **nächer; Strafvollstrecker; Zerstörigswärchzüüg; ufgmacht; Vorhöf; usschüttisch; unghüür; Jungfroue** [medium, decided, by-rule]
+  - gloss: קָרַב: קָרְב֖וּ (EZK 9:1) — English (generated): Draw near
+  - gloss: פְּקֻדָּה: פְּקֻדּ֣וֹת (EZK 9:1) — English (generated): O executioners
+  - gloss: כְּלִי: כְּלִ֥י (EZK 9:1) — English (generated): a weapon
+  - gloss: עָלָה: נַעֲלָה֙ (EZK 9:3) — English (generated): rose
+  - gloss: חָצֵר: חֲצֵר֛וֹת (EZK 9:7) — English (generated): the courts
+  - gloss: שָׁפַךְ: שָׁפְכְּ (EZK 9:8) — English (generated): when You pour out
+  - gloss: מְאֹד: מְאֹ֣ד (EZK 9:9) — English (generated): exceedingly
+  - gloss: בְּתוּלָה: בְתוּלָה֩ (EZK 9:6) — English (generated): and maidens
+  - NT: EZK 9:7 *Vorhöf*
+  - answers: come near, executioners, weapon of destruction, rose, courts, pour out, exceedingly, maidens
+  - Formen dieses Kapitels.
+  - agent:ezk009, 2026-11-15
+- **`formula:called_by_my_name`** קָרָא → **wo my Name drüber usgrüeft isch** [high, decided, by-rule]
+  - gloss: קָרָא: נִקְרָא (JER 7:10) — English (generated): which bears
+  - gloss: שֵׁם: שְׁמִ֣ (JER 7:10) — English (generated): My Name
+  - NT: JER 7:10 *my Name drüber usgrüeft*
+  - answers: which bears my name, called by my name
+  - אֲשֶׁר נִקְרָא שְׁמִי עָלָיו (Tempel, Volk, Stadt): »wo my Name drüber usgrüeft isch«; ohne »nenne« (Bietenhard-Regel).
+  - agent:jer007, 2026-11-15
+- **`term:jer007_forms`** שֶׁקֶר → **lugenhafte; lugenhafti; unterdrücket; vergiesset; röucheret; bedräng; zünde; chnätte; Himelschünigin; ergiesse; glöscht; vürsi; Äcke; stiif; schlimmer; schär; begrabt; verstumme; Trümmerwüeschti** [medium, decided, by-rule]
+  - gloss: שֶׁקֶר: שֶּׁ֖קֶר (JER 7:4) — English (generated): deceptive
+  - gloss: עָשַׁק: תַֽעֲשֹׁ֔קוּ (JER 7:6) — English (generated): longer oppress
+  - gloss: שָׁפַךְ: תִּשְׁפְּכ֖וּ (JER 7:6) — English (generated): longer shed
+  - gloss: קָטַר: קַטֵּ֣ר (JER 7:9) — English (generated): burn incense
+  - gloss: פָּגַע: תִּפְגַּע (JER 7:16) — English (generated): beg
+  - gloss: בָּעַר: מְבַעֲרִ֣ים (JER 7:18) — English (generated): light
+  - gloss: לוּשׁ: לָשׁ֣וֹת (JER 7:18) — English (generated): knead
+  - gloss: מְלֶכֶת: מְלֶ֣כֶת (JER 7:18) — English (generated): for the Queen
+  - gloss: נָתַךְ: נִתֶּ֨כֶת֙ (JER 7:20) — English (generated): will
+  - gloss: כָּבָה: תִכְבֶּֽה (JER 7:20) — English (generated): be extinguished
+  - gloss: עֹרֶף: עָרְפָּ֔ (JER 7:26) — English (generated): their necks
+  - gloss: גָּזַז: גָּזִּ֤י (JER 7:29) — English (generated): Cut off
+  - gloss: קָבַר: קָבְר֥וּ (JER 7:32) — English (generated): For they will bury
+  - gloss: חׇרְבָּה: חָרְבָּ֖ה (JER 7:34) — English (generated): a wasteland
+  - NT: JER 7:4 *lugenhafte*; JER 7:18 *Himelschünigin*
+  - answers: deceptive, oppress, shed, burn incense, intercede, kindle, knead, queen, poured out, quenched, neck, cut off, bury, waste
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer007, 2026-11-15
+- **`term:immanuel`** עִמָּנוּ אֵל → **Immanuel** [high, decided, by-rule]
+  - gloss: עִמָּנוּ אֵל: עִמָּ֥נוּ (ISA 7:14) — English (generated): Immanuel
+  - NT: ISA 7:14 *Immanuel*; MAT 1:23 *Immanuel*
+  - answers: immanuel
+  - עִמָּנוּאֵל, Jes 7,14; 8,8.10 (»Gott mit üüs«).
+  - agent:isa007, 2026-11-15
+- **`term:isa007_forms`** שְׁאָר יָשׁוּב → **Schear-Jaschub; Tabeel; Wöschfäld; Stümpe; Füürhölzer; füfesächzg; Tobel; Felsspälte; Dornbüsch** [medium, decided, by-rule]
+  - gloss: שְׁאָר יָשׁוּב: שְׁאָ֖ר (ISA 7:3) — English (generated): Shear jashub
+  - gloss: טָבְאַל: טָֽבְאַֽל (ISA 7:6) — English (generated): of Tabeal
+  - gloss: שָׂדֶה: שְׂדֵ֥ה (ISA 7:3) — English (generated): Field
+  - gloss: זָנָב: זַנְב֧וֹת (ISA 7:4) — English (generated): stubs
+  - gloss: אוּד: אוּדִ֛ים (ISA 7:4) — English (generated): of firewood
+  - gloss: שֵׁשׁ: שִׁשִּׁ֤ים (ISA 7:8) — English (generated): sixty five
+  - gloss: נַחַל: נַחֲלֵ֣י (ISA 7:19) — English (generated): ravines
+  - gloss: נָקִיק: נְקִיקֵ֖י (ISA 7:19) — English (generated): and clefts
+  - gloss: נַעֲצוּץ: נַּ֣עֲצוּצִ֔ים (ISA 7:19) — English (generated): the thornbushes
+  - NT: ISA 7:3 *Schear-Jaschub*
+  - answers: shear-jashub, tabeel, launderer's field, stubs, firebrands, sixty-five, ravines, clefts, thornbushes
+  - Formen dieses Kapitels.
+  - agent:isa007, 2026-11-15
+- **`term:job009_forms`** כְּסִיל → **Orion; Sibegstirn; Schiedsrichter; Schneewasser; Louge** [medium, decided, by-rule]
+  - gloss: כְּסִיל: כְּסִ֥יל (JOB 9:9) — English (generated): Orion
+  - gloss: כִּימָה: כִימָ֗ה (JOB 9:9) — English (generated): of the Pleiades
+  - gloss: יָכַח: מוֹכִ֑יחַ (JOB 9:33) — English (generated): a mediator
+  - gloss: מַיִם: מֵי (JOB 9:30) — English (generated): myself
+  - gloss: בֹּר: בֹ֣ר (JOB 9:30) — English (generated): with lye
+  - NT: JOB 9:9 *Orion*
+  - answers: Orion, Pleiades, umpire, snow water, lye
+  - Formen dieses Kapitels.
+  - agent:job009, 2026-11-15
+- **`term:H3742_cherub`** כְּרוּב → **Cherub; Cherube** [high, decided, by-rule]
+  - gloss: כְּרוּב: כְּר֗וּב (EZK 10:2) — English (generated): the cherubim
+  - NT: REV 4:6 *vier Wäse*
+  - answers: cherub, cherubim
+  - כְּרוּב, Pl. »Cherube« (1 Mo 3,24; 2 Mo 25; Ez 10); Korpus »Cherube« 1×.
+  - agent:ezk010, 2026-11-15
+- **`term:H1534_wheelwork`** גַּלְגַּל → **Räderwärch** [high, decided, by-rule]
+  - gloss: גַּלְגַּל: גַּלְגַּ֜ל (EZK 10:2) — English (generated): the wheelwork
+  - NT: EZK 10:2 *Räderwärch*
+  - answers: wheelwork, whirling wheels
+  - גַּלְגַּל in Ez 10; als Ruf V. 13 »Wirbel«.
+  - agent:ezk010, 2026-11-15
+- **`term:ezk010_forms`** רוּם → **erhobe; erhebe; ströi; nachegfahre; Wirbel; Ostor; abgwändet** [medium, decided, by-rule]
+  - gloss: רוּם: יָּ֤רָם (EZK 10:4) — English (generated): rose
+  - gloss: זָרַק: זְרֹ֖ק (EZK 10:2) — English (generated): and scatter them
+  - gloss: גַּלְגַּל: גַּלְגַּ֖ל (EZK 10:13) — English (generated): the whirling wheels
+  - gloss: שַׁעַר: שַׁ֤עַר (EZK 10:19) — English (generated): gate
+  - NT: EZK 10:2 *ströi*
+  - answers: rose, scatter, whirling, east gate
+  - Formen dieses Kapitels.
+  - agent:ezk010, 2026-11-15
+- **`term:jer008_forms`** שָׁטַח → **breitet; abtrünnig; ewiger; Abtrünnigkeit; Täuschig; weigere; stürmt; Kranich; Zug; lugenhaft; Griffel; Schryber; erschrecke; neue; verwelke; Giftwasser; Schnoube; Wiehere; Giftschlange; Hilfsgschrei; toubet; vorby** [medium, decided, by-rule]
+  - gloss: שָׁטַח: שְׁטָחוּ (JER 8:2) — English (generated): They will be exposed
+  - gloss: שֹׁובֵב: שׁוֹבְבָ֜ה (JER 8:5) — English (generated): turned away
+  - gloss: מְשׁוּבָה: מְשֻׁבָ֣ה (JER 8:5) — English (generated): always turn away
+  - gloss: תׇּרְמִית: תַּרְמִ֔ית (JER 8:5) — English (generated): to deceit
+  - gloss: מָאֵן: מֵאֲנ֖וּ (JER 8:5) — English (generated): they refuse
+  - gloss: שָׁטַף: שׁוֹטֵ֖ף (JER 8:6) — English (generated): charging
+  - gloss: עָגוּר: עָג֔וּר (JER 8:7) — English (generated): and the thrush
+  - gloss: עֵט: עֵ֖ט (JER 8:8) — English (generated): pen
+  - gloss: סֹפֵר: סֹפְרִֽים (JER 8:8) — English (generated): of the scribes
+  - gloss: חָתַת: חַ֖תּוּ (JER 8:9) — English (generated): they will be dismayed
+  - gloss: נָבֵל: נָבֵ֔ל (JER 8:13) — English (generated): will wither
+  - gloss: רֹאשׁ: רֹ֔אשׁ (JER 8:14) — English (generated): He has given us poisoned
+  - gloss: נַחֲרָה: נַחְרַ֣ת (JER 8:16) — English (generated): The snorting
+  - gloss: מִצְהָלֹות: מִצְהֲל֣וֹת (JER 8:16) — English (generated): of the neighing
+  - gloss: צִפְעֹנִי: צִפְעֹנִ֔ים (JER 8:17) — English (generated): vipers
+  - gloss: שַׁוְעָה: שַֽׁוְעַ֣ת (JER 8:19) — English (generated): to the cry
+  - gloss: כָּעַס: הִכְעִס֛וּ (JER 8:19) — English (generated): have they provoked Me to anger
+  - NT: JER 8:7 *Kranich*; JER 8:17 *Giftschlange*
+  - answers: exposed, turned away, apostasy, deceit, refuse, charging, thrush, pen, scribes, dismayed, wither, poisoned, snorting, neighing, adders, cry, provoked
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer008, 2026-11-15
+- **`term:job010_forms`** גְּבִנָּה → **Chäs; Sehne; Wundermacht; Unornig** [medium, decided, by-rule]
+  - gloss: גְּבִנָּה: גְּבִנָּ֗ה (JOB 10:10) — English (generated): like cheese
+  - gloss: גִּיד: גִידִ֗ים (JOB 10:11) — English (generated): and sinews
+  - gloss: פָּלָא: תִּתְפַּלָּא (JOB 10:16) — English (generated): display Your power
+  - gloss: סֵדֶר: סְדָרִ֗ים (JOB 10:22)
+  - NT: JOB 10:10 *Chäs*
+  - answers: cheese, sinews, exploits, without order
+  - Formen dieses Kapitels.
+  - agent:job010, 2026-11-15
+- **`term:isa008_forms`** מַהֵר שָׁלָל חָשׁ בַּז → **Maher-Schalal-Hasch-Bas; Jeberechja; Schiloach; Griffel; Morgeröti; pfyse; murmle** [medium, decided, by-rule]
+  - gloss: מַהֵר שָׁלָל חָשׁ בַּז: מַהֵ֥ר (ISA 8:1) — English (generated): Maher shalal hash baz
+  - gloss: יְבֶרֶכְיָהוּ: יְבֶרֶכְיָֽהוּ (ISA 8:2) — English (generated): of Jeberekiah
+  - gloss: שִׁלֹחַ: שִּׁלֹ֔חַ (ISA 8:6) — English (generated): of Shiloah
+  - gloss: חֶרֶט: חֶ֣רֶט (ISA 8:1) — English (generated): stylus
+  - gloss: שַׁחַר: שָֽׁחַר (ISA 8:20) — English (generated): light of dawn
+  - gloss: צָפַף: מְצַפְצְפִ֖ים (ISA 8:19) — English (generated): who whisper
+  - gloss: הָגָה: מַּהְגִּ֑ים (ISA 8:19) — English (generated): and mutter
+  - NT: ISA 8:1 *Maher-Schalal-Hasch-Bas*
+  - answers: maher-shalal-hash-baz, jeberechiah, shiloah, pen, dawn, whisper, mutter
+  - Formen dieses Kapitels.
+  - agent:isa008, 2026-11-15
+- **`formula:declares_adonai_yhwh`** נְאֻם → **Usspruch vom Herr, HERR** [high, decided, by-rule]
+  - gloss: נְאֻם: נְאֻ֖ם (EZK 11:8) — English (generated): declares
+  - NT: EZK 11:8 *Usspruch vom Herr, HERR*
+  - answers: declares the lord god
+  - נְאֻם אֲדֹנָי יְהוִה am Ende eines Gottesworts (Ezechiel über 80×); im Schwur »So wahr i läbe, seit der Herr, HERR« (formula:as_i_live).
+  - agent:ezk011, 2026-11-15
+- **`formula:heart_of_flesh`** לֵב → **ds steinige Härz … es Härz us Fleisch** [high, decided, by-rule]
+  - gloss: לֵב: לֵ֤ב (EZK 11:19) — English (generated): of heart
+  - NT: EZK 11:19 *es Härz us Fleisch*
+  - answers: heart of stone, heart of flesh
+  - Ez 11,19; 36,26.
+  - agent:ezk011, 2026-11-15
+- **`formula:my_people_your_god`** לְ → **De sy si mys Volk, und i bi ire Gott** [high, decided, by-rule]
+  - gloss: לְ: לְ (EZK 11:20) — English (generated): My
+  - NT: EZK 11:20 *mys Volk*
+  - answers: they will be my people and i will be their god
+  - Bundesformel (Ez 11,20; 14,11; 36,28; 37,23.27; Jer).
+  - agent:ezk011, 2026-11-15
+- **`term:ezk011_forms`** סִיר → **Hafe; Asur; Wyli; Oberschti; ufstygt; furtgschickt; Chaldäa** [medium, decided, by-rule]
+  - gloss: סִיר: סִּ֔יר (EZK 11:3) — English (generated): the cooking pot
+  - gloss: עַזּוּר: עַזֻּ֛ר (EZK 11:1) — English (generated): of Azzur
+  - gloss: מְעַט: מְעַ֔ט (EZK 11:16) — English (generated): yet for a little while
+  - gloss: שַׂר: שָׂרֵ֖י (EZK 11:1) — English (generated): who were leaders
+  - gloss: מַעֲלָה: מַעֲל֥וֹת (EZK 11:5) — English (generated): the thoughts
+  - gloss: רָחַק: הִרְחַקְתִּי (EZK 11:16) — English (generated): I sent them far away
+  - gloss: כַּשְׂדִּים: כַשְׂדִּ֨ימָ (EZK 11:24) — English (generated): to Chaldea
+  - NT: EZK 11:3 *der Hafe*
+  - answers: cooking pot, Azzur, little while, leaders, arise, sent far away, Chaldea
+  - Formen dieses Kapitels.
+  - agent:ezk011, 2026-11-15
+- **`term:jer009_forms`** אָרַח → **Reisendi; hinderchunnt; Verleumdige; hindergeit; ggleert; tödleche; Pfyl; Hinderlischtigs; Schakale; verchünde; Chlagfroue; beyle; aastimme; Ougelider; rünnt; Jammergschrei; umgrisse; wägzrysse; übt; unbeschnittnigs** [medium, decided, by-rule]
+  - gloss: אָרַח: אֹֽרְחִ֔ים (JER 9:1) — English (generated): I had a traveler s
+  - gloss: עָקַב: עָק֣וֹב (JER 9:3) — English (generated): deals craftily
+  - gloss: רָכִיל: רָכִ֥יל (JER 9:3) — English (generated): slander
+  - gloss: תָּלַל: יְהָתֵ֔לּוּ (JER 9:4) — English (generated): betrays
+  - gloss: לָמַד: לִמְּד֧וּ (JER 9:4) — English (generated): They have taught
+  - gloss: שָׁחַט: שָׁח֛וּט (JER 9:7) — English (generated): are deadly
+  - gloss: חֵץ: חֵ֥ץ (JER 9:7) — English (generated): arrows
+  - gloss: מִרְמָה: מִרְמָ֣ה (JER 9:7) — English (generated): deception
+  - gloss: תַּן: תַּנִּ֑ים (JER 9:10) — English (generated): for jackals
+  - gloss: נָגַד: יַגִּדָ֑ (JER 9:11) — English (generated): that he may explain it
+  - gloss: קין: מְקוֹנְנ֖וֹת (JER 9:16) — English (generated): the wailing women
+  - gloss: מָהַר: תְמַהֵ֕רְנָה (JER 9:17) — English (generated): Let them come quickly
+  - gloss: נָשָׂא: תִשֶּׂ֥נָה (JER 9:17) — English (generated): and take up
+  - gloss: עַפְעַפִּים: עַפְעַפֵּ֖י (JER 9:17) — English (generated): and our eyelids
+  - gloss: נָזַל: יִזְּלוּ (JER 9:17) — English (generated): may gush
+  - gloss: קוֹל: ק֥וֹל (JER 9:18) — English (generated): the sound
+  - gloss: שָׁלַךְ: הִשְׁלִ֖יכוּ (JER 9:18) — English (generated): have been torn down
+  - gloss: כָּרַת: הַכְרִ֤ית (JER 9:20) — English (generated): to cut off
+  - gloss: עָשָׂה: עֹ֥שֶׂה (JER 9:23) — English (generated): who exercises
+  - gloss: עָרֵל: עַרְלֵי (JER 9:25) — English (generated): is uncircumcised
+  - NT: JER 9:10 *Schakale*; JER 9:16 *Chlagfroue*
+  - answers: traveler, deals craftily, slander, betrays, taught, deadly, arrows, deception, jackals, explain, wailing women, quickly, take up, eyelids, gush, wailing, torn down, cut off, exercises, uncircumcised
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer009, 2026-11-15
+- **`term:job011_forms`** בַּד → **Gschwätz; Gheimnis; Makel; Zueflucht** [medium, decided, by-rule]
+  - gloss: בַּד: בַּ֭דֶּי (JOB 11:3) — English (generated): Should your babbling
+  - gloss: תַּעֲלֻמָּה: תַּֽעֲלֻמ֣וֹת (JOB 11:6) — English (generated): the secrets
+  - gloss: מאוּם: מּ֑וּם (JOB 11:15) — English (generated): without blemish
+  - gloss: מָנוֹס: מָנוֹס (JOB 11:20) — English (generated): and escape
+  - NT: JOB 11:3 *Gschwätz*
+  - answers: babble, secrets, blemish, way of escape
+  - Formen dieses Kapitels.
+  - agent:job011, 2026-11-15
+- **`formula:isa009_names`** פֶּלֶא → **Wunderbare Ratgäber, Starche Gott, Ewige Vatter, Fridefürscht** [high, decided, by-rule]
+  - gloss: פֶּלֶא: פֶּ֠לֶא (ISA 9:5) — English (generated): Wonderful
+  - gloss: יָעַץ: יוֹעֵץ֙ (ISA 9:5) — English (generated): Counselor
+  - gloss: אֵל: אֵ֣ל (ISA 9:5) — English (generated): God
+  - gloss: אָב: אֲבִי (ISA 9:5) — English (generated): Everlasting Father
+  - gloss: שַׂר: שַׂר (ISA 9:5) — English (generated): Prince
+  - NT: ISA 9:5 *Fridefürscht*
+  - answers: wonderful counselor, mighty god, everlasting father, prince of peace
+  - Die Thronnamen Jes 9,5; אֵל גִּבּוֹר »der starch Gott« auch 10,21.
+  - agent:isa009, 2026-11-15
+- **`term:isa009_forms`** סְאוֹן → **Stifel; Chriegslärme; Fridefürscht; ufgsperrtem; Palmzweig; Binse; Rouchsüüle; ufewirblet** [medium, decided, by-rule]
+  - gloss: סְאוֹן: סְאוֹן֙ (ISA 9:4) — English (generated): boot
+  - gloss: רַעַשׁ: רַ֔עַשׁ (ISA 9:4) — English (generated): of battle
+  - gloss: שַׂר: שַׂר (ISA 9:5) — English (generated): Prince
+  - gloss: כֹּל: כָל (ISA 9:11) — English (generated): with open
+  - gloss: כִּפָּה: כִּפָּ֥ה (ISA 9:13) — English (generated): palm branch
+  - gloss: אַגְמֹון: אַגְמ֖וֹן (ISA 9:13) — English (generated): and reed
+  - gloss: גֵּאוּת: גֵּא֥וּת (ISA 9:17) — English (generated): in billows
+  - gloss: אָבַךְ: יִּֽתְאַבְּכ֖וּ (ISA 9:17) — English (generated): which roll upward
+  - NT: ISA 9:5 *Fridefürscht*
+  - answers: boot, battle, prince of peace, open, palm branch, reed, column of smoke, swirled
+  - Formen dieses Kapitels.
+  - agent:isa009, 2026-11-15
+- **`term:H6102_sluggard_pro`** עָצֵל → **fuul; der Fuul; di Fule** [high, decided, by-rule]
+  - gloss: עָצֵל: עָצֵ֗ל (PRO 10:26) — English (generated): the slacker
+  - NT: 1TI 5:13 *fuul*; PRO 10:26 *der Fuul*
+  - answers: slacker, sluggard, lazy
+  - Sprüche: עָצֵל »der Fuul, di Fule«; Anrede »du Fule« (6,6.9).
+  - agent:pro010, 2026-11-15
+- **`term:H2742_diligent_pro`** חָרוּץ → **flyssig** [high, decided, by-rule]
+  - gloss: חָרוּץ: חָרוּצִ֣ים (PRO 10:4) — English (generated): but diligent
+  - NT: PRO 10:4 *flyssigi Hand*
+  - answers: diligent
+  - Sprüche: חָרוּץ »flyssig« (Berner Form, im Korpus nicht belegt; dort yfrig).
+  - agent:pro010, 2026-11-15
+- **`term:H5387_prince`** נָשִׂיא → **Fürscht** [high, decided, by-rule]
+  - gloss: נָשִׂיא: נָּשִׂ֞יא (EZK 12:10) — English (generated): the prince
+  - NT: EZK 12:10 *der Fürscht*
+  - answers: prince, leader
+  - נָשִׂיא in Ezechiel (Fürst Israels, Zidkija; der künftige Fürst Kap. 34; 37; 44-48).
+  - agent:ezk012, 2026-11-15
+- **`term:ezk012_forms`** כְּלִי → **Gepäck; usezbringe; Schlottere; bewohnte; schmeichlerischi; Wahrsagerei; deck … zue** [medium, decided, by-rule]
+  - gloss: כְּלִי: כְּלֵ֣י (EZK 12:3) — English (generated): your bags
+  - gloss: יָצָא: ה֣וֹצִיא (EZK 12:12) — English (generated): to bring him out
+  - gloss: רׇגְזָה: רָגְזָ֥ה (EZK 12:18) — English (generated): with quivering
+  - gloss: יָשַׁב: נּֽוֹשָׁבוֹת֙ (EZK 12:20) — English (generated): The inhabited
+  - gloss: חָלָק: חָלָ֑ק (EZK 12:24) — English (generated): or flattering
+  - gloss: מִקְסָם: מִקְסַ֣ם (EZK 12:24) — English (generated): divinations
+  - gloss: כָּסָה: תְכַסֶּ֔ה (EZK 12:6) — English (generated): cover
+  - NT: EZK 12:3 *Gepäck*
+  - answers: baggage, bring out, trembling, inhabited, flattering, divination, cover
+  - Formen dieses Kapitels.
+  - agent:ezk012, 2026-11-15
+- **`term:jer010_forms`** צָרַף → **Guldschmid; erschreckt; Schnitzmässer; schmückt; wacklet; Vogelschüüchi; Gurkefäld; närrisch; ghämmerets; Chleidig; Kunschthandwärcher; feschtgmacht; uusgspannt; bruuset; Rägeguss; Vorratschammere; usefahre; Gossene; Uslache; Bündeli; diesmal; Zältschnüer; spannt; lenke; Wydplatz** [medium, decided, by-rule]
+  - gloss: צָרַף: צוֹרֵ֑ף (JER 10:9) — English (generated): of a goldsmith
+  - gloss: חָתַת: תֵּחָ֑תּוּ (JER 10:2) — English (generated): or be terrified
+  - gloss: מַעֲצָד: מַּעֲצָֽד (JER 10:3) — English (generated): with a chisel
+  - gloss: יָפָה: יְיַפֵּ֑ (JER 10:4) — English (generated): They adorn it
+  - gloss: פּוּק: יָפִֽיק (JER 10:4) — English (generated): totter
+  - gloss: תֹּמֶר: תֹ֨מֶר (JER 10:5) — English (generated): Like scarecrows
+  - gloss: מִקְשָׁה: מִקְשָׁ֥ה (JER 10:5) — English (generated): in a cucumber patch
+  - gloss: כָּסַל: יִכְסָ֑לוּ (JER 10:8) — English (generated): and foolish
+  - gloss: רָקַע: מְרֻקָּ֞ע (JER 10:9) — English (generated): Hammered
+  - gloss: לְבוּשׁ: לְבוּשָׁ֔ (JER 10:9) — English (generated): Their clothes
+  - gloss: חָכָם: חֲכָמִ֖ים (JER 10:9) — English (generated): by skilled workers
+  - gloss: כּוּן: מֵכִ֥ין (JER 10:12) — English (generated): He established
+  - gloss: נָטָה: נָטָ֥ה (JER 10:12) — English (generated): and stretched out
+  - gloss: הָמוֹן: הֲמ֥וֹן (JER 10:13) — English (generated): roar
+  - gloss: מָטַר: מָּטָר֙ (JER 10:13) — English (generated): with the rain
+  - gloss: אוֹצָר: אֹצְרֹתָֽי (JER 10:13) — English (generated): from His storehouses
+  - gloss: יָצָא: יּ֥וֹצֵא (JER 10:13) — English (generated): and brings forth
+  - gloss: נֶסֶךְ: נִסְכּ֖ (JER 10:14) — English (generated): his molten images
+  - gloss: תֵּעְתֻּעִים: תַּעְתֻּעִ֑ים (JER 10:15) — English (generated): to be mocked
+  - gloss: כִּנְעָה: כִּנְעָתֵ֑ (JER 10:17) — English (generated): your belongings
+  - gloss: בְּ: בַּ (JER 10:18) — English (generated): time
+  - gloss: מֵיתָר: מֵיתָרַ֖ (JER 10:20) — English (generated): its ropes
+  - gloss: קוּם: מֵקִ֖ים (JER 10:20) — English (generated): or set up
+  - gloss: כּוּן: הָכִ֖ין (JER 10:23) — English (generated): directs
+  - gloss: נָוֶה: נָוֵ֖ (JER 10:25) — English (generated): his homeland
+  - NT: JER 10:5 *Vogelschüüchi*; JER 10:9 *Guldschmid*
+  - answers: goldsmith, terrified, chisel, adorn, totter, scarecrows, cucumber, foolish, hammered, clothes, skilled, established, stretched out, roar, rain, storehouses, brings forth, molten, mocked, belongings, at this time, ropes, set up, directs, homeland
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer010, 2026-11-15
+- **`term:job012_forms`** שְׂחֹוק → **Gspött; Röiber; barfuess; Bsoffne** [medium, decided, by-rule]
+  - gloss: שְׂחֹוק: שְׂחֹ֤ק (JOB 12:4) — English (generated): a laughingstock
+  - gloss: שָׁדַד: שֹׁ֥דְדִ֗ים (JOB 12:6) — English (generated): of robbers
+  - gloss: שׁוֹלָל: שׁוֹלָ֑ל (JOB 12:17) — English (generated): barefoot
+  - gloss: שִׁכֹּור: שִּׁכּֽוֹר (JOB 12:25) — English (generated): like drunkards
+  - NT: JOB 12:4 *Gspött*
+  - answers: laughingstock, robbers, stripped, drunkard
+  - Formen dieses Kapitels.
+  - agent:job012, 2026-11-15
+- **`term:isa010_forms`** כַּלְנֹו → **Kalno; Ajat; Migron; Lajscha; Madmena; Gebim; Uszehrig; Füürsbrunscht; Feissi** [medium, decided, by-rule]
+  - gloss: כַּלְנֹו: כַּלְנ֑וֹ (ISA 10:9) — English (generated): Calno
+  - gloss: עַיַּת: עַיַּ֖ת (ISA 10:28) — English (generated): Aiath
+  - gloss: מִגְרוֹן: מִגְר֑וֹן (ISA 10:28) — English (generated): Migron
+  - gloss: לַיְשָׁה: לַ֖יְשָׁה (ISA 10:30) — English (generated): O Laishah
+  - gloss: מַדְמֵנָה: מַדְמֵנָ֑ה (ISA 10:31) — English (generated): Madmenah
+  - gloss: גֵּבִים: גֵּבִ֖ים (ISA 10:31) — English (generated): of Gebim
+  - gloss: רָזוֹן: רָז֑וֹן (ISA 10:16) — English (generated): a wasting disease
+  - gloss: יְקֹד: יק֥וֹד (ISA 10:16) — English (generated): like a burning
+  - gloss: שֶׁמֶן: שָֽׁמֶן (ISA 10:27) — English (generated): your neck will be too large
+  - NT: ISA 10:28 *Ajat*
+  - answers: calno, aiath, migron, laishah, madmenah, gebim, wasting disease, burning, fat
+  - Formen dieses Kapitels.
+  - agent:isa010, 2026-11-15
+- **`term:H8602_whitewash`** תָּפֵל → **Kalch** [high, decided, by-rule]
+  - gloss: תָּפֵל: תָּפֵֽל (EZK 13:10)
+  - NT: EZK 13:10 *mit Kalch*
+  - answers: whitewash
+  - תָּפֵל in Ez 13; 22,28.
+  - agent:ezk013, 2026-11-15
+- **`term:H3704_magic_bands`** כֶּסֶת → **Zouberbänder** [high, decided, by-rule]
+  - gloss: כֶּסֶת: כְּסָת֜וֹת (EZK 13:18) — English (generated): magic charms
+  - NT: EZK 13:18 *Zouberbänder*
+  - answers: magic bands
+  - כְּסָתוֹת, nur Ez 13,18.20.
+  - agent:ezk013, 2026-11-15
+- **`term:ezk013_forms`** שָׁוְא → **Nichtigs; Lugiwahrsagerei; Platzräge; Hagelsteine; Verzeichnis; irrgfüert; bout; aastryche; losbräche; umfallt; Handglänk; nääje; Brotbitzli; Hämpfeli; verzaget** [medium, decided, by-rule]
+  - gloss: שָׁוְא: שָׁוְא֙ (EZK 13:6) — English (generated): false visions
+  - gloss: קֶסֶם: קֶ֣סֶם (EZK 13:6) — English (generated): divinations
+  - gloss: גֶּשֶׁם: גֶּ֣שֶׁם (EZK 13:11) — English (generated): Rain
+  - gloss: אֶבֶן: אַבְנֵ֤י (EZK 13:11) — English (generated): I will send hailstones
+  - gloss: כְּתָב: כְתָ֤ב (EZK 13:9) — English (generated): in the register
+  - gloss: טָעָה: הִטְע֧וּ (EZK 13:10) — English (generated): astray
+  - gloss: בָּנָה: בֹּ֣נֶה (EZK 13:10) — English (generated): that is built
+  - gloss: טוּחַ: טָחֵ֥י (EZK 13:11) — English (generated): those whitewashing
+  - gloss: בָּקַע: בִקַּעְתִּ֥י (EZK 13:13) — English (generated): I will release
+  - gloss: נָפַל: נָֽפְלָה֙ (EZK 13:14) — English (generated): The city will fall
+  - gloss: אַצִּיל: אַצִּילֵ֣י (EZK 13:18) — English (generated): their wrists
+  - gloss: תָּפַר: מְתַפְּר֨וֹת (EZK 13:18) — English (generated): to the women who sew
+  - gloss: פָּתוֹת: פְת֣וֹתֵי (EZK 13:19) — English (generated): and scraps
+  - gloss: שֹׁעַל: שַׁעֲלֵ֣י (EZK 13:19) — English (generated): for handfuls
+  - gloss: כָּאָה: הַכְא֤וֹת (EZK 13:22) — English (generated): you have disheartened
+  - NT: EZK 13:10 *bout*
+  - answers: false, lying divination, deluge, hailstones, register, misled, builds, smear, break out, falls, wrists, sew, scraps of bread, handfuls, disheartened
+  - Formen dieses Kapitels.
+  - agent:ezk013, 2026-11-15
+- **`term:job013_forms`** רָפָא → **Dökter; Merksprüch; Bollwärch; Rächtsfall** [medium, decided, by-rule]
+  - gloss: רָפָא: רֹפְאֵ֖י (JOB 13:4) — English (generated): physicians
+  - gloss: זִכָּרוֹן: זִֽ֭כְרֹנֵי (JOB 13:12) — English (generated): Your maxims
+  - gloss: גַּב: גַּבֵּי (JOB 13:12) — English (generated): your defenses
+  - gloss: מִשְׁפָּט: מִשְׁפָּ֑ט (JOB 13:18) — English (generated): my case
+  - NT: JOB 13:4 *Dökter*
+  - answers: physicians, maxims, defenses, case
+  - Formen dieses Kapitels.
+  - agent:job013, 2026-11-15
+- **`term:jer011_forms`** עוּד → **gwarnt; Ysen; Schmelzofe; ydringlech; abwände; jubelsch; Gwitter; zahms; gschmidet; kaputtmache; richtisch; trachte; stirbsch** [medium, decided, by-rule]
+  - gloss: עוּד: הָעֵ֖ד (JER 11:7) — English (generated): I strongly warned them
+  - gloss: בַּרְזֶל: בַּרְזֶ֜ל (JER 11:4) — English (generated): out of the iron
+  - gloss: כּוּר: כּ֨וּר (JER 11:4) — English (generated): furnace
+  - gloss: עוּד: הָעֵ֨ד (JER 11:7) — English (generated): I strongly warned them
+  - gloss: עָבַר: יַעַבְר֣וּ (JER 11:15) — English (generated): avert
+  - gloss: עָלַז: תַּעֲלֹֽזִי (JER 11:15) — English (generated): you rejoice
+  - gloss: הֲמֻלָּה: הֲמוּלָּ֣ה (JER 11:16)
+  - gloss: אַלּוּף: אַלּ֖וּף (JER 11:19) — English (generated): was like a gentle
+  - gloss: חָשַׁב: חָשְׁב֣וּ (JER 11:19) — English (generated): they had plotted
+  - gloss: שָׁחַת: נַשְׁחִ֨יתָה (JER 11:19) — English (generated): Let us destroy
+  - gloss: שָׁפַט: שֹׁפֵ֣ט (JER 11:20) — English (generated): who judges
+  - gloss: בָּקַשׁ: מְבַקְשִׁ֥ים (JER 11:21) — English (generated): who are seeking
+  - gloss: מוּת: תָמ֖וּת (JER 11:21) — English (generated): or you will die
+  - NT: JER 11:4 *Schmelzofe*; JER 11:19 *zahms*
+  - answers: warned, iron, furnace, strongly, avert, rejoice, roar, gentle, plotted, destroy, judges, seeking, die
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer011, 2026-11-15
+- **`term:isa011_forms`** חֹטֵר → **Schoss; Trib; ruejt; Mastvieh; Otter; Patros; Bärghäng** [medium, decided, by-rule]
+  - gloss: חֹטֵר: חֹ֖טֶר (ISA 11:1) — English (generated): Then a shoot
+  - gloss: נֵצֶר: נֵ֖צֶר (ISA 11:1) — English (generated): and a Branch
+  - gloss: נוּחַ: נָחָ֥ה (ISA 11:2) — English (generated): will rest
+  - gloss: נָמֵר: נָמֵ֖ר (ISA 11:6) — English (generated): and the leopard
+  - gloss: מְרִיא: מְרִיא֙ (ISA 11:6) — English (generated): and fatling
+  - gloss: פֶּתֶן: פָּ֑תֶן (ISA 11:8) — English (generated): the cobra s
+  - gloss: צִפְעֹנִי: צִפְעוֹנִ֔י (ISA 11:8) — English (generated): the viper s
+  - gloss: פַּתְרוֹס: פַּתְר֣וֹס (ISA 11:11) — English (generated): from Pathros
+  - gloss: כָּתֵף: כָתֵ֤ף (ISA 11:14) — English (generated): on the slopes
+  - NT: ISA 11:1 *es Schoss*
+  - answers: shoot, branch, rest, leopard, fatling, cobra, viper, pathros, slopes
+  - Formen dieses Kapitels.
+  - agent:isa011, 2026-11-15
+- **`term:job014_forms`** גֶּזַע → **Strunk; Schössli; Ablösig; Frischt** [medium, decided, by-rule]
+  - gloss: גֶּזַע: גִּזְעֽ (JOB 14:8) — English (generated): and its stump
+  - gloss: יוֹנֶקֶת: יֹֽנַקְתּ֗ (JOB 14:7) — English (generated): and its tender shoots
+  - gloss: חֲלִיפָה: חֲלִיפָתִֽ (JOB 14:14) — English (generated): my renewal
+  - gloss: חֹק: חֹ֣ק (JOB 14:13) — English (generated): a time
+  - NT: JOB 14:8 *Strunk*
+  - answers: stump, shoots, relief, set time
+  - Formen dieses Kapitels.
+  - agent:job014, 2026-11-15
+- **`term:H4383_stumbling_block`** מִכְשׁוֹל → **Stolperstei** [high, decided, by-rule]
+  - gloss: מִכְשׁוֹל: מִכְשׁ֣וֹל (EZK 14:3) — English (generated): stumbling blocks
+  - NT: EZK 14:3 *der Stolperstei*
+  - answers: stumbling block
+  - מִכְשׁוֹל in Ezechiel (3,20; 7,19; 14,3-7; 18,30; 44,12).
+  - agent:ezk014, 2026-11-15
+- **`term:ezk014_forms`** יָשַׁב → **häregsetzt; betöre; betöört; vertilge; abirrt; usstrecke; usschütte; uszrotte** [medium, decided, by-rule]
+  - gloss: יָשַׁב: יֵּשְׁב֖וּ (EZK 14:1) — English (generated): and sat down
+  - gloss: פָּתָה: יְפֻתֶּה֙ (EZK 14:9) — English (generated): is enticed
+  - gloss: שָׁמַד: הִ֨שְׁמַדְתִּ֔י (EZK 14:9) — English (generated): and destroy him
+  - gloss: תָּעָה: יִתְע֨וּ (EZK 14:11) — English (generated): stray
+  - gloss: נָטָה: נָטִ֤יתִי (EZK 14:13) — English (generated): and I stretch out
+  - gloss: שָׁפַךְ: שָׁפַכְתִּ֨י (EZK 14:19) — English (generated): and pour out
+  - gloss: כָּרַת: הַכְרִ֥ית (EZK 14:19) — English (generated): cutting off
+  - NT: EZK 14:9 *vertilge*
+  - answers: sat down, enticed, destroy, stray, stretch out, pour out, cut off
+  - Formen dieses Kapitels.
+  - agent:ezk014, 2026-11-15
+- **`term:isa012_forms`** נָחַם → **tröschtisch; erhabe; Bewohnerin** [medium, decided, by-rule]
+  - gloss: נָחַם: תְנַחֲמֵֽ (ISA 12:1) — English (generated): and You have comforted me
+  - gloss: שָׂגַב: נִשְׂגָּ֖ב (ISA 12:4) — English (generated): is exalted
+  - gloss: יָשַׁב: יוֹשֶׁ֣בֶת (ISA 12:6) — English (generated): O citizen
+  - NT: ISA 12:6 *Bewohnerin*
+  - answers: comforted, exalted, inhabitant
+  - Formen dieses Kapitels.
+  - agent:isa012, 2026-11-15
+- **`term:jer012_forms`** רִיב → **strytte; bestimm; verdorre; Bosheit; Füessgänger; ruehige; vorchunnsch; farbige; Raubvogel; Raubvögel; vertrampet; gärntet; Ärtrege** [medium, decided, by-rule]
+  - gloss: רִיב: אָרִ֖יב (JER 12:1) — English (generated): I plead
+  - gloss: קָדַשׁ: הַקְדִּשֵׁ֖ (JER 12:3) — English (generated): and set them apart
+  - gloss: יָבֵשׁ: יִיבָ֑שׁ (JER 12:4) — English (generated): be withered
+  - gloss: רָעָה: רָעַ֣ת (JER 12:4) — English (generated): Because of the evil
+  - gloss: רַגְלִי: רַגְלִ֥ים (JER 12:5) — English (generated): men on foot
+  - gloss: שָׁלוֹם: שָׁלוֹם֙ (JER 12:5) — English (generated): in a peaceful
+  - gloss: בָּטַח: בוֹטֵ֔חַ (JER 12:5) — English (generated): stumble
+  - gloss: צָבוּעַ: צָב֤וּעַ (JER 12:9) — English (generated): like a speckled
+  - gloss: עַיִט: עַ֨יִט (JER 12:9) — English (generated): bird of prey
+  - gloss: בּוּס: בֹּסְס֖וּ (JER 12:10) — English (generated): they have trampled
+  - gloss: קָצַר: קָצָ֔רוּ (JER 12:13) — English (generated): but harvested
+  - gloss: תְּבוּאָה: תְּבוּאֹ֣תֵי (JER 12:13) — English (generated): of your harvest
+  - NT: JER 12:5 *Füessgänger*; JER 12:9 *Raubvogel*
+  - answers: bring a case, set apart, wither, wickedness, men on foot, safe, stumble, hyena, bird of prey, trampled down, reaped, harvests
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer012, 2026-11-15
+- **`term:job015_forms`** קָדִים → **Oschtwind; Grauhaarigi; Verwüeschter; Palmzweig; Fettpolschter** [medium, decided, by-rule]
+  - gloss: קָדִים: קָדִ֣ים (JOB 15:2) — English (generated): with the hot east wind
+  - gloss: שִׂיב: שָׂ֣ב (JOB 15:10) — English (generated): the gray haired
+  - gloss: שָׁדַד: שׁוֹדֵ֥ד (JOB 15:21) — English (generated): the destroyer
+  - gloss: כִּפָּה: כִפָּת֗ (JOB 15:32) — English (generated): and his branch
+  - gloss: פִּימָה: פִּימָ֣ה (JOB 15:27) — English (generated): with flesh
+  - NT: JOB 15:2 *Oschtwind*
+  - answers: east wind, gray-haired, destroyer, branch, fat
+  - Formen dieses Kapitels.
+  - agent:job015, 2026-11-15
+- **`term:H1612_vine`** גֶּפֶן → **Räbstock** [high, decided, by-rule]
+  - gloss: גֶּפֶן: גֶּ֖פֶן (EZK 15:2) — English (generated): of the vine
+  - NT: EZK 15:2 *vom Räbstock*
+  - answers: vine
+  - גֶּפֶן; Korpus »Räbstock« 4×, »Wystock« 2×.
+  - agent:ezk015, 2026-11-15
+- **`term:ezk015_forms`** חָרַר → **verchohlet; Ranke; Pflock; irgendöppis; ufzhänke; Grät; wirft; Mittelstück** [medium, decided, by-rule]
+  - gloss: חָרַר: נָחָ֔ר (EZK 15:4) — English (generated): is charred
+  - gloss: זְמוֹרָה: זְּמוֹרָ֕ה (EZK 15:2) — English (generated): branch
+  - gloss: יָתֵד: יָתֵ֔ד (EZK 15:3) — English (generated): a peg
+  - gloss: כֹּל: כָּל (EZK 15:3)
+  - gloss: תָּלָה: תְל֥וֹת (EZK 15:3) — English (generated): to hang
+  - gloss: כְּלִי: כֶּֽלִי (EZK 15:3) — English (generated): utensils
+  - gloss: נָתַן: נִתַּ֣ן (EZK 15:4) — English (generated): it is cast
+  - gloss: תָּוֶךְ: תוֹכ֣ (EZK 15:4) — English (generated): and the middle
+  - NT: EZK 15:3 *e Pflock*
+  - answers: charred, branch, peg, any, hang, object, cast, middle
+  - Formen dieses Kapitels.
+  - agent:ezk015, 2026-11-15
+- **`formula:isa_massa`** מַשָּׂא → **Der Spruch über …** [high, decided, by-rule]
+  - gloss: מַשָּׂא: מַשָּׂ֖א (ISA 13:1) — English (generated): the burden
+  - NT: ISA 13:1 *Der Spruch über Babel*
+  - answers: burden, oracle
+  - מַשָּׂא in den Überschriften der Völkersprüche (Jes 13,1; 14,28; 15,1; 17,1; 19,1; 21,1.11.13; 22,1; 23,1; 30,6); »Usspruch« bleibt נְאֻם (4 Mo 24).
+  - agent:isa013, 2026-11-15
+- **`term:isa013_forms`** כְּסִיל → **Stärnbilder; Wüeschtetier; Bocksgeischter; Hyäne; Prachtpaläscht; verschmätteret; Chrämpf** [medium, decided, by-rule]
+  - gloss: כְּסִיל: כְסִ֣ילֵי (ISA 13:10) — English (generated): and their constellations
+  - gloss: צִי: צִיִּ֔ים (ISA 13:21) — English (generated): But desert creatures
+  - gloss: שָׂעִיר: שְׂעִירִ֖ים (ISA 13:21) — English (generated): and wild goats
+  - gloss: אִי: אִיִּים֙ (ISA 13:22) — English (generated): Hyenas
+  - gloss: הֵיכָל: הֵ֣יכְלֵי (ISA 13:22) — English (generated): palaces
+  - gloss: רָטַשׁ: יְרֻטְּשׁ֖וּ (ISA 13:16) — English (generated): will be dashed to pieces
+  - gloss: צִיר: צִירִ֤ים (ISA 13:8) — English (generated): pain
+  - NT: ISA 13:21 *Bocksgeischter*
+  - answers: constellations, desert creatures, goat demons, hyenas, palaces, dashed, pangs
+  - Formen dieses Kapitels.
+  - agent:isa013, 2026-11-15
+- **`term:ruach_sturm`** רוּחַ → **Sturm** [high, decided, by-rule]
+  - gloss: רוּחַ: ר֖וּחַ (JER 13:24) — English (generated): wind
+  - NT: JER 13:24 *Sturm*
+  - answers: wind, storm
+  - רוּחַ als treibender Wind (Spreu vor dem Wind, Wind aus den Vorratskammern) »Sturm«; »Luft« bleibt für den Hauch im Bild (term:ruach_luft).
+  - agent:jer013, 2026-11-15
+- **`term:jer013_forms`** גָּלָה → **wäggfüert; prächtigi; Felsspalt; weigeret; Ruem; Zierde; Bsoffeheit; schmättere; Beduure; dunkel; Dämmerig; Fiischteri; Verborgene; Chüniginmueter; zuegschlosse; Häupter; Verbündeti; gwöhnt; Kuschit; furtgweit; zuemisse; Ehebrüch; schamlosi** [medium, decided, by-rule]
+  - gloss: גָּלָה: הָגְלָ֧ת (JER 13:19) — English (generated): has been carried into exile
+  - gloss: תִּפְאֶרֶת: תִּֽפְאַרְתְּ (JER 13:18) — English (generated): your glorious
+  - gloss: נָקִיק: נְקִ֥יק (JER 13:4) — English (generated): in a crevice
+  - gloss: מֵאֵן: מֵּאֲנִ֣ים (JER 13:10) — English (generated): who refuse
+  - gloss: תְּהִלָּה: תְהִלָּ֖ה (JER 13:11) — English (generated): and praise
+  - gloss: תִּפְאֶרֶת: תִפְאָ֑רֶת (JER 13:11) — English (generated): and glory
+  - gloss: שִׁכָּרוֹן: שִׁכָּרֽוֹן (JER 13:13) — English (generated): with drunkenness
+  - gloss: נָפַץ: נִפַּצְתִּי (JER 13:14) — English (generated): I will smash them
+  - gloss: חָמַל: אֶחְמ֧וֹל (JER 13:14) — English (generated): mercy
+  - gloss: חָשַׁךְ: יַחְשִׁ֔ךְ (JER 13:16) — English (generated): He brings darkness
+  - gloss: נֶשֶׁף: נָ֑שֶׁף (JER 13:16) — English (generated): the dusky
+  - gloss: עֲרָפֶל: עֲרָפֶֽל (JER 13:16) — English (generated): thick darkness
+  - gloss: מִסְתָּר: מִסְתָּרִ֥ים (JER 13:17) — English (generated): in secret
+  - gloss: גְּבִירָה: גְּבִירָ֖ה (JER 13:18) — English (generated): and to the queen mother
+  - gloss: סָגַר: סֻגְּר֖וּ (JER 13:19) — English (generated): have been shut tight
+  - gloss: רֹאשׁ: רֹ֑אשׁ (JER 13:21) — English (generated): allies
+  - gloss: אַלּוּף: אַלֻּפִ֖ים (JER 13:21) — English (generated): close
+  - gloss: לָמַד: לִמַּ֨דְתְּ (JER 13:21) — English (generated): yourself trained
+  - gloss: כֻּשִׁי: כּוּשִׁי֙ (JER 13:23) — English (generated): Can the Ethiopian
+  - gloss: עָבַר: עוֹבֵ֑ר (JER 13:24) — English (generated): driven
+  - gloss: מַד: מִדַּ֛יִ (JER 13:25) — English (generated): measured to you
+  - gloss: נִאֻפִים: נִֽאֻפַ֤יִ (JER 13:27) — English (generated): Your adulteries
+  - gloss: זִמָּה: זִמַּ֣ת (JER 13:27) — English (generated): your shameless
+  - NT: JER 13:18 *Chüniginmueter*; JER 13:23 *Kuschit*
+  - answers: taken into exile, beautiful, crevice, refuse, praise, glory, drunkenness, smash, pity, darkness, twilight, deep darkness, secret, queen mother, shut up, head, allies, taught, Ethiopian, driven, decreed, adulteries, shameless
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer013, 2026-11-15
+- **`term:jer014_forms`** חָפָה → **verhülle; Tröchni; serble; bblamiert; Schrunde; Puure; Hirschchue; Wildesle; schnappe; Reisende; ufschlat; zrüggghalte; Hilferüef; Lugegsichter; Nüütigs; gschmisse; zerschmätteret; sowohl; entehr; brich** [medium, decided, by-rule]
+  - gloss: חָפָה: חָפ֥וּ (JER 14:3) — English (generated): they cover
+  - gloss: בַּצֹּרֶת: בַּצָּרֽוֹת (JER 14:1) — English (generated): the drought
+  - gloss: אָמַל: אֻמְלְל֖וּ (JER 14:2) — English (generated): languish
+  - gloss: כָּלַם: הָכְלְמ֖וּ (JER 14:3) — English (generated): and humiliated
+  - gloss: חָתַת: חַ֔תָּה (JER 14:4) — English (generated): is cracked
+  - gloss: אִכָּר: אִכָּרִ֖ים (JER 14:4) — English (generated): The farmers
+  - gloss: אַיֶּלֶת: אַיֶּ֨לֶת֙ (JER 14:5) — English (generated): the doe
+  - gloss: פֶּרֶא: פְרָאִים֙ (JER 14:6) — English (generated): Wild donkeys
+  - gloss: שָׁאַף: שָׁאֲפ֥וּ (JER 14:6) — English (generated): they pant
+  - gloss: אָרַח: אֹרֵ֖חַ (JER 14:8) — English (generated): like a traveler
+  - gloss: נָטָה: נָטָ֥ה (JER 14:8) — English (generated): who stays but a night
+  - gloss: חָשַׂךְ: חָשָׂ֑כוּ (JER 14:10) — English (generated): restrained
+  - gloss: רִנָּה: רִנָּתָ֔ (JER 14:12) — English (generated): their cry
+  - gloss: חָזוֹן: חֲז֨וֹן (JER 14:14) — English (generated): vision
+  - gloss: אֱלִיל: אֱלִיל֙ (JER 14:14) — English (generated): the futility
+  - gloss: שָׁלַךְ: מֻשְׁלָכִים֩ (JER 14:16) — English (generated): thrown
+  - gloss: שָׁבַר: נִשְׁבְּרָ֗ה (JER 14:17) — English (generated): blow
+  - gloss: גַּם: גַם (JER 14:18) — English (generated): both
+  - gloss: נָבַל: תְּנַבֵּ֖ל (JER 14:21) — English (generated): disgrace
+  - gloss: פָּרַר: תָּפֵ֥ר (JER 14:21) — English (generated): break it
+  - NT: JER 14:1 *Tröchni*; JER 14:5 *Hirschchue*
+  - answers: cover, drought, languish, humiliated, cracked, farmers, doe, wild donkeys, pant, traveler, spreads out, restrained, cry, false vision, worthless, thrown out, struck down, both, dishonor, break
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer014, 2026-11-15
+- **`term:job016_forms`** נָחַם → **Tröschter; Pfylschütze; Bräsche; Magerkeit** [medium, decided, by-rule]
+  - gloss: נָחַם: מְנַחֲמֵ֖י (JOB 16:2) — English (generated): comforters
+  - gloss: רַב: רַבָּ֗י (JOB 16:13) — English (generated): His archers
+  - gloss: פֶּרֶץ: פֶ֭רֶץ (JOB 16:14) — English (generated): with wound
+  - gloss: כַּחַשׁ: כַ֝חֲשִׁ֗ (JOB 16:8) — English (generated): my frailty
+  - NT: JOB 16:2 *Tröschter*
+  - answers: comforters, archers, breach, leanness
+  - Formen dieses Kapitels.
+  - agent:job016, 2026-11-15
+- **`term:isa014_forms`** מָשָׁל → **Spottlied; Fronvogt; Morgestärn; Morgeröti; Gwürm; Igel; Schlachtplatz; Philischtäa** [medium, decided, by-rule]
+  - gloss: מָשָׁל: מָּשָׁ֥ל (ISA 14:4) — English (generated): song of contempt
+  - gloss: נָגַשׂ: נֹגֵ֔שׂ (ISA 14:4) — English (generated): the oppressor
+  - gloss: הֵילֵל: הֵילֵ֣ל (ISA 14:12) — English (generated): O day star
+  - gloss: שַׁחַר: שָׁ֑חַר (ISA 14:12) — English (generated): of the dawn
+  - gloss: תּוֹלֵעָה: תּוֹלֵעָֽה (ISA 14:11) — English (generated): and worms
+  - gloss: קִפֹּד: קִפֹּ֖ד (ISA 14:23) — English (generated): for owls
+  - gloss: מַטְבֵּחַ: מַטְבֵּ֖חַ (ISA 14:21) — English (generated): a place to slaughter
+  - gloss: פְּלֶשֶׁת: פְלֶ֨שֶׁת֙ (ISA 14:29) — English (generated): you Philistines
+  - NT: ISA 14:12 *Morgestärn*
+  - answers: taunt, oppressor, morning star, dawn, worms, hedgehog, place of slaughter, philistia
+  - Formen dieses Kapitels.
+  - agent:isa014, 2026-11-15
+- **`term:lifne_vor`** לְ → **vor** [high, decided, by-rule]
+  - gloss: לְ: לְ (JER 15:1) — English (generated): before Me
+  - gloss: פָּנֶה: פָנַ֣ (JER 15:19) — English (generated): in My presence
+  - NT: JER 15:1 *vor*
+  - answers: before, in presence of
+  - לִפְנֵי als Präposition »vor« (vor mir sta); term:H6440_presence bleibt für פָּנִים als Angesicht.
+  - agent:jer015, 2026-11-15
+- **`term:jer015_forms`** סָחַב → **Furtschleipfe; bedüüret; Wurfschufle; worfelet; Mittag; verwälkt; usghuucht; Zank; aafleht; wartisch; Wonne; Spassmacher; unheilbar; trügerische; uussunderisch; Fuuscht; Gwalttätige** [medium, decided, by-rule]
+  - gloss: סָחַב: סְחֹ֑ב (JER 15:3) — English (generated): to drag away
+  - gloss: נוּד: יָנ֣וּד (JER 15:5) — English (generated): will mourn
+  - gloss: מִזְרֶה: מִזְרֶ֖ה (JER 15:7) — English (generated): with a winnowing fork
+  - gloss: זָרָה: אֶזְרֵ֥ (JER 15:7) — English (generated): I will scatter them
+  - gloss: צָהֳרַיִם: צָּהֳרָ֑יִם (JER 15:8) — English (generated): at noon
+  - gloss: אָמַל: אֻמְלְלָ֞ה (JER 15:9) — English (generated): will grow faint
+  - gloss: נָפַח: נָפְחָ֥ה (JER 15:9) — English (generated): she will breathe
+  - gloss: מָדוֹן: מָד֖וֹן (JER 15:10) — English (generated): and conflict
+  - gloss: פָּגַע: הִפְגַּ֣עְתִּֽי (JER 15:11) — English (generated): intercede
+  - gloss: אָרֵךְ: אֶ֥רֶךְ (JER 15:15) — English (generated): In Your patience
+  - gloss: שִׂמְחָה: שִׂמְחַ֣ת (JER 15:16) — English (generated): delight
+  - gloss: שָׂחַק: מְשַׂחֲקִ֖ים (JER 15:17) — English (generated): of revelers
+  - gloss: אָנוּשׁ: אֲנוּשָׁ֑ה֙ (JER 15:18) — English (generated): incurable
+  - gloss: אַכְזָב: אַכְזָ֔ב (JER 15:18) — English (generated): a mirage
+  - gloss: יָצָא: תּוֹצִ֥יא (JER 15:19) — English (generated): you speak
+  - gloss: כַּף: כַּ֥ף (JER 15:21) — English (generated): from the grasp
+  - gloss: עָרִיץ: עָרִצִֽים (JER 15:21) — English (generated): of the ruthless
+  - NT: JER 15:7 *Wurfschufle*; JER 15:17 *Spassmacher*
+  - answers: drag away, sympathy, winnowing fork, winnowed, noonday, languished, breathed, contention, imposed, length, delight, merrymakers, incurable, deceitful, utter, grasp, ruthless
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer015, 2026-11-15
+- **`term:job017_forms`** עָרַב → **Pfand; Spötter; Glider; Müeti** [medium, decided, by-rule]
+  - gloss: עָרַב: עָרְבֵ֣ (JOB 17:3) — English (generated): the pledge
+  - gloss: הֲתֻלִים: הֲ֭תֻלִים (JOB 17:2) — English (generated): mockers
+  - gloss: יְצֻרִים: יצֻרַ֖ (JOB 17:7) — English (generated): body
+  - gloss: אֵם: אִמִּ֥ (JOB 17:14) — English (generated): My mother
+  - NT: JOB 17:3 *Pfand*
+  - answers: pledge, mockers, members, mother
+  - Formen dieses Kapitels.
+  - agent:job017, 2026-11-15
+- **`term:H2181_verb_umehuere`** זָנָה → **umehuere; umeghueret; ds Umehuere** [high, decided, by-rule]
+  - gloss: זָנָה: תִּזְנִ֖י (EZK 16:15) — English (generated): and played the harlot
+  - gloss: תַּזְנוּת: תַּזְנוּתַ֛יִ (EZK 16:15) — English (generated): your favors
+  - NT: EZK 16:15 *umeghueret*
+  - answers: played the whore, whoring
+  - זָנָה (Verb) und תַּזְנוּת nach Bietenhard »umehuere« (Korpus 2× + Nomen »Umehuere«); das Nomen זוֹנָה bleibt »Proschtituierti«.
+  - agent:ezk016, 2026-11-15
+- **`term:ezk016_forms`** שֹׁר → **Nabelschnuer; zablet; Blutti; Hübel; Strasseegge; Liebhaber; Ehebrächere; Hetiterin; Schamlosigkeit; Zuestand; Nachbere** [medium, decided, by-rule]
+  - gloss: שֹׁר: שָׁרֵּ֔ (EZK 16:4) — English (generated): your cord
+  - gloss: בּוּס: מִתְבּוֹסֶ֖סֶת (EZK 16:6) — English (generated): you wallowing
+  - gloss: עֶרְוָה: עֶרְוָתֵ֑ (EZK 16:8) — English (generated): your nakedness
+  - gloss: גַּב: גֶּ֑ב (EZK 16:24) — English (generated): a mound
+  - gloss: רֹאשׁ: רֹ֣אשׁ (EZK 16:25) — English (generated): the head
+  - gloss: אָהֵב: מְאַֽהֲבַ֔יִ (EZK 16:33) — English (generated): your lovers
+  - gloss: נָאַף: מְּנָאָ֑פֶת (EZK 16:32) — English (generated): You adulterous wife
+  - gloss: חִתִּי: חִתִּֽית (EZK 16:3) — English (generated): a Hittite
+  - gloss: זִמָּה: זִּמָּ֔ה (EZK 16:43) — English (generated): this lewdness
+  - gloss: קַדְמָה: קַדְמָתָ֔ (EZK 16:55) — English (generated): to their former state
+  - gloss: שָׁכֵן: שְׁכֵנַ֖יִ (EZK 16:26) — English (generated): neighbors
+  - NT: EZK 16:33 *Liebhaber*
+  - answers: umbilical cord, kicking about, nakedness, mound, head of every street, lovers, adulterous wife, Hittite, lewdness, former state, neighbors
+  - Formen dieses Kapitels.
+  - agent:ezk016, 2026-11-15
+- **`term:jer016_forms`** יָלַד → **zügle; Truurhuus; ritzt; schärt; feschtet; verchündsch; Jäger; vergilten; entweiht; gerbt** [medium, decided, by-rule]
+  - gloss: יָלַד: מּוֹלִדִ֥ים (JER 16:3)
+  - gloss: מַרְזֵחַ: מַרְזֵ֔חַ (JER 16:5) — English (generated): a funeral meal
+  - gloss: גָּדַד: יִתְגֹּדַ֔ד (JER 16:6) — English (generated): will anyone cut himself
+  - gloss: קָרַח: יִקָּרֵ֖חַ (JER 16:6) — English (generated): or shave his head
+  - gloss: מִשְׁתֶּה: מִשְׁתֶּ֥ה (JER 16:8) — English (generated): where there is feasting
+  - gloss: נָגַד: תַגִּיד֙ (JER 16:10) — English (generated): you tell
+  - gloss: צַיָּד: צַיָּדִ֔ים (JER 16:16) — English (generated): hunters
+  - gloss: שָׁלֵם: שִׁלַּמְתִּ֣י (JER 16:18) — English (generated): repay them
+  - gloss: חָלַל: חַלְּלָ֣ (JER 16:18) — English (generated): they have defiled
+  - gloss: נָחַל: נָחֲל֣וּ (JER 16:19) — English (generated): inherited
+  - NT: JER 16:5 *Truurhuus*; JER 16:16 *Jäger*
+  - answers: beget, mourning, cut, shave, feasting, tell, hunters, repay, polluted, inherited
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer016, 2026-11-15
+- **`term:isa015_forms`** עֶגְלַת שְׁלִשִׁיָּה → **Eglat-Schelischija; Luhit; Nimrim; Eglajim; Beer-Elim; Dimon; versiegt; gwaffnete** [medium, decided, by-rule]
+  - gloss: עֶגְלַת שְׁלִשִׁיָּה: עֶגְלַ֣ת (ISA 15:5) — English (generated): as far as Eglath shelishiyah
+  - gloss: לוּחִית: לּוּחִ֗ית (ISA 15:5) — English (generated): of Luhith
+  - gloss: נִמְרִים: נִמְרִ֖ים (ISA 15:6) — English (generated): of Nimrim
+  - gloss: אֶגְלַיִם: אֶגְלַ֨יִם֙ (ISA 15:8) — English (generated): reaches Eglaim
+  - gloss: בְּאֵר אֵילִים: בְאֵ֥ר (ISA 15:8) — English (generated): in Beer elim
+  - gloss: דִּימוֹן: דִימוֹן֙ (ISA 15:9) — English (generated): of Dimon
+  - gloss: מְשַׁמָּה: מְשַׁמּ֣וֹת (ISA 15:6) — English (generated): dried up
+  - gloss: חָלַץ: חֲלֻצֵ֤י (ISA 15:4) — English (generated): the soldiers
+  - NT: ISA 15:5 *Luhit*
+  - answers: eglath-shelishiyah, luhith, nimrim, eglaim, beer-elim, dimon, dried up, armed
+  - Formen dieses Kapitels.
+  - agent:isa015, 2026-11-15
+- **`term:job018_forms`** שְׂבָכָה → **Gitter; Schlinge; Schwäfel; Urängel** [medium, decided, by-rule]
+  - gloss: שְׂבָכָה: שְׂ֝בָכָ֗ה (JOB 18:8) — English (generated): its mesh
+  - gloss: צַמִּים: צַמִּֽים (JOB 18:9) — English (generated): a snare
+  - gloss: גׇּפְרִית: גָפְרִֽית (JOB 18:15) — English (generated): burning sulfur
+  - gloss: נֶכֶד: נֶ֣כֶד (JOB 18:19) — English (generated): or posterity
+  - NT: JOB 18:15 *Schwäfel*
+  - answers: mesh, snare, sulfur, descendant
+  - Formen dieses Kapitels.
+  - agent:job018, 2026-11-15
+- **`term:jer017_forms`** צִפֹּרֶן → **Diamantspitze; Aschera-Pfähl; Wacholder; tröchene; salzige; usstreckt; grüen; ergründe; Rebhuen; brüetet; Staub; läbigem; dervoggloffe; unheilvoll; herbygwünscht; zerschlag; doppletem; aaznä; ynebringet; bewohnt; Umgäbig; zünden** [medium, decided, by-rule]
+  - gloss: צִפֹּרֶן: צִפֹּ֣רֶן (JER 17:1) — English (generated): point
+  - gloss: אֲשֵׁרָה: אֲשֵׁרֵי (JER 17:2) — English (generated): and Asherah poles
+  - gloss: עַרְעָר: עַרְעָ֣ר (JER 17:6) — English (generated): like a shrub
+  - gloss: חֲרֵרִים: חֲרֵרִים֙ (JER 17:6) — English (generated): in the parched places
+  - gloss: מְלֵחָה: מְלֵחָ֖ה (JER 17:6) — English (generated): in a salt
+  - gloss: שָׁלַח: יְשַׁלַּ֣ח (JER 17:8)
+  - gloss: רַעֲנָן: רַֽעֲנָ֑ן (JER 17:8) — English (generated): green
+  - gloss: חָקַר: חֹקֵ֥ר (JER 17:10) — English (generated): search
+  - gloss: קֹרֵא: קֹרֵ֤א (JER 17:11) — English (generated): Like a partridge
+  - gloss: דָּגַר: דָגַר֙ (JER 17:11) — English (generated): hatching eggs
+  - gloss: אֶרֶץ: אָ֣רֶץ (JER 17:13) — English (generated): in the dust
+  - gloss: חַי: חַיִּ֖ים (JER 17:13) — English (generated): of living
+  - gloss: אוּץ: אַ֣צְתִּי (JER 17:16) — English (generated): run away
+  - gloss: אָנוּשׁ: אָנ֛וּשׁ (JER 17:16) — English (generated): of despair
+  - gloss: אָוָה: הִתְאַוֵּ֖יתִי (JER 17:16) — English (generated): desired
+  - gloss: שָׁבַר: שָׁבְרֵֽ (JER 17:18) — English (generated): and shatter them
+  - gloss: מִשְׁנֶה: מִשְׁנֶ֥ה (JER 17:18) — English (generated): with double
+  - gloss: לָקַח: קַ֥חַת (JER 17:23) — English (generated): or receive
+  - gloss: בּוֹא: הָבִ֣יא (JER 17:24) — English (generated): and bring
+  - gloss: יָשַׁב: יָשְׁבָ֥ה (JER 17:25) — English (generated): will be inhabited
+  - gloss: סָבִיב: סְּבִיב֨וֹת (JER 17:26) — English (generated): and the places around
+  - gloss: יָצַת: הִצַּ֧תִּי (JER 17:27) — English (generated): then I will kindle
+  - NT: JER 17:6 *Wacholder*; JER 17:11 *Rebhuen*
+  - answers: diamond, asherah poles, juniper, parched, salt, sends out, green, search, partridge, hatches, earth, living, run away, fatal, desired, destroy, double, receive, bring, inhabited, around, kindle
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer017, 2026-11-15
+- **`term:H730_cedar`** אֶרֶז → **Zeder** [high, decided, by-rule]
+  - gloss: אֶרֶז: אָֽרֶז (EZK 17:3) — English (generated): of the cedar
+  - NT: EZK 17:3 *der Zeder*
+  - answers: cedar
+  - אֶרֶז.
+  - agent:ezk017, 2026-11-15
+- **`term:H5404_eagle`** נֶשֶׁר → **Adler** [high, decided, by-rule]
+  - gloss: נֶשֶׁר: נֶּ֤שֶׁר (EZK 17:3) — English (generated): eagle
+  - NT: EZK 17:3 *Adler*
+  - answers: eagle
+  - נֶשֶׁר.
+  - agent:ezk017, 2026-11-15
+- **`term:ezk017_forms`** שָׁפָל → **nidrig; Gfider; Wipfel; Beet; verdoret; Händlerland; Chrämer; Wyde; Schösse; Chünigsfamilie; Erdwäll; Belagerigsmuure; dürr; Zwygli** [medium, decided, by-rule]
+  - gloss: שָׁפָל: שִׁפְלַ֣ת (EZK 17:6) — English (generated): low
+  - gloss: הַ: הַ (EZK 17:3) — English (generated): GOD
+  - gloss: צַמֶּרֶת: צַמֶּ֥רֶת (EZK 17:3) — English (generated): the top
+  - gloss: עֲרוּגָה: עֲרֻג֖וֹת (EZK 17:7) — English (generated): bed
+  - gloss: יָבֵשׁ: יָבֵ֗שׁ (EZK 17:9) — English (generated): so that it shrivels
+  - gloss: אֶרֶץ: אֶ֣רֶץ (EZK 17:4) — English (generated): the land
+  - gloss: רָכַל: רֹכְלִ֖ים (EZK 17:4) — English (generated): of traders
+  - gloss: צַפְצָפָה: צַפְצָפָ֖ה (EZK 17:5) — English (generated): like a willow
+  - gloss: בַּד: בַּדִּ֔ים (EZK 17:6) — English (generated): branches
+  - gloss: זֶרַע: זֶּ֣רַע (EZK 17:13) — English (generated): family
+  - gloss: סֹלְלָה: סֹלְלָ֖ה (EZK 17:17) — English (generated): when ramps
+  - gloss: דָּיֵק: דָּיֵ֑ק (EZK 17:17) — English (generated): and siege walls
+  - gloss: יָבֵשׁ: יָבֵ֑שׁ (EZK 17:24) — English (generated): and make the withered
+  - gloss: רַךְ: רַ֣ךְ (EZK 17:22) — English (generated): a tender sprig
+  - NT: EZK 17:3 *der Wipfel*
+  - answers: low, plumage, top, bed, wither, land of merchants, traders, willow, branches, royal family, ramps, siege walls, dry, twig
+  - Formen dieses Kapitels.
+  - agent:ezk017, 2026-11-15
+- **`term:job019_forms`** גָּאַל → **Erlöser; Dammwäg; Griffel; Gstänk** [medium, decided, by-rule]
+  - gloss: גָּאַל: גֹּ֣אֲלִ (JOB 19:25) — English (generated): that my Redeemer
+  - gloss: דֶּרֶךְ: דַּרְכָּ֑ (JOB 19:12) — English (generated): a ramp
+  - gloss: עֵט: עֵט (JOB 19:24) — English (generated): stylus
+  - gloss: חָנַן: חַנֹּתִ֗י (JOB 19:17) — English (generated): and I am loathsome
+  - NT: JOB 19:25 *Erlöser*
+  - answers: Redeemer, siege ramp, pen, loathsome
+  - Formen dieses Kapitels.
+  - agent:job019, 2026-11-15
+- **`term:jer018_forms`** דָבַר → **wöll; grouet; Töpferschybe; missrate; usrysse; umchehrt; forme; abeflüsst; Pfade; Nebewäge; bbahnet; Uspfyffe; verbygeit; erstarrt; schmide; abzwände; gstürzt** [medium, decided, by-rule]
+  - gloss: דָבַר: אֲדַבֵּ֔ר (JER 18:7) — English (generated): I might announce
+  - gloss: נָחַם: נִֽחַמְתִּי֙ (JER 18:8) — English (generated): then I will relent
+  - gloss: אֹבֶן: אָבְנָֽיִם (JER 18:3) — English (generated): the wheel
+  - gloss: שָׁחַת: נִשְׁחַ֣ת (JER 18:4) — English (generated): became flawed
+  - gloss: נָתַשׁ: נְת֥וֹשׁ (JER 18:7) — English (generated): will be uprooted
+  - gloss: שׁוּב: שָׁב֙ (JER 18:8) — English (generated): turns
+  - gloss: יָצַר: יוֹצֵ֤ר (JER 18:11) — English (generated): am planning
+  - gloss: נָזַל: נוֹזְלִֽים (JER 18:14) — English (generated): flowing
+  - gloss: שְׁבִיל: שְׁבִילֵ֣י (JER 18:15) — English (generated): roads
+  - gloss: נְתִיבָה: נְתִיב֔וֹת (JER 18:15) — English (generated): on rutted
+  - gloss: סָלַל: סְלוּלָֽה (JER 18:15) — English (generated): on the highway
+  - gloss: שְׁרֵקָה: שְׁרִיק֣וֹת (JER 18:16) — English (generated): object of scorn
+  - gloss: עָבַר: עוֹבֵ֣ר (JER 18:16) — English (generated): who pass
+  - gloss: שָׁמֵם: יִשֹּׁ֖ם (JER 18:16) — English (generated): will be appalled
+  - gloss: חָשַׁב: נַחְשְׁבָ֣ה (JER 18:18) — English (generated): let us make plans
+  - gloss: שׁוּב: הָשִׁ֥יב (JER 18:20) — English (generated): to turn
+  - gloss: כָּשַׁל: מֻכְשָׁלִים֙ (JER 18:23) — English (generated): Let them be overthrown
+  - NT: JER 18:3 *Töpferschybe*; JER 18:16 *Uspfyffe*
+  - answers: announce, relent, wheel, spoiled, uproot, turns, preparing, flowing, roads, bypaths, built up, hissed, pass, appalled, make plots, turn away, overthrown
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer018, 2026-11-15
+- **`term:isa016_forms`** אֲשִׁישָׁה → **Rosinechüeche; Jubelruef; Zertrapper; Trotter; flatterigi; abmüet** [medium, decided, by-rule]
+  - gloss: אֲשִׁישָׁה: אֲשִׁישֵׁ֧י (ISA 16:7) — English (generated): for the raisin cakes
+  - gloss: הֵידָד: הֵידָ֥ד (ISA 16:9) — English (generated): Triumphant shouts
+  - gloss: רָמַס: רֹמֵ֖ס (ISA 16:4) — English (generated): and the oppressors
+  - gloss: דָּרַךְ: דֹּרֵ֖ךְ (ISA 16:10)
+  - gloss: נָדַד: נוֹדֵ֖ד (ISA 16:2)
+  - gloss: לָאָה: נִלְאָ֥ה (ISA 16:12) — English (generated): he wearies himself
+  - NT: ISA 16:7 *Rosinechüeche*
+  - answers: raisin cakes, shout, marauders, treader, fluttering, wearies
+  - Formen dieses Kapitels.
+  - agent:isa016, 2026-11-15
+- **`term:jer019_forms`** חֶרֶשׂ → **tönige; Schärbetor; unschuldigem; zunichte; pfyfft; verbrichsch; verbrichen; verbricht; flicke; Dächer** [medium, decided, by-rule]
+  - gloss: חֶרֶשׂ: חָ֑רֶשׂ (JER 19:1) — English (generated): a clay
+  - gloss: שַׁעַר: שַׁ֣עַר (JER 19:2) — English (generated): Gate
+  - gloss: נָקִי: נְקִיִּֽם (JER 19:4) — English (generated): of the innocent
+  - gloss: בָּקַק: בַקֹּתִי (JER 19:7) — English (generated): I will ruin
+  - gloss: שָׁרַק: יִשְׁרֹ֖ק (JER 19:8) — English (generated): and will scoff
+  - gloss: שָׁבַר: שָׁבַרְתָּ֖ (JER 19:10) — English (generated): Then you are to shatter
+  - gloss: שָׁבַר: אֶשְׁבֹּ֞ר (JER 19:11) — English (generated): I will shatter
+  - gloss: שָׁבַר: יִשְׁבֹּר֙ (JER 19:11) — English (generated): one shatters
+  - gloss: רָפָא: הֵרָפֵ֖ה (JER 19:11) — English (generated): be repaired
+  - gloss: גָּג: גַּגֹּֽתֵי (JER 19:13) — English (generated): whose rooftops
+  - NT: JER 19:2 *Schärbetor*
+  - answers: earthenware, Potsherd Gate, innocent, make void, hiss, break, breaks, repaired, roofs
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer019, 2026-11-15
+- **`formula:mishpat_tsedaqa`** מִשְׁפָּט → **nach Rächt und Grächtigkeit handle** [high, decided, by-rule]
+  - gloss: מִשְׁפָּט: מִשְׁפָּ֖ט (EZK 18:5) — English (generated): what is just
+  - NT: EZK 18:5 *nach Rächt und Grächtigkeit*
+  - answers: justice and right
+  - עָשָׂה מִשְׁפָּט וּצְדָקָה (Ez 18; 33; 45,9).
+  - agent:ezk018, 2026-11-15
+- **`term:ezk018_forms`** שׁוּב → **abchehrt; uflüpft; roubt; Hungrige; usleit; Wuecher; Blüetig; vergüsst; Erpressig; gfrevlet; Pfand** [medium, decided, by-rule]
+  - gloss: שׁוּב: יָשׁוּב֙ (EZK 18:21) — English (generated): turns
+  - gloss: נָשָׂא: נָשָׂ֔א (EZK 18:6) — English (generated): look
+  - gloss: גְּזֵלָה: גְּזֵלָ֖ה (EZK 18:7) — English (generated): robbery
+  - gloss: רָעֵב: רָעֵ֣ב (EZK 18:7) — English (generated): to the hungry
+  - gloss: נָתַן: יִתֵּ֗ן (EZK 18:8) — English (generated): engage
+  - gloss: תַּרְבִּית: תַרְבִּית֙ (EZK 18:8) — English (generated): excess interest
+  - gloss: נִדָּה: נִדָּ֖ה (EZK 18:6) — English (generated): during her period
+  - gloss: שָׁפַךְ: שֹׁפֵ֣ךְ (EZK 18:10) — English (generated): who sheds
+  - gloss: עֹשֶׁק: עֹ֗שֶׁק (EZK 18:18) — English (generated): he practiced
+  - gloss: פָּשַׁע: פְּשַׁעְתֶּ֣ם (EZK 18:31) — English (generated): you have committed
+  - gloss: חֲבֹלָה: חֲבֹלָת֥ (EZK 18:7) — English (generated): the pledge
+  - NT: EZK 18:7 *Pfand*
+  - answers: turns, lift up, robs, hungry, lend, interest, menstrual period, sheds, extortion, transgressed, pledge
+  - Formen dieses Kapitels.
+  - agent:ezk018, 2026-11-15
+- **`term:job020_forms`** מְרֹרָה → **Natergift; Viper; Nidle; Jugendchraft** [medium, decided, by-rule]
+  - gloss: מְרֹרָה: מְרוֹרַ֖ת (JOB 20:14) — English (generated): into the venom
+  - gloss: אֶפְעֶה: אֶפְעֶֽה (JOB 20:16) — English (generated): of a viper
+  - gloss: חֶמְאָה: חֶמְאָֽה (JOB 20:17) — English (generated): and cream
+  - gloss: עָלוּמִים: עֲלוּמָ֑י (JOB 20:11) — English (generated): The youthful vigor
+  - NT: JOB 20:14 *Natergift*
+  - answers: venom of cobras, viper, curds, youthful vigor
+  - Formen dieses Kapitels.
+  - agent:job020, 2026-11-15
+- **`term:jer020_forms`** פָּקִיד → **Paschhur; Oberufseher; Benjamintor; brönnigs; Gflüschter; vertroute; passe; vilicht; überwältige; Übeltäter; umgstürzt; Mittagszyt; töt; Gebärmueter** [medium, decided, by-rule]
+  - gloss: פָּקִיד: פָקִ֥יד (JER 20:1) — English (generated): official
+  - gloss: שַׁעַר: שַׁ֤עַר (JER 20:2) — English (generated): Gate
+  - gloss: בָּעַר: בֹּעֶ֔רֶת (JER 20:9) — English (generated): burning
+  - gloss: דִּבָּה: דִּבַּ֣ת (JER 20:10) — English (generated): the whispering
+  - gloss: שָׁלוֹם: שְׁלוֹמִ֔ (JER 20:10)
+  - gloss: שָׁמַר: שֹׁמְרֵ֖י (JER 20:10) — English (generated): watch for
+  - gloss: אוּלַי: אוּלַ֤י (JER 20:10) — English (generated): Perhaps
+  - gloss: יָכֹל: נ֣וּכְלָה (JER 20:10) — English (generated): so that we may prevail
+  - gloss: רָעַע: מְרֵעִֽים (JER 20:13) — English (generated): of evildoers
+  - gloss: הָפַךְ: הָפַ֥ךְ (JER 20:16) — English (generated): overthrew
+  - gloss: צָהֳרַיִם: צָהֳרָֽיִם (JER 20:16) — English (generated): at noon
+  - gloss: מוּת: מוֹתְתַ֖ (JER 20:17) — English (generated): kill me
+  - gloss: רֶחֶם: רַחְמָ֖ (JER 20:17) — English (generated): and her womb
+  - NT: JER 20:1 *Oberufseher*; JER 20:2 *Benjamintor*
+  - answers: officer, Benjamin Gate, burning, whispering, trusted, watching, perhaps, prevail, evildoers, overthrew, noon, kill, womb
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer020, 2026-11-15
+- **`term:jer021_forms`** כְּלִי → **Chriegswaffe; dermit; usgstreckter; schont; erbarmt; beroubt; Unterdrücker** [medium, decided, by-rule]
+  - gloss: כְּלִי: כְּלֵ֣י (JER 21:4) — English (generated): the weapons
+  - gloss: בְּ: בָּ֗ (JER 21:4) — English (generated): in your hands
+  - gloss: נָטָה: נְטוּיָ֖ה (JER 21:5) — English (generated): with an outstretched
+  - gloss: חָמַל: יַחְמֹ֖ל (JER 21:7) — English (generated): show pity
+  - gloss: רָחַם: יְרַחֵֽם (JER 21:7) — English (generated): compassion
+  - gloss: גָּזַל: גָז֖וּל (JER 21:12) — English (generated): the victim of robbery
+  - gloss: עָשַׁק: עוֹשֵׁ֑ק (JER 21:12) — English (generated): of his oppressor
+  - NT: JER 21:4 *Chriegswaffe*
+  - answers: weapons, with them, outstretched, spare, compassion, robbed, oppressor
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer021, 2026-11-15
+- **`term:isa017_forms`** מְעִי → **Trümmerhuuffe; Nachläse; Bärgspitze; umewirblet; Wipfel; abschnydt** [medium, decided, by-rule]
+  - gloss: מְעִי: מְעִ֥י (ISA 17:1) — English (generated): a heap
+  - gloss: עֹלֵלוֹת: עֽוֹלֵלֹת֙ (ISA 17:6) — English (generated): Yet gleanings
+  - gloss: אָמִיר: אָמִ֔יר (ISA 17:9) — English (generated): and summits
+  - gloss: גַּלְגַּל: גַלְגַּ֖ל (ISA 17:13) — English (generated): like tumbleweeds
+  - gloss: אָמִיר: אָמִ֑יר (ISA 17:6)
+  - gloss: קָצַר: יִקְצ֑וֹר (ISA 17:5) — English (generated): and harvests
+  - NT: ISA 17:6 *e Nachläse*
+  - answers: heap of ruins, gleanings, summits, whirling, top, cuts off
+  - Formen dieses Kapitels.
+  - agent:isa017, 2026-11-15
+- **`term:H7015_lament`** קִינָה → **Chlagelied** [high, decided, by-rule]
+  - gloss: קִינָה: קִינָ֔ה (EZK 19:1) — English (generated): a lament
+  - NT: EZK 19:1 *es Chlagelied*
+  - answers: lament
+  - קִינָה in Ezechiel (19; 26,17; 27,2.32; 28,12; 32,2.16).
+  - agent:ezk019, 2026-11-15
+- **`term:ezk019_forms`** לְבִיָּא → **Löiin; Grueb; Haagge; grossgzoge; umegstriche; Paläscht; erstarret; Chefig; Feschtig; Wuchs; usdörrt; durschtige; Zepter** [medium, decided, by-rule]
+  - gloss: לְבִיָּא: לְבִיָּ֔א (EZK 19:2) — English (generated): A lioness
+  - gloss: שַׁחַת: שַׁחְתָּ֣ (EZK 19:4) — English (generated): in their pit
+  - gloss: חַח: חַחִ֖ים (EZK 19:4) — English (generated): With hooks
+  - gloss: רָבָה: רִבְּתָ֥ה (EZK 19:2) — English (generated): she reared
+  - gloss: הָלַךְ: יִּתְהַלֵּ֥ךְ (EZK 19:6) — English (generated): He prowled
+  - gloss: אַלְמָנָה: אַלְמְנוֹתָ֔י (EZK 19:7) — English (generated): their strongholds
+  - gloss: יָשַׁם: תֵּ֤שַׁם (EZK 19:7) — English (generated): shuddered
+  - gloss: סוּגַר: סּוּגַר֙ (EZK 19:9)
+  - gloss: מְצוֹדָה: מְּצֹד֔וֹת (EZK 19:9) — English (generated): into captivity
+  - gloss: קוֹמָה: קֽוֹמָת֖ (EZK 19:11) — English (generated): high
+  - gloss: יָבֵשׁ: הוֹבִ֣ישׁ (EZK 19:12) — English (generated): dried up
+  - gloss: צָמָא: צָמָֽא (EZK 19:13) — English (generated): and thirsty
+  - gloss: שֵׁבֶט: שִׁבְטֵי֙ (EZK 19:11) — English (generated): scepter
+  - NT: EZK 19:4 *mit Haagge*
+  - answers: lioness, pit, hooks, reared, prowled, strongholds, appalled, cage, prison, height, dried up, thirsty, scepter
+  - Formen dieses Kapitels.
+  - agent:ezk019, 2026-11-15
+- **`term:jer022_forms`** אֶרֶז → **Zedere; Obergmächer; schrei; Konja; usfüehret; Trümmerhuufe; Heimatland; hiehär; drybricht; tääferet; Mennige; aamalt; wettyferisch; üebe; verlochet; furtgschleipft; furtgweidet; bblamiersch; nischtisch; zrüggzcho; verachtete; verschmätterete** [medium, decided, by-rule]
+  - gloss: אֶרֶז: אֲרָזֶ֔י (JER 22:7) — English (generated): of your cedars
+  - gloss: עֲלִיָּה: עֲלִיּוֹתָ֖י (JER 22:13) — English (generated): and his upper rooms
+  - gloss: צָעַק: צְעָ֔קִי (JER 22:20) — English (generated): and cry out
+  - gloss: כׇּנְיָהוּ: כָּנְיָ֤הוּ (JER 22:24) — English (generated): Coniah son
+  - gloss: עָשָׂה: עָשׂוֹ֙ (JER 22:4) — English (generated): you will indeed carry out
+  - gloss: חׇרְבָּה: חָרְבָּ֥ה (JER 22:5) — English (generated): a pile of rubble
+  - gloss: מוֹלֶדֶת: מוֹלַדְתּֽ (JER 22:10) — English (generated): his native
+  - gloss: שָׁם: שָׁ֖ם (JER 22:11)
+  - gloss: קָרַע: קָ֤רַֽע (JER 22:14) — English (generated): So he cuts
+  - gloss: סָפַן: סָפ֣וּן (JER 22:14) — English (generated): panels it
+  - gloss: שָׁשֵׁר: שָּׁשַֽׁר (JER 22:14) — English (generated): with vermilion
+  - gloss: מָשַׁח: מָשׁ֖וֹחַ (JER 22:14) — English (generated): and paints it
+  - gloss: חרה: מְתַחֲרֶ֣ה (JER 22:15) — English (generated): to excel
+  - gloss: עָשָׂה: עֲשֽׂוֹת (JER 22:17) — English (generated): on practicing
+  - gloss: קָבַר: יִקָּבֵ֑ר (JER 22:19) — English (generated): He will be buried
+  - gloss: סָחַב: סָח֣וֹב (JER 22:19) — English (generated): dragged away
+  - gloss: רָעָה: תִּרְעֶה (JER 22:22) — English (generated): will drive away
+  - gloss: כָּלַם: נִכְלַ֔מְתְּ (JER 22:22) — English (generated): and humiliated
+  - gloss: קִנֵּן: מְקֻנַּ֖נְתְּ (JER 22:23) — English (generated): nestled
+  - gloss: לְ: לָ (JER 22:27)
+  - gloss: בָּזָה: נִבְזֶ֜ה (JER 22:28) — English (generated): a despised
+  - gloss: נָפַץ: נָפ֗וּץ (JER 22:28) — English (generated): shattered
+  - NT: JER 22:14 *Mennige*; JER 22:24 *Konja*
+  - answers: cedars, upper rooms, cry out, Coniah, carry out, desolation, native, here, cuts out, paneling, vermilion, painting, compete, practicing, buried, dragged off, shepherd, humiliated, nestled, return, despised, shattered
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer022, 2026-11-15
+- **`term:job021_forms`** תֹּף → **Tamburin; Zither; Flöte; Grabhügel** [medium, decided, by-rule]
+  - gloss: תֹּף: תֹ֣ף (JOB 21:12) — English (generated): to the tambourine
+  - gloss: כִּנּוֹר: כִנּ֑וֹר (JOB 21:12) — English (generated): and lyre
+  - gloss: עוּגָב: עוּגָֽב (JOB 21:12) — English (generated): of the flute
+  - gloss: גָּדִישׁ: גָּדִ֥ישׁ (JOB 21:32) — English (generated): his tomb
+  - NT: JOB 21:12 *Tamburin*
+  - answers: tambourine, lyre, flute, tomb
+  - Formen dieses Kapitels.
+  - agent:job021, 2026-11-15
+- **`term:job022_forms`** בֶּצֶר → **Gulderz; Schleier; Gwülch; Glübd** [medium, decided, by-rule]
+  - gloss: בֶּצֶר: בָּ֑צֶר (JOB 22:24) — English (generated): your gold
+  - gloss: סֵתֶר: סֵֽתֶר (JOB 22:14) — English (generated): veil
+  - gloss: עֲרָפֶל: עֲרָפֶ֣ל (JOB 22:13) — English (generated): thick darkness
+  - gloss: נֶדֶר: נְדָרֶ֥י (JOB 22:27) — English (generated): your vows
+  - NT: JOB 22:24 *Gulderz*
+  - answers: gold, veil, thick darkness, vows
+  - Formen dieses Kapitels.
+  - agent:job022, 2026-11-15
+- **`term:job023_forms`** מִשְׁפָּט → **Rächtsfall; Bewyse; Sitz; freigsproche** [medium, decided, by-rule]
+  - gloss: מִשְׁפָּט: מִשְׁפָּ֑ט (JOB 23:4) — English (generated): my case
+  - gloss: תּוֹכַחַת: תוֹכָחֽוֹת (JOB 23:4) — English (generated): arguments
+  - gloss: תְּכוּנָה: תְּכוּנָתֽ (JOB 23:3) — English (generated): His seat
+  - gloss: פָּלַט: אֲפַלְּטָ֥ה (JOB 23:7) — English (generated): and I would be delivered
+  - NT: JOB 23:4 *Rächtsfall*
+  - answers: case, arguments, dwelling, acquitted
+  - Formen dieses Kapitels.
+  - agent:job023, 2026-11-15
+- **`term:isa018_forms`** צִלְצָל → **surrende; Papyrus; flimmerigi; Räbmässer; Raubvögel; dürschnyde** [medium, decided, by-rule]
+  - gloss: צִלְצָל: צִלְצַ֣ל (ISA 18:1) — English (generated): of whirring
+  - gloss: גֹּמֶא: גֹמֶא֮ (ISA 18:2) — English (generated): in papyrus
+  - gloss: חמם: חֹ֥ם (ISA 18:4) — English (generated): heat
+  - gloss: מַזְמֵרָה: מַּזְמֵר֔וֹת (ISA 18:5) — English (generated): with a pruning knife
+  - gloss: עַיִט: עֵ֣יט (ISA 18:6) — English (generated): birds of prey
+  - gloss: בָּזָא: בָּזְא֥וּ (ISA 18:2) — English (generated): is divided
+  - NT: ISA 18:5 *Räbmässer*
+  - answers: whirring, papyrus, shimmering, pruning knife, birds of prey, divide
+  - Formen dieses Kapitels.
+  - agent:isa018, 2026-11-15
+- **`term:job024_forms`** פֶּרֶא → **Wildesle; Ehebrächer; Schneewasser; Mueterschoss** [medium, decided, by-rule]
+  - gloss: פֶּרֶא: פְּרָאִ֨ים (JOB 24:5) — English (generated): wild donkeys
+  - gloss: נָאַף: נֹאֵ֨ף (JOB 24:15) — English (generated): of the adulterer
+  - gloss: מַיִם: מֵֽימֵי (JOB 24:19)
+  - gloss: רֶחֶם: רֶ֨חֶם (JOB 24:20) — English (generated): The womb
+  - NT: JOB 24:5 *Wildesle*
+  - answers: wild donkeys, adulterer, snow waters, womb
+  - Formen dieses Kapitels.
+  - agent:job024, 2026-11-15
+- **`term:jer023_forms`** חָלַם → **traumet; chümmere; vermehre; bsoffene; übermannt; Stercki; glitschige; Abstossends; stärche; wirblet; prasslet; verwürklecht; Umchehr; Nächi; Wyti; erfüll; Tröim; Lugetröim; Prahlerei; verdrääjet; obwohl** [medium, decided, by-rule]
+  - gloss: חָלַם: חָלַ֖מְתִּי (JER 23:25) — English (generated): I had a dream
+  - gloss: פָּקַד: פֹקֵ֧ד (JER 23:2) — English (generated): I will attend
+  - gloss: רָבָה: רָבֽוּ (JER 23:3) — English (generated): and multiply
+  - gloss: שִׁכֹּור: שִׁכּ֔וֹר (JER 23:9)
+  - gloss: עָבַר: עֲבָ֣ר (JER 23:9) — English (generated): overcome
+  - gloss: גְּבוּרָה: גְבוּרָתָ֖ (JER 23:10) — English (generated): and their power
+  - gloss: חֲלַקְלַקּוֹת: חֲלַקְלַקּוֹת֙ (JER 23:12) — English (generated): slick
+  - gloss: תִּפְלָה: תִפְלָ֑ה (JER 23:13) — English (generated): an offensive thing
+  - gloss: חָזַק: חִזְּקוּ֙ (JER 23:14) — English (generated): They strengthen
+  - gloss: חוּל: מִתְחוֹלֵ֑ל (JER 23:19) — English (generated): a whirlwind
+  - gloss: חוּל: יָחֽוּל (JER 23:19) — English (generated): swirling down
+  - gloss: קוּם: הֲקִימ֖ (JER 23:20)
+  - gloss: שׁוּב: ישִׁבוּ (JER 23:22) — English (generated): and turned them back
+  - gloss: קָרֹוב: קָּרֹ֛ב (JER 23:23) — English (generated): nearby
+  - gloss: רָחֹוק: רָחֹֽק (JER 23:23) — English (generated): far away
+  - gloss: מָלֵא: מָלֵ֖א (JER 23:24) — English (generated): fill
+  - gloss: חֲלוֹם: חֲל֣וֹמֹתָ֔ (JER 23:27) — English (generated): the dreams
+  - gloss: חֲלוֹם: חֲלֹמ֥וֹת (JER 23:32) — English (generated): dreams
+  - gloss: פַּחֲזוּת: פַחֲזוּתָ֑ (JER 23:32) — English (generated): with their reckless
+  - gloss: הָפַךְ: הֲפַכְתֶּ֗ם (JER 23:36) — English (generated): so that you pervert
+  - gloss: וְ: וָ (JER 23:38) — English (generated): But if
+  - NT: JER 23:13 *Samarie*
+  - answers: had a dream, attend, multiply, drunken, overcome, power, slippery, disgusting, strengthen, whirling, whirl, accomplished, turned, near, far, fill, dreams, false dreams, reckless, pervert, though
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer023, 2026-11-15
+- **`term:jer024_forms`** הָרַס → **ryssen; Früefyge; Verbannete; Wohlwolle** [medium, decided, by-rule]
+  - gloss: הָרַס: אֶהֱרֹ֔ס (JER 24:6) — English (generated): tear down
+  - gloss: תְּאֵנָה: תְאֵנֵ֖י (JER 24:2) — English (generated): like those that ripen early
+  - gloss: גָּלוּת: גָּל֣וּת (JER 24:5) — English (generated): the exiles
+  - gloss: לְ: לְ (JER 24:5) — English (generated): as good
+  - NT: JER 24:1 *Jechonja*
+  - answers: tear down, first-ripe figs, exiles, good
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer024, 2026-11-15
+- **`term:job025_forms`** גְּדוּד → **Heerschare; Höchine; Made; Mönschechind** [medium, decided, by-rule]
+  - gloss: גְּדוּד: גְדוּדָ֑י (JOB 25:3) — English (generated): Can His troops
+  - gloss: מָרוֹם: מְרוֹמָֽי (JOB 25:2) — English (generated): in the heights of heaven
+  - gloss: רִמָּה: רִמָּ֑ה (JOB 25:6) — English (generated): who is but a maggot
+  - gloss: בֵּן: בֶן (JOB 25:6) — English (generated): and the son
+  - NT: JOB 25:6 *Made*
+  - answers: troops, heights, maggot, son of man
+  - Formen dieses Kapitels.
+  - agent:job025, 2026-11-15
+- **`formula:lifted_hand`** נָשָׂא → **my Hand zum Schwur ufha** [high, decided, by-rule]
+  - gloss: נָשָׂא: אֶשָּׂ֣א (EZK 20:5) — English (generated): I swore an oath
+  - NT: EZK 20:5 *Hand zum Schwur ufgha*
+  - answers: i lifted my hand
+  - נָשָׂא יָד (Schwurgebärde) in Ezechiel 20; 36,7; 44,12; 47,14.
+  - agent:ezk020, 2026-11-15
+- **`formula:for_my_name`** לְמַעַן → **um my Name wille** [high, decided, by-rule]
+  - gloss: לְמַעַן: לְמַ֣עַן (EZK 20:9) — English (generated): for the sake
+  - NT: EZK 20:9 *um my Name wille*
+  - answers: for the sake of my name
+  - לְמַעַן שְׁמִי (Ez 20,9.14.22.44; 36,22).
+  - agent:ezk020, 2026-11-15
+- **`formula:mighty_hand_arm`** יָד → **mit starcher Hand und usgstreckte Arm** [high, decided, by-rule]
+  - gloss: יָד: יָ֨ד (EZK 20:33) — English (generated): hand
+  - NT: EZK 20:33 *mit starcher Hand*
+  - answers: with a mighty hand and an outstretched arm
+  - בְּיָד חֲזָקָה וּבִזְרוֹעַ נְטוּיָה.
+  - agent:ezk020, 2026-11-15
+- **`term:ezk020_forms`** דָּרַשׁ → **befrage; uslöie; usgschütteter; ewäggrüere; Erschtgeburte; glescheret; Bama; huuret; Gschlächter; sundere; frevle; forderen; Verpflichtig; Ändsetze** [medium, decided, by-rule]
+  - gloss: דָּרַשׁ: דְרֹ֣שׁ (EZK 20:1) — English (generated): to inquire
+  - gloss: כָּלָה: כַלּ֤וֹת (EZK 20:8) — English (generated): and vent
+  - gloss: שָׁפַךְ: שְׁפוּכָ֖ה (EZK 20:33) — English (generated): and outpoured
+  - gloss: שָׁלַךְ: הַשְׁלִ֔יכוּ (EZK 20:7) — English (generated): must throw away
+  - gloss: פֶּטֶר: פֶּ֣טֶר (EZK 20:26) — English (generated): firstborn in the fire
+  - gloss: גָּדַף: גִּדְּפ֤וּ (EZK 20:27) — English (generated): blasphemed
+  - gloss: בָּמָה: בָּמָ֔ה (EZK 20:29) — English (generated): is this high place
+  - gloss: זָנָה: זֹנִֽים (EZK 20:30) — English (generated): prostituting
+  - gloss: מִשְׁפָּחָה: מִשְׁפְּח֣וֹת (EZK 20:32) — English (generated): like the peoples
+  - gloss: בָּרַר: בָרוֹתִ֣י (EZK 20:38) — English (generated): And I will purge you
+  - gloss: פָּשַׁע: פּֽוֹשְׁעִים֙ (EZK 20:38) — English (generated): and transgress
+  - gloss: דָּרַשׁ: אֶדְר֣וֹשׁ (EZK 20:40) — English (generated): and will require
+  - gloss: מָסֹרֶת: מָסֹ֥רֶת (EZK 20:37) — English (generated): you into the bond
+  - gloss: שָׁמֵם: אֲשִׁמֵּ֔ (EZK 20:26) — English (generated): I might devastate them
+  - NT: EZK 20:29 *Bama*
+  - answers: inquire, spend, poured out, cast away, firstborn, blasphemed, Bamah, go astray, tribes, purge, transgress, require, bond, devastate
+  - Formen dieses Kapitels.
+  - agent:ezk020, 2026-11-15
+- **`term:isa019_forms`** עָבַד → **Flachsarbeiter; hächle; Gchotzete; umetorklet; Eggsteine; Verteidiger; verwääje; Assyrer** [medium, decided, by-rule]
+  - gloss: עָבַד: עֹבְדֵ֥י (ISA 19:9) — English (generated): The workers
+  - gloss: שָׂרִיק: שְׂרִיק֑וֹת (ISA 19:9) — English (generated): of fine linen
+  - gloss: קִיא: קִיאֽ (ISA 19:14) — English (generated): his own vomit
+  - gloss: תָּעָה: הִתָּע֥וֹת (ISA 19:14) — English (generated): staggers through
+  - gloss: פִּנָּה: פִּנַּ֥ת (ISA 19:13) — English (generated): The cornerstones
+  - gloss: ריב: רָ֖ב (ISA 19:20) — English (generated): and defender
+  - gloss: נָדַף: נִדַּ֖ף (ISA 19:7) — English (generated): blow away
+  - gloss: אַשּׁוּר: אַשּׁ֥וּר (ISA 19:23) — English (generated): to Assyria
+  - NT: ISA 19:9 *Flachsarbeiter*
+  - answers: flax workers, comb, vomit, stagger, cornerstones, defender, blow away, assyrians
+  - Formen dieses Kapitels.
+  - agent:isa019, 2026-11-15
+- **`term:job026_forms`** אֲבַדּוֹן → **Abgrund; Leeri; Süüle; Schlange** [medium, decided, by-rule]
+  - gloss: אֲבַדּוֹן: אֲבַדּֽוֹן (JOB 26:6) — English (generated): and Abaddon
+  - gloss: תֹּהוּ: תֹּ֑הוּ (JOB 26:7) — English (generated): empty space
+  - gloss: עַמּוּד: עַמּוּדֵ֣י (JOB 26:11) — English (generated): The foundations
+  - gloss: נָחָשׁ: נָחָ֥שׁ (JOB 26:13) — English (generated): serpent
+  - NT: JOB 26:6 *Abgrund*
+  - answers: Abaddon, empty space, pillars, serpent
+  - Formen dieses Kapitels.
+  - agent:job026, 2026-11-15
+- **`term:jer025_forms`** עֵרֶב → **Frömdvölker; Ärdbode; dryzähnte; dreiezwänzg; Freudi; Grüüsch; vergilte; tümmle; bsoffe; erhebt; wälzet; verstummt; erschalle; Gschlächter** [medium, decided, by-rule]
+  - gloss: עֵרֶב: עֶ֔רֶב (JER 25:20) — English (generated): the mixed tribes
+  - gloss: פָּנֶה: פְּנֵ֣י (JER 25:26) — English (generated): the face
+  - gloss: שָׁלֹשׁ: שְׁלֹ֣שׁ (JER 25:3) — English (generated): the thirteenth
+  - gloss: שָׁלֹשׁ: שָׁלֹ֤שׁ (JER 25:3) — English (generated): the thirteenth
+  - gloss: שִׂמְחָה: שִׂמְחָ֔ה (JER 25:10) — English (generated): and gladness
+  - gloss: קוֹל: ק֥וֹל (JER 25:10) — English (generated): the sounds
+  - gloss: שָׁלֵם: שִׁלַּמְתִּ֥י (JER 25:14) — English (generated): and I will repay
+  - gloss: גָּעַשׁ: הִֽתְגֹּֽעֲשׁ֖וּ (JER 25:16) — English (generated): and stagger
+  - gloss: שָׁכַר: שִׁכְרוּ֙ (JER 25:27) — English (generated): get drunk
+  - gloss: עוּר: יֵע֖וֹר (JER 25:32) — English (generated): is rising
+  - gloss: פָּלַשׁ: הִֽתְפַּלְּשׁוּ֙ (JER 25:34) — English (generated): roll in the dust
+  - gloss: דָּמַם: נָדַ֖מּוּ (JER 25:37) — English (generated): have been silenced
+  - gloss: נָתַן: יִתֵּ֣ן (JER 25:30) — English (generated): He will raise
+  - gloss: מִשְׁפָּחָה: מִשְׁפְּח֨וֹת (JER 25:9) — English (generated): the families
+  - NT: JER 25:23 *Bus*; JER 25:26 *Scheschach*
+  - answers: foreign people, earth, thirteenth, twenty-three, gladness, sound, repay, stagger, drunk, stirred up, roll in ashes, devastated, utter, families
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer025, 2026-11-15
+- **`term:isa020_forms`** תַּרְתָּן → **Oberbefählshaber; Sargon; Verschleppte; blüttem; Warnzeiche** [medium, decided, by-rule]
+  - gloss: תַּרְתָּן: תַרְתָּן֙ (ISA 20:1) — English (generated): that the chief commander
+  - gloss: סַרְגוֹן: סַֽרְג֖וֹן (ISA 20:1) — English (generated): by Sargon
+  - gloss: גָּלוּת: גָּל֥וּת (ISA 20:4) — English (generated): and the exiles
+  - gloss: חֲשׂוּפַי: חֲשׂוּפַ֥י (ISA 20:4) — English (generated): with bared
+  - gloss: מוֹפֵת: מוֹפֵ֔ת (ISA 20:3) — English (generated): and omen
+  - NT: ISA 20:1 *Sargon*
+  - answers: commander, sargon, exiles, bared, omen
+  - Formen dieses Kapitels.
+  - agent:isa020, 2026-11-15
+- **`term:job027_forms`** רְמִיָּה → **Lugi; Lätt; Motte; Sturmwind** [medium, decided, by-rule]
+  - gloss: רְמִיָּה: רְמִיָּֽה (JOB 27:4) — English (generated): deceit
+  - gloss: חֹמֶר: חֹ֗מֶר (JOB 27:16) — English (generated): like clay
+  - gloss: עָשׁ: עָ֣שׁ (JOB 27:18) — English (generated): is like a moth s cocoon
+  - gloss: סוּפָה: סוּפָֽה (JOB 27:20) — English (generated): a tempest
+  - NT: JOB 27:4 *Lugi*
+  - answers: deceit, clay, moth, storm wind
+  - Formen dieses Kapitels.
+  - agent:job027, 2026-11-15
+- **`term:H2719_sword_song`** חָדַד → **gschliffe und poliert** [high, decided, by-rule]
+  - gloss: חָדַד: הוּחַ֖דָּה (EZK 21:14) — English (generated): sharpened
+  - gloss: מָרַט: מְרוּטָֽה (EZK 21:14) — English (generated): polished
+  - NT: EZK 21:14 *gschliffe*
+  - answers: sharpened and polished
+  - חֶרֶב הוּחַדָּה וּמְרוּטָה (Ez 21).
+  - agent:ezk021, 2026-11-15
+- **`term:ezk021_forms`** נָטַף → **predig; louffendi; versängt; Muurbrächer; Orakel; Gablig; Wägzeiche; Huusgötze; Läbere; Schnide; erniderigt; Turban; Erdwäll; Belagerigsmuure** [medium, decided, by-rule]
+  - gloss: נָטַף: הַטֵּ֖ף (EZK 21:2) — English (generated): preach
+  - gloss: שַׁלְהֶבֶת: שַׁלְהֶ֔בֶת (EZK 21:3) — English (generated): The blazing
+  - gloss: צָרַב: נִצְרְבוּ (EZK 21:3) — English (generated): will be scorched
+  - gloss: כַּר: כָּרִים֙ (EZK 21:27) — English (generated): battering rams
+  - gloss: קָסַם: קְסָם (EZK 21:26) — English (generated): to seek
+  - gloss: אֵם: אֵ֣ם (EZK 21:26) — English (generated): the fork
+  - gloss: יָד: יָ֣ד (EZK 21:24) — English (generated): a signpost
+  - gloss: תְּרָפִים: תְּרָפִ֔ים (EZK 21:26) — English (generated): the idols
+  - gloss: כָּבֵד: כָּבֵֽד (EZK 21:26) — English (generated): the liver
+  - gloss: פָּנֶה: פָּנַ֥יִ (EZK 21:21) — English (generated): your blade
+  - gloss: שָׁפֵל: הַשְׁפִּֽיל (EZK 21:31) — English (generated): the exalted
+  - gloss: מִצְנֶפֶת: מִּצְנֶ֔פֶת (EZK 21:31) — English (generated): the turban
+  - gloss: סֹלְלָה: סֹלְלָ֖ה (EZK 21:27) — English (generated): a ramp
+  - gloss: דָּיֵק: דָּיֵֽק (EZK 21:27) — English (generated): a siege wall
+  - NT: EZK 21:26 *d Läbere*
+  - answers: preach, blazing, scorched, battering rams, divination, parting, signpost, teraphim, liver, edge, abase, turban, ramp, siege works
+  - Formen dieses Kapitels.
+  - agent:ezk021, 2026-11-15
+- **`term:jer026_forms`** לְ → **aaztue; bessret; sölltet; Moreschet; umgfahre; bewaldete; einfache** [medium, decided, by-rule]
+  - gloss: לְ: לַ (JER 26:3) — English (generated): to bring
+  - gloss: יָטַב: הֵיטִ֤יבוּ (JER 26:13) — English (generated): correct
+  - gloss: יָדַע: יָדֹ֣עַ (JER 26:15) — English (generated): know for certain
+  - gloss: מוֹרַשְׁתִּי: מּ֣וֹרַשְׁתִּ֔י (JER 26:18) — English (generated): the Moreshite
+  - gloss: חָרַשׁ: תֵֽחָרֵשׁ֙ (JER 26:18) — English (generated): will be plowed
+  - gloss: יַעַר: יָֽעַר (JER 26:18) — English (generated): a wooded
+  - gloss: בֵּן: בְּנֵ֥י (JER 26:23) — English (generated): of the common
+  - NT: JER 26:18 *Moreschet*
+  - answers: to do, amend, to be assured, Moresheth, plowed, wooded, common
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer026, 2026-11-15
+- **`term:jer027_forms`** מוֹטָה → **Jochstange; Grossbueb; Wahrsager; Troumdüter; furtzbringe; bebout; derfür** [medium, decided, by-rule]
+  - gloss: מוֹטָה: מֹט֑וֹת (JER 27:2) — English (generated): a yoke
+  - gloss: בֵּן: בֶּן (JER 27:7) — English (generated): and grandson
+  - gloss: קָסַם: קֹֽסְמֵי (JER 27:9) — English (generated): your diviners
+  - gloss: חֲלוֹם: חֲלֹמֹ֣תֵי (JER 27:9) — English (generated): your interpreters of dreams
+  - gloss: רָחַק: הַרְחִ֤יק (JER 27:10) — English (generated): to remove you
+  - gloss: עָבַד: עֲבָדָ֖ (JER 27:11) — English (generated): and serve him
+  - gloss: פָּגַע: יִפְגְּעוּ (JER 27:18) — English (generated): plead with
+  - NT: JER 27:1 *Jojakim*
+  - answers: yoke bars, grandson, diviners, dreamers, remove, till, intercede
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer027, 2026-11-15
+- **`term:job028_forms`** נַחַל → **Schacht; Saphir; Koralle; Kristall** [medium, decided, by-rule]
+  - gloss: נַחַל: נַ֨חַל (JOB 28:4) — English (generated): a shaft
+  - gloss: סַפִּיר: סַפִּ֥יר (JOB 28:6) — English (generated): of sapphires
+  - gloss: רָאמוֹת: רָאמ֣וֹת (JOB 28:18) — English (generated): Coral
+  - gloss: גָּבִישׁ: גָבִישׁ (JOB 28:18) — English (generated): and quartz
+  - NT: JOB 28:4 *Schacht*
+  - answers: shaft, sapphire, coral, crystal
+  - Formen dieses Kapitels.
+  - agent:job028, 2026-11-15
+- **`term:jer028_forms`** גִּבְעוֹן → **Gibeon; zerbroche; Erfüllig; yträffe; zerbrichen; zerbriche; Wägs; ysigs; ysigi; hölzigi; Ärdoberflächi** [medium, decided, by-rule]
+  - gloss: גִּבְעוֹן: גִּבְעוֹן֙ (JER 28:1) — English (generated): who was from Gibeon
+  - gloss: שָׁבַר: שָׁבַ֞רְתִּי (JER 28:2) — English (generated): I have broken
+  - gloss: קוּם: יָקֵ֤ם (JER 28:6) — English (generated): fulfill
+  - gloss: בּוֹא: בֹא֙ (JER 28:9) — English (generated): comes true
+  - gloss: שָׁבַר: אֶשְׁבֹּ֞ר (JER 28:11) — English (generated): I will break
+  - gloss: שָׁבַר: אֶשְׁבֹּ֔ר (JER 28:4) — English (generated): I will break
+  - gloss: דֶּרֶךְ: דַרְכּֽ (JER 28:11) — English (generated): on his way
+  - gloss: בַּרְזֶל: בַּרְזֶ֡ל (JER 28:14) — English (generated): of iron
+  - gloss: בַּרְזֶל: בַּרְזֶֽל (JER 28:13) — English (generated): of iron
+  - gloss: עֵץ: עֵ֖ץ (JER 28:13) — English (generated): of wood
+  - gloss: פָּנֶה: פְּנֵ֣י (JER 28:16) — English (generated): the face
+  - NT: JER 28:1 *Asur*; JER 28:1 *Gibeon*
+  - answers: Gibeon, broken, fulfill, comes true, break, break, way, iron, iron, wooden, face of the earth
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer028, 2026-11-15
+- **`term:isa021_forms`** צֶמֶד → **Zwöiergspann; Wachtposchte; verdroschnigs; Dedaniter; Kedariter; Bogeschütze** [medium, decided, by-rule]
+  - gloss: צֶמֶד: צֶ֚מֶד (ISA 21:7) — English (generated): with teams
+  - gloss: מִצְפֶּה: מִצְפֶּ֣ה (ISA 21:8) — English (generated): the watchtower
+  - gloss: מְדֻשָׁה: מְדֻשָׁתִ֖ (ISA 21:10) — English (generated): crushed
+  - gloss: דְּדָנִי: דְּדָנִֽים (ISA 21:13) — English (generated): of Dedanites
+  - gloss: קֵדָר: קֵדָ֖ר (ISA 21:17) — English (generated): of Kedar
+  - gloss: מִסְפָּר: מִסְפַּר (ISA 21:17)
+  - NT: ISA 21:9 *Zwöiergspann*
+  - answers: pair, watchtower, threshed, dedanites, kedarites, archers
+  - Formen dieses Kapitels.
+  - agent:isa021, 2026-11-15
+- **`term:job029_forms`** סוֹד → **Fründschaft; Turban; Bisszähn; Früeligsräge** [medium, decided, by-rule]
+  - gloss: סוֹד: ס֥וֹד (JOB 29:4) — English (generated): when the friendship
+  - gloss: צָנִיף: צָנִ֗יף (JOB 29:14) — English (generated): and my turban
+  - gloss: מְתַלְּעוֹת: מְתַלְּע֣וֹת (JOB 29:17) — English (generated): the fangs
+  - gloss: מַלְקוֹשׁ: מַלְקֽוֹשׁ (JOB 29:23) — English (generated): like spring showers
+  - NT: JOB 29:14 *Turban*
+  - answers: friendship, turban, fangs, spring rain
+  - Formen dieses Kapitels.
+  - agent:job029, 2026-11-15
+- **`term:jer029_forms`** נֶחֱלָמִי → **Nehelam; ufspilt; Wortluut; furtgmüesst; Elasa; Gemarja; tüsche; tröime; chümmeren; Kolaja; Lugiwort; Ufseher; sygit; Halsyse; zrächtgwise; gröschtet** [medium, decided, by-rule]
+  - gloss: נֶחֱלָמִי: נֶּחֱלָמִ֖י (JER 29:24) — English (generated): the Nehelamite
+  - gloss: נָבָא: מִתְנַבֵּ֑א (JER 29:26) — English (generated): who acts like a prophet
+  - gloss: דָּבָר: דִּבְרֵ֣י (JER 29:1) — English (generated): is the text
+  - gloss: יָצָא: צֵ֣את (JER 29:2) — English (generated): had been exiled
+  - gloss: אֶלְעָשָׂה: אֶלְעָשָׂ֣ה (JER 29:3) — English (generated): Elasah
+  - gloss: גְּמַרְיָה: גְמַרְיָ֖ה (JER 29:3) — English (generated): and Gemariah
+  - gloss: נָשָׁא: יַשִּׁ֧יאוּ (JER 29:8) — English (generated): be deceived
+  - gloss: חָלַם: מַחְלְמִֽים (JER 29:8)
+  - gloss: פָּקַד: אֶפְקֹ֣ד (JER 29:10) — English (generated): I will attend to
+  - gloss: קוֹלָיָה: קֽוֹלָיָה֙ (JER 29:21) — English (generated): of Kolaiah
+  - gloss: שֶׁקֶר: שֶׁ֔קֶר (JER 29:23) — English (generated): lies
+  - gloss: פָּקִיד: פְּקִדִים֙ (JER 29:26) — English (generated): the chief officer
+  - gloss: הָיָה: הְי֤וֹת (JER 29:26) — English (generated): to be
+  - gloss: צִינֹק: צִּינֹֽק (JER 29:26) — English (generated): and neck irons
+  - gloss: גָּעַר: גָעַ֔רְתָּ (JER 29:27) — English (generated): rebuked
+  - gloss: קָלָה: קָלָ֥ (JER 29:22) — English (generated): roasted
+  - NT: JER 29:3 *Elasa*; JER 29:3 *Gemarja*; JER 29:21 *Kolaja*; JER 29:24 *Nehelam*
+  - answers: Nehelamite, acts like a prophet, words, departed, Elasah, Gemariah, deceive, dream, visit, Kolaiah, lies, officers, be, iron collar, rebuked, roasted
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer029, 2026-11-15
+- **`term:H5509_dross`** סִיג → **Schlacke** [high, decided, by-rule]
+  - gloss: סִיג: סִ֑יג (EZK 22:18) — English (generated): dross
+  - NT: EZK 22:18 *zu Schlacke*
+  - answers: dross
+  - סִיג (Ez 22,18-19).
+  - agent:ezk022, 2026-11-15
+- **`term:ezk022_forms`** עִיר → **Bluetstadt; vergwaltiget; Verleumder; Bstächigsgäld; Schwigertochter; Schmelzofe; gschmolze; Unterschid; Gwöhnlechem; beräget; Kostbarkeite; Wölf** [medium, decided, by-rule]
+  - gloss: עִיר: עִ֣יר (EZK 22:2) — English (generated): on the city
+  - gloss: עָנָה: עִנּוּ (EZK 22:10) — English (generated): they violate
+  - gloss: אִישׁ: אַנְשֵׁ֥י (EZK 22:9) — English (generated): men
+  - gloss: שֹׁחַד: שֹׁ֥חַד (EZK 22:12) — English (generated): bribes
+  - gloss: כַּלָּה: כַּלָּת֖ (EZK 22:11) — English (generated): his daughter in law
+  - gloss: כּוּר: כּ֔וּר (EZK 22:18) — English (generated): the furnace
+  - gloss: נָתַךְ: נִתַּכְתֶּ֖ם (EZK 22:21) — English (generated): and you will be melted
+  - gloss: בָּדַל: הִבְדִּ֔ילוּ (EZK 22:26) — English (generated): distinction
+  - gloss: חֹל: חֹל֙ (EZK 22:26) — English (generated): and the common
+  - gloss: גֹּשֶׁם: גֻשְׁמָ֖ (EZK 22:24) — English (generated): rain has fallen
+  - gloss: יְקָר: יקָר֙ (EZK 22:25) — English (generated): and precious things
+  - gloss: זְאֵב: זְאֵבִ֖ים (EZK 22:27) — English (generated): are like wolves
+  - NT: EZK 22:2 *d Bluetstadt*
+  - answers: city of bloodshed, violate, slanderous men, bribes, daughter-in-law, furnace, melted, distinction, common, rained upon, precious things, wolves
+  - Formen dieses Kapitels.
+  - agent:ezk022, 2026-11-15
+- **`term:jer030_forms`** שׁוּב → **wänden; bleich; erschrick; Färni; sorgelos; schmärzhaft; Heilmittel; grusamer; Strafi; schreisch; Verstossni; uufbbout; Füerscht; drysetzt; Männlechs** [medium, decided, by-rule]
+  - gloss: שׁוּב: שַׁבְתִּי (JER 30:3) — English (generated): when I will restore
+  - gloss: לְ: לְ (JER 30:6) — English (generated): pale
+  - gloss: חָתַת: תֵּחַ֣ת (JER 30:10) — English (generated): be dismayed
+  - gloss: רָחֹוק: רָח֔וֹק (JER 30:10) — English (generated): out of a distant place
+  - gloss: שָׁאַן: שַׁאֲנַ֖ן (JER 30:10) — English (generated): and ease
+  - gloss: חָלָה: נַחְלָ֖ה (JER 30:12) — English (generated): grievous
+  - gloss: רְפוּאָה: רְפֻא֥וֹת (JER 30:13) — English (generated): remedy
+  - gloss: אַכְזָרִי: אַכְזָרִ֔י (JER 30:14) — English (generated): of someone cruel
+  - gloss: מוּסָר: מוּסַ֣ר (JER 30:14) — English (generated): with the discipline
+  - gloss: זָעַק: תִּזְעַק֙ (JER 30:15) — English (generated): do you cry out
+  - gloss: נָדַח: נִדָּחָה֙ (JER 30:17) — English (generated): an outcast
+  - gloss: בָּנָה: נִבְנְתָ֥ה (JER 30:18) — English (generated): will be rebuilt
+  - gloss: אַדִּיר: אַדִּיר֜ (JER 30:21) — English (generated): Their leader
+  - gloss: עָרַב: עָרַ֧ב (JER 30:21) — English (generated): would dare
+  - gloss: זָכָר: זָכָ֑ר (JER 30:6) — English (generated): a male
+  - NT: JER 30:17 *Zion*
+  - answers: restore, pale, dismayed, distant, at ease, grievous, medicine, cruel, punishment, cry out, outcast, rebuilt, leader, pledge, male
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer030, 2026-11-15
+- **`term:job030_forms`** מַלּוּחַ → **Salzchrut; Ginschter; Nässle; Spottlied** [medium, decided, by-rule]
+  - gloss: מַלּוּחַ: מַלּ֣וּחַ (JOB 30:4) — English (generated): mallow
+  - gloss: רֹתֶם: רְתָמִ֣ים (JOB 30:4) — English (generated): of the broom tree
+  - gloss: חָרוּל: חָר֣וּל (JOB 30:7) — English (generated): the nettles
+  - gloss: נְגִינָה: נְגִינָתָ֣ (JOB 30:9) — English (generated): they mock me in song
+  - NT: JOB 30:4 *Salzchrut*
+  - answers: mallow, broom tree, nettles, song
+  - Formen dieses Kapitels.
+  - agent:job030, 2026-11-15
+- **`term:isa022_forms`** שׁוֹעַ → **Hilfgschrei; Ehrethron; Sprösslinge; ushouisch; meisslet; Chugele; tobendi** [medium, decided, by-rule]
+  - gloss: שׁוֹעַ: שׁ֥וֹעַ (ISA 22:5) — English (generated): and crying
+  - gloss: כִּסֵּא: כִסֵּ֥א (ISA 22:23) — English (generated): a throne
+  - gloss: צְפִיעָה: צְּפִע֔וֹת (ISA 22:24) — English (generated): and the offshoots
+  - gloss: חָצַב: חָצַ֧בְתָּ (ISA 22:16) — English (generated): to carve out
+  - gloss: חָקַק: חֹקְקִ֥י (ISA 22:16) — English (generated): and cut
+  - gloss: כְּ: כַּדּ֕וּר (ISA 22:18) — English (generated): into a ball
+  - gloss: הָמָה: הֽוֹמִיָּ֔ה (ISA 22:2)
+  - NT: ISA 22:23 *Ehrethron*
+  - answers: cry for help, throne of honor, offshoots, carve, chisel, ball, tumultuous
+  - Formen dieses Kapitels.
+  - agent:isa022, 2026-11-15
+- **`term:job031_forms`** כָּתֵף → **Schulterblatt; Aaklagschrift; Unterschrift; Unchrut** [medium, decided, by-rule]
+  - gloss: כָּתֵף: כְּ֭תֵפִ (JOB 31:22)
+  - gloss: סֵפֶר: סֵ֥פֶר (JOB 31:35) — English (generated): an indictment
+  - gloss: תָּו: תָּ֭וִ (JOB 31:35) — English (generated): my signature
+  - gloss: בׇּאְשָׁה: בָאְשָׁ֑ה (JOB 31:40) — English (generated): and stinkweed
+  - NT: JOB 31:22 *Schulterblatt*
+  - answers: shoulder blade, indictment, signature, stinkweed
+  - Formen dieses Kapitels.
+  - agent:job031, 2026-11-15
+- **`term:job032_forms`** בּוּזִי → **Busiter; Schlüüch; Argumänt; schmeichle** [medium, decided, by-rule]
+  - gloss: בּוּזִי: בּוּזִי֮ (JOB 32:2) — English (generated): the Buzite
+  - gloss: אוֹב: אֹב֥וֹת (JOB 32:19) — English (generated): wineskin
+  - gloss: אֵמֶר: אִמְרֵי (JOB 32:14) — English (generated): with your arguments
+  - gloss: כָּנָה: אֲכַנֶּֽה (JOB 32:21) — English (generated): I flatter
+  - NT: JOB 32:2 *Busiter*
+  - answers: Buzite, wineskins, arguments, flatter
+  - Formen dieses Kapitels.
+  - agent:job032, 2026-11-15
+- **`term:H5689_vergaffe`** עָגַב → **vergaffet sy i** [high, decided, by-rule]
+  - gloss: עָגַב: תַּעְגַּב֙ (EZK 23:5) — English (generated): She lusted
+  - NT: EZK 23:5 *vergaffet*
+  - answers: lust after
+  - עָגַב (Ez 23).
+  - agent:ezk023, 2026-11-15
+- **`term:ezk023_forms`** עָשָׂה → **gstrychlet; Liebhaber; Statthalter; Befählshaber; Ryter; Ehebrächerinne; Volksmänge; Schamlosigkeit; Bächer; Liebesbett** [medium, decided, by-rule]
+  - gloss: עָשָׂה: עִשּׂ֔וּ (EZK 23:3) — English (generated): caressed
+  - gloss: אָהֵב: מְאַהֲבֶ֔י (EZK 23:5) — English (generated): her lovers
+  - gloss: פֶּחָה: פַּח֣וֹת (EZK 23:6) — English (generated): governors
+  - gloss: סָגָן: סְגָנִ֔ים (EZK 23:6) — English (generated): and commanders
+  - gloss: פָּרָשׁ: פָּרָשִׁ֕ים (EZK 23:6) — English (generated): horsemen
+  - gloss: נָאַף: נֹֽאֲפ֔וֹת (EZK 23:45) — English (generated): those who commit adultery
+  - gloss: קָהָל: קָהָ֔ל (EZK 23:46) — English (generated): Bring a mob
+  - gloss: זִמָּה: זִמַּ֣ת (EZK 23:21) — English (generated): the indecency
+  - gloss: כּוֹס: כוֹסָ֖ (EZK 23:31) — English (generated): her cup
+  - gloss: מִשְׁכָּב: מִשְׁכַּ֣ב (EZK 23:17) — English (generated): to the bed
+  - NT: EZK 23:3 *gstrychlet*
+  - answers: caressed, lovers, governors, commanders, horsemen, adulteresses, assembly, lewdness, cup, bed of love
+  - Formen dieses Kapitels.
+  - agent:ezk023, 2026-11-15
+- **`term:jer031_forms`** רָנַן → **jubled; stumpf; entronne; Schwangeri; Löser; strahle; Moscht; gwässerete; bittersch; klagt; aagwöhnt; abgwändt; Wägzeiche; Wägweiser; wettsch; umgit; sägni; Wohnstatt; Buure; gwacht; yzrysse; umzstürze; wachen; usezfüere; Ehemaa; ufwüelt; uusmässe; erforsche; verwärfe; Mässschnuer; biegt; Goa; Gareb; gliebt; ziehsch; erschtgeborne; verschmachtet; umeziehe; wiche; Tanz** [medium, decided, by-rule]
+  - gloss: רָנַן: רָנּ֤וּ (JER 31:7) — English (generated): Sing
+  - gloss: קָהָה: תִּקְהֶֽינָה (JER 31:29) — English (generated): are set on edge
+  - gloss: שָׂרִיד: שְׂרִ֣ידֵי (JER 31:2) — English (generated): who survived
+  - gloss: הָרָה: הָרָ֥ה (JER 31:8) — English (generated): expectant mothers
+  - gloss: גָּאַל: גְאָל֕ (JER 31:11) — English (generated): and redeemed him
+  - gloss: נָהַר: נָהֲר֞וּ (JER 31:12) — English (generated): they will be radiant
+  - gloss: תִּירוֹשׁ: תִּירֹ֣שׁ (JER 31:12) — English (generated): new wine
+  - gloss: רָוֶה: רָוֶ֔ה (JER 31:12) — English (generated): like a well watered
+  - gloss: תַּמְרוּרִים: תַמְרוּרִ֔ים (JER 31:15) — English (generated): and great
+  - gloss: נוּד: מִתְנוֹדֵ֔ד (JER 31:18) — English (generated): moaning
+  - gloss: לָמַד: לֻמָּ֑ד (JER 31:18)
+  - gloss: שׁוּב: שׁוּבִ (JER 31:19) — English (generated): I returned
+  - gloss: צִיּוּן: צִיֻּנִ֗ים (JER 31:21) — English (generated): the road markers
+  - gloss: תַּמְרוּרִים: תַּמְרוּרִ֔ים (JER 31:21) — English (generated): the signposts
+  - gloss: חָמַק: תִּתְחַמָּקִ֔י (JER 31:22) — English (generated): will you wander
+  - gloss: סָבַב: תְּס֥וֹבֵֽב (JER 31:22) — English (generated): will shelter
+  - gloss: בָּרַךְ: יְבָרֶכְ (JER 31:23) — English (generated): bless you
+  - gloss: נָוֶה: נְוֵה (JER 31:23) — English (generated): dwelling place
+  - gloss: אִכָּר: אִכָּרִ֕ים (JER 31:24) — English (generated): the farmers
+  - gloss: שָׁקַד: שָׁקַ֣דְתִּי (JER 31:28) — English (generated): I watched
+  - gloss: לְ: לִ (JER 31:28) — English (generated): to uproot
+  - gloss: הָרַס: הֲרֹ֖ס (JER 31:28) — English (generated): to demolish
+  - gloss: שָׁקַד: אֶשְׁקֹ֧ד (JER 31:28) — English (generated): I will watch
+  - gloss: לְ: לְ (JER 31:32) — English (generated): to lead them
+  - gloss: בָּעַל: בָּעַ֥לְתִּי (JER 31:32) — English (generated): was a husband
+  - gloss: רָגַע: רֹגַ֤ע (JER 31:35) — English (generated): who stirs up
+  - gloss: מָדַד: יִמַּ֤דּוּ (JER 31:37) — English (generated): could be measured
+  - gloss: חָקַר: יֵחָקְר֥וּ (JER 31:37) — English (generated): searched out
+  - gloss: מָאַס: אֶמְאַ֨ס (JER 31:37) — English (generated): reject
+  - gloss: קַו: קָ֤ו (JER 31:39) — English (generated): line
+  - gloss: סָבַב: נָסַ֖ב (JER 31:39) — English (generated): and then turn
+  - gloss: גֹּעָה: גֹּעָֽתָ (JER 31:39) — English (generated): toward Goah
+  - gloss: גָּרֵב: גָּרֵ֑ב (JER 31:39) — English (generated): of Gareb
+  - gloss: אָהֵב: אֲהַבְתִּ֔י (JER 31:3) — English (generated): I have loved
+  - gloss: יָצָא: יָצָ֖את (JER 31:4) — English (generated): and go out
+  - gloss: בְּכֹר: בְּכֹ֥רִ (JER 31:9) — English (generated): is My firstborn
+  - gloss: דָּאֵב: דָּאֲבָ֖ה (JER 31:25) — English (generated): who are weak
+  - gloss: נָסַע: נָסְע֖וּ (JER 31:24) — English (generated): and those who move
+  - gloss: מוּשׁ: יָמֻ֜שׁוּ (JER 31:36) — English (generated): departed
+  - gloss: מָחוֹל: מְח֥וֹל (JER 31:4) — English (generated): dancing
+  - NT: JER 31:39 *Gareb*; JER 31:39 *Goa*; JER 31:38 *Hananel*
+  - answers: sing aloud, set on edge, survived, pregnant, redeemed, radiant, new wine, watered, bitter, moaning, trained, turned away, road markers, guideposts, waver, encompasses, bless, settlement, farmers, watched, break down, overthrow, watch, bring out, husband, stirs up, measured, explored, reject, measuring line, turn, Goah, Gareb, loved, go forth, firstborn, faint, wander, departs, dance
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer031, 2026-11-15
+- **`term:isa023_forms`** עָבַר → **Seefahrer; Chouflüt; Hurelohn; Belagerigstürm; vergässni; Schichor; entweihe** [medium, decided, by-rule]
+  - gloss: עָבַר: עֹבֵ֥ר (ISA 23:2) — English (generated): whose traders
+  - gloss: כִּנְעָנִי: כִּנְעָנֶ֖י (ISA 23:8) — English (generated): whose merchants
+  - gloss: אֶתְנַן: אֶתְנַנָּ֑ (ISA 23:17) — English (generated): to hire
+  - gloss: בַחוּן: בַחוּנָ֗י (ISA 23:13) — English (generated): their siege towers
+  - gloss: שָׁכַח: נִשְׁכָּחָ֑ה (ISA 23:16) — English (generated): O forgotten
+  - gloss: שִׁיחוֹר: שִׁחֹ֔ר (ISA 23:3) — English (generated): of Shihor
+  - gloss: חָלַל: חַלֵּל֙ (ISA 23:9) — English (generated): to defile
+  - NT: ISA 23:17 *Hurelohn*
+  - answers: seafarers, merchants, wages, siege towers, forgotten, shihor, defile
+  - Formen dieses Kapitels.
+  - agent:isa023, 2026-11-15
+- **`term:job033_forms`** לִיץ → **Vermittler; Liebligsspys; Vorwänd; Gschoss** [medium, decided, by-rule]
+  - gloss: לִיץ: מֵלִ֗יץ (JOB 33:23) — English (generated): mediator
+  - gloss: מַאֲכָל: מַאֲכַ֥ל (JOB 33:20) — English (generated): food
+  - gloss: תְּנוּאָה: תְּ֭נוּאוֹת (JOB 33:10) — English (generated): occasions
+  - gloss: שֶׁלַח: שָּֽׁלַח (JOB 33:18) — English (generated): by the sword
+  - NT: JOB 33:23 *Vermittler*
+  - answers: mediator, favorite food, fault, sword
+  - Formen dieses Kapitels.
+  - agent:job033, 2026-11-15
+- **`term:jer032_forms`** סֵפֶר → **Choufurkund; Hanamel; Wachthof; Baruch; Judäer; Nerija; Urkunde; Gröil; achtzähnte; prophezeisch; entchunnt; sibezäh; Urkund; versiglete; Bestimmige; Machseja; underschribe; erhalte; erwysisch; vergiltsch; überfliesst; Belagerigswäll; yznä; Aalass; wägtue; abla; ganzer; verspriche; seisch** [medium, decided, by-rule]
+  - gloss: סֵפֶר: סֵ֣פֶר (JER 32:11) — English (generated): the deed
+  - gloss: חֲנַמְאֵל: חֲנַמְאֵ֗ל (JER 32:7) — English (generated): Hanamel
+  - gloss: חָצֵר: חֲצַ֣ר (JER 32:2) — English (generated): in the courtyard
+  - gloss: בָּרוּךְ: בָּר֣וּךְ (JER 32:12) — English (generated): Baruch
+  - gloss: יְהוּדִי: יְּהוּדִ֔ים (JER 32:12) — English (generated): the Jews
+  - gloss: נֵרִיָּה: נֵרִיָּה֮ (JER 32:12) — English (generated): of Neriah
+  - gloss: סֵפֶר: סְּפָרִ֣ים (JER 32:14) — English (generated): deeds
+  - gloss: שִׁקּוּץ: שִׁקּֽוּצֵי (JER 32:34) — English (generated): their abominations
+  - gloss: שְׁמֹנֶה: שְׁמֹנֶֽה (JER 32:1) — English (generated): was the eighteenth
+  - gloss: נָבָא: נִבָּ֜א (JER 32:3) — English (generated): prophesying
+  - gloss: מָלַט: יִמָּלֵ֖ט (JER 32:4) — English (generated): escape
+  - gloss: שֶׁבַע: שִׁבְעָ֥ה (JER 32:9) — English (generated): seventeen
+  - gloss: סֵפֶר: סֵּ֨פֶר֙ (JER 32:10) — English (generated): the deed
+  - gloss: חָתַם: חָת֛וּם (JER 32:11) — English (generated): the sealed
+  - gloss: מִצְוָה: מִּצְוָ֥ה (JER 32:11) — English (generated): copy with its terms
+  - gloss: מַחְסֵיָה: מַחְסֵיָה֒ (JER 32:12) — English (generated): of Mahseiah
+  - gloss: כָּתַב: כֹּתְבִ֖ים (JER 32:12) — English (generated): who were signing
+  - gloss: עָמַד: יַעַמְד֖וּ (JER 32:14) — English (generated): preserve them
+  - gloss: עָשָׂה: עֹ֤שֶׂה (JER 32:18) — English (generated): You show
+  - gloss: שָׁלֵם: מְשַׁלֵּם֙ (JER 32:18) — English (generated): but lay
+  - gloss: זוּב: זָבַ֥ת (JER 32:22) — English (generated): flowing
+  - gloss: סֹלְלָה: סֹּלְל֗וֹת (JER 32:24) — English (generated): the siege ramps
+  - gloss: לָכַד: לָכְדָ (JER 32:24) — English (generated): to capture it
+  - gloss: אַף: אַפִּ֣ (JER 32:31) — English (generated): My wrath
+  - gloss: סוּר: הֲסִירָ֖ (JER 32:31) — English (generated): Therefore I will remove it
+  - gloss: שׁוּב: אָשׁוּב֙ (JER 32:40) — English (generated): turn away
+  - gloss: כֹּל: כָל (JER 32:41) — English (generated): with all
+  - gloss: דָבַר: דֹּבֵ֥ר (JER 32:42) — English (generated): have promised
+  - gloss: לְ: לֵ (JER 32:3) — English (generated): saying
+  - NT: JER 32:7 *Hanamel*; JER 32:12 *Baruch*; JER 32:12 *Nerija*; JER 32:12 *Machseja*
+  - answers: deed of purchase, Hanamel, court of the guard, Baruch, Judeans, Neriah, deeds, abominations, eighteenth, prophesy, escape, seventeen, deed, sealed, terms, Mahseiah, signed, last, show, repay, flowing, siege ramps, take, provocation, remove, turn away, all, promise, say
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer032, 2026-11-15
+- **`term:job034_forms`** בְּלִיַּעַל → **Nüütnutz; Gaume; Uflähnig; Undersuechig** [medium, decided, by-rule]
+  - gloss: בְּלִיַּעַל: בְּלִיָּ֑עַל (JOB 34:18) — English (generated): worthless
+  - gloss: חֵךְ: חֵ֗ךְ (JOB 34:3) — English (generated): as the mouth
+  - gloss: פֶּשַׁע: פֶ֭שַׁע (JOB 34:37) — English (generated): rebellion
+  - gloss: חֵקֶר: חֵ֑קֶר (JOB 34:24) — English (generated): inquiry
+  - NT: JOB 34:18 *Nüütnutz*
+  - answers: worthless, palate, rebellion, investigation
+  - Formen dieses Kapitels.
+  - agent:job034, 2026-11-15
+- **`term:H2457_rust`** חֶלְאָה → **Roscht** [high, decided, by-rule]
+  - gloss: חֶלְאָה: חֶלְאָתָ֣ (EZK 24:6) — English (generated): now rusted
+  - NT: EZK 24:6 *Roscht*
+  - answers: rust
+  - חֶלְאָה (Ez 24).
+  - agent:ezk024, 2026-11-15
+- **`term:ezk024_forms`** סִיר → **Chessel; Glychnis; Holzhuufe; Gluet; Kupfer; Schnouz; Trürende; briegge; verchümmere; Nachricht** [medium, decided, by-rule]
+  - gloss: סִיר: סִּיר֙ (EZK 24:3) — English (generated): Put the pot
+  - gloss: מָשָׁל: מָשָׁ֔ל (EZK 24:3) — English (generated): Now speak a parable
+  - gloss: מְדוּרָה: מְּדוּרָֽה (EZK 24:9) — English (generated): will pile the kindling
+  - gloss: גֶּחָל: גֶּחָלֶ֖י (EZK 24:11) — English (generated): its coals
+  - gloss: נְחֹשֶׁת: נְחֻשְׁתָּ֗ (EZK 24:11) — English (generated): and its copper
+  - gloss: שָׂפָם: שָׂפָ֔ם (EZK 24:17) — English (generated): lips
+  - gloss: אִישׁ: אֲנָשִׁ֖ים (EZK 24:17) — English (generated): of mourners
+  - gloss: בָּכָה: תִבְכֶּ֔ה (EZK 24:16) — English (generated): or weep
+  - gloss: מָקַק: נְמַקֹּתֶם֙ (EZK 24:23) — English (generated): but you will waste away
+  - gloss: הַשְׁמָעוּת: הַשְׁמָע֖וּת (EZK 24:26) — English (generated): and tell you the news
+  - NT: EZK 24:3 *Chessel*
+  - answers: pot, allegory, pile, coals, copper, mustache, mourners, weep, waste away, news
+  - Formen dieses Kapitels.
+  - agent:ezk024, 2026-11-15
+- **`term:isa024_forms`** מָכַר → **Verchöifer; Gläubiger; usleiht; entleiht; Schreckensruef; ufechlätteret; Hüttli; schamrot; Fröhlechsy** [medium, decided, by-rule]
+  - gloss: מָכַר: מּוֹכֵ֔ר (ISA 24:2) — English (generated): and seller
+  - gloss: נשׁא: נֹּשֶׁ֕ה (ISA 24:2) — English (generated): creditor
+  - gloss: לָוָה: מַּלְוֶה֙ (ISA 24:2) — English (generated): lender
+  - gloss: לָוָה: לֹּוֶ֔ה (ISA 24:2) — English (generated): and borrower
+  - gloss: קוֹל: קּ֤וֹל (ISA 24:18) — English (generated): the sound
+  - gloss: עָלָה: עוֹלֶה֙ (ISA 24:18) — English (generated): and whoever climbs
+  - gloss: מְלוּנָה: מְּלוּנָ֑ה (ISA 24:20) — English (generated): like a shack
+  - gloss: חָפֵר: חָֽפְרָה֙ (ISA 24:23) — English (generated): will be confounded
+  - gloss: מָשׂוֹשׂ: מְשׂ֥וֹשׂ (ISA 24:11) — English (generated): rejoicing
+  - NT: ISA 24:20 *Hüttli*
+  - answers: seller, creditor, lend, borrow, sound of panic, climbs, shack, confounded, rejoicing
+  - Formen dieses Kapitels.
+  - agent:isa024, 2026-11-15
+- **`term:jer033_forms`** יָצַר → **formt; feschtzmache; verborgeni; Gnesig; ufglehnt; verödet; Spysopfer; vermehren; nähmti; chönntet** [medium, decided, by-rule]
+  - gloss: יָצַר: יוֹצֵ֥ר (JER 33:2) — English (generated): who formed
+  - gloss: כּוּן: הֲכִינָ֖ (JER 33:2) — English (generated): and established it
+  - gloss: בָּצוּר: בְצֻר֖וֹת (JER 33:3) — English (generated): and unsearchable things
+  - gloss: מַרְפֵּא: מַרְפֵּ֖א (JER 33:6) — English (generated): and healing
+  - gloss: פָּשַׁע: פָּ֥שְׁעוּ (JER 33:8) — English (generated): of rebellion
+  - gloss: שָׁמֵם: נְשַׁמּ֗וֹת (JER 33:10) — English (generated): that are deserted
+  - gloss: מִנְחָה: מִנְחָ֛ה (JER 33:18) — English (generated): grain offerings
+  - gloss: רָבָה: אַרְבֶּ֗ה (JER 33:22) — English (generated): will I multiply
+  - gloss: לָקַח: קַּ֤חַת (JER 33:26) — English (generated): so as not to take
+  - gloss: פָּרַר: תָּפֵ֨רוּ֙ (JER 33:20) — English (generated): you can break
+  - NT: JER 33:6 *Gnesig*; JER 33:18 *Spysopfer*
+  - answers: formed, establish, hidden, healing, rebellion, desolate, grain offerings, multiply, choose, break
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer033, 2026-11-15
+- **`term:job035_forms`** עָשׁוּקִים → **Unterdrückig; Lieder; Gschrei; Gottlosigkeit** [medium, decided, by-rule]
+  - gloss: עָשׁוּקִים: עֲשׁוּקִ֣ים (JOB 35:9) — English (generated): oppression
+  - gloss: זָמִיר: זְמִר֣וֹת (JOB 35:10) — English (generated): songs
+  - gloss: שָׁוְא: שָׁ֭וְא (JOB 35:13) — English (generated): to empty pleas
+  - gloss: רֶשַׁע: רִשְׁעֶ֑ (JOB 35:8) — English (generated): Your wickedness
+  - NT: JOB 35:9 *Unterdrückig*
+  - answers: oppressions, songs, empty cry, wickedness
+  - Formen dieses Kapitels.
+  - agent:job035, 2026-11-15
+- **`term:jer034_forms`** דְּרוֹר → **Freilassig; zrüggholt; dürgange; entchunsch; befestigti; uszrüefe; Hebräerin; häreghebt; usrüefet; rüefen; übertrete** [medium, decided, by-rule]
+  - gloss: דְּרוֹר: דְּרֽוֹר (JER 34:8) — English (generated): liberty
+  - gloss: שׁוּב: יָּשִׁ֗בוּ (JER 34:11) — English (generated): and took back
+  - gloss: עָבַר: יַּעַבְר֖וּ (JER 34:18) — English (generated): in order to pass
+  - gloss: מָלַט: תִמָּלֵט֙ (JER 34:3) — English (generated): escape
+  - gloss: מִבְצָר: מִבְצָֽר (JER 34:7) — English (generated): fortified
+  - gloss: קָרָא: קְרֹ֥א (JER 34:8) — English (generated): to proclaim
+  - gloss: עִבְרִי: עִבְרִיָּ֖ה (JER 34:9) — English (generated): and female
+  - gloss: נָטָה: הִטּ֖וּ (JER 34:14) — English (generated): or incline
+  - gloss: קָרָא: קְרֹ֣א (JER 34:17) — English (generated): you have not proclaimed
+  - gloss: קָרָא: קֹרֵא֩ (JER 34:17) — English (generated): you have not proclaimed
+  - gloss: עָבַר: עֹֽבְרִים֙ (JER 34:18) — English (generated): And those who have transgressed
+  - NT: JER 34:8 *Freilassig*; JER 34:9 *Hebräerin*
+  - answers: release, took back, passed, escape, fortified, proclaim, Hebrew woman, inclined, proclaiming, proclaim, transgressed
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer034, 2026-11-15
+- **`term:job036_forms`** זִקִּים → **Chetti; Zurächtwysig; Wassertropfe; Näbel** [medium, decided, by-rule]
+  - gloss: זִקִּים: זִּקִּ֑ים (JOB 36:8) — English (generated): with chains
+  - gloss: מוּסָר: מּוּסָ֑ר (JOB 36:10) — English (generated): to correction
+  - gloss: נָטָף: נִטְפֵי (JOB 36:27) — English (generated): drops
+  - gloss: אֵד: אֵדֽ (JOB 36:27) — English (generated): from the mist
+  - NT: JOB 36:8 *Chetti*
+  - answers: fetters, instruction, drops of water, mist
+  - Formen dieses Kapitels.
+  - agent:job036, 2026-11-15
+- **`term:ezk025_forms`** הֶאָח → **Ätsch; Zältlager; Lagerplatz; klatschet; gstampfet; Plünderig; Flanke; Trümmerfäld; Rachsucht; Meeresküschte** [medium, decided, by-rule]
+  - gloss: הֶאָח: הֶאָ֜ח (EZK 25:3) — English (generated): Aha
+  - gloss: טִירָה: טִירֽוֹתֵי (EZK 25:4) — English (generated): their camps
+  - gloss: מַרְבֵּץ: מִרְבַּץ (EZK 25:5) — English (generated): a resting place for
+  - gloss: מָחָא: מַחְאֲ (EZK 25:6) — English (generated): you clapped
+  - gloss: רָקַע: רַקְעֲ (EZK 25:6) — English (generated): and stomped
+  - gloss: בַּז: בַז֙ (EZK 25:7) — English (generated): as plunder
+  - gloss: כָּתֵף: כֶּ֤תֶף (EZK 25:9) — English (generated): the flank
+  - gloss: חׇרְבָּה: חָרְבָּה֙ (EZK 25:13) — English (generated): it a wasteland
+  - gloss: נְקָמָה: נְקָמָ֑ה (EZK 25:15) — English (generated): in vengeance
+  - gloss: חוֹף: ח֥וֹף (EZK 25:16) — English (generated): along
+  - NT: EZK 25:3 *Ätsch*
+  - answers: aha, encampments, resting place, clapped, stamped, plunder, flank, waste, vengeance, coast of the sea
+  - Formen dieses Kapitels.
+  - agent:ezk025, 2026-11-15
+- **`term:isa025_forms`** גַּל → **Steihuufe; Siegeslied; Feschtmahl; Mischtgüllegrueb; Schwimmer; Gschicklechkeit; schmeisst** [medium, decided, by-rule]
+  - gloss: גַּל: גָּ֔ל (ISA 25:2) — English (generated): a heap of rubble
+  - gloss: זָמִיר: זְמִ֥יר (ISA 25:5) — English (generated): so the song
+  - gloss: מִשְׁתֶּה: מִשְׁתֵּ֥ה (ISA 25:6) — English (generated): banquet
+  - gloss: מַדְמֵנָה: מַדְמֵנָֽה (ISA 25:10) — English (generated): into the dung pile
+  - gloss: שָׂחָה: שֹּׂחֶ֖ה (ISA 25:11) — English (generated): a swimmer
+  - gloss: אָרְבָּה: אָרְבּ֥וֹת (ISA 25:11) — English (generated): the skill
+  - gloss: נָגַע: הִגִּ֥יעַ (ISA 25:12) — English (generated): cast
+  - NT: ISA 25:6 *Feschtmahl*
+  - answers: heap, song, feast, dung pile, swimmer, skill, cast
+  - Formen dieses Kapitels.
+  - agent:isa025, 2026-11-15
+- **`term:jer035_forms`** רֵכָבִי → **Rechabiter; Chammere; Jaasanja; Habazzinja; Hanan; Jigdalja; Hüeter; härgstellt; aagchündt** [medium, decided, by-rule]
+  - gloss: רֵכָבִי: רֵכָבִים֒ (JER 35:2) — English (generated): of the Rechabites
+  - gloss: לִשְׁכָּה: לְּשָׁכ֑וֹת (JER 35:2) — English (generated): of the chambers
+  - gloss: יַאֲזַנְיָה: יַאֲזַנְיָ֤ה (JER 35:3) — English (generated): Jaazaniah
+  - gloss: חֲבַצִּנְיָה: חֲבַצִּנְיָ֔ה (JER 35:3) — English (generated): of Habazziniah
+  - gloss: חָנָן: חָנָ֥ן (JER 35:4) — English (generated): of Hanan
+  - gloss: יִגְדַּלְיָהוּ: יִגְדַּלְיָ֖הוּ (JER 35:4) — English (generated): of Igdaliah
+  - gloss: שָׁמַר: שֹׁמֵ֥ר (JER 35:4) — English (generated): the doorkeeper
+  - gloss: נָתַן: אֶתֵּ֞ן (JER 35:5) — English (generated): Then I set
+  - gloss: דָבַר: דִּבַּ֖רְתִּי (JER 35:17) — English (generated): I have pronounced
+  - NT: JER 35:3 *Jaasanja*; JER 35:3 *Habazzinja*; JER 35:4 *Hanan*; JER 35:4 *Jigdalja*
+  - answers: Rechabites, chambers, Jaazaniah, Habazziniah, Hanan, Igdaliah, keeper, set, pronounced
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer035, 2026-11-15
+- **`term:job037_forms`** גֶּשֶׁם → **Platzräge; Nordwinde; Höline; Südwind** [medium, decided, by-rule]
+  - gloss: גֶּשֶׁם: גֶ֥שֶׁם (JOB 37:6) — English (generated): and to the gentle rain
+  - gloss: מְזָרִים: מְּזָרִ֥ים (JOB 37:9) — English (generated): from the driving north winds
+  - gloss: מְעֹנָה: מְע֖וֹנֹתֶ֣י (JOB 37:8) — English (generated): in their dens
+  - gloss: דָּרוֹם: דָּרֽוֹם (JOB 37:17) — English (generated): under the south wind
+  - NT: JOB 37:6 *Platzräge*
+  - answers: shower of rain, scattering winds, dens, south wind
+  - Formen dieses Kapitels.
+  - agent:job037, 2026-11-15
+- **`term:job038_forms`** סְעָרָה → **Sturmwind; Mässschnuer; Eckstei; Morgestärne** [medium, decided, by-rule]
+  - gloss: סְעָרָה: סְּעָרָ֗ה (JOB 38:1) — English (generated): the whirlwind
+  - gloss: קַו: קָּֽו (JOB 38:5) — English (generated): a measuring line
+  - gloss: אֶבֶן: אֶ֣בֶן (JOB 38:6)
+  - gloss: כּוֹכָב: כּ֣וֹכְבֵי (JOB 38:7) — English (generated): stars
+  - NT: JOB 38:1 *Sturmwind*
+  - answers: whirlwind, measuring line, cornerstone, morning stars
+  - Formen dieses Kapitels.
+  - agent:job038, 2026-11-15
+- **`term:jer036_forms`** פֶּה → **Diktat; Jehudi; Gluetpfanne; Delaja; Schelemja; Fläh; Kuschi; diktiert; gholt; Winterhuus; Chünigssuhn; Asriel; Abdeel; rottet; usegrüehrt; Chelti; drzuecho** [medium, decided, by-rule]
+  - gloss: פֶּה: פִּ֣י (JER 36:4) — English (generated): and at the dictation
+  - gloss: יְהוּדִי: יְהוּדִ֡י (JER 36:14) — English (generated): through Jehudi
+  - gloss: אָח: אָ֖ח (JER 36:22) — English (generated): with a fire
+  - gloss: דְּלָיָהוּ: דְלָיָ֣הוּ (JER 36:12) — English (generated): Delaiah
+  - gloss: שֶׁלֶמְיָהוּ: שֶׁלֶמְיָ֣הוּ (JER 36:14) — English (generated): of Shelemiah
+  - gloss: תְּחִנָּה: תְּחִנָּתָ (JER 36:7) — English (generated): their petition
+  - gloss: כּוּשִׁי: כּוּשִׁי֮ (JER 36:14) — English (generated): of Cushi
+  - gloss: מִן: מִ (JER 36:18) — English (generated): his dictation
+  - gloss: לָקַח: יִּ֨קָּחֶ֔ (JER 36:21) — English (generated): and he took it
+  - gloss: בַּיִת: בֵּ֣ית (JER 36:22) — English (generated): quarters
+  - gloss: בֵּן: בֶּן (JER 36:26) — English (generated): a son
+  - gloss: עַזְרִיאֵל: עַזְרִיאֵ֗ל (JER 36:26) — English (generated): of Azriel
+  - gloss: עַבְדְּאֵל: עַבְדְּאֵ֔ל (JER 36:26) — English (generated): of Abdeel
+  - gloss: שָׁבַת: הִשְׁבִּ֥ית (JER 36:29) — English (generated): and deprive it
+  - gloss: שָׁלַךְ: מֻשְׁלֶ֔כֶת (JER 36:30) — English (generated): thrown out
+  - gloss: קֶרַח: קֶּ֥רַח (JER 36:30) — English (generated): and frost
+  - gloss: יָסַף: נוֹסַ֧ף (JER 36:32) — English (generated): were added
+  - NT: JER 36:14 *Jehudi*; JER 36:14 *Kuschi*; JER 36:26 *Asriel*; JER 36:26 *Abdeel*
+  - answers: dictation, Jehudi, brazier, Delaiah, Shelemiah, plea, Cushi, recited, took, winter house, king's son, Azriel, Abdeel, cut off, thrown out, frost, added
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer036, 2026-11-15
+- **`term:job039_forms`** יָעֵל → **Steiböck; Hirschchüe; Steppenesel; Wurfspiess** [medium, decided, by-rule]
+  - gloss: יָעֵל: יַעֲלֵי (JOB 39:1) — English (generated): goats
+  - gloss: אַיָּלָה: אַיָּל֣וֹת (JOB 39:1) — English (generated): the doe
+  - gloss: עָרוֹד: עָ֝ר֗וֹד (JOB 39:5) — English (generated): the swift donkey
+  - gloss: כִּידוֹן: כִידֽוֹן (JOB 39:23) — English (generated): and lance
+  - NT: JOB 39:1 *Steiböck*
+  - answers: mountain goats, deer, swift donkey, javelin
+  - Formen dieses Kapitels.
+  - agent:job039, 2026-11-15
+- **`term:ezk026_forms`** מִשְׁטָח → **Netzusspreite; Belagerigswall; Murebrächer; Handelsguet; Urzyt; Insle; bstickte; verwüeschtete; Rampe** [medium, decided, by-rule]
+  - gloss: מִשְׁטָח: מִשְׁטַ֨ח (EZK 26:5) — English (generated): to spread
+  - gloss: דָּיֵק: דָּיֵ֗ק (EZK 26:8) — English (generated): siege works
+  - gloss: קְבֹל: קָֽבָלּ֔ (EZK 26:9) — English (generated): of his battering rams
+  - gloss: רְכֻלָּה: רְכֻלָּתֵ֔ (EZK 26:12) — English (generated): your merchandise
+  - gloss: עוֹלָם: עוֹלָ֗ם (EZK 26:20) — English (generated): of antiquity
+  - gloss: הַ: הָ (EZK 26:15) — English (generated): Will not
+  - gloss: רִקְמָה: רִקְמָתָ֖ (EZK 26:16) — English (generated): their embroidered
+  - gloss: חָרֵב: נֶחֱרֶ֔בֶת (EZK 26:19) — English (generated): a desolate
+  - gloss: סֹלְלָה: סֹֽלְלָ֔ה (EZK 26:8) — English (generated): a ramp to your walls
+  - NT: EZK 26:5 *Netzusspreite*
+  - answers: spreading nets, siege works, battering rams, merchandise, long ago, coastlands, embroidered, desolate, ramp
+  - Formen dieses Kapitels.
+  - agent:ezk026, 2026-11-15
+- **`term:isa026_forms`** חֵיל → **Vormuur; Grichte; Lychname; usegschobe; lyslig; Ougeblickli; Chammere** [medium, decided, by-rule]
+  - gloss: חֵיל: חֵֽל (ISA 26:1) — English (generated): and ramparts
+  - gloss: מִשְׁפָּט: מִשְׁפָּטֶ֛י (ISA 26:8) — English (generated): of Your judgments
+  - gloss: נְבֵלָה: נְבֵלָתִ֖ (ISA 26:19) — English (generated): their bodies
+  - gloss: רָחַק: רִחַ֖קְתָּ (ISA 26:15) — English (generated): You have extended
+  - gloss: לַחַשׁ: לַ֔חַשׁ (ISA 26:16) — English (generated): a quiet prayer
+  - gloss: רֶגַע: רֶ֖גַע (ISA 26:20) — English (generated): while
+  - gloss: חֶדֶר: חֲדָרֶ֔י (ISA 26:20) — English (generated): your rooms
+  - NT: ISA 26:19 *Lychname*
+  - answers: ramparts, judgments, corpses, extended, quietly, moment, rooms
+  - Formen dieses Kapitels.
+  - agent:isa026, 2026-11-15
+- **`term:jer037_forms`** יִרְאִיָּיה → **Jirija; Juchal; verwundeti; Empfang; Oberwach; loufsch; Zisterne; heimlech; Bäcker; ufbbrucht** [medium, decided, by-rule]
+  - gloss: יִרְאִיָּיה: יִרְאִיָּ֔יה (JER 37:13) — English (generated): was Irijah
+  - gloss: יְהוּכַל: יְהוּכַ֣ל (JER 37:3) — English (generated): Jehucal
+  - gloss: דָּקַר: מְדֻקָּרִ֑ים (JER 37:10) — English (generated): and only wounded
+  - gloss: חָלַק: חֲלִ֥ק (JER 37:12) — English (generated): to claim his portion
+  - gloss: בַּעַל: בַּ֣עַל (JER 37:13) — English (generated): the captain
+  - gloss: נָפַל: נֹפֵֽל (JER 37:13) — English (generated): are deserting
+  - gloss: בּוֹר: בּ֖וֹר (JER 37:16)
+  - gloss: בְּ: בַּ (JER 37:17) — English (generated): in his palace
+  - gloss: אָפָה: אֹפִ֔ים (JER 37:21) — English (generated): of the bakers
+  - gloss: תָּמַם: תֹּ֥ם (JER 37:21) — English (generated): was gone
+  - NT: JER 37:13 *Jirija*; JER 37:3 *Juchal*
+  - answers: Irijah, Jehucal, wounded, receive, captain of the guard, desert, dungeon, secretly, bakers, gone
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer037, 2026-11-15
+- **`term:job040_forms`** בְּהֵמוֹת → **Behemot; Leviatan; Lotusbüsch; Harpune** [medium, decided, by-rule]
+  - gloss: בְּהֵמוֹת: בְ֭הֵמוֹת (JOB 40:15) — English (generated): Behemoth
+  - gloss: לִוְיָתָן: לִוְיָתָ֣ן (JOB 40:25) — English (generated): Leviathan
+  - gloss: צֶאֱלִים: צֶאֱלִ֥ים (JOB 40:21) — English (generated): the lotus plants
+  - gloss: שֻׂכָּה: שֻׂכּ֣וֹת (JOB 40:31) — English (generated): with harpoons
+  - NT: JOB 40:15 *Behemot*
+  - answers: Behemoth, Leviathan, lotus plants, harpoons
+  - Formen dieses Kapitels.
+  - agent:job040, 2026-11-15
+- **`term:job041_forms`** רֶסֶן → **Panzer; Mülistei; Dreschschlitte; Stupfle** [medium, decided, by-rule]
+  - gloss: רֶסֶן: רִ֝סְנ֗ (JOB 41:5)
+  - gloss: פֶּלַח: פֶ֣לַח (JOB 41:16) — English (generated): millstone
+  - gloss: חָרוּץ: חָר֣וּץ (JOB 41:22) — English (generated): like a threshing sledge
+  - gloss: קַשׁ: קַ֗שׁ (JOB 41:20) — English (generated): like chaff
+  - NT: JOB 41:16 *Mülistei*
+  - answers: bridle, millstone, threshing sledge, stubble
+  - Formen dieses Kapitels.
+  - agent:job041, 2026-11-15
+- **`term:jer038_forms`** סְחָבֹות → **Fätze; Lumpe; ygsunke; Vorratschammer; Spiel; weigerisch; überwältiget; zrüggschickt; Gspräch; Ebed-Melech** [medium, decided, by-rule]
+  - gloss: סְחָבֹות: סְחָב֔וֹת (JER 38:11) — English (generated): rags
+  - gloss: מֶלַח: מְלָחִ֑ים (JER 38:11) — English (generated): clothes
+  - gloss: טָבַע: יִּטְבַּ֥ע (JER 38:6) — English (generated): sank down
+  - gloss: אוֹצָר: אוֹצָ֔ר (JER 38:11) — English (generated): the storehouse
+  - gloss: עָלַל: הִתְעַלְּלוּ (JER 38:19) — English (generated): to abuse
+  - gloss: מָאֵן: מָאֵ֥ן (JER 38:21) — English (generated): refuse
+  - gloss: יָכֹל: יָכְל֤וּ (JER 38:22) — English (generated): and overcame
+  - gloss: שׁוּב: הֲשִׁיבֵ֛ (JER 38:26) — English (generated): return me
+  - gloss: דָּבָר: דָּבָֽר (JER 38:27) — English (generated): the conversation
+  - gloss: עֶבֶד מֶלֶךְ: עֶֽבֶד (JER 38:7) — English (generated): Now Ebed melech
+  - NT: JER 38:7 *Ebed-Melech*
+  - answers: rags, worn-out clothes, sank, storehouse, abuse, refuse, overcame, return, conversation, Ebed-melech
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer038, 2026-11-15
+- **`term:job042_forms`** יְמִימָה → **Jemima; Kezia; Keren-Happuch; Widder** [medium, decided, by-rule]
+  - gloss: יְמִימָה: יְמִימָ֔ה (JOB 42:14) — English (generated): daughter Jemimah
+  - gloss: קְצִיעָה: קְצִיעָ֑ה (JOB 42:14) — English (generated): Keziah
+  - gloss: קֶרֶן הַפּוּךְ: קֶ֥רֶן (JOB 42:14) — English (generated): Keren happuch
+  - gloss: אַיִל: אֵילִ֜ים (JOB 42:8) — English (generated): rams
+  - NT: JOB 42:14 *Jemima*
+  - answers: Jemimah, Keziah, Keren-Happuch, rams
+  - Formen dieses Kapitels.
+  - agent:job042, 2026-11-15
+- **`term:isa027_forms`** אֶבֶן → **Altarsteine; Chalchsteine; gsüent; drischet; gfägt; Röucheraltar; Ascherapfahl** [medium, decided, by-rule]
+  - gloss: אֶבֶן: אַבְנֵ֣י (ISA 27:9) — English (generated): stones
+  - gloss: אֶבֶן: אַבְנֵי (ISA 27:9) — English (generated): stones
+  - gloss: כִּפֶּר: יְכֻפַּ֣ר (ISA 27:9) — English (generated): will be atoned for
+  - gloss: חָבַט: יַחְבֹּ֧ט (ISA 27:12) — English (generated): will thresh
+  - gloss: הָגָה: הָגָ֛ה (ISA 27:8) — English (generated): and removed her
+  - gloss: חַמָּן: חַמָּנִֽים (ISA 27:9) — English (generated): or incense altars
+  - gloss: אֲשֵׁרָה: אֲשֵׁרִ֖ים (ISA 27:9) — English (generated): Asherah poles
+  - NT: ISA 27:9 *Chalchsteine*
+  - answers: altar stones, chalk, atoned, thresh, removed, incense altar, asherah pole
+  - Formen dieses Kapitels.
+  - agent:isa027, 2026-11-15
+- **`term:ezk027_forms`** חֹבֵל → **Stüürmanne; Ruederer; Seelüt; Plange; Mascht; Segel; Elfebei; Ebeholz; Lecke dichte; Mannschaft; verschmätteret** [medium, decided, by-rule]
+  - gloss: חֹבֵל: חֹבְלָֽיִ (EZK 27:8) — English (generated): as your captains
+  - gloss: שׁוּט: שָׁטִ֖ים (EZK 27:8) — English (generated): your oarsmen
+  - gloss: מַלָּח: מַלָּֽחֵי (EZK 27:9) — English (generated): and their sailors
+  - gloss: לוּחַ: לֻֽחֹתָ֑יִם (EZK 27:5) — English (generated): your planking
+  - gloss: תֹּרֶן: תֹּ֖רֶן (EZK 27:5) — English (generated): a mast
+  - gloss: מִפְרָשׂ: מִפְרָשֵׂ֔ (EZK 27:7) — English (generated): your sail
+  - gloss: שֵׁן: שֵׁן֙ (EZK 27:6) — English (generated): inlaid with ivory
+  - gloss: הָבְנִים: הָבְנִ֔ים (EZK 27:15) — English (generated): and ebony
+  - gloss: חָזַק: מַחֲזִיקֵ֖י (EZK 27:9) — English (generated): repairing
+  - gloss: קָהָל: קְהָלֵ (EZK 27:27) — English (generated): the other people on board
+  - gloss: שָׁבַר: שְׁבָרֵ֖ (EZK 27:26) — English (generated): will shatter you
+  - NT: EZK 27:8 *Stüürmanne*
+  - answers: pilots, rowers, mariners, planks, mast, sail, ivory, ebony, repair seams, crew, wrecked
+  - Formen dieses Kapitels.
+  - agent:ezk027, 2026-11-15
+- **`term:jer039_forms`** נֵרְגַל שַׂר אֶצֶר → **Nergal-Sarezer; Oberhofmaa; Obermagier; mittlere; Samgar-Nebu; Sarsechim; Chriegsmanne; ygholt; usgstoche; Überloufer; ermschte; Nebuschasban; ytreffe** [medium, decided, by-rule]
+  - gloss: נֵרְגַל שַׂר אֶצֶר: נֵרְגַ֣ל (JER 39:3) — English (generated): Nergal sharezer
+  - gloss: רַב: רַב (JER 39:3) — English (generated): the Rabsaris
+  - gloss: רַב: רַב (JER 39:3) — English (generated): the Rabsaris
+  - gloss: הַ: הַ (JER 39:3) — English (generated): in the Middle
+  - gloss: סַמְגַּר נְבוֹ: סַֽמְגַּר (JER 39:3) — English (generated): of Samgar
+  - gloss: שַׂר סְכִים: שַׂר (JER 39:3) — English (generated): Nergal sharezer
+  - gloss: אִישׁ: אַנְשֵׁ֣י (JER 39:4) — English (generated): the soldiers
+  - gloss: נָשַׂג: יַּשִּׂ֣גוּ (JER 39:5) — English (generated): and overtook
+  - gloss: עָוַר: עִוֵּ֑ר (JER 39:7) — English (generated): Then he put out
+  - gloss: נָפַל: נֹּֽפְלִים֙ (JER 39:9) — English (generated): the deserters
+  - gloss: הַ: הַ (JER 39:10) — English (generated): people
+  - gloss: נְבוּשַׁזְבָּן: נְבֽוּשַׁזְבָּן֙ (JER 39:13) — English (generated): Nebushazban
+  - gloss: בּוֹא: מֵבִ֨יא (JER 39:16) — English (generated): I am about to fulfill
+  - NT: JER 39:3 *Nergal-Sarezer*; JER 39:3 *Samgar-Nebu*; JER 39:3 *Sarsechim*; JER 39:13 *Nebuschasban*
+  - answers: Nergal-Sharezer, chief officer, high official, middle, Samgar-nebo, Sarsekim, men of war, overtook, blinded, deserters, poorest, Nebushazban, fulfill
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer039, 2026-11-15
+- **`term:jer040_forms`** נָכָה → **ermorde; Wäggfüerte; Efai; Jesanja; Baalis; erschla; umchunnt** [medium, decided, by-rule]
+  - gloss: נָכָה: הַכֹּתְ (JER 40:14) — English (generated): to take
+  - gloss: גָּלוּת: גָּל֤וּת (JER 40:1) — English (generated): the captives
+  - gloss: עֵיפַי: עֵיפַ֣י (JER 40:8) — English (generated): of Ephai
+  - gloss: יְזַנְיָהוּ: יזַנְיָ֨הוּ֙ (JER 40:8) — English (generated): and Jezaniah
+  - gloss: בַּעֲלִיס: בַּעֲלִ֣יס (JER 40:14) — English (generated): Baalis
+  - gloss: נָכָה: אַכֶּה֙ (JER 40:15) — English (generated): and kill
+  - gloss: אָבַד: אָבְדָ֖ה (JER 40:15) — English (generated): would perish
+  - NT: JER 40:8 *Efai*; JER 40:8 *Jesanja*; JER 40:14 *Baalis*
+  - answers: kill, exiles, Ephai, Jezaniah, Baalis, kill, perish
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer040, 2026-11-15
+- **`term:ecc_reut_ruach`** רְעוּת → **es Jage em Luft nache** [high, decided, by-rule]
+  - gloss: רְעוּת: רְע֥וּת (ECC 1:14) — English (generated): a pursuit
+  - gloss: רוּחַ: רֽוּחַ (ECC 1:14) — English (generated): of the wind
+  - NT: ECC 1:14 *Jage em Luft nache*
+  - answers: chasing after wind
+  - Prediger: רְעוּת / רַעְיוֹן רוּחַ, in allen Kapiteln gleich.
+  - agent:ecc001, 2026-11-15
+- **`term:ecc001_forms`** קֹהֶלֶת → **Prediger; Generation; Torheit; Verdruss** [medium, decided, by-rule]
+  - gloss: קֹהֶלֶת: קֹהֶ֣לֶת (ECC 1:1) — English (generated): of the Teacher
+  - gloss: דּוֹר: דּ֤וֹר (ECC 1:4) — English (generated): Generations
+  - gloss: שִׂכְלוּת: שִׂכְל֑וּת (ECC 1:17) — English (generated): and folly
+  - gloss: כַּעַס: כָּ֑עַס (ECC 1:18) — English (generated): sorrow
+  - NT: ECC 1:1 *Prediger*
+  - answers: Teacher, generation, folly, sorrow
+  - Formen dieses Kapitels.
+  - agent:ecc001, 2026-11-15
+- **`term:ecc002_forms`** בְּרֵכָה → **Wasserteiche; Pärk; Sängerinne; Provinze** [medium, decided, by-rule]
+  - gloss: בְּרֵכָה: בְּרֵכ֣וֹת (ECC 2:6) — English (generated): reservoirs
+  - gloss: פַּרְדֵּס: פַרְדֵּסִ֑ים (ECC 2:5) — English (generated): and parks
+  - gloss: שִׁיר: שָׁר֗וֹת (ECC 2:8) — English (generated): female singers
+  - gloss: מְדִינָה: מְּדִינ֑וֹת (ECC 2:8) — English (generated): and provinces
+  - NT: ECC 2:6 *Wasserteiche*
+  - answers: reservoirs, parks, women singing, provinces
+  - Formen dieses Kapitels.
+  - agent:ecc002, 2026-11-15
+- **`term:jer041_forms`** גָּלַח → **abgschorne; Bärt; verrissne; Schnittwunde; gweint; versteckti; Gfährte; dryngworfe; überezgah; entwütscht; zrügggholt; ufghalte; Gibeon** [medium, decided, by-rule]
+  - gloss: גָּלַח: מְגֻלְּחֵ֥י (JER 41:5) — English (generated): who had shaved off
+  - gloss: זָקָן: זָקָ֛ן (JER 41:5) — English (generated): their beards
+  - gloss: קָרַע: קְרֻעֵ֥י (JER 41:5) — English (generated): torn
+  - gloss: גָּדַד: מִתְגֹּֽדְדִ֑ים (JER 41:5) — English (generated): and cut themselves
+  - gloss: בָּכָה: בֹכֶ֑ה (JER 41:6) — English (generated): weeping
+  - gloss: מַטְמֹן: מַטְמֹנִים֙ (JER 41:8) — English (generated): hidden treasure
+  - gloss: אָח: אֲחֵי (JER 41:8) — English (generated): the others
+  - gloss: שָׁלַךְ: הִשְׁלִ֨יךְ (JER 41:9) — English (generated): had thrown
+  - gloss: עָבַר: עֲבֹ֖ר (JER 41:10) — English (generated): to cross over
+  - gloss: מָלַט: נִמְלַט֙ (JER 41:15) — English (generated): escaped
+  - gloss: שׁוּב: הֵ֠שִׁיב (JER 41:16) — English (generated): he had recovered
+  - gloss: יָשַׁב: יֵּֽשְׁבוּ֙ (JER 41:17) — English (generated): and stayed
+  - gloss: גִּבְעוֹן: גִבְעֽוֹן (JER 41:12) — English (generated): in Gibeon
+  - NT: JER 41:12 *Gibeon*
+  - answers: shaved, beards, torn, gashed, weeping, stores, companions, thrown, cross over, escaped, recovered, stayed, Gibeon
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer041, 2026-11-15
+- **`term:isa028_forms`** בִּכּוּרָה → **Frücheige; Ruehplatz; Mässschnuer; Dröschschlitte; Schwarzkümmel; Brotchorn; benäblet; wankelmüetig** [medium, decided, by-rule]
+  - gloss: בִּכּוּרָה: בִכּוּרָהּ֙ (ISA 28:4) — English (generated): like a ripe fig
+  - gloss: מְנוּחָה: מְּנוּחָה֙ (ISA 28:12) — English (generated): is the place of rest
+  - gloss: קַו: קָ֔ו (ISA 28:17) — English (generated): the measuring line
+  - gloss: חָרוּץ: חָרוּץ֙ (ISA 28:27) — English (generated): with a sledge
+  - gloss: קֶצַח: קֶ֖צַח (ISA 28:25) — English (generated): caraway
+  - gloss: לֶחֶם: לֶ֣חֶם (ISA 28:28) — English (generated): Grain for bread
+  - gloss: בָּלַע: נִבְלְע֣וּ (ISA 28:7) — English (generated): and are befuddled
+  - gloss: חוּשׁ: יָחִֽישׁ (ISA 28:16) — English (generated): be shaken
+  - NT: ISA 28:25 *Schwarzkümmel*
+  - answers: first-ripe fig, resting place, measuring line, threshing sledge, caraway, grain, befuddled, shaken
+  - Formen dieses Kapitels.
+  - agent:isa028, 2026-11-15
+- **`term:H5057_ruler_tyre`** נָגִיד → **Herrscher** [high, decided, by-rule]
+  - gloss: נָגִיד: נְגִ֨יד (EZK 28:2) — English (generated): the ruler
+  - NT: EZK 28:2 *Herrscher*
+  - answers: ruler
+  - נָגִיד (Ez 28,2).
+  - agent:ezk028, 2026-11-15
+- **`term:ezk028_forms`** מוֹשָׁב → **Gottessitz; zämegrafft; Schatzchammere; grusamschte; Erschlagene; Unbeschnittene; Fassige; Yfassige; füürige Steine; Dornbusch** [medium, decided, by-rule]
+  - gloss: מוֹשָׁב: מוֹשַׁ֧ב (EZK 28:2) — English (generated): in the seat
+  - gloss: עָשָׂה: תַּ֛עַשׂ (EZK 28:4) — English (generated): and amassed
+  - gloss: אוֹצָר: אוֹצְרוֹתֶֽי (EZK 28:4) — English (generated): for your treasuries
+  - gloss: עָרִיץ: עָרִיצֵ֖י (EZK 28:7) — English (generated): the most ruthless
+  - gloss: חָלָל: חָלָ֖ל (EZK 28:8) — English (generated): a violent
+  - gloss: עָרֵל: עֲרֵלִ֛ים (EZK 28:10) — English (generated): of the uncircumcised
+  - gloss: תֹּף: תֻּפֶּ֤י (EZK 28:13) — English (generated): and settings
+  - gloss: נֶקֶב: נְקָבֶ֨י (EZK 28:13) — English (generated): Your mountings
+  - gloss: אֵשׁ: אֵ֖שׁ (EZK 28:14) — English (generated): the fiery
+  - gloss: סַלּוֹן: סִלּ֤וֹן (EZK 28:24) — English (generated): brier
+  - NT: EZK 28:2 *Gottessitz*
+  - answers: seat of gods, amassed, treasuries, ruthless, slain, uncircumcised, settings, mountings, stones of fire, brier
+  - Formen dieses Kapitels.
+  - agent:ezk028, 2026-11-15
+- **`term:jer042_forms`** הוֹשַׁעֲיָה → **Hoschaja; häreträtte; lutet; drufgrichtet; Entronnige; Verwünschig; betroge** [medium, decided, by-rule]
+  - gloss: הוֹשַׁעֲיָה: הוֹשַֽׁעְיָ֑ה (JER 42:1) — English (generated): of Hoshaiah
+  - gloss: נָגַשׁ: יִּגְּשׁוּ֙ (JER 42:1) — English (generated): approached
+  - gloss: דָּבָר: דָּבָר (JER 42:5) — English (generated): word
+  - gloss: שׂים: שָׂ֨מוּ (JER 42:17) — English (generated): resolve
+  - gloss: שָׂרִיד: שָׂרִ֣יד (JER 42:17) — English (generated): survive
+  - gloss: קְלָלָה: קְלָלָ֣ה (JER 42:18) — English (generated): of vilification
+  - gloss: תָּעָה: הִתְעֵיתֶם֮ (JER 42:20) — English (generated): have deceived
+  - NT: JER 42:1 *Hoschaja*
+  - answers: Hoshaiah, approached, word, determined, remnant, curse, fatal mistake
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer042, 2026-11-15
+- **`term:ezk029_forms`** יְאֹר → **Nilarme; Chinnbacke; Schuppe; glatzig; wundgschürft; Herkunft; sibenezwänzigschte** [medium, decided, by-rule]
+  - gloss: יְאֹר: יְאֹרָ֑י (EZK 29:3) — English (generated): his rivers
+  - gloss: לְחִי: לְחָיֶ֔י (EZK 29:4) — English (generated): in your jaws
+  - gloss: קַשְׂקֶשֶׂת: קַשְׂקְשֹׂתֶ֑י (EZK 29:4) — English (generated): to cling to your scales
+  - gloss: קָרַח: מֻקְרָ֔ח (EZK 29:18) — English (generated): was made bald
+  - gloss: מָרַט: מְרוּטָ֑ה (EZK 29:18) — English (generated): made raw
+  - gloss: מְכוּרָה: מְכֽוּרָתָ֑ (EZK 29:14) — English (generated): of their origin
+  - gloss: עֶשְׂרִים: עֶשְׂרִ֤ים (EZK 29:17) — English (generated): In the twenty seventh
+  - NT: EZK 29:3 *Nilarme*
+  - answers: streams, jaws, scales, made bald, rubbed bare, origin, twenty-seventh
+  - Formen dieses Kapitels.
+  - agent:ezk029, 2026-11-15
+- **`term:jer043_forms`** תַּחְפַּנְחֵס → **Tachpanches; Hoschaja; überhebleche; verschleppe; vergrab; Mörtel; Ziegelbode; Prachtzält; hüllt; yhüllt; Bet-Schemesch** [medium, decided, by-rule]
+  - gloss: תַּחְפַּנְחֵס: תַּחְפַּנְחֵֽס (JER 43:7) — English (generated): Tahpanhes
+  - gloss: הוֹשַׁעֲיָה: הוֹשַֽׁעְיָה֙ (JER 43:2) — English (generated): of Hoshaiah
+  - gloss: זֵד: זֵּדִ֑ים (JER 43:2) — English (generated): the arrogant
+  - gloss: לְ: לְ (JER 43:3) — English (generated): so that they may put us to death
+  - gloss: טָמַן: טְמַנְתָּ֤ (JER 43:9) — English (generated): and bury them
+  - gloss: מֶלֶט: מֶּ֨לֶט֙ (JER 43:9) — English (generated): in the clay
+  - gloss: מַלְבֵּן: מַּלְבֵּ֔ן (JER 43:9) — English (generated): of the brick pavement
+  - gloss: שַׁפְרִיר: שַׁפְרִיר֖ (JER 43:10) — English (generated): his royal pavilion
+  - gloss: עָטָה: עָטָה֩ (JER 43:12) — English (generated): So he will wrap himself
+  - gloss: עָטָה: יַעְטֶ֤ה (JER 43:12) — English (generated): wraps himself
+  - gloss: בַּיִת: בֵּ֣ית (JER 43:13) — English (generated): of the temple of the sun
+  - NT: JER 43:7 *Tachpanches*; JER 43:2 *Hoschaja*; JER 43:13 *Bet-Schemesch*
+  - answers: Tahpanhes, Hoshaiah, arrogant, deport, bury, mortar, brick pavement, royal canopy, wrap, wraps, Beth-shemesh
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer043, 2026-11-15
+- **`term:jer044_forms`** נָסַךְ → **uszschütte; Memfis; Gröiltat; Söigling; zerknirscht; zrüggchiem; zrüggzchehre; Entronnigi; dabygstande; Opferchüechli; usstah; erfüllet; wenige; gwahr; Hofra; trachtet; Migdol; Trümmerstatt** [medium, decided, by-rule]
+  - gloss: נָסַךְ: הַסֵּֽךְ (JER 44:18) — English (generated): and pouring out
+  - gloss: נֹף: נֹ֔ף (JER 44:1) — English (generated): and Memphis
+  - gloss: דָּבָר: דְּבַֽר (JER 44:4) — English (generated): thing
+  - gloss: יָנַק: יוֹנֵ֖ק (JER 44:7) — English (generated): and infant
+  - gloss: דָּכָא: דֻכְּא֔וּ (JER 44:10) — English (generated): humbled themselves
+  - gloss: לְ: לָ (JER 44:14) — English (generated): the remnant
+  - gloss: לְ: לָ (JER 44:14) — English (generated): the remnant
+  - gloss: פָּלֵיט: פְּלֵטִֽים (JER 44:14) — English (generated): a few fugitives
+  - gloss: עָמַד: עֹמְד֖וֹת (JER 44:15) — English (generated): standing by
+  - gloss: כַּוָּן: כַּוָּנִים֙ (JER 44:19) — English (generated): sacrificial cakes
+  - gloss: לְ: לָ (JER 44:22) — English (generated): endure
+  - gloss: עָשָׂה: עָשֹׂ֥ה (JER 44:25) — English (generated): We will surely perform
+  - gloss: מַת: מְתֵ֣י (JER 44:28) — English (generated): few
+  - gloss: יָדַע: תֵּֽדְע֔וּ (JER 44:29) — English (generated): you may know
+  - gloss: חָפְרַע: חָפְרַ֤ע (JER 44:30) — English (generated): Hophra
+  - gloss: בָּקַשׁ: מְבַקֵּ֥שׁ (JER 44:30) — English (generated): who was seeking
+  - gloss: מִגְדֹּל: מִגְדֹּל֙ (JER 44:1) — English (generated): in Migdol
+  - gloss: חׇרְבָּה: חָרְבָּ֥ה (JER 44:6) — English (generated): the desolate
+  - NT: JER 44:1 *Memfis*; JER 44:1 *Migdol*; JER 44:30 *Hofra*; JER 44:19 *Opferchüechli*
+  - answers: pour out, Memphis, detestable thing, infant, humbled, return, return, fugitives, standing by, sacrificial cakes, bear, keep, few, know, Hophra, sought, Migdol, desolate
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer044, 2026-11-15
+- **`term:ezk030_forms`** עֵרֶב → **Mischvolk; Fundamänt; verschrecke; nichtige Gottheite; Gfangeschaft; Heilmittel; Verband; stöhnt** [medium, decided, by-rule]
+  - gloss: עֵרֶב: עֶ֣רֶב (EZK 30:5) — English (generated): the various peoples
+  - gloss: יְסֹדֹות: יְסוֹדֹתֶֽי (EZK 30:4) — English (generated): and its foundations
+  - gloss: חָרַד: הַחֲרִ֖יד (EZK 30:9) — English (generated): to frighten
+  - gloss: אֱלִיל: אֱלִילִים֙ (EZK 30:13) — English (generated): to the images
+  - gloss: שְׁבִי: שְּׁבִ֥י (EZK 30:17) — English (generated): into captivity
+  - gloss: רְפוּאָה: רְפֻא֜וֹת (EZK 30:21) — English (generated): for healing
+  - gloss: חִתּוּל: חִתּ֛וּל (EZK 30:21) — English (generated): or splinted
+  - gloss: נָאַק: נָאַ֛ק (EZK 30:24) — English (generated): will groan
+  - NT: EZK 30:5 *Mischvolk*
+  - answers: Arabia, foundations, terrify, images, captivity, healing, splint, groan
+  - Formen dieses Kapitels.
+  - agent:ezk030, 2026-11-15
+- **`term:jer045_forms`** יָסַף → **drzueta** [medium, decided, by-rule]
+  - gloss: יָסַף: יָסַ֧ף (JER 45:3) — English (generated): has added
+  - NT: JER 45:3 *drzueta*
+  - answers: added
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer045, 2026-11-15
+- **`term:isa029_forms`** אֲרִיאֵל → **Ariel; Altarhärd; Wachttürm; Belagerigswäll; Totegeischt; pfysele; Feschtig** [medium, decided, by-rule]
+  - gloss: אֲרִיאֵל: אֲרִיאֵ֣ל (ISA 29:1) — English (generated): O Ariel
+  - gloss: אֲרִיאֵל: אֲרִיאֵֽל (ISA 29:2) — English (generated): Ariel
+  - gloss: מֻצָּב: מֻצָּ֔ב (ISA 29:3) — English (generated): with towers
+  - gloss: מְצוּרָה: מְצֻרֹֽת (ISA 29:3) — English (generated): siege works
+  - gloss: אוֹב: א֤וֹב (ISA 29:4) — English (generated): like a spirit
+  - gloss: צָפַף: תְּצַפְצֵֽף (ISA 29:4) — English (generated): will whisper
+  - gloss: מְצוֹדָה: מְצֹ֣דָתָ֔ (ISA 29:7) — English (generated): laying siege
+  - NT: ISA 29:1 *Ariel*
+  - answers: ariel, altar hearth, towers, siege works, ghost, whisper, stronghold
+  - Formen dieses Kapitels.
+  - agent:isa029, 2026-11-15
+- **`term:ecc003_forms`** שָׁלַךְ → **Steiwärfe; Steisammle; Usrysse; Ufboue** [medium, decided, by-rule]
+  - gloss: שָׁלַךְ: הַשְׁלִ֣יךְ (ECC 3:5) — English (generated): to cast away
+  - gloss: כָּנַס: כְּנ֣וֹס (ECC 3:5) — English (generated): to gather
+  - gloss: עָקַר: עֲק֥וֹר (ECC 3:2) — English (generated): to uproot
+  - gloss: בָּנָה: בְנֽוֹת (ECC 3:3) — English (generated): to build
+  - NT: ECC 3:5 *Steiwärfe*
+  - answers: stones, stones, uproot, build_up
+  - Formen dieses Kapitels.
+  - agent:ecc003, 2026-11-15
+- **`term:ecc004_forms`** עָשׁוּקִים → **Unterdrückige; Unterdrücker; Füüscht; Kamerad** [medium, decided, by-rule]
+  - gloss: עָשׁוּקִים: עֲשֻׁקִ֔ים (ECC 4:1) — English (generated): of their oppressors
+  - gloss: עָשַׁק: עֹֽשְׁקֵי (ECC 4:1) — English (generated): the power
+  - gloss: חֹפֶן: חָפְנַ֛יִם (ECC 4:6)
+  - gloss: חָבֵר: חֲבֵר֑ (ECC 4:10) — English (generated): his companion
+  - NT: ECC 4:1 *Unterdrückige*
+  - answers: oppression, oppressors, fists, companion
+  - Formen dieses Kapitels.
+  - agent:ecc004, 2026-11-15
+- **`term:jer046_forms`** כָּשַׁל → **gstolperet; Schutzschild; rücket; spannet; polieret; verschrocke; Schnäll; entflieh; ufestygt; raset; Put; Luditer; hol; wäggschwemmt; umgstosse; Härkunft; Grossmuul; Bewohnere; wunderschöni; Bräme; Söldner; gmeschteti; standghalte; schlycht; Äxt; Holzfäller; Theben; flieje** [medium, decided, by-rule]
+  - gloss: כָּשַׁל: כָּשְׁל֖וּ (JER 46:6) — English (generated): they stumble
+  - gloss: צִנָּה: צִנָּ֔ה (JER 46:3) — English (generated): and large
+  - gloss: נָגַשׁ: גְשׁ֖וּ (JER 46:3) — English (generated): advance
+  - gloss: אָסַר: אִסְר֣וּ (JER 46:4) — English (generated): Harness
+  - gloss: מָרַק: מִרְקוּ֙ (JER 46:4) — English (generated): Polish
+  - gloss: חַת: חַתִּים֮ (JER 46:5) — English (generated): are terrified
+  - gloss: קַל: קַּ֔ל (JER 46:6) — English (generated): The swift
+  - gloss: נוּס: יָנ֣וּס (JER 46:6) — English (generated): flee
+  - gloss: עָלָה: יַֽעֲלֶ֑ה (JER 46:7) — English (generated): rising
+  - gloss: הָלַל: הִתְהֹלְל֣וּ (JER 46:9) — English (generated): Race furiously
+  - gloss: פּוּט: פוּט֙ (JER 46:9) — English (generated): and Put
+  - gloss: לוּדִים: לוּדִ֕ים (JER 46:9) — English (generated): men of Lydia
+  - gloss: לָקַח: קְחִ֣י (JER 46:11)
+  - gloss: סָחַף: נִסְחַ֣ף (JER 46:15) — English (generated): been laid low
+  - gloss: הָדַף: הֲדָפֽ (JER 46:15) — English (generated): has thrust them down
+  - gloss: מוֹלֶדֶת: מֽוֹלַדְתֵּ֔ (JER 46:16) — English (generated): of our birth
+  - gloss: שָׁאוֹן: שָׁא֔וֹן (JER 46:17) — English (generated): was all noise
+  - gloss: יָשַׁב: יוֹשֶׁ֖בֶת (JER 46:19) — English (generated): dwelling
+  - gloss: יָפֶה: יְפֵֽה (JER 46:20) — English (generated): is a beautiful
+  - gloss: קֶרֶץ: קֶ֥רֶץ (JER 46:20) — English (generated): but a gadfly
+  - gloss: שָׂכִיר: שְׂכִרֶ֤י (JER 46:21) — English (generated): the mercenaries
+  - gloss: מַרְבֵּק: מַרְבֵּ֔ק (JER 46:21) — English (generated): are like fattened
+  - gloss: עָמַד: עָמָ֑דוּ (JER 46:21) — English (generated): stand their ground
+  - gloss: הלך: יֵלֵ֑ךְ (JER 46:22) — English (generated): like a fleeing
+  - gloss: קַרְדֹּם: קַרְדֻּמּוֹת֙ (JER 46:22) — English (generated): with axes
+  - gloss: חָטַב: חֹטְבֵ֖י (JER 46:22) — English (generated): like woodsmen cutting down trees
+  - gloss: נֹא: נֹּ֔א (JER 46:25) — English (generated): of Thebes
+  - gloss: נוּס: נָ֖סוּ (JER 46:5) — English (generated): in haste
+  - NT: JER 46:9 *Put*; JER 46:9 *Luditer*; JER 46:25 *Theben*; JER 46:17 *Grossmuul*
+  - answers: stumbled, shield, approach, harness, polish, terrified, swift, flee, rises, drive madly, Put, Lud, take, fled, thrust down, birth, braggart, inhabitants, beautiful, gadfly, mercenaries, fattened, stand, gliding, axes, fell trees, Thebes, fled
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer046, 2026-11-15
+- **`term:H953_pit_underworld`** בּוֹר → **Grueb** [high, decided, by-rule]
+  - gloss: בּוֹר: בֽוֹר (EZK 31:14) — English (generated): to the Pit
+  - gloss: בּוֹר: ב֑וֹר (EZK 31:16) — English (generated): to the Pit
+  - NT: EZK 31:14 *Grueb*
+  - answers: pit (the underworld)
+  - בּוֹר als Unterwelt in Ez 26,20; 31,14.16; 32 (nicht »Zischtärne«).
+  - agent:ezk031, 2026-11-15
+- **`term:ezk031_forms`** הָמוֹן → **Mängine; schattigem Laub; gnischtet; Platane; Bachtobel; umgfallne Stamm; Usgläsnigschte; Toterych** [medium, decided, by-rule]
+  - gloss: הָמוֹן: הֲמוֹנ֑ (EZK 31:2) — English (generated): his multitude
+  - gloss: חֹרֶשׁ: חֹ֥רֶשׁ (EZK 31:3) — English (generated): the forest
+  - gloss: קִנֵּן: קִֽנְנוּ֙ (EZK 31:6) — English (generated): nested
+  - gloss: עַרְמוֹן: עַרְמֹנִ֥ים (EZK 31:8) — English (generated): the plane trees
+  - gloss: אָפִיק: אֲפִיקֵ֣י (EZK 31:12) — English (generated): ravines
+  - gloss: מַפֶּלֶת: מַפַּלְתּ֥ (EZK 31:13) — English (generated): its fallen trunk
+  - gloss: מִבְחָר: מִבְחַ֥ר (EZK 31:16) — English (generated): the choicest
+  - gloss: שְׁאוֹל: שְׁא֨וֹלָ (EZK 31:15) — English (generated): to Sheol
+  - NT: EZK 31:2 *Mängine*
+  - answers: hordes, forest shade, nested, plane trees, ravines, fallen trunk, choice, Sheol
+  - Formen dieses Kapitels.
+  - agent:ezk031, 2026-11-15
+- **`term:jer047_forms`** שַׁעֲטָה → **Stampfe; Reder; schlaf; schnydsch; wund; ruhig; bstellt** [medium, decided, by-rule]
+  - gloss: שַׁעֲטָה: שַֽׁעֲטַת֙ (JER 47:3) — English (generated): of the galloping
+  - gloss: גַּלְגַּל: גַּלְגִּלָּ֑י (JER 47:3) — English (generated): of their wheels
+  - gloss: רִפְיוֹן: רִפְי֖וֹן (JER 47:3) — English (generated): will hang limp
+  - gloss: גָּדַד: תִּתְגּוֹדָֽדִי (JER 47:5) — English (generated): will you gash yourself
+  - gloss: גָּדַד: תִּתְגּוֹדָֽדִי (JER 47:5) — English (generated): will you gash yourself
+  - gloss: רָגַע: הֵרָגְעִ֖י (JER 47:6) — English (generated): cease
+  - gloss: יָעַד: יְעָדָֽ (JER 47:7) — English (generated): He has appointed it
+  - NT: JER 47:3 *Reder*; JER 47:5 *schnydsch*
+  - answers: stamping, wheels, feeble, gash, gash, rest, appointed
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer047, 2026-11-15
+- **`term:isa030_forms`** חָנֵס → **Hanes; Blamasch; umehocket; Trugbilder; Töpferchrueg; Wasserloch; Fahnestange; gwannet; Füürgrueb; Strafstab** [medium, decided, by-rule]
+  - gloss: חָנֵס: חָנֵ֥ס (ISA 30:4) — English (generated): in Hanes
+  - gloss: כְּלִמָּה: כְלִמָּֽה (ISA 30:3) — English (generated): your disgrace
+  - gloss: שֶׁבֶת: שָֽׁבֶת (ISA 30:7) — English (generated): Sits Still
+  - gloss: מַהֲתַלּוֹת: מַהֲתַלּֽוֹת (ISA 30:10) — English (generated): illusions
+  - gloss: נֵבֶל: נֵ֧בֶל (ISA 30:14) — English (generated): jar
+  - gloss: גֶּבֶא: גֶּֽבֶא (ISA 30:14) — English (generated): from a cistern
+  - gloss: תֹּרֶן: תֹּ֨רֶן֙ (ISA 30:17) — English (generated): like a pole
+  - gloss: זָרָה: זֹרֶ֥ה (ISA 30:24) — English (generated): winnowed
+  - gloss: מְדוּרָה: מְדֻרָתָ֗ (ISA 30:33) — English (generated): Its funeral pyre
+  - gloss: מַטֶּה: מַטֵּ֣ה (ISA 30:32) — English (generated): of the rod
+  - NT: ISA 30:33 *Füürgrueb*
+  - answers: hanes, disgrace, sits still, illusions, potter’s jar, cistern, pole, winnowed, pyre, rod of punishment
+  - Formen dieses Kapitels.
+  - agent:isa030, 2026-11-15
+- **`term:ecc005_forms`** נֶדֶר → **Glübd; Bott; Überfluss; Bsitzer** [medium, decided, by-rule]
+  - gloss: נֶדֶר: נֶ֜דֶר (ECC 5:3) — English (generated): a vow
+  - gloss: מַלְאָךְ: מַּלְאָ֔ךְ (ECC 5:5) — English (generated): the messenger
+  - gloss: שָׂבָע: שָּׂבָע֙ (ECC 5:11) — English (generated): but the abundance
+  - gloss: בַּעַל: בְעָלֶ֔י (ECC 5:10) — English (generated): to the owner
+  - NT: ECC 5:3 *Glübd*
+  - answers: vow, messenger, abundance, owner
+  - Formen dieses Kapitels.
+  - agent:ecc005, 2026-11-15
+- **`term:ecc006_forms`** נֵפֶל → **Totgeburt; Gluscht; flüchtige; umeschweift** [medium, decided, by-rule]
+  - gloss: נֵפֶל: נָּֽפֶל (ECC 6:3) — English (generated): that a stillborn child
+  - gloss: נֶפֶשׁ: נֶּ֖פֶשׁ (ECC 6:7) — English (generated): his appetite
+  - gloss: הֶבֶל: הֶבְל֖ (ECC 6:12) — English (generated): his fleeting
+  - gloss: הָלַךְ: הֲלָךְ (ECC 6:9) — English (generated): than the wandering
+  - NT: ECC 6:3 *Totgeburt*
+  - answers: stillborn child, appetite, futile, wandering
+  - Formen dieses Kapitels.
+  - agent:ecc006, 2026-11-15
+- **`term:ecc007_forms`** בַּיִת → **Truurhuus; Salböl; Bstächig; Usflüchte** [medium, decided, by-rule]
+  - gloss: בַּיִת: בֵּֽית (ECC 7:2) — English (generated): a house
+  - gloss: שֶׁמֶן: שֶּׁ֣מֶן (ECC 7:1) — English (generated): perfume
+  - gloss: מַתָּנָה: מַתָּנָֽה (ECC 7:7) — English (generated): and a bribe
+  - gloss: חִשָּׁבוֹן: חִשְּׁבֹנ֥וֹת (ECC 7:29) — English (generated): schemes
+  - NT: ECC 7:2 *Truurhuus*
+  - answers: mourning, ointment, bribe, schemes
+  - Formen dieses Kapitels.
+  - agent:ecc007, 2026-11-15
+- **`term:ezk032_forms`** גִּיחַ → **umegschwaderet; verdräcket; Garn; Kadaver; Zämebruch; Gfolgschaft; Greber; Chriegswaffe; schleipft** [medium, decided, by-rule]
+  - gloss: גִּיחַ: תָּ֣גַח (EZK 32:2) — English (generated): You thrash about
+  - gloss: רפס: תִּרְפֹּ֖ס (EZK 32:2) — English (generated): and muddying
+  - gloss: חֵרֶם: חֶרְמִֽ (EZK 32:3) — English (generated): in My net
+  - gloss: רָמוּת: רָמוּתֶֽ (EZK 32:5) — English (generated): with your remains
+  - gloss: שֶׁבֶר: שִׁבְרְ (EZK 32:9) — English (generated): your destruction
+  - gloss: קָהָל: קְהָלָ֔ (EZK 32:22) — English (generated): company
+  - gloss: קֶבֶר: קִבְרֹתָ֑י (EZK 32:22) — English (generated): her graves
+  - gloss: כְּלִי: כְלֵֽי (EZK 32:27) — English (generated): with their weapons
+  - gloss: מָשַׁךְ: מָשְׁכ֥וּ (EZK 32:20) — English (generated): Let drag her away
+  - NT: EZK 32:2 *umegschwaderet*
+  - answers: thrash about, foul, net, carcass, destruction, company, graves, weapons of war, drag away
+  - Formen dieses Kapitels.
+  - agent:ezk032, 2026-11-15
+- **`term:isa031_forms`** יָרַד → **abegö; verlö; chnurret; flatteret; beschützt; verwirft** [medium, decided, by-rule]
+  - gloss: יָרַד: יֹּרְדִ֤ים (ISA 31:1) — English (generated): to those who go down
+  - gloss: שָׁעַן: יִשָּׁעֵ֑נוּ (ISA 31:1) — English (generated): who rely
+  - gloss: הָגָה: יֶהְגֶּה֩ (ISA 31:4) — English (generated): roaring
+  - gloss: עוּף: עָפ֔וֹת (ISA 31:5) — English (generated): hovering overhead
+  - gloss: גָּנַן: יָגֵ֛ן (ISA 31:5) — English (generated): will protect
+  - gloss: מָאַס: יִמְאָס֗וּ (ISA 31:7) — English (generated): of you will reject
+  - NT: ISA 31:5 *beschützt*
+  - answers: go down, rely, growls, hovering, protect, reject
+  - Formen dieses Kapitels.
+  - agent:isa031, 2026-11-15
+- **`term:ecc008_forms`** מִשְׁלַחַת → **Urloub; vollstreckt; hundertmal; Eid** [medium, decided, by-rule]
+  - gloss: מִשְׁלַחַת: מִשְׁלַ֖חַת (ECC 8:8) — English (generated): can be discharged
+  - gloss: עָשָׂה: נַעֲשָׂ֣ה (ECC 8:11) — English (generated): executed
+  - gloss: מֵאָה: מְאַ֖ת (ECC 8:12) — English (generated): a hundred
+  - gloss: שְׁבוּעָה: שְׁבוּעַ֥ת (ECC 8:2) — English (generated): your oath
+  - NT: ECC 8:8 *Urloub*
+  - answers: discharged, carried out, a hundred, oath
+  - Formen dieses Kapitels.
+  - agent:ecc008, 2026-11-15
+- **`term:jer048_forms`** חֹרֹונָיִם → **Horonajim; Hochebeni; Kerijot; ufgspilt; Ruehm; Madmen; Abstieg; angschtvolle; nachlässig; umgschüttet; Gschmack; Umschütter; Aroer; dervochunnt; jammeret; Bet-Gamul; Bozra; färne; Horn; betrunke; Erbrochene; wälze; oft; schüttlisch; Schlucht; höchmüetig; Überheblechkeit; hochfahrende; drhinder; jammeren; schreien; Wylese; Baumgarte; versiege; Zoar; Schnitt; kehrt; stürzt; erobert; Flüchtlinge; Stirn; Lärmmacher; Bet-Meon; Bet-Diblatajim; verschmättere** [medium, decided, by-rule]
+  - gloss: חֹרֹונָיִם: חֹֽרוֹנָ֑יִם (JER 48:3) — English (generated): from Horonaim
+  - gloss: מִישׁוֹר: מִּישֹׁ֑ר (JER 48:8) — English (generated): and the high plain
+  - gloss: קְרִיּוֹת: קְרִיּ֖וֹת (JER 48:24) — English (generated): Kerioth
+  - gloss: גָּדַל: הִגְדִּ֑יל (JER 48:26) — English (generated): he has magnified himself
+  - gloss: תְּהִלָּה: תְּהִלַּ֣ת (JER 48:2) — English (generated): praise
+  - gloss: מַדְמֵן: מַדְמֵ֣ן (JER 48:2) — English (generated): O Madmen
+  - gloss: מוֹרָד: מוֹרַ֣ד (JER 48:5) — English (generated): on the descent
+  - gloss: צַר: צָרֵ֥י (JER 48:5) — English (generated): of distress
+  - gloss: רְמִיָּה: רְמִיָּ֑ה (JER 48:10) — English (generated): who is remiss
+  - gloss: רִיק: הוּרַ֤ק (JER 48:11) — English (generated): been poured
+  - gloss: טַעַם: טַעְמ (JER 48:11) — English (generated): his flavor
+  - gloss: צָעָה: צֹעִ֖ים (JER 48:12) — English (generated): wanderers
+  - gloss: עֲרֹועֵר: עֲרוֹעֵ֑ר (JER 48:19) — English (generated): of Aroer
+  - gloss: מָלַט: נִמְלָ֔טָה (JER 48:19) — English (generated): or the woman escaping
+  - gloss: יָלַל: הֵילִ֣ילוּ (JER 48:20) — English (generated): Wail
+  - gloss: בֵּית גָּמוּל: בֵּ֥ית (JER 48:23) — English (generated): Beth gamul
+  - gloss: בׇּצְרָה: בָּצְרָ֑ה (JER 48:24) — English (generated): Bozrah
+  - gloss: רָחֹוק: רְחֹק֖וֹת (JER 48:24) — English (generated): those far
+  - gloss: קֶרֶן: קֶ֣רֶן (JER 48:25) — English (generated): The horn
+  - gloss: שָׁכַר: הַשְׁכִּירֻ֕ (JER 48:26) — English (generated): Make him drunk
+  - gloss: קִיא: קִיא֔ (JER 48:26) — English (generated): in his own vomit
+  - gloss: סָפַק: סָפַ֤ק (JER 48:26) — English (generated): will wallow
+  - gloss: דַּי: דֵּ֧י (JER 48:27) — English (generated): whenever
+  - gloss: נוּד: תִּתְנוֹדָֽד (JER 48:27) — English (generated): you shake your head
+  - gloss: פֶּה: פִי (JER 48:28) — English (generated): the mouth
+  - gloss: גֵּאֶה: גֵּאֶ֣ה (JER 48:29) — English (generated): pride
+  - gloss: גֹּבַהּ: גָּבְה֧ (JER 48:29) — English (generated): conceit
+  - gloss: רוּם: רֻ֥ם (JER 48:29) — English (generated): and haughtiness
+  - gloss: כֵּן: כֵ֑ן (JER 48:30)
+  - gloss: יָלַל: אֲיֵלִ֔יל (JER 48:31) — English (generated): I will wail
+  - gloss: זָעַק: אֶזְעָ֑ק (JER 48:31) — English (generated): I will cry out
+  - gloss: בָּצִיר: בְּצִירֵ֖ (JER 48:32) — English (generated): and grape harvest
+  - gloss: כַּרְמֶל: כַּרְמֶ֖ל (JER 48:33) — English (generated): from the orchard
+  - gloss: שָׁבַת: הִשְׁבַּ֔תִּי (JER 48:33) — English (generated): I have stopped
+  - gloss: צֹעַר: צֹּ֨עַר֙ (JER 48:34) — English (generated): from Zoar
+  - gloss: גְּדוּדָה: גְּדֻדֹ֔ת (JER 48:37) — English (generated): is a gash
+  - gloss: פָּנָה: הִפְנָה (JER 48:39) — English (generated): has turned
+  - gloss: דָּאָה: יִדְאֶ֑ה (JER 48:40) — English (generated): swoops down
+  - gloss: תָּפַשׂ: נִתְפָּ֑שָׂה (JER 48:41) — English (generated): seized
+  - gloss: נוּס: נָסִ֑ים (JER 48:45) — English (generated): Those who flee
+  - gloss: פֵּאָה: פְּאַ֣ת (JER 48:45) — English (generated): the foreheads
+  - gloss: שָׁאוֹן: שָׁאֽוֹן (JER 48:45) — English (generated): of tumult
+  - gloss: בֵּית מְעֹון: בֵּ֥ית (JER 48:23) — English (generated): Beth gamul
+  - gloss: בֵּית דִּבְלָתָיִם: בֵּ֖ית (JER 48:22) — English (generated): Beth diblathaim
+  - gloss: נָפַץ: יְנַפֵּֽצוּ (JER 48:12) — English (generated): and shatter
+  - NT: JER 48:2 *Madmen*; JER 48:25 *Horn*; JER 48:3 *Horonajim*; JER 48:19 *Aroer*
+  - answers: Horonaim, plain, Kerioth, magnified, praise, Madmen, descent, anguished, slackness, emptied, taste, pourers, Aroer, escaping, wail, Beth-gamul, Bozrah, far, horn, drunk, vomit, wallow, often, shook, mouth of cave, proud, loftiness, haughtiness, boasts, wail, cry out, vintage, fruitful land, stopped, Zoar, gashes, turned, swoop, seized, fugitives, forehead, tumult, Beth-meon, Beth-diblathaim, smash
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer048, 2026-11-15
+- **`term:ecc009_forms`** מֵרוֹץ → **Wettlouf; Zuefall; Belagerigswärk; Chriegswaffe** [medium, decided, by-rule]
+  - gloss: מֵרוֹץ: מֵּר֜וֹץ (ECC 9:11) — English (generated): The race
+  - gloss: פֶּגַע: פֶ֖גַע (ECC 9:11) — English (generated): and chance
+  - gloss: מָצוֹד: מְצוֹדִ֥ים (ECC 9:14) — English (generated): siege ramps
+  - gloss: כְּלִי: כְּלֵ֣י (ECC 9:18) — English (generated): than weapons
+  - NT: ECC 9:11 *Wettlouf*
+  - answers: race, chance, siegeworks, weapons
+  - Formen dieses Kapitels.
+  - agent:ecc009, 2026-11-15
+- **`term:isa032_forms`** נָדִיב → **edel; Halungg; Vorschnälle; Stammler; Irrtüemer; ungstillt; sorglose; Burghoger** [medium, decided, by-rule]
+  - gloss: נָדִיב: נָדִ֑יב (ISA 32:5) — English (generated): noble
+  - gloss: כִּילַי: כִילַ֕י (ISA 32:5) — English (generated): a scoundrel
+  - gloss: מָהַר: נִמְהָרִ֖ים (ISA 32:4) — English (generated): of the rash
+  - gloss: עִלֵּג: עִלְּגִ֔ים (ISA 32:4) — English (generated): and the stammering
+  - gloss: תּוֹעָה: תּוֹעָ֔ה (ISA 32:6) — English (generated): falsely
+  - gloss: רִיק: הָרִיק֙ (ISA 32:6) — English (generated): empty
+  - gloss: שַׁאֲנָן: שַֽׁאֲנַנּ֔וֹת (ISA 32:9) — English (generated): you complacent
+  - gloss: עֹפֶל: עֹ֣פֶל (ISA 32:14) — English (generated): The hill
+  - NT: ISA 32:5 *Halungg*
+  - answers: noble, scoundrel, rash, stammerers, error, unsatisfied, complacent, hill
+  - Formen dieses Kapitels.
+  - agent:isa032, 2026-11-15
+- **`term:ecc010_forms`** זְבוּב → **Flöige; Salbemischer; Beschwörer; Gebälk** [medium, decided, by-rule]
+  - gloss: זְבוּב: זְב֣וּבֵי (ECC 10:1) — English (generated): flies
+  - gloss: רָקַח: רוֹקֵ֑חַ (ECC 10:1) — English (generated): to the perfumer s
+  - gloss: בַּעַל: בַ֖עַל (ECC 10:11) — English (generated): for the charmer
+  - gloss: מְקָרֶה: מְּקָרֶ֑ה (ECC 10:18) — English (generated): the roof
+  - NT: ECC 10:1 *Flöige*
+  - answers: flies, perfumer, charmer, roof
+  - Formen dieses Kapitels.
+  - agent:ecc010, 2026-11-15
+- **`term:ezk033_forms`** נָתַן → **ystellt; ewäggrafft; umchehre; Pfand zrüggit; groubt; Höline; veröidet; Huustüre; Liebeslied; schöntue** [medium, decided, by-rule]
+  - gloss: נָתַן: נָתְנ֥וּ (EZK 33:2) — English (generated): appointing
+  - gloss: לָקַח: נִלְקָ֔ח (EZK 33:6) — English (generated): will be taken away
+  - gloss: שׁוּב: שׁ֣וּב (EZK 33:9) — English (generated): to turn
+  - gloss: שׁוּב: יָשִׁ֤יב (EZK 33:15) — English (generated): restores
+  - gloss: גְּזֵלָה: גְּזֵלָ֣ה (EZK 33:15) — English (generated): for what he has stolen
+  - gloss: מְעָרָה: מְּעָר֖וֹת (EZK 33:27) — English (generated): and caves
+  - gloss: שָׁמֵם: שָֽׁמְמ֛וּ (EZK 33:28) — English (generated): will become desolate
+  - gloss: פֶּתַח: פִתְחֵ֖י (EZK 33:30) — English (generated): and in the doorways
+  - gloss: שִׁיר: שִׁ֣יר (EZK 33:32) — English (generated): songs
+  - gloss: עֲגָבִים: עֲגָבִ֤ים (EZK 33:31) — English (generated): love
+  - NT: EZK 33:2 *ystellt*
+  - answers: set, taken away, turn, returns pledge, robbery, caves, desolate, doorways, love song, passion
+  - Formen dieses Kapitels.
+  - agent:ezk033, 2026-11-15
+- **`term:jer049_forms`** עָמֹק → **töif; Wind; Besitz; klaget; liesse; Nachlese; verbreitisch; Hubel; bsetzisch; bousch; erschrickt; pfyft; Nachbarstedt; ufechunnt; erbebt; verzagt; Unrue; gpackt; Zältdecke; usdänkt; Raub; gstutzte; versprängte; Ai; Wylese** [medium, decided, by-rule]
+  - gloss: עָמֹק: הֶעְמִ֣יקוּ (JER 49:8) — English (generated): low
+  - gloss: רוּחַ: רוּח֗וֹת (JER 49:36) — English (generated): winds
+  - gloss: יָרַשׁ: יָרַ֤שׁ (JER 49:1) — English (generated): taken possession
+  - gloss: סָפַד: סְפֹ֕דְנָה (JER 49:3) — English (generated): and mourn
+  - gloss: שָׁאַר: יַשְׁאִ֖רוּ (JER 49:9) — English (generated): leave
+  - gloss: עֹלֵלוֹת: עֽוֹלֵל֑וֹת (JER 49:9) — English (generated): some gleanings
+  - gloss: תִּפְלֶצֶת: תִּֽפְלַצְתְּ (JER 49:16) — English (generated): The terror you cause
+  - gloss: גִּבְעָה: גִּבְעָ֑ה (JER 49:16) — English (generated): of the mountain
+  - gloss: תָּפַשׂ: תֹּפְשִׂ֖י (JER 49:16) — English (generated): O occupiers
+  - gloss: גָּבַהּ: תַגְבִּ֤יהַ (JER 49:16) — English (generated): you elevate
+  - gloss: שָׁמֵם: יִשֹּׁ֥ם (JER 49:17) — English (generated): will be appalled
+  - gloss: שָׁרַק: יִשְׁרֹ֖ק (JER 49:17) — English (generated): and will scoff
+  - gloss: שָׁכֵן: שְׁכֵנֶ֖י (JER 49:18) — English (generated): along with their neighbors
+  - gloss: עָלָה: יַעֲלֶ֨ה (JER 49:19) — English (generated): one will come up
+  - gloss: רָעַשׁ: רָעֲשָׁ֖ה (JER 49:21) — English (generated): will quake
+  - gloss: מוּג: נָמֹ֑גוּ (JER 49:23) — English (generated): they are agitated
+  - gloss: דְּאָגָה: דְּאָגָ֔ה (JER 49:23) — English (generated): their anxiety
+  - gloss: אָחַז: אֲחָזַ֖תָּ (JER 49:24) — English (generated): have seized her
+  - gloss: יְרִיעָה: יְרִיעוֹתֵי (JER 49:29) — English (generated): their tent curtains
+  - gloss: חָשַׁב: חָשַׁ֥ב (JER 49:30) — English (generated): he has devised
+  - gloss: שָׁלָל: שָׁלָ֔ל (JER 49:32) — English (generated): will be spoil
+  - gloss: קָצַץ: קְצוּצֵ֣י (JER 49:32) — English (generated): those who shave
+  - gloss: נָדַח: נִדְּחֵ֥י (JER 49:36) — English (generated): exiles
+  - gloss: עַי: עַ֗י (JER 49:3) — English (generated): Ai
+  - gloss: בָּצַר: בֹּֽצְרִים֙ (JER 49:9) — English (generated): grape gatherers
+  - NT: JER 49:3 *Ai*; JER 49:36 *Wind*; JER 49:16 *Hubel*; JER 49:9 *Nachlese*
+  - answers: deep, winds, possession, lament, leave, gleanings, terror, hill, occupy, make high, appalled, hiss, neighbors, coming up, tremble, disheartened, troubled, taken hold, tent curtains, devised, spoil, cut, exiles, Ai, grape-gatherers
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer049, 2026-11-15
+- **`term:ecc011_forms`** מָלֵא → **Schwangere; Unglück; grat; Jugend** [medium, decided, by-rule]
+  - gloss: מָלֵא: מְּלֵאָ֑ה (ECC 11:5) — English (generated): in a mother s
+  - gloss: רָעָה: רָעָ֖ה (ECC 11:2) — English (generated): disaster
+  - gloss: כָּשֵׁר: יִכְשָׁר֙ (ECC 11:6) — English (generated): will succeed
+  - gloss: יַלְדוּת: יַלְדוּתֶ֗י (ECC 11:9) — English (generated): while you are young
+  - NT: ECC 11:5 *Schwangere*
+  - answers: pregnant, disaster, succeed, youth
+  - Formen dieses Kapitels.
+  - agent:ecc011, 2026-11-15
+- **`term:isa033_forms`** שָׁדַד → **Verwüeschter; Verräter; Heugümper; Fridesbote; Füürgluete; Bärgfeschtige; Ruederschiff** [medium, decided, by-rule]
+  - gloss: שָׁדַד: שׁוֹדֵ֗ד (ISA 33:1) — English (generated): O destroyer
+  - gloss: בָּגַד: בוֹגֵ֖ד (ISA 33:1) — English (generated): O traitor
+  - gloss: חָסִיל: חָסִ֑יל (ISA 33:4) — English (generated): as by locusts
+  - gloss: מַלְאָךְ: מַלְאֲכֵ֣י (ISA 33:7) — English (generated): the envoys
+  - gloss: מוֹקֵד: מוֹקְדֵ֥י (ISA 33:14) — English (generated): flames
+  - gloss: מְצָד: מְצָד֥וֹת (ISA 33:16) — English (generated): fortress
+  - gloss: אֳנִי: אֳנִי (ISA 33:21) — English (generated): galley
+  - NT: ISA 33:21 *Ruederschiff*
+  - answers: destroyer, traitor, caterpillar, envoys of peace, burnings, fortresses, galley
+  - Formen dieses Kapitels.
+  - agent:isa033, 2026-11-15
+- **`term:ecc012_forms`** טֹחֲנֹות → **Müllerinne; Mandelboum; Kaper; Stachle** [medium, decided, by-rule]
+  - gloss: טֹחֲנֹות: טֹּֽחֲנוֹת֙ (ECC 12:3) — English (generated): when those grinding
+  - gloss: שָׁקֵד: שָּׁקֵד֙ (ECC 12:5) — English (generated): when the almond tree
+  - gloss: אֲבִיּוֹנָה: אֲבִיּוֹנָ֑ה (ECC 12:5) — English (generated): and the caper berry
+  - gloss: דָּרְבֹן: דָּ֣רְבֹנ֔וֹת (ECC 12:11) — English (generated): are like goads
+  - NT: ECC 12:3 *Müllerinne*
+  - answers: grinders, almond tree, desire, goads
+  - Formen dieses Kapitels.
+  - agent:ecc012, 2026-11-15
+- **`term:H6629_flock_shepherd`** צֹאן → **Schaf; Härde** [high, decided, by-rule]
+  - gloss: צֹאן: צֹאנִ (EZK 34:6) — English (generated): My flock
+  - gloss: הַ: הַ (EZK 34:2) — English (generated): Should not
+  - NT: EZK 34:6 *Schaf*
+  - answers: flock (shepherd image)
+  - צֹאן im Hirtenbild (Ez 34): »Schaf«, »Härde«; nicht »Chlyveh«.
+  - agent:ezk034, 2026-11-15
+- **`term:ezk034_forms`** בָּרִיא → **Mastveh; gstercht; Versprengte; Verletzte; umeirrt; Weidplatz; abweidet; vertrappe; Geissböck; versklavt; Herti** [medium, decided, by-rule]
+  - gloss: בָּרִיא: בְּרִיאָ֖ה (EZK 34:3) — English (generated): the fattened sheep
+  - gloss: חָזַק: חִזַּקְתֶּ֜ם (EZK 34:4) — English (generated): strengthened
+  - gloss: נָדַח: נִּדַּ֨חַת֙ (EZK 34:4) — English (generated): the strays
+  - gloss: שָׁבַר: נִּשְׁבֶּ֨רֶת֙ (EZK 34:4) — English (generated): the injured
+  - gloss: שָׁגָה: יִשְׁגּ֤וּ (EZK 34:6) — English (generated): went astray
+  - gloss: נָוֶה: נָ֣וֶה (EZK 34:14) — English (generated): grazing land
+  - gloss: רָעָה: תִּרְע֔וּ (EZK 34:18) — English (generated): you to feed on
+  - gloss: רָמַס: תִּרְמְס֖וּ (EZK 34:18) — English (generated): Must you also trample
+  - gloss: עַתּוּד: עַתּוּדִֽים (EZK 34:17) — English (generated): and the goats
+  - gloss: עָבַד: עֹבְדִ֥ים (EZK 34:27) — English (generated): that enslaved
+  - gloss: פֶּרֶךְ: פָֽרֶךְ (EZK 34:4) — English (generated): and cruelty
+  - NT: EZK 34:3 *Mastveh*
+  - answers: fat ones, strengthened, strays, injured, wandered, grazing land, feed on, trample, goats, enslaved, harshness
+  - Formen dieses Kapitels.
+  - agent:ezk034, 2026-11-15
+- **`term:jer050_forms`** דּוֹר → **Gschlächt; Fäldzeiche; verschwyget; Bel; Verloreni; Rueplatz; zrüggchunnt; Drösche; beschämt; dürs; schiesset; sparet; Erhebet; ygrisse; Sääjer; versprängts; abgnagt; Meratajim; Pekod; vollstreck; Waffechammer; Garbehüüffe; vollstrecket; Flüchtigi; frech; Übermüetige; stolperet; Nachdruck; Narre; uströchne; Schreckgstalte; verruckt; Strusse; grausam; Merodach** [medium, decided, by-rule]
+  - gloss: דּוֹר: דּ֥וֹר (JER 50:39) — English (generated): generation
+  - gloss: נֵס: נֵ֔ס (JER 50:2) — English (generated): a banner
+  - gloss: כָּחַד: תְּכַחֵ֑דוּ (JER 50:2) — English (generated): hold
+  - gloss: בֵּל: בֵּל֙ (JER 50:2) — English (generated): Bel
+  - gloss: אָבַד: אֹֽבְדוֹת֙ (JER 50:6) — English (generated): lost
+  - gloss: רֵבֶץ: רִבְצָֽ (JER 50:6) — English (generated): their resting place
+  - gloss: שׁוּב: יָשׁ֖וּב (JER 50:9) — English (generated): return
+  - gloss: דושׁ: דָשָׁ֔ה (JER 50:11) — English (generated): treading grain
+  - gloss: חָפֵר: חָפְרָ֖ה (JER 50:12) — English (generated): will be disgraced
+  - gloss: צִיָּה: צִיָּ֥ה (JER 50:12) — English (generated): a dry land
+  - gloss: יָדָה: יְד֣וּ (JER 50:14) — English (generated): Shoot
+  - gloss: חָמַל: תַּחְמְל֖וּ (JER 50:14) — English (generated): Spare
+  - gloss: רוּעַ: הָרִ֨יעוּ (JER 50:15) — English (generated): Raise a war cry
+  - gloss: הָרַס: נֶהֶרְס֖וּ (JER 50:15) — English (generated): are torn down
+  - gloss: זָרַע: זוֹרֵ֨עַ֙ (JER 50:16) — English (generated): the sower
+  - gloss: פָּזַר: פְזוּרָ֛ה (JER 50:17) — English (generated): is a scattered
+  - gloss: עָצֹם: עִצְּמ֔ (JER 50:17) — English (generated): to crush his bones
+  - gloss: מְרָתַיִם: מְרָתַ֨יִם֙ (JER 50:21) — English (generated): of Merathaim
+  - gloss: פְּקוֹד: פְּק֑וֹד (JER 50:21) — English (generated): of Pekod
+  - gloss: חָרַם: הַחֲרֵ֤ם (JER 50:21) — English (generated): and devote them to destruction
+  - gloss: אוֹצָר: א֣וֹצָר֔ (JER 50:25) — English (generated): His armory
+  - gloss: עֲרֵמָה: עֲרֵמִ֖ים (JER 50:26) — English (generated): mounds of grain
+  - gloss: חָרַם: הַחֲרִימ֑וּ (JER 50:26) — English (generated): Devote her to destruction
+  - gloss: נוּס: נָסִ֛ים (JER 50:28) — English (generated): the fugitives
+  - gloss: זִיד: זָ֖דָה (JER 50:29) — English (generated): she has defied
+  - gloss: זָדוֹן: זָד֔וֹן (JER 50:31) — English (generated): O arrogant one
+  - gloss: כָּשַׁל: כָשַׁ֤ל (JER 50:32) — English (generated): will stumble
+  - gloss: רִיב: רִ֥יב (JER 50:34) — English (generated): He will fervently plead
+  - gloss: יָאַל: נֹאָ֑לוּ (JER 50:36) — English (generated): and they will become fools
+  - gloss: יָבֵשׁ: יָבֵ֑שׁוּ (JER 50:38) — English (generated): and they will be dried up
+  - gloss: אֵימָה: אֵימִ֖ים (JER 50:38) — English (generated): over idols
+  - gloss: הָלַל: יִתְהֹלָֽלוּ (JER 50:38) — English (generated): and go mad
+  - gloss: יַעֲנָה: יַֽעֲנָ֑ה (JER 50:39) — English (generated): and ostriches
+  - gloss: אַכְזָרִי: אַכְזָרִ֥י (JER 50:42) — English (generated): cruel
+  - gloss: מְרֹדָךְ: מְרֹדָ֔ךְ (JER 50:2) — English (generated): Marduk
+  - NT: JER 50:2 *Bel*; JER 50:2 *Merodach*; JER 50:21 *Meratajim*; JER 50:21 *Pekod*
+  - answers: generation, banner, conceal, Bel, lost, resting place, return, threshing, disgraced, dry, shoot, spare, raise war cry, torn down, sower, scattered, gnawed, Merathaim, Pekod, destroy completely, armory, heaps of grain, destroy completely, fugitives, defied, arrogant, stumble, defend, fools, dried up, idols, go mad, ostriches, cruel, Marduk
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer050, 2026-11-15
+- **`term:ezk035_forms`** הַר → **Bärgland; uralti Findschaft; usgliferet; Lästerige; grossi Wort gmacht** [medium, decided, by-rule]
+  - gloss: הַר: הַ֣ר (EZK 35:2) — English (generated): Mount
+  - gloss: אֵיבָה: אֵיבַ֣ת (EZK 35:5) — English (generated): hatred
+  - gloss: נָגַר: תַּגֵּ֥ר (EZK 35:5) — English (generated): and delivered
+  - gloss: נֶאָצָה: נָאָֽצוֹתֶ֗י (EZK 35:12) — English (generated): contemptuous word
+  - gloss: גָּדַל: תַּגְדִּ֤ילוּ (EZK 35:13) — English (generated): You boasted
+  - NT: EZK 35:2 *Bärgland*
+  - answers: mount, ancient enmity, gave over, revilings, magnified
+  - Formen dieses Kapitels.
+  - agent:ezk035, 2026-11-15
+- **`term:jer051_forms`** סָגָן → **Vorstehr; vergiltet; gheilt; Fäldzeiche; ystige; Leb-Kamai; verschonet; vollstrecket; Dürbohrti; verwitwet; verruckt; Holet; Schärfet; verstärchet; Hinderhält; Siegesruef; dezue; Chriegswärchzüg; verderben; Wagefüerer; Gspann; trööle; usbrönnte; Eggstei; Ararat; Minni; Aschkenas; Fäldherr; struppigi; windet; Schilfdickicht; feschtstampft; verwirrt; Lecherbisse; usegspöit; ataa; Rächtsstrit; Steihüüffe; hitzig; Scheschach; dürs; Bel; ströme; verzage; herrscht; jutze; Beschimpfige; Verwundete; stercht; ertönt; Vergältig; Gleerte; breite; gschleift; Quartiermeischter; vorlisisch; wellisch; bind; rüehr; versinkt; Feschtässe; Schafböck; Wonige** [medium, decided, by-rule]
+  - gloss: סָגָן: סְגָנִֽים (JER 51:23) — English (generated): and officials
+  - gloss: שָׁלֵם: מְשַׁלֵּ֖ם (JER 51:6) — English (generated): will pay
+  - gloss: רָפָא: נִרְפָּ֔תָה (JER 51:9) — English (generated): be healed
+  - gloss: נֵס: נֵ֗ס (JER 51:12) — English (generated): a banner
+  - gloss: יָשֵׁן: יָשְׁנ֥וּ (JER 51:39) — English (generated): then they will fall asleep
+  - gloss: לֵב: לֵ֣ב (JER 51:1) — English (generated): of Leb kamai
+  - gloss: חָמַל: תַּחְמְלוּ֙ (JER 51:3) — English (generated): spare
+  - gloss: חָרַם: הַחֲרִ֖ימוּ (JER 51:3) — English (generated): devote
+  - gloss: דָּקַר: מְדֻקָּרִ֖ים (JER 51:4) — English (generated): and pierced through
+  - gloss: אַלְמָן: אַלְמָ֨ן (JER 51:5) — English (generated): been abandoned
+  - gloss: הָלַל: יִתְהֹלְל֥וּ (JER 51:7) — English (generated): have gone mad
+  - gloss: לָקַח: קְח֤וּ (JER 51:8) — English (generated): get her
+  - gloss: בָּרַר: הָבֵ֣רוּ (JER 51:11) — English (generated): Sharpen
+  - gloss: חָזַק: הַחֲזִ֨יקוּ֙ (JER 51:12) — English (generated): post
+  - gloss: אָרַב: אֹֽרְבִ֑ים (JER 51:12) — English (generated): the ambush
+  - gloss: הֵידָד: הֵידָֽד (JER 51:14)
+  - gloss: וְ: וְ (JER 51:19) — English (generated): and of the tribe
+  - gloss: כְּלִי: כְּלֵ֖י (JER 51:20) — English (generated): My weapon
+  - gloss: שָׁחַת: הִשְׁחַתִּ֥י (JER 51:20) — English (generated): to ruin
+  - gloss: רָכַב: רֹכְבֽ (JER 51:21) — English (generated): and rider
+  - gloss: צֶמֶד: צִמְדּ֑ (JER 51:23) — English (generated): and his oxen
+  - gloss: גָּלַל: גִלְגַּלְתִּ֨י (JER 51:25) — English (generated): I will roll you
+  - gloss: שְׂרֵפָה: שְׂרֵפָֽה (JER 51:25) — English (generated): into a charred
+  - gloss: פִּנָּה: פִנָּ֔ה (JER 51:26)
+  - gloss: אֲרָרַט: אֲרָרַ֖ט (JER 51:27) — English (generated): Ararat
+  - gloss: מִנִּי: מִנִּ֣י (JER 51:27) — English (generated): Minni
+  - gloss: אַשְׁכְּנַז: אַשְׁכְּנָ֑ז (JER 51:27) — English (generated): and Ashkenaz
+  - gloss: טִפְסָר: טִפְסָ֔ר (JER 51:27) — English (generated): a captain
+  - gloss: סָמָר: סָמָֽר (JER 51:27) — English (generated): like swarming
+  - gloss: חוּל: תָּחֹ֑ל (JER 51:29) — English (generated): and writhes
+  - gloss: אֲגַם: אֲגַמִּ֖ים (JER 51:32) — English (generated): the marshes
+  - gloss: דָּרַךְ: הִדְרִיכָ֑ (JER 51:33) — English (generated): it is trampled
+  - gloss: הָמַם: הֲמָמַ֗ (JER 51:34) — English (generated): he has crushed me
+  - gloss: עֵדֶן: עֲדָנָ֑ (JER 51:34) — English (generated): with my delicacies
+  - gloss: דּוּחַ: הֱדִיחָֽ (JER 51:34) — English (generated): vomited me out
+  - gloss: חָמָס: חֲמָסִ֤ (JER 51:35) — English (generated): May the violence done to me
+  - gloss: רִיב: רִיבֵ֔ (JER 51:36) — English (generated): your case
+  - gloss: גַּל: גַלִּ֧ים (JER 51:37) — English (generated): a heap of rubble
+  - gloss: חמם: חֻמָּ֞ (JER 51:39) — English (generated): While they are flushed with heat
+  - gloss: שֵׁשַׁךְ: שֵׁשַׁ֔ךְ (JER 51:41) — English (generated): Sheshach
+  - gloss: צִיָּה: צִיָּ֣ה (JER 51:43) — English (generated): a dry
+  - gloss: בֵּל: בֵּ֜ל (JER 51:44) — English (generated): Bel
+  - gloss: נָהַר: יִנְהֲר֥וּ (JER 51:44) — English (generated): stream
+  - gloss: רָכַךְ: יֵרַ֤ךְ (JER 51:46) — English (generated): grow faint
+  - gloss: מָשַׁל: מֹשֵׁ֖ל (JER 51:46) — English (generated): and of ruler
+  - gloss: רָנַן: רִנְּנ֤וּ (JER 51:48) — English (generated): will shout for joy
+  - gloss: חֶרְפָּה: חֶרְפָּ֔ה (JER 51:51) — English (generated): reproach
+  - gloss: חָלָל: חָלָֽל (JER 51:52) — English (generated): the wounded
+  - gloss: בָּצַר: תְבַצֵּ֖ר (JER 51:53) — English (generated): and fortifies
+  - gloss: נָתַן: נִתַּ֥ן (JER 51:55) — English (generated): will resound
+  - gloss: גְּמוּלָה: גְּמֻל֛וֹת (JER 51:56) — English (generated): of retribution
+  - gloss: חָכָם: חֲכָמֶ֜י (JER 51:57) — English (generated): and wise men
+  - gloss: רָחָב: רְחָבָה֙ (JER 51:58) — English (generated): thick
+  - gloss: עָרַר: עַרְעֵ֣ר (JER 51:58) — English (generated): will be leveled
+  - gloss: שַׂר: שַׂ֥ר (JER 51:59)
+  - gloss: קָרָא: קָרָ֔אתָ (JER 51:61) — English (generated): aloud
+  - gloss: לְ: לְ (JER 51:62) — English (generated): to cut off
+  - gloss: קָשַׁר: תִּקְשֹׁ֤ר (JER 51:63) — English (generated): tie
+  - gloss: שָׁלַךְ: הִשְׁלַכְתּ֖ (JER 51:63) — English (generated): and cast it
+  - gloss: שָׁקַע: תִּשְׁקַ֨ע (JER 51:64) — English (generated): will sink
+  - gloss: מִשְׁתֶּה: מִשְׁתֵּי (JER 51:39) — English (generated): a feast
+  - gloss: אַיִל: אֵילִ֖ים (JER 51:40) — English (generated): like rams
+  - gloss: מִשְׁכָּן: מִשְׁכְּנֹתֶ֖י (JER 51:30) — English (generated): Babylon s homes
+  - NT: JER 51:1 *Leb-Kamai*; JER 51:41 *Scheschach*; JER 51:27 *Ararat*; JER 51:27 *Minni*
+  - answers: officials, pay, healed, banner, sleep, Leb-kamai, spare, destroy completely, pierced through, forsaken, went mad, get, sharpen, make strong, ambushes, shout of victory, including, weapon, destroy, rider, team, roll down, burned-out, corner, Ararat, Minni, Ashkenaz, marshal, bristling, writhes, marshes, trampled, crushed, delicacies, spewed out, violence, cause, heap of ruins, inflamed, Sheshach, dry, Bel, stream, fainthearted, ruler, shout for joy, insults, wounded, fortify, resounds, recompense, wise, broad, level, resting place, read aloud, threatened, tie, throw, sink, feast, goats, dwelling places
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer051, 2026-11-15
+- **`term:isa034_forms`** גָּלַל → **zämegrollt; troolet; Sänkblei; Bocksgeischt; Nachtgspängscht; Pfylnatere; Gspane** [medium, decided, by-rule]
+  - gloss: גָּלַל: נָגֹ֥לּוּ (ISA 34:4) — English (generated): will be rolled up
+  - gloss: נָבֵל: יִבּ֔וֹל (ISA 34:4) — English (generated): will fall
+  - gloss: אֶבֶן: אַבְנֵי (ISA 34:11) — English (generated): and a plumb line
+  - gloss: שָׂעִיר: שָׂעִ֖יר (ISA 34:14) — English (generated): and one wild goat
+  - gloss: לִילִית: לִּילִ֔ית (ISA 34:14) — English (generated): the night creature
+  - gloss: קִפּוֹז: קִפּוֹז֙ (ISA 34:15) — English (generated): the owl will
+  - gloss: רְעוּת: רְעוּתָֽ (ISA 34:15) — English (generated): with its mate
+  - NT: ISA 34:14 *Nachtgspängscht*
+  - answers: rolled up, fall, plumb line, wild goat, night creature, owl, mate
+  - Formen dieses Kapitels.
+  - agent:isa034, 2026-11-15
+- **`term:jer052_forms`** מָוֶת → **Todestag; purem; Flächtwärch; Underhalt; einezwänzg; zerstreut; nünzähte; Räbbuure; Ackerbuure; furtgschleppt; Füürpfanne; Trankopferschale; Achtzäh; Dicki; bronzigs; sächsenüünzg; Chriegsdienscht; ufbbote; dreituusig; achtzähte; achthundert; drüezwänzigschte; viertuusig; sibenedryssigschte; füfezwänzigschte; begnadiget; Gfangenechleider; Pärsone; Jirmeja** [medium, decided, by-rule]
+  - gloss: מָוֶת: מוֹתֽ (JER 52:11) — English (generated): his dying
+  - gloss: זָהָב: זָהָב֙ (JER 52:19) — English (generated): pure gold
+  - gloss: שְׂבָכָה: שְׂבָכָ֨ה (JER 52:22) — English (generated): with a network
+  - gloss: אֲרֻחָה: אֲרֻחָת֗ (JER 52:34) — English (generated): provided
+  - gloss: עֶשְׂרִים: עֶשְׂרִ֨ים (JER 52:1) — English (generated): was twenty one
+  - gloss: פּוּץ: נָפֹ֖צוּ (JER 52:8) — English (generated): deserted
+  - gloss: תֵּשַׁע: תְּשַֽׁע (JER 52:12) — English (generated): in the nineteenth
+  - gloss: כָּרַם: כֹרְמִ֖ים (JER 52:16) — English (generated): to tend the vineyards
+  - gloss: יָגַב: יֹגְבִֽים (JER 52:16) — English (generated): and fields
+  - gloss: נָשָׂא: יִּשְׂא֥וּ (JER 52:17) — English (generated): and they carried
+  - gloss: מַחְתָּה: מַּחְתּ֨וֹת (JER 52:19) — English (generated): censers
+  - gloss: מְנַקִּית: מְּנַקִי֔וֹת (JER 52:19) — English (generated): and drink offering bowls
+  - gloss: שְׁמֹנֶה: שְׁמֹנֶ֨ה (JER 52:21) — English (generated): eighteen
+  - gloss: עֲבִי: עָבְי֛ (JER 52:21) — English (generated): thick
+  - gloss: נְחֹשֶׁת: נְחֹ֗שֶׁת (JER 52:22) — English (generated): The bronze
+  - gloss: תֵּשַׁע: תִּשְׁעִ֥ים (JER 52:23) — English (generated): ninety six
+  - gloss: מִלְחָמָה: מִּלְחָמָ֗ה (JER 52:25) — English (generated): of war
+  - gloss: צָבָא: מַּצְבִּ֖א (JER 52:25) — English (generated): who had enlisted
+  - gloss: שָׁלֹשׁ: שְׁלֹ֥שֶׁת (JER 52:28)
+  - gloss: שְׁמֹנֶה: שְׁמוֹנֶ֥ה (JER 52:29) — English (generated): eighteenth
+  - gloss: שְׁמֹנֶה: שְׁמֹנֶ֥ה (JER 52:29)
+  - gloss: שָׁלֹשׁ: שָׁלֹ֣שׁ (JER 52:30) — English (generated): twenty third
+  - gloss: אַרְבַּע: אַרְבַּ֥עַת (JER 52:30)
+  - gloss: שָׁלֹשׁ: שְׁלֹשִׁ֨ים (JER 52:31) — English (generated): of the thirty seventh
+  - gloss: עֶשְׂרִים: עֶשְׂרִ֥ים (JER 52:31) — English (generated): On the twenty fifth
+  - gloss: נָשָׂא: נָשָׂ֡א (JER 52:31) — English (generated): he pardoned
+  - gloss: כֶּלֶא: כִלְא֑ (JER 52:33) — English (generated): out of his prison
+  - gloss: נֶפֶשׁ: נֶ֕פֶשׁ (JER 52:29) — English (generated): people
+  - gloss: יִרְמְיָהוּ: יִרְמְיָ֖הוּ (JER 52:1) — English (generated): of Jeremiah
+  - NT: JER 52:1 *Jirmeja*; JER 52:19 *Trankopferschale*
+  - answers: death, pure, network, allowance, twenty-one, scattered, nineteenth, vinedressers, farmers, carried, firepans, drink offering bowls, eighteen, thickness, bronze, ninety-six, army, mustered, three thousand, eighteenth, eight hundred, twenty-third, four thousand, thirty-seventh, twenty-fifth, lifted up, prison clothes, persons, Jeremiah
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:jer052, 2026-11-15
+- **`term:lam001_forms`** יָגָה → **betrüebt; Unreinem; eleini; Fürschtin; Fronarbeitere; Hirsche; Unreinheit; Söim; abegstürzt; verbygöt; zrüggtribe; feschtbunde; zämegflochte; zerschmättere; verlasse; Inneres; süüfze; aagchündet; gehrt; Blössi** [medium, decided, by-rule]
+  - gloss: יָגָה: נּוּג֖וֹת (LAM 1:4) — English (generated): grieve
+  - gloss: נִדָּה: נִידָ֣ה (LAM 1:8) — English (generated): an object of scorn
+  - gloss: בָּדָד: בָדָ֗ד (LAM 1:1) — English (generated): lonely
+  - gloss: שָׂרָה: שָׂרָ֨תִי֙ (LAM 1:1) — English (generated): The princess
+  - gloss: מַס: מַֽס (LAM 1:1) — English (generated): a slave
+  - gloss: אַיָּל: אַיָּלִים֙ (LAM 1:6) — English (generated): like deer
+  - gloss: טֻמְאָה: טֻמְאָתָ֣ (LAM 1:9) — English (generated): Her uncleanness
+  - gloss: שׁוּל: שׁוּלֶ֗י (LAM 1:9) — English (generated): stains her skirts
+  - gloss: יָרַד: תֵּ֣רֶד (LAM 1:9) — English (generated): Her downfall
+  - gloss: עָבַר: עֹ֣בְרֵי (LAM 1:12) — English (generated): you who pass by
+  - gloss: שׁוּב: הֱשִׁיבַ֣ (LAM 1:13) — English (generated): and turned me
+  - gloss: שָׂקַד: נִשְׂקַד֩ (LAM 1:14) — English (generated): are bound into
+  - gloss: שָׂרַג: יִשְׂתָּֽרְג֛וּ (LAM 1:14) — English (generated): knit together
+  - gloss: שָׁבַר: שְׁבֹּ֣ר (LAM 1:15) — English (generated): to crush
+  - gloss: שָׁמֵם: שֽׁוֹמֵמִ֔ים (LAM 1:16) — English (generated): destitute
+  - gloss: מֵעִים: מֵעַ֣ (LAM 1:20) — English (generated): within
+  - gloss: אָנַח: נֶאֱנָחָ֣ה (LAM 1:21) — English (generated): groaning
+  - gloss: קָרָא: קָרָ֖אתָ (LAM 1:21) — English (generated): You have announced
+  - gloss: כָּבֵד: מְכַבְּדֶ֤י (LAM 1:8) — English (generated): who honored her
+  - gloss: עֶרְוָה: עֶרְוָתָ֔ (LAM 1:8) — English (generated): her nakedness
+  - NT: LAM 1:1 *Fürschtin*; LAM 1:1 *Fronarbeitere*; LAM 1:9 *Söim*
+  - answers: grieve, unclean, lonely, princess, forced laborer, deer, uncleanness, skirts, downfall, pass by, turned back, bound, fastened together, crush, desolate, stomach, groaning, announced, honored, nakedness
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:lam001, 2026-11-15
+- **`term:ezk036_forms`** שָׁאַף → **zertrappet; Höchine; Weidland; beackeret; aagsääit; frissisch; ekelet; verbychöme; befeschtiget; Opfertier** [medium, decided, by-rule]
+  - gloss: שָׁאַף: שָׁאֹ֨ף (EZK 36:3) — English (generated): and have trampled
+  - gloss: בָּמָה: בָמ֣וֹת (EZK 36:2) — English (generated): heights
+  - gloss: מִגְרָשׁ: מִגְרָשָׁ֖ (EZK 36:5) — English (generated): its pastureland
+  - gloss: עָבַד: נֶעֱבַדְתֶּ֖ם (EZK 36:9) — English (generated): and you will be tilled
+  - gloss: זָרַע: נִזְרַעְתֶּֽם (EZK 36:9) — English (generated): and sown
+  - gloss: אָכַל: אֹכֶ֥לֶת (EZK 36:13) — English (generated): devour
+  - gloss: קוּט: נְקֹֽטֹתֶם֙ (EZK 36:31) — English (generated): and you will loathe
+  - gloss: עָבַר: עוֹבֵֽר (EZK 36:34) — English (generated): who pass through
+  - gloss: בָּצוּר: בְּצוּר֥וֹת (EZK 36:35) — English (generated): are now fortified
+  - gloss: קֹדֶשׁ: קָֽדָשִׁ֗ים (EZK 36:38) — English (generated): for sacrifices
+  - NT: EZK 36:3 *zertrappet*
+  - answers: crushed, heights, pastureland, tilled, sown, devour, loathe, passes by, fortified, sacrifices
+  - Formen dieses Kapitels.
+  - agent:ezk036, 2026-11-15
+- **`term:sng001_forms`** נְשִׁיקָה → **Müntschi; Liebschte; Fründin; Zältdecke** [medium, decided, by-rule]
+  - gloss: נְשִׁיקָה: נְּשִׁיק֣וֹת (SNG 1:2) — English (generated): with the kisses
+  - gloss: דּוֹד: דּוֹדִ (SNG 1:13) — English (generated): My beloved
+  - gloss: רַעְיָה: רַעְיָתִֽ (SNG 1:9) — English (generated): my darling
+  - gloss: יְרִיעָה: ירִיע֖וֹת (SNG 1:5) — English (generated): like the curtains
+  - NT: SNG 1:2 *Müntschi*
+  - answers: kisses, beloved, darling, curtains
+  - Formen dieses Kapitels.
+  - agent:sng001, 2026-11-15
+- **`term:lam002_forms`** שָׁוְא → **Truggbilder; pfyfe; Dunkelheit; ghüllt; abegworfe; Schemel; flammends; erfröit; vermehrt; Hütte; Versammligsort; Feschtzyt; grimmige; verabschüüet; Vormuur; zerfalle; umgleit; usrinnt; verglyche; Tüüschig; Botschafte; Verfüerig; chlatsche; schüttle; Schönheit; chirsche; jubliere; erhöcht; schreit; gönn; Nachtwache; Schütt; umgange; Horn; umbbracht; Häb** [medium, decided, by-rule]
+  - gloss: שָׁוְא: שָׁ֣וְא (LAM 2:14) — English (generated): were empty
+  - gloss: שָׁרַק: שָֽׁרְקוּ֙ (LAM 2:15) — English (generated): They hiss
+  - gloss: עוּב: יָעִ֨יב (LAM 2:1) — English (generated): has covered
+  - gloss: עוּב: יָעִ֨יב (LAM 2:1) — English (generated): has covered
+  - gloss: שָׁלַךְ: הִשְׁלִ֤יךְ (LAM 2:1) — English (generated): He has cast
+  - gloss: הֲדֹם: הֲדֹם (LAM 2:1) — English (generated): His footstool
+  - gloss: לֶהָבָה: לֶֽהָבָ֔ה (LAM 2:3) — English (generated): like a flaming
+  - gloss: מַחְמָד: מַחֲמַדֵּי (LAM 2:4) — English (generated): who were pleasing
+  - gloss: רָבָה: יֶּ֨רֶב֙ (LAM 2:5) — English (generated): He has multiplied
+  - gloss: שֹׂךְ: שֻׂכּ֔ (LAM 2:6) — English (generated): His tabernacle
+  - gloss: מוֹעֵד: מוֹעֲד֑ (LAM 2:6) — English (generated): His place of meeting
+  - gloss: מוֹעֵד: מוֹעֵ֣ד (LAM 2:6) — English (generated): His place of meeting
+  - gloss: זַעַם: זַֽעַם (LAM 2:6) — English (generated): In His fierce anger
+  - gloss: נָאַר: נִאֵ֣ר (LAM 2:7) — English (generated): He has abandoned
+  - gloss: חֵיל: חֵ֥ל (LAM 2:8) — English (generated): He made the ramparts
+  - gloss: אָמַל: אֻמְלָֽלוּ (LAM 2:8) — English (generated): they waste away
+  - gloss: חָגַר: חָגְר֖וּ (LAM 2:10) — English (generated): and put on
+  - gloss: שָׁפַךְ: הִשְׁתַּפֵּ֣ךְ (LAM 2:12) — English (generated): fade away
+  - gloss: דָּמָה: אֲדַמֶּה (LAM 2:13) — English (generated): can I compare you
+  - gloss: תָּפֵל: תָפֵ֔ל (LAM 2:14) — English (generated): and deceptive
+  - gloss: מַשָּׂא: מַשְׂא֥וֹת (LAM 2:14) — English (generated): The burdens
+  - gloss: מַדּוּחִים: מַדּוּחִֽים (LAM 2:14) — English (generated): and misleading
+  - gloss: סָפַק: סָֽפְק֨וּ (LAM 2:15) — English (generated): clap
+  - gloss: נוּעַ: יָּנִ֣עוּ (LAM 2:15) — English (generated): and shake
+  - gloss: יֳפִי: יֹ֔פִי (LAM 2:15) — English (generated): of beauty
+  - gloss: חָרַק: יַּֽחַרְקוּ (LAM 2:16) — English (generated): and gnash
+  - gloss: שָׂמַח: יְשַׂמַּ֤ח (LAM 2:17) — English (generated): gloat
+  - gloss: רוּם: הֵרִ֖ים (LAM 2:17) — English (generated): and exalted
+  - gloss: צָעַק: צָעַ֥ק (LAM 2:18) — English (generated): cry out
+  - gloss: נָתַן: תִּתְּנִ֤י (LAM 2:18) — English (generated): Give
+  - gloss: אַשְׁמוּרָה: אַשְׁמֻר֔וֹת (LAM 2:19) — English (generated): watch of the night
+  - gloss: שָׁפַךְ: שִׁפְכִ֤י (LAM 2:19) — English (generated): Pour out
+  - gloss: עָלַל: עוֹלַ֣לְתָּ (LAM 2:20) — English (generated): have You treated
+  - gloss: קֶרֶן: קֶ֣רֶן (LAM 2:3) — English (generated): horn
+  - gloss: הָרַג: יַּהֲרֹ֔ג (LAM 2:4) — English (generated): He has killed
+  - gloss: נָשָׂא: שְׂאִ֧י (LAM 2:19) — English (generated): Lift up
+  - NT: LAM 2:3 *Horn*; LAM 2:6 *Versammligsort*; LAM 2:1 *Schemel*
+  - answers: false, hiss, overshadowed, overshadowed, thrown down, footstool, flaming, delight, multiplied, booth, meeting place, festival, indignation, abandoned, rampart, languished, put on, poured out, compare, worthless, oracles, misleading, clap, shake, beauty, gnash, gloat, exalted, cry out, give, night watches, pour out, dealt, horn, slain, lift up
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:lam002, 2026-11-15
+- **`term:lam003_forms`** לַעֲנָה → **Wärmuet; ghüllt; aagrüeft; vermuuret; Luur; abcho; ydringe; Bitterem; gsättiget; Chis; uferleit; drücke; fülle; verstosst; bügt; beklage; ufhebe; rinnt; Pouse; töifschte; Hilferuef; Schmähige; Gmurmel; verstockts; Verfolg; vertilg; Wasserbech** [medium, decided, by-rule]
+  - gloss: לַעֲנָה: לַעֲנָֽה (LAM 3:15) — English (generated): with wormwood
+  - gloss: סָכַךְ: סַכֹּ֤תָה (LAM 3:43) — English (generated): You have covered
+  - gloss: קָרָא: קָרָ֤אתִי (LAM 3:55) — English (generated): I called on
+  - gloss: גָּדַר: גָּדַ֤ר (LAM 3:9) — English (generated): He has barred
+  - gloss: אָרַב: אֹרֵ֥ב (LAM 3:10) — English (generated): lying in wait
+  - gloss: סוּר: סוֹרֵ֛ר (LAM 3:11) — English (generated): He forced me off
+  - gloss: בּוֹא: הֵבִיא֙ (LAM 3:13) — English (generated): He pierced
+  - gloss: מָרֹר: מְּרוֹרִ֖ים (LAM 3:15) — English (generated): with bitterness
+  - gloss: שָׂבֵעַ: הִשְׂבִּיעַ֥ (LAM 3:15) — English (generated): He has filled me
+  - gloss: חָצָץ: חָצָץ֙ (LAM 3:16) — English (generated): with gravel
+  - gloss: נָטַל: נָטַ֖ל (LAM 3:28) — English (generated): has laid it
+  - gloss: נָתַן: יִתֵּ֤ן (LAM 3:29) — English (generated): Let him bury
+  - gloss: שָׂבֵעַ: יִשְׂבַּ֥ע (LAM 3:30) — English (generated): let him be filled
+  - gloss: זָנַח: יִזְנַ֛ח (LAM 3:31) — English (generated): cast us off
+  - gloss: נָטָה: הַטּוֹת֙ (LAM 3:35) — English (generated): to deny
+  - gloss: אָנַן: יִּתְאוֹנֵן֙ (LAM 3:39) — English (generated): complain
+  - gloss: נָשָׂא: נִשָּׂ֤א (LAM 3:41) — English (generated): Let us lift up
+  - gloss: נָגַר: נִגְּרָ֛ה (LAM 3:49) — English (generated): overflow
+  - gloss: הֲפֻגָה: הֲפֻגֽוֹת (LAM 3:49) — English (generated): relief
+  - gloss: תַּחְתִּי: תַּחְתִּיּֽוֹת (LAM 3:55) — English (generated): out of the depths
+  - gloss: שַׁוְעָה: שַׁוְעָתִֽ (LAM 3:56) — English (generated): my cry
+  - gloss: חֶרְפָּה: חֶרְפָּתָ (LAM 3:61) — English (generated): their insults
+  - gloss: הִגָּיוֹן: הֶגְיוֹנָ֔ (LAM 3:62) — English (generated): and murmuring
+  - gloss: מְגִנָּה: מְגִנַּת (LAM 3:65) — English (generated): a veil of anguish
+  - gloss: רָדַף: תִּרְדֹּ֤ף (LAM 3:66) — English (generated): You will pursue them
+  - gloss: שָׁמַד: תַשְׁמִידֵ֔ (LAM 3:66) — English (generated): and exterminate them
+  - gloss: פֶּלֶג: פַּלְגֵי (LAM 3:48) — English (generated): Streams
+  - NT: LAM 3:10 *Luur*; LAM 3:16 *Chis*; LAM 3:49 *Pouse*
+  - answers: wormwood, covered, called, blocked, lying in wait, turned aside, shot, bitterness, filled, gravel, laid, put, filled, reject, deprive, complain, lift up, flow, respite, depths, cry for help, insults, murmurs, anguish, pursue, destroy, streams
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:lam003, 2026-11-15
+- **`term:sng002_forms`** תַּפּוּחַ → **Öpfelboum; Rosinechüechli; Turteltube; Felsspälte** [medium, decided, by-rule]
+  - gloss: תַּפּוּחַ: תַפּ֨וּחַ֙ (SNG 2:3) — English (generated): Like an apple tree
+  - gloss: אֲשִׁישָׁה: אֲשִׁישׁ֔וֹת (SNG 2:5) — English (generated): with raisins
+  - gloss: תֹּור: תּ֖וֹר (SNG 2:12) — English (generated): of turtledoves
+  - gloss: חָגוּ: חַגְוֵ֣י (SNG 2:14) — English (generated): in the clefts
+  - NT: SNG 2:3 *Öpfelboum*
+  - answers: apple tree, raisins, turtledove, clefts
+  - Formen dieses Kapitels.
+  - agent:sng002, 2026-11-15
+- **`term:lam004_forms`** עָמַם → **tunkel; kostbare; irdigi; verchöme; ufgwachse; umarme; Äschehüüffe; reiner; wysser; röter; schwärzer; verschrumpflet; glaubt; ychöme; tappet; befleckt; umegirrt; Uslueg; gzellt; uflauret; Strusse; Goume; Gweihte; Russ; kochet; uslaufe** [medium, decided, by-rule]
+  - gloss: עָמַם: יוּעַ֣ם (LAM 4:1) — English (generated): has become tarnished
+  - gloss: יָקָר: יְקָרִ֔ים (LAM 4:2) — English (generated): the precious
+  - gloss: חֶרֶשׂ: חֶ֔רֶשׂ (LAM 4:2) — English (generated): of clay
+  - gloss: שָׁמֵם: נָשַׁ֖מּוּ (LAM 4:5) — English (generated): are destitute
+  - gloss: אָמַן: אֱמֻנִים֙ (LAM 4:5) — English (generated): those brought up
+  - gloss: חָבַק: חִבְּק֖וּ (LAM 4:5) — English (generated): huddle
+  - gloss: אַשְׁפֹּת: אַשְׁפַּתּֽוֹת (LAM 4:5) — English (generated): in ash heaps
+  - gloss: זָכַךְ: זַכּ֤וּ (LAM 4:7) — English (generated): were brighter
+  - gloss: צחה: צַח֖וּ (LAM 4:7) — English (generated): whiter
+  - gloss: אָדֹם: אָ֤דְמוּ (LAM 4:7) — English (generated): were more ruddy
+  - gloss: חָשַׁךְ: חָשַׁ֤ךְ (LAM 4:8) — English (generated): is blacker
+  - gloss: צָפַד: צָפַ֤ד (LAM 4:8) — English (generated): has shriveled
+  - gloss: אָמַן: הֶאֱמִ֨ינוּ֙ (LAM 4:12) — English (generated): believe
+  - gloss: בּוֹא: יָבֹא֙ (LAM 4:12) — English (generated): could enter
+  - gloss: נוּעַ: נָע֤וּ (LAM 4:14) — English (generated): They wandered
+  - gloss: גָּאַל: נְגֹֽאֲל֖וּ (LAM 4:14) — English (generated): defiled
+  - gloss: נוּעַ: נָ֑עוּ (LAM 4:15) — English (generated): wandered
+  - gloss: צְפִּיָּה: צִפִּיָּתֵ֣ (LAM 4:17) — English (generated): from our towers
+  - gloss: מָלֵא: מָלְא֥וּ (LAM 4:18) — English (generated): ran out
+  - gloss: אָרַב: אָ֥רְבוּ (LAM 4:19) — English (generated): and ambushed
+  - gloss: יָעֵן: יְעֵנִ֖ים (LAM 4:3) — English (generated): an ostrich
+  - gloss: חֵךְ: חכּ֖ (LAM 4:4) — English (generated): the roof of his mouth
+  - gloss: נָזִיר: נְזִירֶ֨י (LAM 4:7) — English (generated): Her dignitaries
+  - gloss: שְׁחוֹר: שְּׁחוֹר֙ (LAM 4:8) — English (generated): than soot
+  - gloss: בָּשַׁל: בִּשְּׁל֖וּ (LAM 4:10) — English (generated): have cooked
+  - gloss: כָּלָה: כִּלָּ֤ה (LAM 4:11) — English (generated): has exhausted
+  - NT: LAM 4:7 *Gweihte*; LAM 4:4 *Goume*; LAM 4:8 *Russ*
+  - answers: grown dim, precious, earthen, perish, nurtured, embrace, ash heaps, purer, whiter, ruddy, blacker, shriveled, believe, enter, wandered, defiled, wanderers, watching, numbered, lay in wait, ostriches, roof of mouth, princes, soot, cooked, gave full vent
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:lam004, 2026-11-15
+- **`term:isa035_forms`** חֲבַצֶּלֶת → **Krokus; Stercheet; waggelige; verzagts; Teich; Wasserquelle** [medium, decided, by-rule]
+  - gloss: חֲבַצֶּלֶת: חֲבַצָּֽלֶת (ISA 35:1) — English (generated): like a rose
+  - gloss: חָזַק: חַזְּק֖וּ (ISA 35:3) — English (generated): Strengthen
+  - gloss: כָּשַׁל: כֹּשְׁל֖וֹת (ISA 35:3) — English (generated): the feeble
+  - gloss: מָהַר: נִמְהֲרֵי (ISA 35:4) — English (generated): to those with anxious
+  - gloss: אֲגַם: אֲגַ֔ם (ISA 35:7) — English (generated): a pool
+  - gloss: מַבּוּעַ: מַבּ֣וּעֵי (ISA 35:7) — English (generated): springs
+  - NT: ISA 35:7 *Teich*
+  - answers: crocus, strengthen, feeble, anxious, pool, springs of water
+  - Formen dieses Kapitels.
+  - agent:isa035, 2026-11-15
+- **`term:lam005_forms`** הָפַךְ → **übergange; Bezahlig; Läbesgfahr; tunkel; strielen; töibe; Masse** [medium, decided, by-rule]
+  - gloss: הָפַךְ: נֶֽהֶפְכָ֣ה (LAM 5:2) — English (generated): has been turned over
+  - gloss: מְחִיר: מְחִ֥יר (LAM 5:4) — English (generated): at a price
+  - gloss: נֶפֶשׁ: נַפְשֵׁ֨ (LAM 5:9) — English (generated): at the risk of our lives
+  - gloss: חָשַׁךְ: חָשְׁכ֥וּ (LAM 5:17) — English (generated): grow dim
+  - gloss: הָלַךְ: הִלְּכוּ (LAM 5:18) — English (generated): patrolled
+  - gloss: קָצַף: קָצַ֥פְתָּ (LAM 5:22) — English (generated): and remain angry
+  - gloss: מְאֹד: מְאֹֽד (LAM 5:22)
+  - NT: LAM 5:18 *strielen*
+  - answers: turned over, price, at the risk of, grow dim, prowl, angry, beyond measure
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:lam005, 2026-11-15
+- **`term:sng003_forms`** תִּימָרָה → **Ruchsüüle; Sänfte; Tragstuel; Hochzyt** [medium, decided, by-rule]
+  - gloss: תִּימָרָה: תִֽימֲר֖וֹת (SNG 3:6) — English (generated): like a column
+  - gloss: מִטָּה: מִטָּת (SNG 3:7) — English (generated): carriage
+  - gloss: אַפִּרְיוֹן: אַפִּרְי֗וֹן (SNG 3:9) — English (generated): his carriage
+  - gloss: חֲתֻנָּה: חֲתֻנָּת֔ (SNG 3:11) — English (generated): of his wedding
+  - NT: SNG 3:6 *Ruchsüüle*
+  - answers: column of smoke, litter, carriage, wedding
+  - Formen dieses Kapitels.
+  - agent:sng003, 2026-11-15
+- **`term:mic001_forms`** קָרַח → **chahl; zergö; Wachs; rüere; decken; glangt; verzellet; bang; Spann; Abschidsgschänk; Ttüüschig; Eroberer; fröisch; abeschiesst; zämegsammlet; Bet-Leafra; Schafir; Zaanan; Bet-Ezel; Marot; Achsib** [medium, decided, by-rule]
+  - gloss: קָרַח: קָרְחִ֣י (MIC 1:16) — English (generated): Shave yourselves bald
+  - gloss: מָסַס: נָמַ֤סּוּ (MIC 1:4) — English (generated): will melt
+  - gloss: דּוֹנַג: דּוֹנַג֙ (MIC 1:4) — English (generated): like wax
+  - gloss: נָגַר: הִגַּרְתִּ֤י (MIC 1:6) — English (generated): I will pour
+  - gloss: גָּלָה: אֲגַלֶּֽה (MIC 1:6) — English (generated): and expose
+  - gloss: נָגַע: נָגַ֛ע (MIC 1:9) — English (generated): it has approached
+  - gloss: נָגַד: תַּגִּ֔ידוּ (MIC 1:10) — English (generated): tell it
+  - gloss: חיל: חָ֥לָֽה (MIC 1:12) — English (generated): pined
+  - gloss: רָתַם: רְתֹ֧ם (MIC 1:13) — English (generated): Harness
+  - gloss: שִׁלּוּחִים: שִׁלּוּחִ֔ים (MIC 1:14) — English (generated): farewell gifts
+  - gloss: אַכְזָב: אַכְזָ֔ב (MIC 1:14) — English (generated): prove deceptive
+  - gloss: יָרַשׁ: יֹּרֵשׁ֙ (MIC 1:15) — English (generated): a conqueror
+  - gloss: תַּעֲנוּג: תַּעֲנוּגָ֑יִ (MIC 1:16) — English (generated): your precious
+  - gloss: נָגַר: מֻגָּרִ֥ים (MIC 1:4) — English (generated): rushing down
+  - gloss: קָבַץ: קִבָּ֔צָה (MIC 1:7) — English (generated): she collected
+  - gloss: בַּיִת: בֵ֣ית (MIC 1:10) — English (generated): in Beth leaphrah
+  - gloss: שָׁפִיר: שָׁפִ֖יר (MIC 1:11) — English (generated): of Shaphir
+  - gloss: צַאֲנָן: צַֽאֲנָ֔ן (MIC 1:11) — English (generated): of Zaanan
+  - gloss: בֵּית הָאֵצֶל: בֵּ֣ית (MIC 1:11) — English (generated): Beth ezel
+  - gloss: מָרוֹת: מָר֑וֹת (MIC 1:12) — English (generated): of Maroth
+  - gloss: אַכְזִיב: אַכְזִיב֙ (MIC 1:14) — English (generated): of Achzib
+  - NT: MIC 1:10 *Bet-Leafra*; MIC 1:11 *Schafir*; MIC 1:11 *Zaanan*; MIC 1:11 *Bet-Ezel*
+  - answers: bald, melt, wax, pour down, uncover, reached, tell, anxiously, harness, parting gifts, deception, conqueror, delight, poured down, gathered, Beth-leaphrah, Shaphir, Zaanan, Beth-ezel, Maroth, Achzib
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:mic001, 2026-11-15
+- **`term:ezk037_forms`** גִּיד → **Sehne; Hut; Grüüsch; gchlepperet; Erschlagene; Greber; Chindeschind; Stäcke** [medium, decided, by-rule]
+  - gloss: גִּיד: גִּדִ֜ים (EZK 37:6) — English (generated): tendons
+  - gloss: עוֹר: ע֔וֹר (EZK 37:6) — English (generated): with skin
+  - gloss: קוֹל: ק֤וֹל (EZK 37:7) — English (generated): a noise
+  - gloss: רַעַשׁ: רַ֔עַשׁ (EZK 37:7) — English (generated): a rattling
+  - gloss: הָרַג: הֲרוּגִ֥ים (EZK 37:9) — English (generated): slain
+  - gloss: קֶבֶר: קִבְרֽוֹתֵי (EZK 37:12) — English (generated): your graves
+  - gloss: בֵּן: בְנֵ֤י (EZK 37:25) — English (generated): with their children
+  - gloss: עֵץ: עֵ֣ץ (EZK 37:16) — English (generated): stick
+  - NT: EZK 37:6 *Sehne*
+  - answers: sinews, skin, noise, rattling, slain, graves, grandchildren, stick
+  - Formen dieses Kapitels.
+  - agent:ezk037, 2026-11-15
+- **`term:mic002_forms`** פָּעַל → **usdänke; useneh; ahnigslos; verbygö; heichöme; täti; zämebringe; Durchbrecher; brächen; Spitze; vertrybet** [medium, decided, by-rule]
+  - gloss: פָּעַל: פֹ֥עֲלֵי (MIC 2:1) — English (generated): and plot
+  - gloss: מוּשׁ: תָמִ֨ישׁוּ (MIC 2:3) — English (generated): free
+  - gloss: בֶּטַח: בֶּ֔טַח (MIC 2:8) — English (generated): from unsuspecting
+  - gloss: עָבַר: עֹבְרִ֣ים (MIC 2:8) — English (generated): passersby
+  - gloss: שׁוּב: שׁוּבֵ֖י (MIC 2:8) — English (generated): like men returning
+  - gloss: כָּזַב: כִּזֵּ֔ב (MIC 2:11) — English (generated): and say
+  - gloss: אָסַף: אָסֹ֨ף (MIC 2:12) — English (generated): I will surely gather
+  - gloss: פָּרַץ: פֹּרֵץ֙ (MIC 2:13) — English (generated): One who breaks open the way
+  - gloss: פָּרַץ: פָּֽרְצוּ֙ (MIC 2:13) — English (generated): they will break
+  - gloss: רֹאשׁ: רֹאשָֽׁ (MIC 2:13) — English (generated): as their leader
+  - gloss: גָּרַשׁ: תְּגָ֣רְשׁ֔וּ (MIC 2:9) — English (generated): You drive
+  - NT: MIC 2:13 *Durchbrecher*
+  - answers: plan, remove, trustingly, pass by, returning, uttering, gather, breaks out, break through, head, drive out
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:mic002, 2026-11-15
+- **`term:sng004_forms`** רִמּוֹן → **Granatöpfel; Halschette; Gartequelle; Weihrouchhöger** [medium, decided, by-rule]
+  - gloss: רִמּוֹן: רִמּוֹן֙ (SNG 4:3) — English (generated): of pomegranate
+  - gloss: צַוְּרֹנִים: צַּוְּרֹנָֽיִ (SNG 4:9) — English (generated): of your neck
+  - gloss: מַעְיָן: מַעְיַ֣ן (SNG 4:15) — English (generated): spring
+  - gloss: לְבֹנָה: לְּבוֹנָֽה (SNG 4:6) — English (generated): of frankincense
+  - NT: SNG 4:3 *Granatöpfel*
+  - answers: pomegranate, necklace, fountain, frankincense
+  - Formen dieses Kapitels.
+  - agent:sng004, 2026-11-15
+- **`term:isa036_forms`** רַב שָׁקֵה → **Rabschake; Wasserleitig; Walkerfäld; abgchnickte; Rohrstäcke; Statthalter** [medium, decided, by-rule]
+  - gloss: רַב שָׁקֵה: רַב (ISA 36:2) — English (generated): Rabshakeh
+  - gloss: תְּעָלָה: תְעָלַת֙ (ISA 36:2) — English (generated): by the aqueduct
+  - gloss: שָׂדֶה: שְׂדֵ֥ה (ISA 36:2) — English (generated): Field
+  - gloss: רָצַץ: רָצ֤וּץ (ISA 36:6) — English (generated): splintered
+  - gloss: קָנֶה: קָּנֶ֨ה (ISA 36:6) — English (generated): reed
+  - gloss: פֶּחָה: פַחַ֥ת (ISA 36:9) — English (generated): officer
+  - NT: ISA 36:2 *Rabschake*
+  - answers: rabshakeh, conduit, fuller’s field, broken, reed, officer
+  - Formen dieses Kapitels.
+  - agent:isa036, 2026-11-15
+- **`term:mic003_forms`** אָהֵב → **liebet; verchnüttet; verhacket; Topf; verbirgt; verfüere; aasäge; bschämt; Stärchi; verabschöie** [medium, decided, by-rule]
+  - gloss: אָהֵב: אֹ֣הֲבֵי (MIC 3:2) — English (generated): and love
+  - gloss: פָּצַח: פִּצֵּ֑חוּ (MIC 3:3) — English (generated): and breaking
+  - gloss: פָּרַשׂ: פָרְשׂוּ֙ (MIC 3:3) — English (generated): You chop them up
+  - gloss: סִיר: סִּ֔יר (MIC 3:3) — English (generated): for the pot
+  - gloss: סָתַר: יַסְתֵּ֨ר (MIC 3:4) — English (generated): He will hide
+  - gloss: תָּעָה: מַּתְעִ֣ים (MIC 3:5) — English (generated): astray
+  - gloss: קָדַשׁ: קִדְּשׁ֥וּ (MIC 3:5) — English (generated): but declare
+  - gloss: חָפֵר: חָֽפְרוּ֙ (MIC 3:7) — English (generated): will be disgraced
+  - gloss: גְּבוּרָה: גְבוּרָ֑ה (MIC 3:8) — English (generated): and courage
+  - gloss: תַּעָב: מֲתַעֲבִ֣ים (MIC 3:9) — English (generated): who despise
+  - NT: MIC 3:9 *verabschöie*
+  - answers: love, break, chop up, pot, hide, lead astray, declare, put to shame, might, abhor
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:mic003, 2026-11-15
+- **`term:mic004_forms`** צָלַע → **Hinkende; verschmide; immer; zämebringe; Härdeturm; stöhn; verstö; drösch; zermalmsch; ritz; Chriegerschare; Versprängte; Verstossene; Garbe** [medium, decided, by-rule]
+  - gloss: צָלַע: צֹּ֣לֵעָ֔ה (MIC 4:6) — English (generated): the lame
+  - gloss: כָּתַת: כִתְּת֨וּ (MIC 4:3) — English (generated): their swords
+  - gloss: עוֹלָם: עוֹלָ֥ם (MIC 4:5) — English (generated): forever
+  - gloss: קָבַץ: אֲקַבֵּ֑צָה (MIC 4:6) — English (generated): I will assemble
+  - gloss: מִגְדַּל עֵדֶר: מִגְדַּל (MIC 4:8) — English (generated): O watchtower
+  - gloss: גִּיחַ: גֹ֛חִי (MIC 4:10) — English (generated): in agony
+  - gloss: בִּין: הֵבִ֖ינוּ (MIC 4:12) — English (generated): understand
+  - gloss: דּוּשׁ: ד֣וֹשִׁי (MIC 4:13) — English (generated): and thresh
+  - gloss: דָּקַק: הֲדִקּ֖וֹת (MIC 4:13) — English (generated): to break to pieces
+  - gloss: גָּדַד: תִּתְגֹּדְדִ֣י (MIC 4:14) — English (generated): mobilize your troops
+  - gloss: גְּדוּד: גְּד֔וּד (MIC 4:14) — English (generated): of troops
+  - gloss: נָדַח: נִּדָּחָ֖ה (MIC 4:6) — English (generated): the outcast
+  - gloss: הָלָא: נַּהֲלָאָ֖ה (MIC 4:7) — English (generated): the outcast
+  - gloss: עָמִיר: עָמִ֥יר (MIC 4:12) — English (generated): like sheaves
+  - NT: MIC 4:8 *Härdeturm*
+  - answers: lame, beat, forever, gather, tower of the flock, groan, understand, thresh, beat in pieces, walled around, troops, scattered, cast off, sheaves
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:mic004, 2026-11-15
+- **`term:mic005_forms`** בּוֹא → **ychunnt; chlyn; prys; Herkunft; Hoheit; Ygäng; betrittet; Rägeschuur; düregeit; rote; nider; Aschere; übe** [medium, decided, by-rule]
+  - gloss: בּוֹא: יָב֣וֹא (MIC 5:4) — English (generated): invades
+  - gloss: צָעִיר: צָעִיר֙ (MIC 5:1) — English (generated): small
+  - gloss: נָתַן: יִתְּנֵ֔ (MIC 5:2) — English (generated): will be abandoned
+  - gloss: מוֹצָאָה: מוֹצָאֹתָ֥י (MIC 5:1) — English (generated): One whose origins
+  - gloss: גָּאוֹן: גְא֕וֹן (MIC 5:3) — English (generated): in the majestic
+  - gloss: פֶּתַח: פְתָחֶ֑י (MIC 5:5) — English (generated): with the blade drawn
+  - gloss: דָּרַךְ: יִדְרֹ֖ךְ (MIC 5:5) — English (generated): marches
+  - gloss: רְבִיבִים: רְבִיבִ֖ים (MIC 5:6) — English (generated): like showers
+  - gloss: עָבַר: עָבַ֛ר (MIC 5:7) — English (generated): it passes through
+  - gloss: כָּרַת: הִכְרַתִּ֥י (MIC 5:9) — English (generated): I will remove
+  - gloss: הָרַס: הָרַסְתִּ֖י (MIC 5:10) — English (generated): and tear down
+  - gloss: אֲשֵׁרָה: אֲשֵׁירֶ֖י (MIC 5:13) — English (generated): the Asherah poles
+  - gloss: עָשָׂה: עָשִׂ֜יתִי (MIC 5:14) — English (generated): I will take
+  - NT: MIC 5:13 *Aschere*
+  - answers: invades, small, give up, origin, majesty, entrances, marches, showers, passes through, cut off, tear down, asherah poles, execute
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:mic005, 2026-11-15
+- **`term:sng005_forms`** כֻּתֹּנֶת → **Hemmli; Wasserbech; Elfebei; Sockle** [medium, decided, by-rule]
+  - gloss: כֻּתֹּנֶת: כֻּתָּנְתִּ֔ (SNG 5:3) — English (generated): my robe
+  - gloss: אָפִיק: אֲפִ֣יקֵי (SNG 5:12) — English (generated): the streams
+  - gloss: שֵׁן: שֵׁ֔ן (SNG 5:14) — English (generated): ivory
+  - gloss: אֶדֶן: אַדְנֵי (SNG 5:15) — English (generated): bases
+  - NT: SNG 5:3 *Hemmli*
+  - answers: garment, streams, ivory, bases
+  - Formen dieses Kapitels.
+  - agent:sng005, 2026-11-15
+- **`term:isa037_forms`** גָּדַף → **gläschteret; thronet; Steihuuffe; Belagerigswall; Grettni; hundertfüfenachtzgtuusig** [medium, decided, by-rule]
+  - gloss: גָּדַף: גִּדְּפ֛וּ (ISA 37:6) — English (generated): have blasphemed Me
+  - gloss: יָשַׁב: יֹשֵׁ֣ב (ISA 37:16) — English (generated): enthroned
+  - gloss: גַּל: גַּלִּ֥ים (ISA 37:26) — English (generated): into piles
+  - gloss: סֹלְלָה: סֹלְלָֽה (ISA 37:33) — English (generated): a siege ramp
+  - gloss: פְּלֵיטָה: פְלֵיטָ֖ה (ISA 37:32) — English (generated): and survivors
+  - gloss: מֵאָה: מֵאָ֛ה (ISA 37:36) — English (generated): men
+  - NT: ISA 37:33 *Belagerigswall*
+  - answers: blasphemed, enthroned, heaps, siege ramp, survivors, 185,000
+  - Formen dieses Kapitels.
+  - agent:isa037, 2026-11-15
+- **`term:mic006_forms`** מָה → **womit; bständige; rächtet; Grächtigkeitstate; erkennsch; jährige; falscher; Seckli; bschissne; Gwalttat; Bschis; sääisch; ärntisch; trottisch; salbsch; Truubemoscht; trinksch** [medium, decided, by-rule]
+  - gloss: מָה: מָ֣ה (MIC 6:3) — English (generated): what
+  - gloss: אֵיתָן: אֵתָנִ֖ים (MIC 6:2) — English (generated): you enduring
+  - gloss: יָכַח: יִתְוַכָּֽח (MIC 6:2) — English (generated): and He will argue
+  - gloss: צְדָקָה: צִדְק֥וֹת (MIC 6:5) — English (generated): the righteousness
+  - gloss: יָדַע: דַּ֖עַת (MIC 6:5) — English (generated): you may acknowledge
+  - gloss: בֵּן: בְּנֵ֥י (MIC 6:6) — English (generated): with year old
+  - gloss: רֶשַׁע: רֶ֑שַׁע (MIC 6:11) — English (generated): dishonest
+  - gloss: כִּיס: כִ֖יס (MIC 6:11) — English (generated): or bags
+  - gloss: מִרְמָה: מִרְמָֽה (MIC 6:11) — English (generated): of false
+  - gloss: חָמָס: חָמָ֔ס (MIC 6:12) — English (generated): violence
+  - gloss: רְמִיָּה: רְמִיָּ֥ה (MIC 6:12) — English (generated): are deceitful
+  - gloss: זָרַע: תִזְרַ֖ע (MIC 6:15) — English (generated): will sow
+  - gloss: קָצַר: תִקְצ֑וֹר (MIC 6:15) — English (generated): reap
+  - gloss: דָּרַךְ: תִדְרֹֽךְ (MIC 6:15) — English (generated): will press
+  - gloss: סוּךְ: תָס֣וּךְ (MIC 6:15) — English (generated): anoint yourselves
+  - gloss: תִּירוֹשׁ: תִיר֖וֹשׁ (MIC 6:15) — English (generated): you will tread grapes
+  - gloss: שָׁתָה: תִשְׁתֶּה (MIC 6:15) — English (generated): drink
+  - NT: MIC 6:5 *Schittim*
+  - answers: how, enduring, contend, righteous acts, know, year, wicked, bag, deceptive, violence, deceitful, sow, reap, tread, anoint, grapes, drink
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:mic006, 2026-11-15
+- **`term:isa038_forms`** חָלָה → **todchrank; Bstell; Hirtezält; Wäbstuel; piepse; gruchse; Saitespil; Feigechueche** [medium, decided, by-rule]
+  - gloss: חָלָה: חָלָ֥ה (ISA 38:1) — English (generated): ill
+  - gloss: צָוָה: צַ֣ו (ISA 38:1) — English (generated): in order
+  - gloss: אֹהֶל: אֹ֣הֶל (ISA 38:12) — English (generated): tent
+  - gloss: דַּלָּה: דַּלָּ֣ה (ISA 38:12) — English (generated): from the loom
+  - gloss: צָפַף: אֲצַפְצֵ֔ף (ISA 38:14) — English (generated): I chirp
+  - gloss: הָגָה: אֶהְגֶּ֖ה (ISA 38:14) — English (generated): I moan
+  - gloss: נְגִינָה: נְגִנוֹתַ֧י (ISA 38:20) — English (generated): on stringed instruments
+  - gloss: דְּבֶלֶת: דְּבֶ֣לֶת (ISA 38:21) — English (generated): a lump
+  - NT: ISA 38:12 *Wäbstuel*
+  - answers: mortally ill, put in order, shepherd’s tent, loom, chirp, moan, stringed instruments, lump of figs
+  - Formen dieses Kapitels.
+  - agent:isa038, 2026-11-15
+- **`term:mic007_forms`** אָיַב → **Findin; Wümmet; tüchtig; forderet; Ufrichtigscht; Heimsuechig; verlöt; Garteland; schläcke; zitterig; Burge; verzeit; wirfsch; Töifi** [medium, decided, by-rule]
+  - gloss: אָיַב: אֹיַ֨בְתִּ (MIC 7:8) — English (generated): my enemy
+  - gloss: בָּצִיר: בָּצִ֑יר (MIC 7:1) — English (generated): of the vineyard
+  - gloss: יָטַב: הֵיטִ֔יב (MIC 7:3) — English (generated): are skilled
+  - gloss: שָׁאַל: שֹׁאֵ֔ל (MIC 7:3) — English (generated): demand
+  - gloss: יָשָׁר: יָשָׁ֖ר (MIC 7:4) — English (generated): the most upright
+  - gloss: פְּקֻדָּה: פְּקֻדָּתְ (MIC 7:4) — English (generated): your visitation
+  - gloss: בָּטַח: תִּבְטְח֖וּ (MIC 7:5) — English (generated): trust
+  - gloss: כַּרְמֶל: כַּרְמֶ֑ל (MIC 7:14) — English (generated): pastures
+  - gloss: לָחַךְ: יְלַחֲכ֤וּ (MIC 7:17) — English (generated): They will lick
+  - gloss: רָגַז: יִרְגְּז֖וּ (MIC 7:17) — English (generated): They will come trembling
+  - gloss: מִסְגֶּרֶת: מִּסְגְּרֹֽתֵי (MIC 7:17) — English (generated): from their strongholds
+  - gloss: עָבַר: עֹבֵ֣ר (MIC 7:18) — English (generated): and passes
+  - gloss: שָׁלַךְ: תַשְׁלִ֛יךְ (MIC 7:19) — English (generated): You will cast out
+  - gloss: מְצוֹלָה: מְצֻל֥וֹת (MIC 7:19) — English (generated): into the depths
+  - NT: MIC 7:10 *Findin*
+  - answers: enemy, grape harvest, well, ask, upright, punishment, confidence, garden land, lick, trembling, fortresses, passing over, cast, depths
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:mic007, 2026-11-15
+- **`term:ezk038_forms`** נָשִׂיא → **Oberfürscht; Haagge; Chifle; ufbotte; Unwätter; Ärdbäbe; Felsstüeffe; Platzrägen; Hagelchörner** [medium, decided, by-rule]
+  - gloss: נָשִׂיא: נְשִׂ֕יא (EZK 38:2) — English (generated): prince
+  - gloss: חַח: חַחִ֖ים (EZK 38:4) — English (generated): hooks
+  - gloss: לְחִי: לְחָיֶ֑י (EZK 38:4) — English (generated): in your jaws
+  - gloss: פָּקַד: תִּפָּקֵד֒ (EZK 38:8) — English (generated): you will be summoned
+  - gloss: שׁוֹאָה: שֹּׁאָ֣ה (EZK 38:9) — English (generated): like a thunderstorm
+  - gloss: רַעַשׁ: רַ֣עַשׁ (EZK 38:19) — English (generated): earthquake
+  - gloss: מַדְרֵגָה: מַּדְרֵג֔וֹת (EZK 38:20) — English (generated): the cliffs
+  - gloss: גֶּשֶׁם: גֶ֣שֶׁם (EZK 38:22) — English (generated): of rain
+  - gloss: אֶבֶן: אַבְנֵ֨י (EZK 38:22) — English (generated): hailstones
+  - NT: EZK 38:4 *Haagge*
+  - answers: chief prince, hooks, jaws, mustered, storm, earthquake, cliffs, torrential rain, hailstones
+  - Formen dieses Kapitels.
+  - agent:ezk038, 2026-11-15
+- **`term:sng006_forms`** מַלְכָּה → **Chüniginne; Näbefroue; Nussgarte; Morgerot** [medium, decided, by-rule]
+  - gloss: מַלְכָּה: מְּלָכ֔וֹת (SNG 6:8) — English (generated): queens
+  - gloss: פִּלֶגֶשׁ: פִּֽילַגְשִׁ֑ים (SNG 6:8) — English (generated): concubines
+  - gloss: אֱגוֹז: אֱגוֹז֙ (SNG 6:11) — English (generated): the walnut
+  - gloss: שַׁחַר: שָׁ֑חַר (SNG 6:10) — English (generated): the dawn
+  - NT: SNG 6:8 *Chüniginne*
+  - answers: queens, concubines, nut trees, dawn
+  - Formen dieses Kapitels.
+  - agent:sng006, 2026-11-15
+- **`term:nam001_forms`** נָקַם → **rächende; Rächer; Wirbelwind; schilt; versiege; bebe; zerfliesse; ergiesst; zerspringe; verschlungni; Suff; dürrs; Nüütnutzigkeit; hebt; planet** [medium, decided, by-rule]
+  - gloss: נָקַם: נֹקֵם֙ (NAM 1:2) — English (generated): and avenging
+  - gloss: נָקַם: נֹקֵ֥ם (NAM 1:2) — English (generated): and avenging
+  - gloss: סוּפָה: סוּפָ֤ה (NAM 1:3) — English (generated): is in the whirlwind
+  - gloss: גָּעַר: גּוֹעֵ֤ר (NAM 1:4) — English (generated): He rebukes
+  - gloss: חָרֵב: הֶֽחֱרִ֑יב (NAM 1:4) — English (generated): run dry
+  - gloss: רָעַשׁ: רָעֲשׁ֣וּ (NAM 1:5) — English (generated): quake
+  - gloss: מוּג: הִתְמֹגָ֑גוּ (NAM 1:5) — English (generated): melt away
+  - gloss: נָתַךְ: נִתְּכָ֣ה (NAM 1:6) — English (generated): is poured out
+  - gloss: נָתַץ: נִתְּצ֥וּ (NAM 1:6) — English (generated): are shattered
+  - gloss: סָבַךְ: סְבֻכִ֔ים (NAM 1:10) — English (generated): they will be entangled
+  - gloss: סֹבֶא: סָבְאָ֖ (NAM 1:10) — English (generated): like the drink
+  - gloss: יָבֵשׁ: יָבֵ֖שׁ (NAM 1:10) — English (generated): dry
+  - gloss: בְּלִיַּעַל: בְּלִיָּֽעַל (NAM 1:11) — English (generated): of wickedness
+  - gloss: נָשָׂא: תִּשָּׂ֤א (NAM 1:5) — English (generated): trembles
+  - gloss: חָשַׁב: תְּחַשְּׁבוּ (NAM 1:9) — English (generated): you plot
+  - NT: NAM 1:1 *Elkosch*
+  - answers: avenging, avenging, whirlwind, rebukes, dries up, quake, melt, poured out, shattered, entangled, drink, dry, wickedness, heaves, plot
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:nam001, 2026-11-15
+- **`term:isa039_forms`** נְכֹת → **Schatzhuus; Züghuus; Herrschaftsberych; furtgschleppt; zügsch** [medium, decided, by-rule]
+  - gloss: נְכֹת: נְכֹת֡ (ISA 39:2) — English (generated): what was in his treasure
+  - gloss: בַּיִת: בֵּ֣ית (ISA 39:2) — English (generated): house
+  - gloss: מֶמְשֶׁלֶת: מֶמְשַׁלְתּֽ (ISA 39:2) — English (generated): his dominion
+  - gloss: נָשָׂא: נִשָּׂ֣א (ISA 39:6) — English (generated): will be carried off
+  - gloss: יָלַד: תּוֹלִ֖יד (ISA 39:7) — English (generated): own flesh and blood
+  - NT: ISA 39:2 *Züghuus*
+  - answers: treasure house, armory, dominion, carried off, father
+  - Formen dieses Kapitels.
+  - agent:isa039, 2026-11-15
+- **`term:nam002_forms`** שָׁמַע → **verkündet; Fyr; Bewach; verderbt; fünkle; Metall; rase; Vorrücke; yle; Schutzdach; schwankt; Gurre; öd; verzage; allerlei; Futterplatz; umegstriche; ufgschreckt; erwürgt; Löiinne; grissnem** [medium, decided, by-rule]
+  - gloss: שָׁמַע: מַשְׁמִ֣יעַ (NAM 2:1) — English (generated): who proclaims
+  - gloss: חָגַג: חָגִּ֧י (NAM 2:1) — English (generated): Celebrate
+  - gloss: נָצַר: נָצ֣וֹר (NAM 2:2) — English (generated): Guard
+  - gloss: שָׁחַת: שִׁחֵֽתוּ (NAM 2:3) — English (generated): and ruined
+  - gloss: בְּ: בְּ (NAM 2:4) — English (generated): flash like fire
+  - gloss: פְּלָדֹת: פְּלָד֥וֹת (NAM 2:4) — English (generated): The fittings
+  - gloss: הָלַל: יִתְהוֹלְל֣וּ (NAM 2:5) — English (generated): dash
+  - gloss: הֲלִיכָה: הֲלִֽיכָתָ֑ (NAM 2:6) — English (generated): as they advance
+  - gloss: מָהַר: יְמַֽהֲרוּ֙ (NAM 2:6) — English (generated): They race
+  - gloss: סֹכֵךְ: סֹּכֵֽךְ (NAM 2:6) — English (generated): the protective shield
+  - gloss: מוּג: נָמֽוֹג (NAM 2:7) — English (generated): collapses
+  - gloss: קוֹל: ק֣וֹל (NAM 2:8) — English (generated): like
+  - gloss: מְבוּקָה: מְבוּקָ֖ה (NAM 2:11) — English (generated): Yes she is desolate
+  - gloss: מָסַס: נָמֵ֜ס (NAM 2:11) — English (generated): melt
+  - gloss: כֹּל: כֹּ֖ל (NAM 2:10) — English (generated): of every
+  - gloss: מִרְעֶה: מִרְעֶ֥ה (NAM 2:12) — English (generated): or the feeding ground
+  - gloss: הָלַךְ: הָלַךְ֩ (NAM 2:12) — English (generated): prowled
+  - gloss: חָרַד: מַחֲרִֽיד (NAM 2:12) — English (generated): to frighten them away
+  - gloss: חָנַק: מְחַנֵּ֖ק (NAM 2:13) — English (generated): and strangled prey
+  - gloss: לְבָאָה: לִבְאֹתָ֑י (NAM 2:13) — English (generated): for the lioness
+  - gloss: טְרֵיפָה: טְרֵפָֽה (NAM 2:13) — English (generated): with mauled prey
+  - NT: NAM 2:6 *Schutzdach*
+  - answers: proclaims, celebrate, guard, ruined, fire, metal, race madly, march, hasten, mantelet, trembles, sound, desolation, melt, every, feeding place, prowled, disturb, strangled, lionesses, torn flesh
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:nam002, 2026-11-15
+- **`term:ezk039_forms`** אַיִל → **Widder; lingge; Rundschild; Chnüttel; Spiesse; Durchreisende; Totegreber; Wagelüt; untreu; ufschreckt** [medium, decided, by-rule]
+  - gloss: אַיִל: אֵילִ֨ים (EZK 39:18) — English (generated): rams
+  - gloss: שְׂמֹאל: שְׂמֹאולֶ֑ (EZK 39:3) — English (generated): from your left
+  - gloss: צִנָּה: צִנָּה֙ (EZK 39:9) — English (generated): and shields
+  - gloss: מַקֵּל: מַקֵּ֥ל (EZK 39:9) — English (generated): the clubs
+  - gloss: רֹמַח: רֹ֑מַח (EZK 39:9) — English (generated): and spears
+  - gloss: עָבַר: עֹֽבְרִים֙ (EZK 39:11) — English (generated): of the Travelers
+  - gloss: קָבַר: מְקַבְּרִ֔ים (EZK 39:15) — English (generated): have buried
+  - gloss: רֶכֶב: רֶ֔כֶב (EZK 39:20) — English (generated): and riders
+  - gloss: מָעַל: מָֽעֲלוּ (EZK 39:23) — English (generated): they were unfaithful
+  - gloss: חָרַד: מַחֲרִֽיד (EZK 39:26) — English (generated): one to frighten them
+  - NT: EZK 39:18 *Widder*
+  - answers: rams, left, bucklers, clubs, spears, travelers, buriers, charioteers, treachery, make afraid
+  - Formen dieses Kapitels.
+  - agent:ezk039, 2026-11-15
+- **`term:nam003_forms`** קוֹל → **chlepft; Hure; verfüererisch; Zoubertränk; Aagaffe; Schutzwall; Frühfyge; Ziegelform; rotet; hüte; chalte; Linderig; Geissle; galoppiere; gumpe** [medium, decided, by-rule]
+  - gloss: קוֹל: ק֣וֹל (NAM 3:2) — English (generated): The crack
+  - gloss: זְנוּנִים: זְנוּנֵ֣י (NAM 3:4) — English (generated): harlotries
+  - gloss: חֵן: חֵ֖ן (NAM 3:4) — English (generated): the seductive
+  - gloss: כֶּשֶׁף: כְשָׁפֶֽי (NAM 3:4) — English (generated): by her witchcraft
+  - gloss: רֳאִי: רֹֽאִי (NAM 3:6) — English (generated): a spectacle of you
+  - gloss: חֵיל: חֵ֣יל (NAM 3:8) — English (generated): rampart
+  - gloss: בִּכּוּרִים: בִּכּוּרִ֑ים (NAM 3:12) — English (generated): the first ripe figs
+  - gloss: מַלְבֵּן: מַלְבֵּֽן (NAM 3:14) — English (generated): the brick
+  - gloss: כָּרַת: תַּכְרִיתֵ֣ (NAM 3:15) — English (generated): will cut you down
+  - gloss: פָּשַׁט: פָּשַׁ֖ט (NAM 3:16) — English (generated): strips the land
+  - gloss: קָרָה: קָרָ֔ה (NAM 3:17) — English (generated): on a cold
+  - gloss: כֵּהָה: כֵּהָ֣ה (NAM 3:19) — English (generated): healing
+  - gloss: שׁוֹט: שׁ֔וֹט (NAM 3:2) — English (generated): of the whip
+  - gloss: דָּהַר: דֹּהֵ֔ר (NAM 3:2) — English (generated): galloping
+  - gloss: רָקַד: מְרַקֵּדָֽה (NAM 3:2) — English (generated): and bounding
+  - NT: NAM 3:14 *Ziegelform*
+  - answers: crack, debaucheries, alluring, sorceries, spectacle, rampart, first-ripe figs, brick mold, cut down, strips, cold, remedy, whip, galloping, bounding
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:nam003, 2026-11-15
+- **`term:sng007_forms`** מְחֹלָה → **Reigetanz; Fürschtetochter; Elfebeiturm; Liebesöpfel** [medium, decided, by-rule]
+  - gloss: מְחֹלָה: מְחֹלַ֖ת (SNG 7:1) — English (generated): the dance of Mahanaim
+  - gloss: בַּת: בַּת (SNG 7:2) — English (generated): O daughter
+  - gloss: מִגְדָּל: מִגְדַּ֣ל (SNG 7:5) — English (generated): is like a tower
+  - gloss: דּוּדַי: דּוּדָאִ֣ים (SNG 7:14) — English (generated): The mandrakes
+  - NT: SNG 7:1 *Reigetanz*
+  - answers: dance, prince's daughter, ivory tower, mandrakes
+  - Formen dieses Kapitels.
+  - agent:sng007, 2026-11-15
+- **`term:sng008_forms`** קִנְאָה → **Yfersucht; Zinne; Baal-Hamon; Zedereholz** [medium, decided, by-rule]
+  - gloss: קִנְאָה: קִנְאָ֑ה (SNG 8:6) — English (generated): its jealousy
+  - gloss: טִירָה: טִ֣ירַת (SNG 8:9) — English (generated): a tower
+  - gloss: בַּעַל הָמוֹן: בַ֣עַל (SNG 8:11) — English (generated): in Baal hamon
+  - gloss: אֶרֶז: אָֽרֶז (SNG 8:9) — English (generated): of cedar
+  - NT: SNG 8:9 *Zinne*
+  - answers: jealousy, battlement, Baal-Hamon, cedar
+  - Formen dieses Kapitels.
+  - agent:sng008, 2026-11-15
+- **`term:isa040_forms`** יָשַׁר → **strassnet; Fröidebotin; Talbode; Waagschale; Stöubli; Heugümper; wääjt; lüpfe** [medium, decided, by-rule]
+  - gloss: יָשַׁר: יַשְּׁרוּ֙ (ISA 40:3) — English (generated): make a straight
+  - gloss: בָּשַׂר: מְבַשֶּׂ֣רֶת (ISA 40:9) — English (generated): herald of good news
+  - gloss: בִּקְעָה: בִקְעָֽה (ISA 40:4) — English (generated): a plain
+  - gloss: מֹאזְנַיִם: מֹאזְנָֽיִם (ISA 40:12) — English (generated): with a balance
+  - gloss: שַׁחַק: שַׁ֥חַק (ISA 40:15) — English (generated): a speck of dust
+  - gloss: חָגָב: חֲגָבִ֑ים (ISA 40:22) — English (generated): are like grasshoppers
+  - gloss: נָשַׁב: נָ֣שְׁבָה (ISA 40:7) — English (generated): blows
+  - gloss: רוּם: הָרִ֤ימִי (ISA 40:9) — English (generated): Raise
+  - NT: ISA 40:9 *Fröidebotin*
+  - answers: make straight, herald of good news, plain, balance, speck of dust, grasshoppers, blows, lift up
+  - Formen dieses Kapitels.
+  - agent:isa040, 2026-11-15
+- **`term:ezk040_temple`** קָנֶה → **Mässruete; Nische; Pfyler; Vorhalle; Schwelle; Abschrankig; Pflaschter; Stüeffe; Doppelhaagge** [high, decided, by-rule]
+  - gloss: קָנֶה: קְנֵ֣ה (EZK 40:3) — English (generated): rod
+  - gloss: הַ: הַ (EZK 40:7) — English (generated): Each gate chamber
+  - gloss: אַיִל: אֵילָ֖י (EZK 40:9) — English (generated): and its jambs
+  - gloss: אֵילָם: אֻלָ֤ם (EZK 40:9)
+  - gloss: סַף: סַ֣ף (EZK 40:6) — English (generated): the threshold
+  - gloss: גְּבוּל: גְב֞וּל (EZK 40:12) — English (generated): was a wall
+  - gloss: רִצְפָּה: רִֽצְפָ֔ה (EZK 40:17) — English (generated): and a pavement
+  - gloss: מַעֲלָה: מַעֲל֥וֹת (EZK 40:22) — English (generated): steps
+  - gloss: שְׁפַתַּיִם: שְׁפַתַּ֗יִם (EZK 40:43) — English (generated): The double pronged hooks
+  - NT: EZK 40:7 *Nische*
+  - answers: measuring rod, recess, jamb, portico, threshold, barrier, pavement, steps, double hooks
+  - Tempelbau-Wörter (Ez 40-42).
+  - agent:ezk040, 2026-11-15
+- **`term:ezk040_forms`** הַ → **Tämpelsyte; Osttor; Nordtor; Südtor; Innesyte; Vorsyte; Ygangstor; ghouene Steine; Quadrat** [medium, decided, by-rule]
+  - gloss: הַ: הַ (EZK 40:7) — English (generated): Each gate chamber
+  - gloss: שַׁעַר: שַּׁ֜עַר (EZK 40:10) — English (generated): gate
+  - gloss: שַׁעַר: שַׁ֣עַר (EZK 40:35) — English (generated): gate
+  - gloss: שַׁעַר: שַׁ֣עַר (EZK 40:28) — English (generated): gate
+  - gloss: פְּנִימָה: פְנִ֤ימָה (EZK 40:16) — English (generated): the inside
+  - gloss: פָּנֶה: פְּנֵי֙ (EZK 40:15)
+  - gloss: שַׁעַר: שַּׁ֣עַר (EZK 40:15) — English (generated): of the gateway
+  - gloss: גָּזִית: גָזִ֗ית (EZK 40:42)
+  - gloss: רָבַע: מְרֻבָּ֑עַת (EZK 40:47) — English (generated): It was square
+  - NT: EZK 40:7 *Tämpelsyte*
+  - answers: temple side, east gate, north gate, south gate, inside, front, entrance gate, dressed stones, square
+  - Formen dieses Kapitels.
+  - agent:ezk040, 2026-11-15
+- **`term:isa041_forms`** דֶּבֶק → **Lötstell; Amboss; Würmli; Dröschschlitte; worfelisch; Buchsböim; Gröiel** [medium, decided, by-rule]
+  - gloss: דֶּבֶק: דֶּ֨בֶק֙ (ISA 41:7) — English (generated): of the welding
+  - gloss: פַּעַם: פָּ֑עַם (ISA 41:7) — English (generated): the anvil
+  - gloss: תֹּולַעַת: תּוֹלַ֣עַת (ISA 41:14) — English (generated): you worm
+  - gloss: מוֹרַג: מוֹרַג֙ (ISA 41:15) — English (generated): into a threshing sledge
+  - gloss: זָרָה: תִּזְרֵ (ISA 41:16) — English (generated): You will winnow them
+  - gloss: תְּאַשּׁוּר: תְאַשּׁ֖וּר (ISA 41:19) — English (generated): and boxwood
+  - gloss: תּוֹעֵבַה: תּוֹעֵבָ֖ה (ISA 41:24) — English (generated): is detestable
+  - NT: ISA 41:15 *Dröschschlitte*
+  - answers: soldering, anvil, worm, threshing sledge, winnow, boxwood, abomination
+  - Formen dieses Kapitels.
+  - agent:isa041, 2026-11-15
+- **`term:zec001_forms`** עֶשְׂרִים → **vierezwänzigschte; Schebat; fuchsroti; dürstreife; tröschtleche; nachegholfe; usgspannt; überflie; erwählt** [medium, decided, by-rule]
+  - gloss: עֶשְׂרִים: עֶשְׂרִ֨ים (ZEC 1:7) — English (generated): On the twenty fourth
+  - gloss: שְׁבָט: שְׁבָ֔ט (ZEC 1:7) — English (generated): of Shebat
+  - gloss: שָׂרֹק: שְׂרֻקִּ֖ים (ZEC 1:8) — English (generated): sorrel
+  - gloss: הָלַךְ: הִתְהַלֵּ֖ךְ (ZEC 1:10) — English (generated): to patrol
+  - gloss: נִחֻמִים: נִחֻמִֽים (ZEC 1:13) — English (generated): and comforting
+  - gloss: עָזַר: עָזְר֥וּ (ZEC 1:15) — English (generated): have added to
+  - gloss: נָטָה: יִנָּטֶ֖ה (ZEC 1:16) — English (generated): will be stretched out
+  - gloss: פּוּץ: תְּפוּצֶ֥ינָה (ZEC 1:17) — English (generated): overflow
+  - gloss: בָּחַר: בָחַ֥ר (ZEC 1:17) — English (generated): choose
+  - NT: ZEC 1:7 *Schebat*
+  - answers: twenty-four, Shebat, sorrel, patrol, comforting, furthered, stretched out, overflow, choose
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:zec001, 2026-11-15
+- **`term:zec002_forms`** מָדַד → **uszmässe; Louf; Himelsrichtige; erwählt; Schmide; Ougöpfel** [medium, decided, by-rule]
+  - gloss: מָדַד: מֹד֙ (ZEC 2:6) — English (generated): To measure
+  - gloss: רוּץ: רֻ֗ץ (ZEC 2:8) — English (generated): Run
+  - gloss: רוּחַ: רוּח֧וֹת (ZEC 2:10) — English (generated): winds
+  - gloss: בָּחַר: בָחַ֥ר (ZEC 2:16) — English (generated): choose
+  - gloss: חָרָשׁ: חָרָשִֽׁים (ZEC 2:3) — English (generated): craftsmen
+  - gloss: בָּבָה: בָבַ֥ת (ZEC 2:12) — English (generated): the apple
+  - NT: ZEC 2:3 *Schmide*
+  - answers: measure, run, winds, choose, craftsmen, apple of eye
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:zec002, 2026-11-15
+- **`term:ezk041_forms`** צֵלָע → **Syterüüm; Gschoss; Syterwänd; gschnitzt; täferet; Mönschegsicht; Löiegsicht; Doppeltür; Vordach; Türpföschte** [medium, decided, by-rule]
+  - gloss: צֵלָע: צֵּלָע֩ (EZK 41:5) — English (generated): side room
+  - gloss: שָׁלֹשׁ: שָׁל֧וֹשׁ (EZK 41:6) — English (generated): in three levels
+  - gloss: כָּתֵף: כִתְפ֣וֹת (EZK 41:2) — English (generated): and the sides
+  - gloss: עָשָׂה: עָשׂ֥וּי (EZK 41:18) — English (generated): carved
+  - gloss: שָׁחִיף: שְׂחִ֥יף (EZK 41:16) — English (generated): were overlaid with
+  - gloss: פָּנֶה: פְנֵ֨י (EZK 41:19) — English (generated): the face
+  - gloss: פָּנֶה: פְנֵֽי (EZK 41:19) — English (generated): the face
+  - gloss: שְׁנַיִם: שְׁתַּ֧יִם (EZK 41:23) — English (generated): had double
+  - gloss: עָב: עָ֥ב (EZK 41:25) — English (generated): canopy
+  - gloss: מְזוּזָה: מְזוּזַ֣ת (EZK 41:21) — English (generated): doorframe
+  - NT: EZK 41:5 *Syterüüm*
+  - answers: side rooms, story, side walls, carved, paneled, human face, lion face, double door, canopy, doorposts
+  - Formen dieses Kapitels.
+  - agent:ezk041, 2026-11-15
+- **`term:amo001_forms`** בֵּית עֶדֶן → **Bet-Eden; Hasaël; Dröschschlitte; Ärdbäbe** [medium, decided, by-rule]
+  - gloss: בֵּית עֶדֶן: בֵּ֣ית (AMO 1:5) — English (generated): in Beth eden
+  - gloss: חֲזָאֵל: חֲזָאֵ֑ל (AMO 1:4) — English (generated): of Hazael
+  - gloss: חָרוּץ: חֲרֻצ֥וֹת (AMO 1:3) — English (generated): with sledges
+  - gloss: רַעַשׁ: רָֽעַשׁ (AMO 1:1) — English (generated): the earthquake
+  - NT: AMO 1:5 *Bet-Eden*
+  - answers: Beth-eden, Hazael, threshing sledges, earthquake
+  - Formen dieses Kapitels.
+  - agent:amo001, 2026-11-15
+- **`term:zec003_forms`** גָּעַר → **aaschnouze; aazchlage; Schytli; dräckigi; Züchet; lege; nime; Feschtchleider** [medium, decided, by-rule]
+  - gloss: גָּעַר: יִגְעַ֨ר (ZEC 3:2) — English (generated): rebukes
+  - gloss: שָׂטַן: שִׂטְנֽ (ZEC 3:1) — English (generated): to accuse him
+  - gloss: אוּד: א֖וּד (ZEC 3:2) — English (generated): a firebrand
+  - gloss: צֹאִי: צוֹאִ֑ים (ZEC 3:3) — English (generated): in filthy
+  - gloss: סוּר: הָסִ֛ירוּ (ZEC 3:4) — English (generated): Take off
+  - gloss: לָבֵשׁ: הַלְבֵּ֥שׁ (ZEC 3:4) — English (generated): and I will clothe
+  - gloss: מוּשׁ: מַשְׁתִּ֛י (ZEC 3:9) — English (generated): and I will remove
+  - gloss: מַחֲלָצֹות: מַחֲלָצֽוֹת (ZEC 3:4) — English (generated): with splendid robes
+  - NT: ZEC 3:2 *Schytli*
+  - answers: rebuke, accuse, brand, filthy, take off, clothe, remove, rich garments
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:zec003, 2026-11-15
+- **`term:isa042_forms`** רָצַץ → **gchnickts; Docht; glimmt; Chriegsma; schnuufe; Gfängnisse** [medium, decided, by-rule]
+  - gloss: רָצַץ: רָצוּץ֙ (ISA 42:3) — English (generated): A bruised
+  - gloss: פִּשְׁתָּה: פִשְׁתָּ֥ה (ISA 42:3) — English (generated): wick
+  - gloss: כֵּהֶה: כֵהָ֖ה (ISA 42:3) — English (generated): and a smoldering
+  - gloss: אִישׁ: אִ֥ישׁ (ISA 42:13) — English (generated): like a warrior
+  - gloss: נָשַׁם: אֶשֹּׁ֥ם (ISA 42:14) — English (generated): gasp
+  - gloss: בַּיִת: בָתֵּ֥י (ISA 42:22) — English (generated): in dungeons
+  - NT: ISA 42:3 *Docht*
+  - answers: bruised, wick, smoldering, man of war, gasp, prisons
+  - Formen dieses Kapitels.
+  - agent:isa042, 2026-11-15
+- **`term:zec005_forms`** עוּף → **flügendi; Mässchorb; stiehlt; Dieb; zrügggstosse; Bleigwicht; Öffnig** [medium, decided, by-rule]
+  - gloss: עוּף: עָפָֽה (ZEC 5:1) — English (generated): a flying
+  - gloss: אֵיפָה: אֵיפָה֙ (ZEC 5:6) — English (generated): A measuring basket
+  - gloss: גָּנַב: גֹּנֵ֗ב (ZEC 5:3) — English (generated): thief
+  - gloss: גַּנָּב: גַּנָּ֔ב (ZEC 5:4) — English (generated): of the thief
+  - gloss: שָׁלַךְ: יַּשְׁלֵ֥ךְ (ZEC 5:8) — English (generated): And he shoved her down
+  - gloss: אֶבֶן: אֶ֥בֶן (ZEC 5:8) — English (generated): cover
+  - gloss: פֶּה: פִּֽי (ZEC 5:8) — English (generated): its opening
+  - NT: ZEC 5:6 *Mässchorb*
+  - answers: flying, basket, steals, thief, thrust back, weight of lead, opening
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:zec005, 2026-11-15
+- **`term:zec004_forms`** מוּצֶקֶת → **Röhrli; Schlussstei; Jubelrüef; Aafäng; schweife; Röhre; usegiesse; Gsalbete** [medium, decided, by-rule]
+  - gloss: מוּצֶקֶת: מֽוּצָק֔וֹת (ZEC 4:2) — English (generated): spouts
+  - gloss: אֶבֶן: אֶ֣בֶן (ZEC 4:7) — English (generated): the capstone
+  - gloss: תְּשֻׁאָה: תְּשֻׁא֕וֹת (ZEC 4:7) — English (generated): accompanied by shouts of
+  - gloss: קָטָן: קְטַנּוֹת֒ (ZEC 4:10) — English (generated): of small things
+  - gloss: שׁוּט: מְשׁוֹטְטִ֖ים (ZEC 4:10) — English (generated): scan
+  - gloss: צַנְתְּרוֹת: צַנְתְּר֣וֹת (ZEC 4:12) — English (generated): pipes
+  - gloss: רִיק: מְרִיקִ֥ים (ZEC 4:12) — English (generated): pours
+  - gloss: בֵּן: בְנֵֽי (ZEC 4:14) — English (generated): ones
+  - NT: ZEC 4:2 *Röhrli*
+  - answers: lips, top stone, shouts, small things, range, pipes, pour out, anointed
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:zec004, 2026-11-15
+- **`term:ezk042_forms`** קָצוּר → **schmeler; zrüggsetzt; Hofmuur; Usgäng; Hochheilige; Tämpelbezirk; Ostsyte; Gwöhnleche** [medium, decided, by-rule]
+  - gloss: קָצוּר: קְצֻר֑וֹת (EZK 42:5) — English (generated): smaller
+  - gloss: אָצַל: נֶאֱצַ֗ל (EZK 42:6) — English (generated): were set back further
+  - gloss: גֶּדֶר: גֶּ֣דֶר (EZK 42:10) — English (generated): of the wall
+  - gloss: מוֹצָא: מוֹצָ֣אֵי (EZK 42:11) — English (generated): exits
+  - gloss: קֹדֶשׁ: קָדְשֵׁ֣י (EZK 42:13) — English (generated): the most holy offerings
+  - gloss: הַ: הַ (EZK 42:15) — English (generated): of the temple area
+  - gloss: רוּחַ: ר֥וּחַ (EZK 42:16) — English (generated): side
+  - gloss: לְ: לְ (EZK 42:20) — English (generated): the area on all four
+  - NT: EZK 42:5 *schmeler*
+  - answers: narrower, set back, court wall, exits, most holy, temple area, east side, common
+  - Formen dieses Kapitels.
+  - agent:ezk042, 2026-11-15
+- **`term:amo002_forms`** קְרִיּוֹת → **Kerijot; Chalch; Garbe; Lugine** [medium, decided, by-rule]
+  - gloss: קְרִיּוֹת: קְּרִיּ֑וֹת (AMO 2:2) — English (generated): of Kerioth
+  - gloss: שִׂיד: שִּֽׂיד (AMO 2:1) — English (generated): to lime
+  - gloss: עָמִיר: עָמִֽיר (AMO 2:13) — English (generated): grain
+  - gloss: כָּזָב: כִּזְבֵי (AMO 2:4) — English (generated): by the lies
+  - NT: AMO 2:2 *Kerijot*
+  - answers: Kerioth, lime, sheaves, lies
+  - Formen dieses Kapitels.
+  - agent:amo002, 2026-11-15
+- **`term:zec006_forms`** שָׁחֹר → **schwarzi; gschäggeti; Winde; schwarze; gschäggete; dürstreifet; spriesst; Ratschluss** [medium, decided, by-rule]
+  - gloss: שָׁחֹר: שְׁחֹרִֽים (ZEC 6:2) — English (generated): black
+  - gloss: בָּרֹד: בְּרֻדִּ֖ים (ZEC 6:3) — English (generated): dappled
+  - gloss: רוּחַ: רֻח֣וֹת (ZEC 6:5) — English (generated): spirits
+  - gloss: שָׁחֹר: שְּׁחֹרִ֗ים (ZEC 6:6) — English (generated): the black
+  - gloss: בָּרֹד: בְּרֻדִּ֔ים (ZEC 6:6) — English (generated): and the dappled
+  - gloss: הלך: לְכ֖וּ (ZEC 6:7) — English (generated): Go
+  - gloss: צָמַח: יִצְמָ֔ח (ZEC 6:12) — English (generated): and He will branch out
+  - gloss: עֵצָה: עֲצַ֣ת (ZEC 6:13) — English (generated): counsel
+  - NT: ZEC 6:14 *Helem*; ZEC 6:14 *Hen*
+  - answers: black, dappled, spirits, black, dappled, patrol, branch out, counsel
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:zec006, 2026-11-15
+- **`term:isa043_forms`** שָׁטַף → **schwemme; versängt; Lösgäld; Gwürzrohr; Fürspräche; uslöscht** [medium, decided, by-rule]
+  - gloss: שָׁטַף: יִשְׁטְפ֑וּ (ISA 43:2) — English (generated): overwhelm you
+  - gloss: בָּעַר: תִבְעַר (ISA 43:2) — English (generated): set you ablaze
+  - gloss: כֹּפֶר: כָפְרְ (ISA 43:3) — English (generated): your ransom
+  - gloss: קָנֶה: קָנֶ֔ה (ISA 43:24) — English (generated): sweet cane
+  - gloss: לִיץ: מְלִיצֶ֖י (ISA 43:27) — English (generated): and your spokesmen
+  - gloss: מָחָה: מֹחֶ֥ה (ISA 43:25) — English (generated): who blots out
+  - NT: ISA 43:24 *Gwürzrohr*
+  - answers: overwhelm, set ablaze, ransom, sweet cane, spokesmen, blots out
+  - Formen dieses Kapitels.
+  - agent:isa043, 2026-11-15
+- **`term:zec007_forms`** סָפַד → **gchlagt; sorglos; Sprächet; ufzpasse; trotzig; verstopft; verwäit; liebliche** [medium, decided, by-rule]
+  - gloss: סָפַד: סָפ֜וֹד (ZEC 7:5) — English (generated): and mourned
+  - gloss: שָׁלֵיו: שְׁלֵוָ֔ה (ZEC 7:7) — English (generated): and prosperous
+  - gloss: שָׁפַט: שְׁפֹ֔טוּ (ZEC 7:9) — English (generated): Administer
+  - gloss: קָשַׁב: הַקְשִׁ֔יב (ZEC 7:11) — English (generated): to pay attention
+  - gloss: סָרַר: סֹרָ֑רֶת (ZEC 7:11) — English (generated): a stubborn
+  - gloss: כָּבֵד: הִכְבִּ֥ידוּ (ZEC 7:11) — English (generated): they stopped up
+  - gloss: סָעַר: אֵ֣סָעֲרֵ֗ (ZEC 7:14) — English (generated): But I scattered them with a whirlwind
+  - gloss: חֶמְדָּה: חֶמְדָּ֖ה (ZEC 7:14) — English (generated): the pleasant
+  - NT: ZEC 7:2 *Regem-Melech*
+  - answers: lamented, prosperous, judge, pay attention, stubborn, closed, scattered, pleasant
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:zec007, 2026-11-15
+- **`term:ezk043_forms`** אַיִל → **Widder; Lyche; Graben; Absatz; Opferhärd; Spanne; entsündige; ströie; yweihe; Aalag** [medium, decided, by-rule]
+  - gloss: אַיִל: אַ֥יִל (EZK 43:23) — English (generated): ram
+  - gloss: פֶּגֶר: פִגְרֵ֥י (EZK 43:7) — English (generated): and by the funeral offerings
+  - gloss: חֵיק: חֵ֨יק (EZK 43:13) — English (generated): Its gutter
+  - gloss: עֲזָרָה: עֲזָרָ֤ה (EZK 43:14) — English (generated): ledge
+  - gloss: הַרְאֵל: הַרְאֵ֖ל (EZK 43:15) — English (generated): The altar hearth
+  - gloss: זֶרֶת: זֶ֣רֶת (EZK 43:13) — English (generated): span
+  - gloss: חָטָא: חִטְּאוּ֙ (EZK 43:22) — English (generated): is to be cleansed
+  - gloss: שָׁלַךְ: הִשְׁלִ֨יכוּ (EZK 43:24) — English (generated): are to sprinkle
+  - gloss: מָלֵא: מִלְא֖וּ (EZK 43:26) — English (generated): so they shall consecrate
+  - gloss: צוּרָה: צ֨וּרֹתָ֤י (EZK 43:11) — English (generated): forms
+  - NT: EZK 43:23 *Widder*
+  - answers: ram, corpses, gutter, ledge, altar hearth, span, purify, throw, dedicate, plan
+  - Formen dieses Kapitels.
+  - agent:ezk043, 2026-11-15
+- **`term:amo003_forms`** בַּיִת → **Winterhuus; Summerhuus; Damascht; Polschter** [medium, decided, by-rule]
+  - gloss: בַּיִת: בֵית (AMO 3:15) — English (generated): house
+  - gloss: בַּיִת: בֵּ֣ית (AMO 3:15) — English (generated): house
+  - gloss: דְּמֶשֶׁק: דְמֶ֥שֶׁק (AMO 3:12) — English (generated): or the cushion
+  - gloss: עֶרֶשׂ: עָֽרֶשׂ (AMO 3:12) — English (generated): of a couch
+  - NT: AMO 3:15 *Winterhuus*
+  - answers: winter house, summer house, cushion, couch
+  - Formen dieses Kapitels.
+  - agent:amo003, 2026-11-15
+- **`term:zec008_forms`** צוֹם → **Faschtetag; gyferet; ufghetzt; zornig; Sprächet; zächte; fröhleche; Mantelzipfel** [medium, decided, by-rule]
+  - gloss: צוֹם: צ֣וֹם (ZEC 8:19) — English (generated): The fasts
+  - gloss: קָנָא: קִנֵּ֥אתִי (ZEC 8:2) — English (generated): I am jealous
+  - gloss: שָׁלַח: אֲשַׁלַּ֥ח (ZEC 8:10) — English (generated): for I had turned
+  - gloss: קָצַף: הַקְצִ֤יף (ZEC 8:14) — English (generated): provoked Me to anger
+  - gloss: שָׁפַט: שִׁפְט֖וּ (ZEC 8:16)
+  - gloss: עֲשִׂירִי: עֲשִׂירִ֗י (ZEC 8:19) — English (generated): the tenth
+  - gloss: טוֹב: טוֹבִ֑ים (ZEC 8:19) — English (generated): cheerful
+  - gloss: כָּנָף: כְנַף֩ (ZEC 8:23) — English (generated): the robe
+  - NT: ZEC 8:19 *Faschtetag*
+  - answers: fast, jealous, set against, provoked, render, tenth, cheerful, garment
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:zec008, 2026-11-15
+- **`term:isa044_forms`** שֶׂרֶד → **Rissstift; Hobel; Zirkel; Stäineiche; Lorbeerboum; Chlotz; zunüte; Schwätzer** [medium, decided, by-rule]
+  - gloss: שֶׂרֶד: שֶּׂ֔רֶד (ISA 44:13) — English (generated): with a stylus
+  - gloss: מַקְצֻעָה: מַּקְצֻע֔וֹת (ISA 44:13) — English (generated): it with chisels
+  - gloss: מְחוּגָה: מְּחוּגָ֖ה (ISA 44:13) — English (generated): it with a compass
+  - gloss: תִּרְזָה: תִּרְזָה֙ (ISA 44:14) — English (generated): a cypress
+  - gloss: אֹרֶן: אֹ֖רֶן (ISA 44:14) — English (generated): a laurel
+  - gloss: בּוּל: ב֥וּל (ISA 44:19) — English (generated): to a block
+  - gloss: פָּרַר: מֵפֵר֙ (ISA 44:25) — English (generated): who foils
+  - gloss: בַּד: בַּדִּ֔ים (ISA 44:25) — English (generated): of false prophets
+  - NT: ISA 44:13 *Zirkel*
+  - answers: stylus, planes, compass, cypress, laurel, block, foils, false prophets
+  - Formen dieses Kapitels.
+  - agent:isa044, 2026-11-15
+- **`term:ezk044_forms`** מְרִי → **Widerspänstige; unbschnitte; versee; Turbane; Underhose; schwitze; stutze; Verstossni; Grundbsitz; verende** [medium, decided, by-rule]
+  - gloss: מְרִי: מֶ֨רִי֙ (EZK 44:6) — English (generated): the rebellious
+  - gloss: עָרֵל: עַרְלֵי (EZK 44:7) — English (generated): uncircumcised
+  - gloss: שָׁמַר: שְׁמַרְתֶּ֖ם (EZK 44:8) — English (generated): kept
+  - gloss: פְּאֵר: פַּאֲרֵ֤י (EZK 44:18) — English (generated): turbans
+  - gloss: מִכְנָס: מִכְנְסֵ֣י (EZK 44:18) — English (generated): undergarments
+  - gloss: יֶזַע: יָּֽזַע (EZK 44:18) — English (generated): anything that makes them perspire
+  - gloss: כָּסַם: כָּס֥וֹם (EZK 44:20) — English (generated): but must carefully trim
+  - gloss: גָּרַשׁ: גְרוּשָׁ֔ה (EZK 44:22) — English (generated): or a divorced woman
+  - gloss: אֲחֻזָּה: אֲחֻזָּ֗ה (EZK 44:28) — English (generated): possession
+  - gloss: נְבֵלָה: נְבֵלָה֙ (EZK 44:31) — English (generated): found dead
+  - NT: EZK 44:6 *Widerspänstige*
+  - answers: rebellious, uncircumcised, keep (charge), turbans, undergarments, sweat, trim, divorced, possession, died of itself
+  - Formen dieses Kapitels.
+  - agent:ezk044, 2026-11-15
+- **`term:amo004_forms`** סִירָה → **Fischhägge; Chornbrand; Schytli; Höigümper** [medium, decided, by-rule]
+  - gloss: סִירָה: סִיר֥וֹת (AMO 4:2) — English (generated): with
+  - gloss: שִׁדָּפוֹן: שִּׁדָּפ֣וֹן (AMO 4:9) — English (generated): you with blight
+  - gloss: אוּד: א֖וּד (AMO 4:11) — English (generated): like a firebrand
+  - gloss: גָּזָם: גָּזָ֑ם (AMO 4:9) — English (generated): the locust
+  - NT: AMO 4:2 *Fischhägge*
+  - answers: fish hooks, blight, burning stick, locust
+  - Formen dieses Kapitels.
+  - agent:amo004, 2026-11-15
+- **`term:zec009_forms`** גָּבַל → **grenzt; ufgschüttet; verschlunge; zschande; Plagvogt; Chriegsboge; usgrotet; Schlöidersteine** [medium, decided, by-rule]
+  - gloss: גָּבַל: תִּגְבָּל (ZEC 9:2) — English (generated): which borders
+  - gloss: צָבַר: תִּצְבָּר (ZEC 9:3) — English (generated): she has heaped up
+  - gloss: אָכַל: תֵּאָכֵֽל (ZEC 9:4) — English (generated): will be consumed
+  - gloss: יבשׁ: הֹבִ֣ישׁ (ZEC 9:5) — English (generated): will wither
+  - gloss: נָגַשׂ: נֹגֵ֑שׂ (ZEC 9:8) — English (generated): will an oppressor
+  - gloss: קֶשֶׁת: קֶ֣שֶׁת (ZEC 9:10) — English (generated): and the bow
+  - gloss: כָּרַת: נִכְרְתָה֙ (ZEC 9:10) — English (generated): will be broken
+  - gloss: אֶבֶן: אַבְנֵי (ZEC 9:15) — English (generated): with slingstones
+  - NT: ZEC 9:1 *Hadrach*
+  - answers: borders, heaped up, consumed, confounded, oppressor, bow of battle, cut off, sling stones
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:zec009, 2026-11-15
+- **`term:isa045_forms`** הֲדוּרִים → **Buggle; verschlan; tröpfle; grossgwachseni; Sabäer; umeträge** [medium, decided, by-rule]
+  - gloss: הֲדוּרִים: הֲדוּרִ֖ים (ISA 45:2) — English (generated): the mountains
+  - gloss: שָׁבַר: אֲשַׁבֵּ֔ר (ISA 45:2) — English (generated): I will break down
+  - gloss: רָעַף: הַרְעִ֤יפוּ (ISA 45:8) — English (generated): Drip down
+  - gloss: מִדָּה: מִדָּה֒ (ISA 45:14) — English (generated): of stature
+  - gloss: סְבָאִים: סְבָאִים֮ (ISA 45:14) — English (generated): along with the Sabeans
+  - gloss: הַ: הַ (ISA 45:20) — English (generated): from the nations
+  - NT: ISA 45:14 *Sabäer*
+  - answers: mountains, shatter, drip, of stature, Sabeans, carry
+  - Formen dieses Kapitels.
+  - agent:isa045, 2026-11-15
+- **`term:zec010_forms`** מַלְקוֹשׁ → **Spaträge; Gwitterwulche; Rägeschütte; Trug; Gassedräck; ussäje; trochne; wycht** [medium, decided, by-rule]
+  - gloss: מַלְקוֹשׁ: מַלְק֔וֹשׁ (ZEC 10:1)
+  - gloss: חֲזִיז: חֲזִיזִ֑ים (ZEC 10:1) — English (generated): the storm clouds
+  - gloss: מָטַר: מְטַר (ZEC 10:1) — English (generated): for rain
+  - gloss: אָוֶן: אָ֗וֶן (ZEC 10:2) — English (generated): deceit
+  - gloss: טִיט: טִ֤יט (ZEC 10:5) — English (generated): in the mire
+  - gloss: זָרַע: אֶזְרָעֵ (ZEC 10:9) — English (generated): Though I sow them
+  - gloss: יָבֵשׁ: הֹבִ֕ישׁוּ (ZEC 10:11) — English (generated): will dry up
+  - gloss: סוּר: יָסֽוּר (ZEC 10:11) — English (generated): will depart
+  - NT: ZEC 10:1 *Spaträge*
+  - answers: spring rain, storm clouds, showers, deceit, mud of the streets, sow, dry up, depart
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:zec010, 2026-11-15
+- **`term:ezk045_forms`** אַיִל → **Widder; Mina; füfezwänzgtuusig; zähtuusig; Zähntel; Sächstel; Stammesteil; Underdrückig; Unwüsseheit; Waagschale** [medium, decided, by-rule]
+  - gloss: אַיִל: אֵילִ֤ים (EZK 45:23) — English (generated): rams
+  - gloss: הַ: הַ (EZK 45:12) — English (generated): The shekel
+  - gloss: אֶלֶף: אֶ֨לֶף֙ (EZK 45:1)
+  - gloss: אֶלֶף: אָ֑לֶף (EZK 45:1)
+  - gloss: מַעֲשֵׂר: מַעְשַׂ֥ר (EZK 45:11) — English (generated): a tenth
+  - gloss: שִׁשִּׁי: שִׁשִּׁ֤ית (EZK 45:13) — English (generated): a sixth
+  - gloss: חֵלֶק: חֲלָקִ֔ים (EZK 45:7) — English (generated): of the portions
+  - gloss: שֹׁד: שֹׁד֙ (EZK 45:9) — English (generated): and oppression
+  - gloss: פֶּתִי: פֶּ֑תִי (EZK 45:20) — English (generated): or in ignorance
+  - gloss: מֹאזְנַיִם: מֹֽאזְנֵי (EZK 45:10) — English (generated): scales
+  - NT: EZK 45:23 *Widder*
+  - answers: rams, mina, twenty-five thousand, ten thousand, tenth, sixth, tribal portion, oppression, ignorance, balances
+  - Formen dieses Kapitels.
+  - agent:ezk045, 2026-11-15
+- **`term:amo005_forms`** כִּימָה → **Sibestärn; Quaderstei; Bstächigsgäld; Feschtversammlige** [medium, decided, by-rule]
+  - gloss: כִּימָה: כִימָ֜ה (AMO 5:8) — English (generated): the Pleiades
+  - gloss: גָּזִית: גָזִ֛ית (AMO 5:11)
+  - gloss: כֹּפֶר: כֹ֔פֶר (AMO 5:12) — English (generated): bribes
+  - gloss: עֲצֶרֶת: עַצְּרֹֽתֵי (AMO 5:21) — English (generated): of your solemn assemblies
+  - NT: AMO 5:8 *Sibestärn*
+  - answers: Pleiades, hewn stone, bribe, solemn assemblies
+  - Formen dieses Kapitels.
+  - agent:amo005, 2026-11-15
+- **`term:isa046_forms`** בֵּל → **Bel; Nebo; umetreit; Gäldseckel; Raubvogel; Abtrünnige** [medium, decided, by-rule]
+  - gloss: בֵּל: בֵּל֙ (ISA 46:1) — English (generated): Bel
+  - gloss: נְבוֹ: נְב֔וֹ (ISA 46:1) — English (generated): Nebo
+  - gloss: נְשׂוּאָה: נְשֻׂאֹתֵי (ISA 46:1) — English (generated): The images you carry
+  - gloss: כִּיס: כִּ֔יס (ISA 46:6) — English (generated): their bags
+  - gloss: עַיִט: עַ֔יִט (ISA 46:11) — English (generated): a bird of prey
+  - gloss: פָּשַׁע: פוֹשְׁעִ֖ים (ISA 46:8) — English (generated): you transgressors
+  - NT: ISA 46:1 *Nebo*
+  - answers: Bel, Nebo, carry, purse, bird of prey, transgressors
+  - Formen dieses Kapitels.
+  - agent:isa046, 2026-11-15
+- **`term:isa047_forms`** רֵחַיִם → **Mülistei; Jüppe; Gnüsseri; Bannsprüch; wäggzouberisch; Herrin** [medium, decided, by-rule]
+  - gloss: רֵחַיִם: רֵחַ֖יִם (ISA 47:2) — English (generated): millstones
+  - gloss: שֹׁבֶל: שֹׁ֛בֶל (ISA 47:2) — English (generated): your skirt
+  - gloss: עָדִין: עֲדִינָה֙ (ISA 47:8) — English (generated): O lover of luxury
+  - gloss: חֶבֶר: חֲבָרַ֖יִ (ISA 47:9) — English (generated): of your spells
+  - gloss: שַׁחַר: שַׁחְרָ֔ (ISA 47:11) — English (generated): how to charm it away
+  - gloss: גְּבֶרֶת: גְּבֶ֖רֶת (ISA 47:5) — English (generated): the queen
+  - NT: ISA 47:9 *Bannsprüch*
+  - answers: millstones, skirt, lover of luxury, spells, charm away, queen
+  - Formen dieses Kapitels.
+  - agent:isa047, 2026-11-15
+- **`term:zec011_forms`** פָּרַר → **ufzhebe; Hüül; gfällt; Schlachtig; wäggruumt; verabscheut; Brüederschaft; nütnutzige** [medium, decided, by-rule]
+  - gloss: פָּרַר: הָפֵיר֙ (ZEC 11:10) — English (generated): revoking
+  - gloss: יָלַל: הֵילֵ֤ל (ZEC 11:2) — English (generated): Wail
+  - gloss: יָרַד: יָרַ֖ד (ZEC 11:2) — English (generated): has been cut down
+  - gloss: הַ: הַֽ (ZEC 11:7) — English (generated): marked for slaughter
+  - gloss: כָּחַד: אַכְחִ֛ד (ZEC 11:8) — English (generated): I dismissed
+  - gloss: בָּחֵל: בָּחֲלָ֥ה (ZEC 11:8) — English (generated): detested
+  - gloss: אַחֲוָה: אַחֲוָ֔ה (ZEC 11:14) — English (generated): the brotherhood
+  - gloss: אֱלִיל: אֱלִיל֙ (ZEC 11:17) — English (generated): to the worthless
+  - NT: ZEC 11:7 *Gnad*; ZEC 11:7 *Verbindig*
+  - answers: annul, wail, come down, slaughter, got rid of, detested, brotherhood, worthless
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:zec011, 2026-11-15
+- **`term:ezk046_forms`** אַיִל → **Widder; Wärchtage; Fyfmähl; aazfüechte; Muurchranz; Chochstelle; Chuchine; Tämpeldiener; Freilassig** [medium, decided, by-rule]
+  - gloss: אַיִל: אַ֥יִל (EZK 46:4) — English (generated): ram
+  - gloss: מַעֲשֶׂה: מַּעֲשֶׂ֑ה (EZK 46:1) — English (generated): of work
+  - gloss: סֹלֶת: סֹּ֑לֶת (EZK 46:14) — English (generated): the fine flour
+  - gloss: רָסַס: רֹ֣ס (EZK 46:14) — English (generated): to moisten
+  - gloss: טוּר: ט֨וּר (EZK 46:23) — English (generated): a row of masonry
+  - gloss: מְבַשְּׁלוֹת: מְבַשְּׁל֣וֹת (EZK 46:23) — English (generated): with ovens
+  - gloss: בָּשַׁל: מְבַשְּׁלִ֔ים (EZK 46:24)
+  - gloss: שָׁרַת: מְשָׁרְתֵ֥י (EZK 46:24) — English (generated): those who minister
+  - gloss: דְּרוֹר: דְּר֔וֹר (EZK 46:17) — English (generated): of freedom
+  - NT: EZK 46:4 *Widder*
+  - answers: ram, working days, fine flour, moisten, row, hearths, kitchens, temple ministers, liberty
+  - Formen dieses Kapitels.
+  - agent:ezk046, 2026-11-15
+- **`term:amo006_forms`** שַׁאֲנָן → **Sorglose; Musiginstrumänt; Maststall; Flegler** [medium, decided, by-rule]
+  - gloss: שַׁאֲנָן: שַּׁאֲנַנִּ֣ים (AMO 6:1) — English (generated): to those at ease
+  - gloss: כְּלִי: כְּלֵי (AMO 6:5) — English (generated): instruments
+  - gloss: מַרְבֵּק: מַרְבֵּֽק (AMO 6:4) — English (generated): the stall
+  - gloss: סָרוּחַ: סְרוּחִֽים (AMO 6:7) — English (generated): and lounging
+  - NT: AMO 6:1 *Sorglose*
+  - answers: at ease, instruments, stall, loungers
+  - Formen dieses Kapitels.
+  - agent:amo006, 2026-11-15
+- **`term:isa048_forms`** מַיִם → **Quell; Verborgnigs; gläuteret; Schmelzofe; Chörnli; usegsprützt** [medium, decided, by-rule]
+  - gloss: מַיִם: מֵּ֥י (ISA 48:1) — English (generated): from the line
+  - gloss: נָצַר: נְצֻר֖וֹת (ISA 48:6) — English (generated): hidden things
+  - gloss: צָרַף: צְרַפְתִּ֖י (ISA 48:10) — English (generated): I have refined you
+  - gloss: כּוּר: כ֥וּר (ISA 48:10) — English (generated): you in the furnace
+  - gloss: מָעָה: מְעֹתָ֑י (ISA 48:19) — English (generated): as its grains
+  - gloss: זוּב: יָּזֻ֖בוּ (ISA 48:21) — English (generated): gushed out
+  - NT: ISA 48:10 *Schmelzofe*
+  - answers: waters, hidden things, refined, furnace, grains, gushed out
+  - Formen dieses Kapitels.
+  - agent:isa048, 2026-11-15
+- **`term:zec012_forms`** נָטָה → **usspannt; Torkle; verletze; brönnendi; Schwächschte; Belagerig** [medium, decided, by-rule]
+  - gloss: נָטָה: נֹטֶ֤ה (ZEC 12:1) — English (generated): who stretches out
+  - gloss: רַעַל: רַ֛עַל (ZEC 12:2) — English (generated): of drunkenness
+  - gloss: שָׂרַט: שָׂר֣וֹט (ZEC 12:3) — English (generated): will be severely injured
+  - gloss: אֵשׁ: אֵשׁ֙ (ZEC 12:6)
+  - gloss: כָּשַׁל: נִּכְשָׁ֥ל (ZEC 12:8) — English (generated): the weakest
+  - gloss: בְּ: בַ (ZEC 12:2) — English (generated): besieged
+  - NT: ZEC 12:11 *Hadad-Rimmon*
+  - answers: stretches out, reeling, injure, flaming, feeblest, siege
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:zec012, 2026-11-15
+- **`term:isa049_forms`** זָכַר → **gnamset; Chöcher; Sinim; ygritzt; Vormünder; Amene** [medium, decided, by-rule]
+  - gloss: זָכַר: הִזְכִּ֥יר (ISA 49:1) — English (generated): He named Me
+  - gloss: אַשְׁפָּה: אַשְׁפָּת֖ (ISA 49:2) — English (generated): in His quiver
+  - gloss: סִינִים: סִינִֽים (ISA 49:12) — English (generated): of Aswan
+  - gloss: חָקַק: חַקֹּתִ֑י (ISA 49:16) — English (generated): I have inscribed you
+  - gloss: אָמַן: אֹֽמְנַ֗יִ (ISA 49:23) — English (generated): your foster fathers
+  - gloss: מֵינֶקֶת: מֵינִ֣יקֹתַ֔יִ (ISA 49:23) — English (generated): your nursing mothers
+  - NT: ISA 49:2 *Chöcher*
+  - answers: named, quiver, Aswan, inscribed, foster fathers, nursing mothers
+  - Formen dieses Kapitels.
+  - agent:isa049, 2026-11-15
+- **`term:ezk047_forms`** פָּכָה → **tröpflet; Chnöchel; usefliesst; Trochne; usspreite; Sümpf; Lache; verwälke; Ynheimischi; östleche** [medium, decided, by-rule]
+  - gloss: פָּכָה: מְפַכִּ֔ים (EZK 47:2) — English (generated): trickling out
+  - gloss: אָפְסַיִם: אָפְסָֽיִם (EZK 47:3) — English (generated): ankle deep
+  - gloss: יָצָא: מּֽוּצָאִ֖ים (EZK 47:8)
+  - gloss: מִשְׁטוֹחַ: מִשְׁט֥וֹחַ (EZK 47:10) — English (generated): spread
+  - gloss: הָיָה: יִהְי֑וּ (EZK 47:10) — English (generated): they will
+  - gloss: בִּצָּה: בִּצֹּאתָ֧י (EZK 47:11) — English (generated): But the swamps
+  - gloss: גֶּבֶא: גְבָאָ֛י (EZK 47:11) — English (generated): and marshes
+  - gloss: נָבֵל: יִבּ֨וֹל (EZK 47:12) — English (generated): wither
+  - gloss: אֶזְרָח: אֶזְרָח֙ (EZK 47:22) — English (generated): as native born
+  - gloss: קַדְמוֹן: קַּדְמוֹנָ֔ה (EZK 47:8) — English (generated): the eastern
+  - NT: EZK 47:2 *tröpflet*
+  - answers: trickling, ankles, flows out, drying, spread, swamps, marshes, wither, native-born, eastern
+  - Formen dieses Kapitels.
+  - agent:ezk047, 2026-11-15
+- **`term:amo007_forms`** גֹּבַי → **Höigümper; Ämd; Mulbeerfyge; Mässschnuer** [medium, decided, by-rule]
+  - gloss: גֹּבַי: גֹּבַ֔י (AMO 7:1) — English (generated): swarms of locusts
+  - gloss: לֶקֶשׁ: לָּ֑קֶשׁ (AMO 7:1)
+  - gloss: שִׁקְמָה: שִׁקְמִֽים (AMO 7:14) — English (generated): of sycamore fig trees
+  - gloss: חֶבֶל: חֶ֣בֶל (AMO 7:17) — English (generated): by a measuring line
+  - NT: AMO 7:1 *Ämd*
+  - answers: locusts, latter growth, sycamore figs, measuring line
+  - Formen dieses Kapitels.
+  - agent:amo007, 2026-11-15
+- **`term:zec013_forms`** דָּקַר → **dürstäche; Haarmantel; Gfährt; läutere; läuteret** [medium, decided, by-rule]
+  - gloss: דָּקַר: דְקָרֻ֜ (ZEC 13:3) — English (generated): will pierce him through
+  - gloss: אַדֶּרֶת: אַדֶּ֥רֶת (ZEC 13:4) — English (generated): cloak
+  - gloss: עָמִית: עֲמִיתִ֔ (ZEC 13:7) — English (generated): who is My Companion
+  - gloss: צָרַף: צְרַפְתִּי (ZEC 13:9) — English (generated): I will refine them
+  - gloss: צָרַף: צְרֹ֣ף (ZEC 13:9)
+  - NT: ZEC 13:4 *Haarmantel*
+  - answers: pierce through, hairy cloak, associate, refine, refines
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:zec013, 2026-11-15
+- **`term:isa050_forms`** סֵפֶר → **Scheidebrief; Glöibiger; Speuz; Kieselstei; Fackle** [medium, decided, by-rule]
+  - gloss: סֵפֶר: סֵ֣פֶר (ISA 50:1) — English (generated): certificate
+  - gloss: נשׁא: נּוֹשַׁ֔ (ISA 50:1) — English (generated): of My creditors
+  - gloss: רֹק: רֹֽק (ISA 50:6) — English (generated): and spittle
+  - gloss: חַלָּמִישׁ: חַלָּמִ֔ישׁ (ISA 50:7) — English (generated): like flint
+  - gloss: זִיקָה: זִיק֑וֹת (ISA 50:11) — English (generated): with firebrands
+  - NT: ISA 50:1 *Scheidebrief*
+  - answers: certificate of divorce, creditors, spittle, flint, firebrands
+  - Formen dieses Kapitels.
+  - agent:isa050, 2026-11-15
+- **`term:ezk048_forms`** קָדִים → **Ostsyte; Stammesteil; viertuusigfüfhundert; achtzähtuusig; zwöihundertfüfzg; abgäbne; ytuusche; bebboue; Nahrig** [medium, decided, by-rule]
+  - gloss: קָדִים: קָדִ֛ים (EZK 48:1) — English (generated): and extending from the east
+  - gloss: חֵלֶק: חֲלָקִים֙ (EZK 48:8) — English (generated): tribal portion
+  - gloss: אֶלֶף: אֲלָפִ֔ים (EZK 48:16)
+  - gloss: אֶלֶף: אָ֑לֶף (EZK 48:35)
+  - gloss: מֵאָה: מָאתַ֔יִם (EZK 48:17)
+  - gloss: תְּרוּמָה: תְּרוּמַ֥ת (EZK 48:12) — English (generated): set apart
+  - gloss: מוּר: יָמֵ֛ר (EZK 48:14) — English (generated): or exchange
+  - gloss: עָבַד: יַעַבְד֕וּ (EZK 48:19) — English (generated): who cultivate it
+  - gloss: לֶחֶם: לֶ֔חֶם (EZK 48:18) — English (generated): food
+  - NT: EZK 48:1 *Ostsyte*
+  - answers: east side, tribal portion, 4,500, 18,000, 250, offering, exchange, cultivate, food
+  - Formen dieses Kapitels.
+  - agent:ezk048, 2026-11-15
+- **`term:zec014_forms`** בָּקַע → **spaltet; rückt; Chälti; Aabezyt; Läbigs; Ecktor; Chünigstrotte; Ougehöhle** [medium, decided, by-rule]
+  - gloss: בָּקַע: נִבְקַע֩ (ZEC 14:4) — English (generated): will be split
+  - gloss: מוּשׁ: מָ֨שׁ (ZEC 14:4) — English (generated): moving
+  - gloss: יָקָר: יְקָר֖וֹת (ZEC 14:6) — English (generated): no cold
+  - gloss: עֵת: עֵֽת (ZEC 14:7)
+  - gloss: חַי: חַיִּים֙ (ZEC 14:8) — English (generated): living
+  - gloss: שַׁעַר: שַׁ֣עַר (ZEC 14:10) — English (generated): Gate
+  - gloss: יֶקֶב: יִקְבֵ֥י (ZEC 14:10) — English (generated): winepresses
+  - gloss: חֹר: חֹֽרֵי (ZEC 14:12) — English (generated): in their sockets
+  - NT: ZEC 14:5 *Azel*
+  - answers: split, move, cold, evening, living, corner gate, king's winepresses, sockets
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:zec014, 2026-11-15
+- **`term:amo008_forms`** כְּלוּב → **Chorb; Neumond; Wage; glatzig** [medium, decided, by-rule]
+  - gloss: כְּלוּב: כְּל֥וּב (AMO 8:1) — English (generated): a basket
+  - gloss: חֹדֶשׁ: חֹ֨דֶשׁ֙ (AMO 8:5) — English (generated): will the New Moon
+  - gloss: מֹאזְנַיִם: מֹאזְנֵ֥י (AMO 8:5) — English (generated): scales
+  - gloss: קׇרְחָה: קָרְחָ֑ה (AMO 8:10) — English (generated): to be shaved
+  - NT: AMO 8:1 *Chorb*
+  - answers: basket, new moon, scales, baldness
+  - Formen dieses Kapitels.
+  - agent:amo008, 2026-11-15
+- **`term:isa051_forms`** מַקֶּבֶת → **Steibruch; Mügge; Rahab; Ungheuer; Taumel; Plaggeischter** [medium, decided, by-rule]
+  - gloss: מַקֶּבֶת: מַקֶּ֥בֶת (ISA 51:1) — English (generated): the quarry
+  - gloss: כֵּן: כֵ֣ן (ISA 51:6)
+  - gloss: רַהַב: רַ֖הַב (ISA 51:9) — English (generated): who cut Rahab
+  - gloss: תַּנִּין: תַּנִּֽין (ISA 51:9) — English (generated): the dragon
+  - gloss: תַּרְעֵלָה: תַּרְעֵלָ֛ה (ISA 51:17) — English (generated): that makes men stagger
+  - gloss: יָגָה: מוֹגַ֔יִ (ISA 51:23) — English (generated): of your tormentors
+  - NT: ISA 51:9 *Rahab*
+  - answers: quarry, gnats, Rahab, dragon, staggering, tormentors
+  - Formen dieses Kapitels.
+  - agent:isa051, 2026-11-15
+- **`term:amo009_forms`** כֻּשִׁי → **Kuschiter; Kaftor; Sieb; Saatguet** [medium, decided, by-rule]
+  - gloss: כֻּשִׁי: כֻשִׁיִּ֨ים (AMO 9:7) — English (generated): like the Cushites
+  - gloss: כַּפְתּוֹר: כַּפְתּ֖וֹר (AMO 9:7) — English (generated): from Caphtor
+  - gloss: כְּבָרָה: כְּבָרָ֔ה (AMO 9:9) — English (generated): in a sieve
+  - gloss: זֶרַע: זָּ֑רַע (AMO 9:13) — English (generated): of seed
+  - NT: AMO 9:7 *Kuschiter*
+  - answers: Cushites, Caphtor, sieve, seed
+  - Formen dieses Kapitels.
+  - agent:amo009, 2026-11-15
+- **`term:isa052_forms`** בָּשַׂר → **Fröidebot; Nachhuet; Unbeschnitteni; verbrüelet; verunstaltet; bsprütze** [medium, decided, by-rule]
+  - gloss: בָּשַׂר: מְבַשֵּׂ֗ר (ISA 52:7) — English (generated): of those who bring good news
+  - gloss: אָסַף: מְאַסִּפְ (ISA 52:12) — English (generated): is your rear guard
+  - gloss: עָרֵל: עָרֵ֥ל (ISA 52:1) — English (generated): the uncircumcised
+  - gloss: נָאַץ: מִנֹּאָֽץ (ISA 52:5) — English (generated): blasphemed
+  - gloss: מִשְׁחַת: מִשְׁחַ֥ת (ISA 52:14) — English (generated): was disfigured
+  - gloss: נָזָה: יַזֶּה֙ (ISA 52:15) — English (generated): He will sprinkle
+  - NT: ISA 52:7 *Fröidebot*
+  - answers: herald, rear guard, uncircumcised, blasphemed, marred, sprinkle
+  - Formen dieses Kapitels.
+  - agent:isa052, 2026-11-15
+- **`term:oba001_forms`** רָאָה → **schadefroh; Felsspalte; Truubeläser; Nachläse; dürsuecht; Wägchrüzig; Überläbende; Verhängnis** [medium, decided, by-rule]
+  - gloss: רָאָה: תֵּ֤רֶא (OBA 1:12) — English (generated): gloat
+  - gloss: חָגוּ: חַגְוֵי (OBA 1:3) — English (generated): in the clefts
+  - gloss: בָּצַר: בֹּֽצְרִים֙ (OBA 1:5) — English (generated): grape gatherers
+  - gloss: עֹלֵלוֹת: עֹלֵלֽוֹת (OBA 1:5) — English (generated): gleanings
+  - gloss: חָפַשׂ: נֶחְפְּשׂ֣וּ (OBA 1:6) — English (generated): will be pillaged
+  - gloss: הַ: הַ (OBA 1:14) — English (generated): the crossroads
+  - gloss: שָׂרִיד: שְׂרִידָ֖י (OBA 1:14) — English (generated): their survivors
+  - gloss: אֵיד: אֵידָ֔ (OBA 1:13) — English (generated): of their disaster
+  - NT: OBA 1:12 *schadefroh*
+  - answers: gloat, clefts of the rock, grape gatherers, gleanings, pillaged, crossroads, survivors, disaster
+  - Formen dieses Kapitels.
+  - agent:oba001, 2026-11-15
+- **`term:isa053_forms`** מַכְאוֹב → **Schmärze; dürbohrt; Schärer; Zytgenosse; Schuldopfer; ygstande** [medium, decided, by-rule]
+  - gloss: מַכְאוֹב: מַכְאֹב֖וֹת (ISA 53:3) — English (generated): of sorrows
+  - gloss: חָלַל: מְחֹלָ֣ל (ISA 53:5) — English (generated): was pierced
+  - gloss: גָּזַז: גֹזְזֶ֖י (ISA 53:7) — English (generated): her shearers
+  - gloss: דּוֹר: דּוֹר֖ (ISA 53:8) — English (generated): His descendants
+  - gloss: אָשָׁם: אָשָׁם֙ (ISA 53:10) — English (generated): a guilt offering
+  - gloss: פָּגַע: יַפְגִּֽיעַ (ISA 53:12) — English (generated): and made intercession
+  - NT: ISA 53:5 *dürbohrt*
+  - answers: sorrows, pierced, shearers, generation, guilt offering, made intercession
+  - Formen dieses Kapitels.
+  - agent:isa053, 2026-11-15
+- **`term:isa054_forms`** עָקָר → **Unfruchtbari; Pflöck; Witfroue-Stand; Fridesbund; Schminki; Ringmuur** [medium, decided, by-rule]
+  - gloss: עָקָר: עֲקָרָ֖ה (ISA 54:1) — English (generated): O barren woman
+  - gloss: יָתֵד: יתֵדֹתַ֖יִ (ISA 54:2) — English (generated): and drive your stakes in deep
+  - gloss: אַלְמָנוּת: אַלְמְנוּתַ֖יִ (ISA 54:4) — English (generated): of your widowhood
+  - gloss: בְּרִית: בְרִ֤ית (ISA 54:10) — English (generated): and My covenant
+  - gloss: פּוּךְ: פּוּךְ֙ (ISA 54:11) — English (generated): in antimony
+  - gloss: גְּבוּל: גְּבוּלֵ֖ (ISA 54:12) — English (generated): your walls
+  - NT: ISA 54:10 *Fridesbund*
+  - answers: barren woman, stakes, widowhood, covenant of peace, antimony, walls
+  - Formen dieses Kapitels.
+  - agent:isa054, 2026-11-15
+- **`term:hab001_forms`** מִכְמֶרֶת → **Fischgarn; ungstüeme; Aaseh; Leoparde; Treulose; schwygsch; verzellti** [medium, decided, by-rule]
+  - gloss: מִכְמֶרֶת: מִכְמַרְתּ֑ (HAB 1:15) — English (generated): in his fishing net
+  - gloss: הַ: הַ (HAB 1:6) — English (generated): the Chaldeans
+  - gloss: שְׂאֵת: שְׂאֵת֖ (HAB 1:7) — English (generated): and sovereignty
+  - gloss: נָמֵר: נְּמֵרִ֜ים (HAB 1:8) — English (generated): than leopards
+  - gloss: בָּגַד: בּֽוֹגְדִ֔ים (HAB 1:13) — English (generated): the faithless
+  - gloss: חָרֵשׁ: תַּחֲרִ֕ישׁ (HAB 1:13) — English (generated): Why are You silent
+  - gloss: סָפַר: יְסֻפָּֽר (HAB 1:5) — English (generated): told you
+  - NT: HAB 1:15 *Fischgarn*
+  - answers: fishing net, impetuous, dignity, leopards, treacherous, silent, told
+  - Formen dieses Kapitels.
+  - agent:hab001, 2026-11-15
+- **`term:isa055_forms`** שָׁבַר → **choufet; Gnadeverspräche; Sämaa; klatsche; Brennessle; Myrte** [medium, decided, by-rule]
+  - gloss: שָׁבַר: שִׁבְרוּ֙ (ISA 55:1) — English (generated): buy
+  - gloss: חֶסֶד: חַֽסְדֵ֥י (ISA 55:3) — English (generated): My loving devotion
+  - gloss: זָרַע: זֹּרֵ֔עַ (ISA 55:10) — English (generated): seed
+  - gloss: מָחָא: יִמְחֲאוּ (ISA 55:12) — English (generated): will clap
+  - gloss: סִרְפָּד: סִּרְפַּ֖ד (ISA 55:13) — English (generated): the brier
+  - gloss: הֲדַס: הֲדַ֑ס (ISA 55:13) — English (generated): the myrtle
+  - NT: ISA 55:3 *Gnadeverspräche*
+  - answers: buy, loving devotion, sower, clap, brier, myrtle
+  - Formen dieses Kapitels.
+  - agent:isa055, 2026-11-15
+- **`term:hab002_forms`** רָבָה → **zämeraffet; Toterych; Rätselsprüch; Pfänder; usgröubt; Holzwärk; drybmischlet; Treui** [medium, decided, by-rule]
+  - gloss: רָבָה: מַּרְבֶּ֣ה (HAB 2:6) — English (generated): to him who amasses
+  - gloss: שְׁאוֹל: שְׁא֜וֹל (HAB 2:5) — English (generated): like Sheol
+  - gloss: חִידָה: חִיד֣וֹת (HAB 2:6) — English (generated): and derision
+  - gloss: עַבְטִיט: עַבְטִֽיט (HAB 2:6) — English (generated): with many loans
+  - gloss: שָׁלַל: שַׁלּ֨וֹתָ֙ (HAB 2:8) — English (generated): have plundered
+  - gloss: עֵץ: עֵ֥ץ (HAB 2:11) — English (generated): from the woodwork
+  - gloss: סָפַח: מְסַפֵּ֥חַ (HAB 2:15) — English (generated): pouring it
+  - gloss: אֱמוּנָה: אֱמוּנָת֥ (HAB 2:4) — English (generated): by faith
+  - NT: HAB 2:6 *zämeraffet*
+  - answers: heaps up, sheol, riddles, pledges, plundered, woodwork, pouring out, faith
+  - Formen dieses Kapitels.
+  - agent:hab002, 2026-11-15
+- **`term:isa056_forms`** סָרִיס → **Hofma; Hofmanne; Dänkmal; Versprengte; belle; gfrässig** [medium, decided, by-rule]
+  - gloss: סָרִיס: סָּרִ֔יס (ISA 56:3) — English (generated): And let the eunuch
+  - gloss: סָרִיס: סָּֽרִיסִים֙ (ISA 56:4) — English (generated): To the eunuchs
+  - gloss: יָד: יָ֣ד (ISA 56:5) — English (generated): a memorial
+  - gloss: נדח: נִדְחֵ֣י (ISA 56:8) — English (generated): the dispersed
+  - gloss: נָבַח: נְבֹּ֑חַ (ISA 56:10) — English (generated): bark
+  - gloss: עַז: עַזֵּי (ISA 56:11)
+  - NT: ISA 56:3 *Hofma*
+  - answers: eunuch, eunuchs, memorial, dispersed, bark, ravenous
+  - Formen dieses Kapitels.
+  - agent:isa056, 2026-11-15
+- **`term:hab003_forms`** יְרִיעָה → **Zältdecher; Wolkebruch; Fuulnis; Klaglieder; usgzoge; durbohrt; aagryft; enttüüscht** [medium, decided, by-rule]
+  - gloss: יְרִיעָה: יְרִיע֖וֹת (HAB 3:7) — English (generated): the curtains
+  - gloss: זֶרֶם: זֶ֥רֶם (HAB 3:10) — English (generated): torrents
+  - gloss: רָקָב: רָקָ֛ב (HAB 3:16) — English (generated): Decay
+  - gloss: שִׁגָּיוֹן: שִׁגְיֹנֽוֹת (HAB 3:1) — English (generated): Shigionoth
+  - gloss: יָצָא: יָצָ֨אתָ֙ (HAB 3:13) — English (generated): You went forth
+  - gloss: נָקַב: נָקַ֤בְתָּ (HAB 3:14) — English (generated): You pierced
+  - gloss: גּוּד: יְגוּדֶֽ (HAB 3:16) — English (generated): who invade us
+  - gloss: כָּחַשׁ: כִּחֵשׁ֙ (HAB 3:17) — English (generated): fails
+  - NT: HAB 3:7 *Zältdecher*
+  - answers: tent curtains, torrent, rottenness, shigionoth, went forth, pierced, invading, fails
+  - Formen dieses Kapitels.
+  - agent:hab003, 2026-11-15
+- **`term:isa057_forms`** אָסַף → **wäggrafft; Zoubere; Bachtal; Erinnerigszeiche; Götzehüüffe; ufgwüelte** [medium, decided, by-rule]
+  - gloss: אָסַף: נֶֽאֱסָפִים֙ (ISA 57:1) — English (generated): are taken away
+  - gloss: עָנַן: עֹנְנָ֑ה (ISA 57:3) — English (generated): of a sorceress
+  - gloss: נַחַל: נַ֣חַל (ISA 57:6) — English (generated): of the valley
+  - gloss: זִכָּרוֹן: זִכְרוֹנֵ֑ (ISA 57:8) — English (generated): your memorial
+  - gloss: קִבּוּץ: קִבּוּצַ֔יִ (ISA 57:13) — English (generated): let your companies
+  - gloss: גָּרַשׁ: נִגְרָ֑שׁ (ISA 57:20) — English (generated): are like the storm tossed
+  - NT: ISA 57:9 *Moloch*
+  - answers: taken away, sorceress, valley, memorial, companies of idols, storm-tossed
+  - Formen dieses Kapitels.
+  - agent:isa057, 2026-11-15
+- **`term:zep001_forms`** אָסַף → **rume ab; Götzepriester; Händlervolk; Mörser; Eggtürm; Verödig; Stolpersteine; heim** [medium, decided, by-rule]
+  - gloss: אָסַף: אָסֹ֨ף (ZEP 1:2) — English (generated): I will completely sweep away
+  - gloss: כֹּמֶר: כְּמָרִ֖ים (ZEP 1:4) — English (generated): of the idolatrous
+  - gloss: עַם: עַ֣ם (ZEP 1:11) — English (generated): your merchants
+  - gloss: מַכְתֵּשׁ: מַּכְתֵּ֑שׁ (ZEP 1:11) — English (generated): of the Hollow
+  - gloss: פִּנָּה: פִּנּ֥וֹת (ZEP 1:16) — English (generated): corner towers
+  - gloss: מְשׁוֹאָה: מְשׁוֹאָ֔ה (ZEP 1:15) — English (generated): and desolation
+  - gloss: מַכְשֵׁלָה: מַּכְשֵׁל֖וֹת (ZEP 1:3) — English (generated): and the idols
+  - gloss: פָּקַד: פָקַדְתִּ֥י (ZEP 1:8) — English (generated): I will punish
+  - NT: ZEP 1:2 *rume*
+  - answers: sweep away, idolatrous priests, merchants, mortar, corner towers, desolation, ruins, punish
+  - Formen dieses Kapitels.
+  - agent:zep001, 2026-11-15
+- **`term:isa058_forms`** גָּרוֹן → **Gurgle; dryzschla; Binse; Mit-em-Finger-Zeige; vermuuret; rüte** [medium, decided, by-rule]
+  - gloss: גָּרוֹן: גָרוֹן֙ (ISA 58:1) — English (generated): aloud
+  - gloss: נָכָה: הַכּ֖וֹת (ISA 58:4) — English (generated): to strike
+  - gloss: אַגְמֹון: אַגְמֹ֜ן (ISA 58:5) — English (generated): like a reed
+  - gloss: שָׁלַח: שְׁלַ֥ח (ISA 58:9) — English (generated): the pointing
+  - gloss: גָּדַר: גֹּדֵ֣ר (ISA 58:12) — English (generated): Repairer
+  - gloss: רָכַב: הִרְכַּבְתִּ֖י (ISA 58:14) — English (generated): and I will make you ride
+  - NT: ISA 58:12 *vermuuret*
+  - answers: throat, strike, reed, pointing of the finger, repairer, ride
+  - Formen dieses Kapitels.
+  - agent:isa058, 2026-11-15
+- **`term:zep002_forms`** חֶבֶל → **Meeresufer; verhöhnt; Brönnessle; Salzgruebe; Wüeschteeule; Süülechöpf; Schutt; verschwyne** [medium, decided, by-rule]
+  - gloss: חֶבֶל: חֶ֥בֶל (ZEP 2:5) — English (generated): of
+  - gloss: חָרַף: חֵֽרְפוּ֙ (ZEP 2:8) — English (generated): have taunted
+  - gloss: חָרוּל: חָר֛וּל (ZEP 2:9) — English (generated): of weeds
+  - gloss: מִכְרֶה: מִכְרֵה (ZEP 2:9) — English (generated): and
+  - gloss: קָאַת: קָאַת֙ (ZEP 2:14) — English (generated): the desert owl
+  - gloss: כַּפְתּוֹר: כַפְתֹּרֶ֖י (ZEP 2:14) — English (generated): atop her
+  - gloss: חֹרֶב: חֹ֣רֶב (ZEP 2:14) — English (generated): but desolation
+  - gloss: רָזָה: רָזָ֔ה (ZEP 2:11) — English (generated): He starves
+  - NT: ZEP 2:5 *Meeresufer*
+  - answers: seacoast, taunted, weeds, salt pits, desert owl, capitals, rubble, shrivel
+  - Formen dieses Kapitels.
+  - agent:zep002, 2026-11-15
+- **`term:isa059_forms`** גָּאַל → **bsudlet; Vipere; Spinne; taaste; brumme; Chindeschind** [medium, decided, by-rule]
+  - gloss: גָּאַל: נְגֹאֲל֣וּ (ISA 59:3) — English (generated): are stained
+  - gloss: צִפְעֹנִי: צִפְעוֹנִי֙ (ISA 59:5) — English (generated): of vipers
+  - gloss: עַכָּבִישׁ: עַכָּבִ֖ישׁ (ISA 59:5) — English (generated): a spider s
+  - gloss: גָּשַׁשׁ: נְגַֽשְׁשָׁ֤ה (ISA 59:10) — English (generated): we feel our way along
+  - gloss: הָמָה: נֶהֱמֶ֤ה (ISA 59:11) — English (generated): growl
+  - gloss: זֶרַע: זֶ֤רַע (ISA 59:21) — English (generated): of your children
+  - NT: ISA 59:5 *Vipere*
+  - answers: stained, vipers, spider, grope, growl, grandchildren
+  - Formen dieses Kapitels.
+  - agent:isa059, 2026-11-15
+- **`term:zep003_forms`** מָרָא → **widerspänstige; Zurächtwysig; brüelendi; Glüejigkeit; einträchtig; Verehrer; hinket; versprängt** [medium, decided, by-rule]
+  - gloss: מָרָא: מֹרְאָ֖ה (ZEP 3:1) — English (generated): rebellious
+  - gloss: מוּסָר: מוּסָ֑ר (ZEP 3:2) — English (generated): correction
+  - gloss: שָׁאַג: שֹֽׁאֲגִ֑ים (ZEP 3:3) — English (generated): are roaring
+  - gloss: חָרוֹן: חֲר֣וֹן (ZEP 3:8) — English (generated): My burning anger
+  - gloss: שְׁכֶם: שְׁכֶ֥ם (ZEP 3:9) — English (generated): shoulder
+  - gloss: עָתָר: עֲתָרַ (ZEP 3:10) — English (generated): My worshipers
+  - gloss: צָלַע: צֹּלֵעָ֗ה (ZEP 3:19) — English (generated): the lame
+  - gloss: נָדַח: נִּדָּחָה֙ (ZEP 3:19) — English (generated): the scattered
+  - NT: ZEP 3:1 *widerspänstige*
+  - answers: rebellious, correction, roaring, burning, one accord, worshipers, lame, outcast
+  - Formen dieses Kapitels.
+  - agent:zep003, 2026-11-15
+- **`term:isa060_forms`** נְבָיוֹת → **Nebajot; Efa; Kedar; Ulme; Obrigkeit; Schössli** [medium, decided, by-rule]
+  - gloss: נְבָיוֹת: נְבָי֖וֹת (ISA 60:7) — English (generated): of Nebaioth
+  - gloss: עֵיפָה: עֵיפָ֔ה (ISA 60:6) — English (generated): and Ephah
+  - gloss: קֵדָר: קֵדָר֙ (ISA 60:7) — English (generated): of Kedar
+  - gloss: תִּדְהָר: תִּדְהָ֥ר (ISA 60:13) — English (generated): elm
+  - gloss: פְּקֻדָּה: פְקֻדָּתֵ (ISA 60:17) — English (generated): as your governor
+  - gloss: נֵצֶר: נֵ֧צֶר (ISA 60:21) — English (generated): they are the branch
+  - NT: ISA 60:7 *Nebajot*
+  - answers: Nebaioth, Ephah, Kedar, elm, governor, branch
+  - Formen dieses Kapitels.
+  - agent:isa060, 2026-11-15
+- **`term:isa061_forms`** דְּרוֹר → **Freilassig; Befreiig; Fröide-Öl; Räbbuure; Chopfschmuck; Gsäite** [medium, decided, by-rule]
+  - gloss: דְּרוֹר: דְּר֔וֹר (ISA 61:1) — English (generated): liberty
+  - gloss: פְּקַח קֹוחַ: פְּקַח (ISA 61:1) — English (generated): and freedom
+  - gloss: שֶׁמֶן: שֶׁ֤מֶן (ISA 61:3) — English (generated): the oil
+  - gloss: כָּרַם: כֹרְמֵי (ISA 61:5) — English (generated): and vinedressers
+  - gloss: פְּאֵר: פְּאֵ֔ר (ISA 61:10) — English (generated): headdress
+  - gloss: זֵרוּעַ: זֵרוּעֶ֣י (ISA 61:11) — English (generated): enables seed
+  - NT: ISA 61:1 *Freilassig*
+  - answers: liberty, freedom, oil of joy, vinedressers, headdress, what is sown
+  - Formen dieses Kapitels.
+  - agent:isa061, 2026-11-15
+- **`term:hag001_forms`** סָפַן → **täferete; ygheimst; Seckel; heibbracht; furtbblase; umerennet; öiretwäge; gsääit** [medium, decided, by-rule]
+  - gloss: סָפַן: סְפוּנִ֑ים (HAG 1:4) — English (generated): in your paneled
+  - gloss: בּוֹא: הָבֵ֣א (HAG 1:6) — English (generated): but harvested
+  - gloss: צְרוֹר: צְר֥וֹר (HAG 1:6) — English (generated): a bag
+  - gloss: בּוֹא: הֲבֵאתֶ֥ם (HAG 1:9) — English (generated): And what you brought
+  - gloss: וְ: וְ (HAG 1:9) — English (generated): but behold
+  - gloss: רוּץ: רָצִ֖ים (HAG 1:9) — English (generated): is busy
+  - gloss: עַל: עֲלֵי (HAG 1:10) — English (generated): on account of you
+  - gloss: זָרַע: זְרַעְתֶּ֨ם (HAG 1:6) — English (generated): You have planted
+  - NT: HAG 1:4 *täferete*
+  - answers: paneled, harvested, bag, brought home, blew away, hurry off, because of you, sown
+  - Formen dieses Kapitels.
+  - agent:hag001, 2026-11-15
+- **`term:isa062_forms`** בָּעַל → **Ghürateti; Verlasseni; Turban; Vorhöf; Gsuechti; Ärtrag** [medium, decided, by-rule]
+  - gloss: בָּעַל: בְּעוּלָ֑ה (ISA 62:4) — English (generated): Beulah
+  - gloss: עָזַב: עֲזוּבָ֗ה (ISA 62:4) — English (generated): Forsaken
+  - gloss: צָנִיף: צְנִ֥יף (ISA 62:3) — English (generated): diadem
+  - gloss: חָצֵר: חַצְר֥וֹת (ISA 62:9) — English (generated): courts
+  - gloss: דָּרַשׁ: דְרוּשָׁ֔ה (ISA 62:12) — English (generated): Sought Out
+  - gloss: פְּעֻלָּה: פְעֻלָּת֖ (ISA 62:11) — English (generated): and His recompense
+  - NT: ISA 62:4 *Ghürateti*
+  - answers: married, forsaken, diadem, courts, sought out, recompense
+  - Formen dieses Kapitels.
+  - agent:isa062, 2026-11-15
+- **`term:isa063_forms`** בׇּצְרָה → **Bozra; verfläcket; Gnadetate; Ruehmestate; Sehnsucht; abirre** [medium, decided, by-rule]
+  - gloss: בׇּצְרָה: בָּצְרָ֔ה (ISA 63:1) — English (generated): from Bozrah
+  - gloss: גָּאַל: אֶגְאָֽלְתִּי (ISA 63:3) — English (generated): were stained
+  - gloss: חֶסֶד: חַֽסְדֵ֨י (ISA 63:7) — English (generated): loving devotion
+  - gloss: תְּהִלָּה: תְּהִלֹּ֣ת (ISA 63:7) — English (generated): praiseworthy acts
+  - gloss: הָמוֹן: הֲמ֥וֹן (ISA 63:15) — English (generated): Your yearning
+  - gloss: תָּעָה: תַתְעֵ֤ (ISA 63:17) — English (generated): do You make us stray
+  - NT: ISA 63:1 *Bozra*
+  - answers: Bozrah, stained, loving devotion, praiseworthy acts, yearning, stray
+  - Formen dieses Kapitels.
+  - agent:isa063, 2026-11-15
+- **`term:hag002_forms`** נָזִיד → **Gchochets; Ässbars; Hüüffe; Eimer; usezschöpfe; Granatöpfelboum; Fahrer; Siegelring** [medium, decided, by-rule]
+  - gloss: נָזִיד: נָּזִ֜יד (HAG 2:12) — English (generated): stew
+  - gloss: מַאֲכָל: מַאֲכָ֖ל (HAG 2:12) — English (generated): other food
+  - gloss: עֲרֵמָה: עֲרֵמַ֣ת (HAG 2:16) — English (generated): a heap
+  - gloss: פּוּרָה: פּוּרָ֔ה (HAG 2:16)
+  - gloss: חָשַׂף: חְשֹׂף֙ (HAG 2:16) — English (generated): to draw out
+  - gloss: רִמּוֹן: רִמּ֛וֹן (HAG 2:19) — English (generated): the pomegranate
+  - gloss: רָכַב: רֹ֣כְבֶ֔י (HAG 2:22) — English (generated): and their riders
+  - gloss: חֹותָם: חוֹתָ֑ם (HAG 2:23) — English (generated): like My signet ring
+  - NT: HAG 2:12 *Gchochets*
+  - answers: stew, food, heap, measures, draw, pomegranate, riders, signet ring
+  - Formen dieses Kapitels.
+  - agent:hag002, 2026-11-15
+- **`term:isa064_forms`** הֶמֶס → **Gstrüpp; furchtbari; verno; verwälke; Lätt; schwigsch** [medium, decided, by-rule]
+  - gloss: הֶמֶס: הֲמָסִ֗ים (ISA 64:1) — English (generated): the brushwood
+  - gloss: יָרֵא: נוֹרָא֖וֹת (ISA 64:2) — English (generated): awesome works
+  - gloss: אָזַן: הֶאֱזִ֑ינוּ (ISA 64:3) — English (generated): ear has perceived
+  - gloss: בלל: נָּ֤בֶל (ISA 64:5) — English (generated): wither
+  - gloss: חֹמֶר: חֹ֨מֶר֙ (ISA 64:7) — English (generated): are the clay
+  - gloss: חָשָׁה: תֶּחֱשֶׁ֥ה (ISA 64:11) — English (generated): Will You keep silent
+  - NT: ISA 64:7 *Lätt*
+  - answers: brushwood, awesome, perceived, wither, clay, keep silent
+  - Formen dieses Kapitels.
+  - agent:isa064, 2026-11-15
+- **`term:isa065_forms`** סָרַר → **ufölgige; Gschir; Mischwy; Fluechwort; Verzwyflig; Schicksal** [medium, decided, by-rule]
+  - gloss: סָרַר: סוֹרֵ֑ר (ISA 65:2) — English (generated): an obstinate
+  - gloss: כְּלִי: כְּלֵי (ISA 65:4) — English (generated): from their bowls
+  - gloss: מִמְסָךְ: מִמְסָֽךְ (ISA 65:11) — English (generated): bowls of mixed wine
+  - gloss: שְׁבוּעָה: שְׁבוּעָה֙ (ISA 65:15) — English (generated): as a curse
+  - gloss: שֶׁבֶר: שֵּׁ֥בֶר (ISA 65:14) — English (generated): with a broken
+  - gloss: מְנִי: מְנִ֥י (ISA 65:11) — English (generated): for Destiny
+  - NT: ISA 65:11 *Schicksal*
+  - answers: obstinate, bowls, mixed wine, curse, broken spirit, Destiny
+  - Formen dieses Kapitels.
+  - agent:isa065, 2026-11-15
+- **`term:isa066_forms`** הֲדֹם → **Schämeli; löie; Wehschmärz; gschauklet; Ungschüüch; Dromedar** [medium, decided, by-rule]
+  - gloss: הֲדֹם: הֲדֹ֣ם (ISA 66:1) — English (generated): is My footstool
+  - gloss: מְנוּחָה: מְנוּחָתִֽ (ISA 66:1) — English (generated): of repose
+  - gloss: חֵבֶל: חֵ֛בֶל (ISA 66:7) — English (generated): she was in pain
+  - gloss: שָׁעַע: תְּשָׁעֳשָֽׁעוּ (ISA 66:12) — English (generated): and bounced
+  - gloss: שֶׁקֶץ: שֶּׁ֖קֶץ (ISA 66:17) — English (generated): and vermin
+  - gloss: כִּרְכָּרָה: כִּרְכָּר֗וֹת (ISA 66:20) — English (generated): and camels
+  - NT: ISA 66:19 *Pul*
+  - answers: footstool, repose, pain, bounced, vermin, camels
+  - Formen dieses Kapitels.
+  - agent:isa066, 2026-11-15
+- **`term:mal001_forms`** מָה → **Worin; riisse; ehrt; unreins; verunreiniget; lahms; chranks; flehet; rümpfet; Gstohlnigs; betrügt; fählerhafts** [medium, decided, by-rule]
+  - gloss: מָה: מָּ֣ה (MAL 1:2) — English (generated): How
+  - gloss: הָרַס: אֶהֱר֑וֹס (MAL 1:4) — English (generated): will demolish
+  - gloss: כָּבֵד: יְכַבֵּ֥ד (MAL 1:6) — English (generated): honors
+  - gloss: גָּאַל: מְגֹאָ֔ל (MAL 1:7) — English (generated): defiled
+  - gloss: גָּאַל: גֵֽאַלְנ֑וּ (MAL 1:7) — English (generated): have we defiled You
+  - gloss: פִּסֵּחַ: פִּסֵּ֥חַ (MAL 1:8) — English (generated): the lame
+  - gloss: חָלָה: חֹלֶ֖ה (MAL 1:8) — English (generated): and sick
+  - gloss: חָלָה: חַלּוּ (MAL 1:9) — English (generated): favor
+  - gloss: נָפַח: הִפַּחְתֶּ֣ם (MAL 1:13) — English (generated): And you turn up your nose at
+  - gloss: גָּזַל: גָּז֗וּל (MAL 1:13) — English (generated): stolen
+  - gloss: נָכַל: נוֹכֵ֗ל (MAL 1:14) — English (generated): the deceiver
+  - gloss: שָׁחַת: מָשְׁחָ֖ת (MAL 1:14) — English (generated): a defective
+  - NT: MAL 1:1 *Maleachi*
+  - answers: how, tear down, honors, defiled, defiled, lame, sick, implore, sniff at, stolen, cheat, blemished
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:mal001, 2026-11-15
+- **`term:mal002_forms`** אָרַר → **verfluechen; schilte; Feschtopfer; Rächtschaffeheit; Wohlgfalle; Gfährtin; Scheidig; Pärson** [medium, decided, by-rule]
+  - gloss: אָרַר: אָרוֹתִ֖י (MAL 2:2) — English (generated): and I will curse
+  - gloss: גָּעַר: גֹעֵ֤ר (MAL 2:3) — English (generated): I will rebuke
+  - gloss: חַג: חַגֵּי (MAL 2:3) — English (generated): from your feasts
+  - gloss: מִישׁוֹר: מִישׁוֹר֙ (MAL 2:6) — English (generated): and uprightness
+  - gloss: רָצוֹן: רָצ֖וֹן (MAL 2:13) — English (generated): gladly
+  - gloss: חֲבֶרֶת: חֲבֶרְתְּ (MAL 2:14) — English (generated): your companion
+  - gloss: שָׁלַח: שַׁלַּ֗ח (MAL 2:16) — English (generated): divorce
+  - gloss: פָּנֶה: פָּנִ֖ים (MAL 2:9)
+  - NT: MAL 2:14 *Gfährtin*
+  - answers: curse, rebuke, festival sacrifices, uprightness, favor, companion, divorce, faces
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:mal002, 2026-11-15
+- **`term:mal003_forms`** טָהֵר → **reinigt; beroubet; prise; Wöschere; abdrücke; verweigere; bsundrigs; Unterschied; Stroh; Chälbli; Fuesssole; furchtbare** [medium, decided, by-rule]
+  - gloss: טָהֵר: טִהַ֤ר (MAL 3:3) — English (generated): He will purify
+  - gloss: קָבַע: קֹבְעִ֣ים (MAL 3:8) — English (generated): are robbing
+  - gloss: אָשַׁר: אִשְּׁר֥וּ (MAL 3:12) — English (generated): will call you blessed
+  - gloss: כָּבַס: מְכַבְּסִֽים (MAL 3:2) — English (generated): a launderer s
+  - gloss: עָשַׁק: עֹשְׁקֵ֣י (MAL 3:5) — English (generated): against oppressors
+  - gloss: נָטָה: מַטֵּי (MAL 3:5) — English (generated): and deny justice
+  - gloss: סְגֻלָּה: סְגֻלָּ֑ה (MAL 3:17) — English (generated): My treasured possession
+  - gloss: בֵּין: בֵּ֥ין (MAL 3:18) — English (generated): between
+  - gloss: קַשׁ: קַ֔שׁ (MAL 3:19) — English (generated): will be stubble
+  - gloss: עֵגֶל: עֶגְלֵ֥י (MAL 3:20) — English (generated): like calves
+  - gloss: כַּף: כַּפּ֣וֹת (MAL 3:21) — English (generated): the soles
+  - gloss: יָרֵא: נּוֹרָֽא (MAL 3:23) — English (generated): and awesome
+  - NT: MAL 3:3 *Wöschere*
+  - answers: purify, robbing, call blessed, fullers, oppress, thrust aside, treasured, between, stubble, calves, soles, terrible
+  - Formen dieses Kapitels, nach den Mustern des Korpus gebildet.
+  - agent:mal003, 2026-11-15
+<!-- store:end sha=b607c58b -->

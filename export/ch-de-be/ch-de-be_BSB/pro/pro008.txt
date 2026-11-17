@@ -1,0 +1,84 @@
+!!<Reifegrad: Entwurf>!! !!<Übersetzung: Maschinenentwurf aus dem Grundtext (orig/heb/pro008.txt), abgeglichen mit der Berean Standard Bible>!! !!<Exegetische Bearbeitung: Noch nicht erfolgt>!! !!<Literarische Prüfung: Noch nicht erfolgt>!! !!<Datum dieser Version: 15.11.2026>!!
+
+===Ds Buech vo de Sprüch, Kapitel 8===
+
+
+==D Wysheit rüeft d Mönsche==
+
+//1 v1 Rüeft nid d Wysheit,
+//2 und lat nid d Ysicht iri Stimm ghöre?
+//1 v2 Zoberscht uf de Höchine am Wäg,
+//2 wo d Wäge zämechöme, steit si.
+//1 v3 Näbe de Tor bim Ygang vo der Stadt,
+//2 wo me dür d Türe ynegeit, rüeft si lut:
+//1 v4 „Öich, dihr Manne, rüefe i,
+//2 und my Stimm gilt de Mönsche.
+//1 v5 Dihr Eifache, lehret Gschydi versta,
+//2 und dihr Dumme, lehret mit em Härz versta!
+//1 v6 Loset, denn i rede vo grosse Sache,
+//2 und was myni Lippe säge, isch rächt.
+//1 v7 Denn my Mund redt d Wahrheit,
+//2 und d Gottlosigkeit isch myne Lippe e Gröiel.
+//1 v8 Alli Wort vo mym Mund sy grächt,
+//2 keis vo ne isch verdrääit oder verchehrts.
+//1 v9 Si sy alli klar für dä, wo versteit,
+//2 und rächt für die, wo ds Wüsse finde.
+//1 v10 Nät myni Erziehig aa und nid Silber,
+//2 und ds Wüsse lieber als ds beschte Guld!
+//1 v11 Denn d Wysheit isch meh wärt als Perle,
+//2 und alls, wo me sech wünscht, chunt nid gäge se aa.
+//1 v12 I, d Wysheit, wohne bi der Gschydi,
+//2 und i finde Wüsse und Überlegig.
+//1 v13 D Ehrfurcht vor em HERR heisst ds Böse hasse.
+//2 Stolz und Übermuet, der bös Wäg
+//2 und der Mund, wo verchehrti Sache redt, die hasse i.
+//1 v14 Bi mir isch Rat und Hilf,
+//2 i bi der Verstand,
+//2 bi mir isch d Macht.
+//1 v15 Dür mi regiere d Chünige,
+//2 und d Fürschte setze grächti Gsetz fescht.
+//1 v16 Dür mi herrsche d Oberschte
+//2 und d Edle, alli, wo grächt richte.
+//1 v17 I ha die gärn, wo mi gärn hei,
+//2 und die, wo mi sueche, finde mi.
+//1 v18 Rychtum und Ehr sy bi mir,
+//2 Bsitz, wo blybt, und Grächtigkeit.
+//1 v19 My Frucht isch besser als Guld, als fyns Guld,
+//2 und was i ybringe, isch besser als ds beschte Silber.
+//1 v20 I gange uf em Wäg vo der Grächtigkeit,
+//2 mitts uf de Wäge vom Rächt,
+//1 v21 für dene, wo mi gärn hei, Bsitz z gä
+//2 und iri Schatzchammere z fülle.
+//1 v22 Der HERR het mi erschaffe als Aafang vo sym Schaffe,
+//2 vor syne Wärch vo Aafang aa.
+//1 v23 Vo Ewigkeit här bin i ygsetzt worde,
+//2 vo Aafang aa, bevor d Ärde gsi isch.
+//1 v24 Wo's no ke Tiefine ggä het, bin i gebore worde,
+//2 wo's no ke Quelle ggä het, wo voll Wasser sy.
+//1 v25 Bevor d Bärge ygsetzt worde sy,
+//2 vor de Hoger bin i gebore worde,
+//1 v26 wo er d Ärde und d Fälder no nid gmacht het
+//2 und der erscht Stoub vo der Wält.
+//1 v27 Won er der Himel feschtgmacht het, bin i derby gsi,
+//2 won er e Chreis über der Tiefi zoge het,
+//1 v28 won er d Wulche obe feschtgmacht het,
+//2 wo d Quelle vo der Tiefi starch worde sy,
+//1 v29 won er em Meer sy Gränze gsetzt het,
+//2 dass ds Wasser sy Befähl nid überträtti,
+//2 won er d Fundamänt vo der Ärde feschtgleit het,
+//1 v30 da bin i näbe ihm gsi als Wärchmeischter,
+//2 und i bi Tag für Tag sy Fröid gsi,
+//2 i ha vor ihm gspilt zu aller Zyt,
+//1 v31 i ha gspilt uf syr ganze Ärde,
+//2 und my Fröid isch bi de Mönsche gsi.
+//1 v32 Und jitz, dihr Sühn, loset uf mi:
+//2 Glücklech sy die, wo myni Wäge bhalte!
+//1 v33 Loset uf d Erziehig und wärdet gschyd,
+//2 und löt se nid la fahre!
+//1 v34 Glücklech isch der Mönsch, wo uf mi lost,
+//2 wo Tag für Tag a myne Türe wachet
+//2 und bi de Türpfoschte vo mym Ygang wartet.
+//1 v35 Denn wär mi findt, findt ds Läbe
+//2 und überchunt Gnad vom HERR.
+//1 v36 Aber wär mi verfählt, schadet sich sälber;
+//2 alli, wo mi hasse, hei der Tod gärn.“

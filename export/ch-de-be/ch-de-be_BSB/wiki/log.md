@@ -119,3 +119,626 @@ Eine Zeile pro Änderung, neueste zuletzt: Datum, wer (agent:<Kapitel> oder ein 
 - 2026-11-05, agent:num034: 4Mo 34 entworfen; Gränze vom Land
 - 2026-11-05, agent:num035: 4Mo 35 entworfen; Fluchtstedt
 - 2026-11-05, agent:num036: 4Mo 36 entworfen; Erbtöchtere; Buech fertig
+- 2026-11-14, agent:deu001: 5Mo 1 entworfen; Rückblick: Horeb bis Kadesch
+- 2026-11-14, agent:deu002: 5Mo 2 entworfen; Se'ir, Moab, Ammon, Sieg über Sichon
+- 2026-11-14, agent:deu003: 5Mo 3 entworfen; Og, Ostjordanland verteilt, Moses Bitte abgewiesen
+- 2026-11-14, agent:deu004: 5Mo 4 entworfen; Mahnrede, Bilderverbot, Asylstädte, Überschrift 4,44-49
+- 2026-11-14, agent:deu005: 5Mo 5 entworfen; Dekalog (wie 2Mo 20), Mose als Mittler
+- 2026-11-14, agent:deu006: 5Mo 6 entworfen; Schema Israel, Kinderfrage
+- 2026-11-14, agent:deu007: 5Mo 7 entworfen; Völker des Landes, Erwählung, Segen
+- 2026-11-14, agent:deu008: 5Mo 8 entworfen; Wüste als Erziehung, das gute Land, Warnung vor dem Vergessen
+- 2026-11-14, agent:deu009: 5Mo 9 entworfen; nicht wegen Israels Gerechtigkeit, das gegossene Kalb, Moses Fürbitte
+- 2026-11-14, agent:deu010: 5Mo 10 entworfen; neue Tafeln, Levi, was der HERR verlangt
+- 2026-11-14, agent:deu011: 5Mo 11 entworfen; Gottes Erziehung, Regenland, Segen und Fluch
+- 2026-11-14, agent:deu012: 5Mo 12 entworfen; der eine Kultort, Fleisch und Blut, Bräuche der Völker
+- 2026-11-14, agent:deu013: 5Mo 13 entworfen; Verführung zu anderen Göttern (Prophet, Angehörige, Stadt)
+- 2026-11-14, agent:deu014: 5Mo 14 entworfen; reine und unreine Tiere, der Zehnte
+- 2026-11-14, agent:deu015: 5Mo 15 entworfen; Erlassjahr, Freilassung der Sklaven, Erstgeborene
+- 2026-11-14, agent:deu016: 5Mo 16 entworfen; Passa, Wochenfest, Laubhüttenfest, Richter
+- 2026-11-14, agent:deu017: 5Mo 17 entworfen; Zeugenrecht, Obergericht, Königsgesetz
+- 2026-11-14, agent:deu018: 5Mo 18 entworfen; Priesteranteil, Wahrsageverbot, Prophet wie Mose
+- 2026-11-14, agent:deu019: 5Mo 19 entworfen; Fluchtstädte, Grenze, Zeugenrecht; 17,6 »zweene oder dreine Züge« angeglichen
+- 2026-11-14, agent:deu020: 5Mo 20 entworfen; Kriegsgesetze
+- 2026-11-14, agent:deu021: 5Mo 21 entworfen; unbekannter Totschlag, Kriegsgefangene, Erstgeburtsrecht, störrischer Sohn, Gehängter
+- 2026-11-14, agent:deu022: 5Mo 22 entworfen; Fundgut, Einzelgebote, Ehe- und Unzuchtsrecht
+- 2026-11-14, agent:deu023: 5Mo 23 entworfen; Gemeinde des HERRN, Lagerreinheit, Zins, Gelübde
+- 2026-11-14, agent:deu024: 5Mo 24 entworfen; Scheidung, Pfand, Tagelöhner, Nachlese
+- 2026-11-14, agent:deu025: 5Mo 25 entworfen; Prügelstrafe, Schwagerehe, Gewichte, Amalek
+- 2026-11-14, agent:deu026: 5Mo 26 entworfen; Erstlinge, Bekenntnis, Zehnter, Bundeserklärung
+- 2026-11-14, agent:deu027: 5Mo 27 entworfen; Ebal-Altar und die zwölf Flüche
+- 2026-11-14, agent:deu028: 5Mo 28 entworfen; Segen und Fluch
+- 2026-11-14, agent:deu029: 5Mo 29 entworfen; Moabbund, bittere Wurzel, das verwüstete Land
+- 2026-11-14, agent:deu030: 5Mo 30 entworfen; Umkehr, das nahe Wort, Leben und Tod
+- 2026-11-14, agent:deu031: 5Mo 31 entworfen; Josua, das Gesetz am Laubhüttenfest, das Lied als Zeuge
+- 2026-11-14, agent:deu032: 5Mo 32 entworfen; das Lied Moses, der Nebo
+- 2026-11-14, agent:deu033: 5Mo 33 entworfen; der Segen Moses
+- 2026-11-14, agent:deu034: 5Mo 34 entworfen; Moses Tod; Ende des 5. Buches Mose
+- 2026-11-14, agent:jos001: Jos 1 entworfen; Josuas Auftrag
+- 2026-11-14, agent:jos002: Jos 2 entworfen; Rahab und die Kundschafter
+- 2026-11-14, agent:jos003: Jos 3 entworfen; der Zug durch den Jordan
+- 2026-11-14, agent:jos004: Jos 4 entworfen; die Gedenksteine, Gilgal
+- 2026-11-14, agent:jos005: Jos 5 entworfen; Beschneidung, Passa, der Anführer des Heeres
+- 2026-11-14, agent:jos006: Jos 6 entworfen; der Fall Jerichos, Rahab gerettet
+- 2026-11-14, agent:jos007: Jos 7 entworfen; Achans Diebstahl, Niederlage vor Ai, Tal Achor
+- 2026-11-14, agent:jos008: Jos 8 entworfen; Ai eingenommen, Altar auf dem Ebal
+- 2026-11-14, agent:jos009: Jos 9 entworfen; die List der Gibeoniter
+- 2026-11-14, agent:jos010: Jos 10 entworfen; Gibeon, Sonne und Mond, die Städte des Südens
+- 2026-11-14, agent:jos011: Jos 11 entworfen; Merom, Hazor, die Eroberung im Überblick
+- 2026-11-14, agent:jos012: Jos 12 entworfen; die Liste der besiegten Könige
+- 2026-11-14, agent:jos013: Jos 13 entworfen; das übrige Land, das Land östlich des Jordan
+- 2026-11-14, agent:jos014: Jos 14 entworfen; Verteilung westlich des Jordan, Kaleb erhält Hebron
+- 2026-11-14, agent:jos015: Jos 15 entworfen; Gebiet und Städte Judas, Kaleb und Achsa
+- 2026-11-14, agent:jos016: Jos 16 entworfen; das Gebiet Efraims
+- 2026-11-14, agent:jos017: Jos 17 entworfen; Manasse, die Töchter Zelofhads, die Josefstämme
+- 2026-11-14, agent:jos018: Jos 18 entworfen; Schilo, die Beschreibung des Landes, Benjamin
+- 2026-11-14, agent:jos019: Jos 19 entworfen; die Lose der übrigen sechs Stämme, Josuas Erbteil
+- 2026-11-14, agent:jos020: Jos 20 entworfen; die Fluchtstädte
+- 2026-11-14, agent:jos021: Jos 21 entworfen; die Levitenstädte; der HERR hält Wort
+- 2026-11-15, agent:jos022: Jos 22 entworfen; die Oststämme und der Altar »Züge«
+- 2026-11-15, agent:jos023: Jos 23 entworfen; Josuas Abschiedsrede
+- 2026-11-15, agent:jos024: Jos 24 entworfen; der Bund zu Sichem, Josuas Tod; Josua fertig
+- 2026-11-15, agent:jos019: Jos 19 entworfen; die Lose der übrigen sechs Stämme, Josuas Erbteil
+- 2026-11-15, agent:jos021: Jos 21 entworfen; die Levitenstädte; der HERR hält Wort
+- 2026-11-15, agent:jos015: Jos 15 entworfen; Gebiet und Städte Judas, Kaleb und Achsa
+- 2026-11-15, agent:jdg001: Ri 1 entworfen; Juda und Simeon, die nicht eroberten Städte
+- 2026-11-15, agent:jdg002: Ri 2 entworfen; Bochim, der Kreislauf der Richterzeit
+- 2026-11-15, agent:jdg003: Ri 3 entworfen; Otniel, Ehud, Schamgar
+- 2026-11-15, agent:jdg004: Ri 4 entworfen; Debora, Barak, Jaël
+- 2026-11-15, agent:jdg005: Ri 5 entworfen; das Lied der Debora als Poesie
+- 2026-11-15, agent:jdg006: Ri 6 entworfen; Gideons Berufung, Jerubbaal, das Fell
+- 2026-11-15, agent:jdg007: Ri 7 entworfen; Gideons dreihundert, der Traum, der Überfall
+- 2026-11-15, agent:jdg008: Ri 8 entworfen; Sebach und Zalmunna, der Efod, Gideons Tod
+- 2026-11-15, agent:jdg009: Ri 9 entworfen; Abimelech, Jotams Fabel, Sichem und Tebez
+- 2026-11-15, agent:jdg010: Ri 10 entworfen; Tola, Jaïr, Israels Bekenntnis
+- 2026-11-15, agent:jdg011: Ri 11 entworfen; Jefta, die Botschaft an Ammon, das Gelübde
+- 2026-11-15, agent:jdg012: Ri 12 entworfen; Schibbolet, Ibzan, Elon, Abdon
+- 2026-11-15, agent:jdg013: Ri 13 entworfen; Manoach, die Ankündigung Simsons
+- 2026-11-15, agent:jdg014: Ri 14 entworfen; Simsons Hochzeit in Timna, das Rätsel
+- 2026-11-15, agent:jdg015: Ri 15 entworfen; die Füchse, der Eselskinnbacken, En-Hakore
+- 2026-11-15, agent:jdg016: Ri 16 entworfen; Gaza, Delila, Simsons Tod
+- 2026-11-15, agent:jdg017: Ri 17 entworfen; Micha, sein Götzenbild und sein Levit
+- 2026-11-15, agent:jdg018: Ri 18 entworfen; die Daniter, Michas Götzenbild, Lajisch wird Dan
+- 2026-11-15, agent:jdg019: Ri 19 entworfen; der Levit und seine Nebenfrau, die Schandtat von Gibea
+- 2026-11-15, agent:jdg020: Ri 20 entworfen; der Krieg gegen Benjamin
+- 2026-11-15, agent:jdg021: Ri 21 entworfen; Frauen für Benjamin, das Buch der Richter abgeschlossen
+- 2026-11-15, agent:1sa001: 1 Sam 1 entworfen; Hanna und die Geburt Samuels
+- 2026-11-15, agent:1sa002: 1 Sam 2 entworfen; Hannas Lied, Elis Söhne, das Wort gegen Elis Haus
+- 2026-11-15, agent:1sa003: 1 Sam 3 entworfen; die Berufung Samuels
+- 2026-11-15, agent:1sa004: 1 Sam 4 entworfen; die Lade wird erobert, Elis Tod
+- 2026-11-15, agent:1sa005: 1 Sam 5 entworfen; die Lade bei den Philistern
+- 2026-11-15, agent:1sa006: 1 Sam 6 entworfen; die Lade kehrt nach Bet-Schemesch zurück
+- 2026-11-15, agent:1sa007: 1 Sam 7 entworfen; Samuel als Richter, Eben-Eser
+- 2026-11-15, agent:1sa008: 1 Sam 8 entworfen; Israel verlangt einen König
+- 2026-11-15, agent:1sa009: 1 Sam 9 entworfen; Saul sucht die Eselinnen und trifft Samuel
+- 2026-11-15, agent:1sa010: 1 Sam 10 entworfen; Sauls Salbung und Wahl in Mizpa
+- 2026-11-15, agent:1sa011: 1 Sam 11 entworfen; Saul rettet Jabesch-Gilead
+- 2026-11-15, agent:1sa012: 1 Sam 12 entworfen; Samuels Abschiedsrede
+- 2026-11-15, agent:1sa013: 1 Sam 13 entworfen; Sauls Opfer in Gilgal, die Philister in Michmas
+- 2026-11-15, agent:1sa014: 1 Sam 14 entworfen; Jonatans Tat bei Michmas, Sauls Schwur
+- 2026-11-15, agent:1sa015: 1 Sam 15 entworfen; Saul und Amalek, Gehorchen besser als Opfer
+- 2026-11-15, agent:1sa016: 1 Sam 16 entworfen; Davids Salbung, David bei Saul
+- 2026-11-15, agent:1sa017: 1 Sam 17 entworfen; David und Goliat
+- 2026-11-15, agent:1sa018: 1 Sam 18 entworfen; Jonatans Bund, Sauls Neid, Michal
+- 2026-11-15, agent:1sa019: 1 Sam 19 entworfen; Michal rettet David, Saul unter den Propheten
+- 2026-11-15, agent:1sa020: 1 Sam 20 entworfen; Jonatans Bund mit David, die Pfeile
+- 2026-11-15, agent:1sa021: 1 Sam 21 entworfen; David in Nob und bei Achisch
+- 2026-11-15, agent:1sa022: 1 Sam 22 entworfen; Adullam, die Priester von Nob
+- 2026-11-15, agent:1sa023: 1 Sam 23 entworfen; Keïla, Sif, Maon
+- 2026-11-15, agent:1sa024: 1 Sam 24 entworfen; David verschont Saul in der Höhle
+- 2026-11-15, agent:1sa025: 1 Sam 25 entworfen; Nabal und Abigajil
+- 2026-11-15, agent:1sa026: 1 Sam 26 entworfen; David verschont Saul ein zweites Mal
+- 2026-11-15, agent:1sa027: 1 Sam 27 entworfen; David in Ziklag
+- 2026-11-15, agent:1sa028: 1 Sam 28 entworfen; Saul in En-Dor
+- 2026-11-15, agent:1sa029: 1 Sam 29 entworfen; David von den Philistern zurückgeschickt
+- 2026-11-15, agent:1sa030: 1 Sam 30 entworfen; David schlägt die Amalekiter
+- 2026-11-15, agent:1sa031: 1 Sam 31 entworfen; Sauls Tod; 1 Samuel abgeschlossen
+- 2026-11-15, agent:2sa001: 2 Sam 1 entworfen; Davids Klage um Saul und Jonatan
+- 2026-11-15, agent:2sa002: 2 Sam 2 entworfen; David König in Hebron, Kampf bei Gibeon
+- 2026-11-15, agent:2sa003: 2 Sam 3 entworfen; Davids Söhne, Abners Tod
+- 2026-11-15, agent:2sa004: 2 Sam 4 entworfen; Isch-Boschets Ermordung
+- 2026-11-15, agent:2sa005: 2 Sam 5 entworfen; David König über Israel, Jerusalem
+- 2026-11-15, agent:2sa006: 2 Sam 6 entworfen; die Lade kommt nach Jerusalem
+- 2026-11-15, agent:2sa007: 2 Sam 7 entworfen; Natans Verheissung, Davids Gebet
+- 2026-11-15, agent:2sa008: 2 Sam 8 entworfen; Davids Siege und Beamte
+- 2026-11-15, agent:2sa009: 2 Sam 9 entworfen; David und Mefi-Boschet
+- 2026-11-15, agent:2sa010: 2 Sam 10 entworfen; Krieg gegen Ammon und Aram
+- 2026-11-15, agent:2sa011: 2 Sam 11 entworfen; David, Batseba, Urija
+- 2026-11-15, agent:2sa012: 2 Sam 12 entworfen; Natan, Davids Busse, Salomo, Rabba
+- 2026-11-15, agent:2sa013: 2 Sam 13 entworfen; Amnon und Tamar, Abschaloms Rache
+- 2026-11-15, agent:2sa014: 2 Sam 14 entworfen; die Frau von Tekoa, Abschaloms Rückkehr
+- 2026-11-15, agent:2sa015: 2 Sam 15 entworfen; Abschaloms Aufstand, Davids Flucht
+- 2026-11-15, agent:2sa016: 2 Sam 16 entworfen; Ziba, Schimi, Huschai, Achitofel
+- 2026-11-15, agent:2sa017: 2 Sam 17 entworfen; Huschais Rat, Davids Warnung, Mahanajim
+- 2026-11-15, agent:2sa018: 2 Sam 18 entworfen; Abschaloms Tod, die Boten
+- 2026-11-15, agent:2sa019: 2 Sam 19 entworfen; Davids Rückkehr
+- 2026-11-15, agent:2sa020: 2 Sam 20 entworfen; Schebas Aufstand, Amasas Tod
+- 2026-11-15, agent:2sa021: 2 Sam 21 entworfen; Gibeoniter, Rizpa, Philisterkämpfe
+- 2026-11-15, agent:2sa022: 2 Sam 22 entworfen; Davids Lied (Ps 18)
+- 2026-11-15, agent:2sa023: 2 Sam 23 entworfen; Davids letzte Worte, seine Helden
+- 2026-11-15, agent:2sa024: 2 Sam 24 entworfen; Volkszählung und Tenne Araunas; 2 Samuel fertig
+- 2026-11-15, agent:1ki001: 1 Kön 1 entworfen; Salomo wird König
+- 2026-11-15, agent:1ki002: 1 Kön 2 entworfen; Davids Tod, Salomos Thron gefestigt
+- 2026-11-15, agent:1ki003: 1 Kön 3 entworfen; Salomos Bitte und Urteil
+- 2026-11-15, agent:1ki004: 1 Kön 4 entworfen; Salomos Beamte
+- 2026-11-15, agent:1ki005: 1 Kön 5 entworfen; Salomos Weisheit, Vertrag mit Hiram
+- 2026-11-15, agent:1ki006: 1 Kön 6 entworfen; Tempelbau
+- 2026-11-15, agent:1ki007: 1 Kön 7 entworfen; Palast und Tempelgeräte
+- 2026-11-15, agent:1ki008: 1 Kön 8 entworfen; Tempelweihe
+- 2026-11-15, agent:1ki009: 1 Kön 9 entworfen; zweite Erscheinung, Bauten, Flotte
+- 2026-11-15, agent:1ki010: 1 Kön 10 entworfen; Königin von Scheba, Salomos Reichtum
+- 2026-11-15, agent:1ki011: 1 Kön 11 entworfen; Salomos Abfall, Widersacher, Jerobeam
+- 2026-11-15, agent:1ki012: 1 Kön 12 entworfen; Reichsteilung, Kälber in Betel und Dan
+- 2026-11-15, agent:1ki013: 1 Kön 13 entworfen; der Gottesmann aus Juda
+- 2026-11-15, agent:1ki014: 1 Kön 14 entworfen; Achijas Gerichtswort, Rehabeam
+- 2026-11-15, agent:1ki015: 1 Kön 15 entworfen; Abijam, Asa, Nadab, Bascha
+- 2026-11-15, agent:1ki016: 1 Kön 16 entworfen; Bascha bis Ahab
+- 2026-11-15, agent:1ki017: 1 Kön 17 entworfen; Elija am Krit und in Sarepta
+- 2026-11-15, agent:1ki018: 1 Kön 18 entworfen; Elija auf dem Karmel
+- 2026-11-15, agent:1ki019: 1 Kön 19 entworfen; Elija am Horeb, Berufung Elischas
+- 2026-11-15, agent:1ki020: 1 Kön 20 entworfen; Ahabs Kriege gegen Aram
+- 2026-11-15, agent:deu002: 5Mo 2 entworfen; Se'ir, Moab, Ammon, Sieg über Sichon
+- 2026-11-15, agent:deu030: 5Mo 30 entworfen; Umkehr, das nahe Wort, Leben und Tod
+- 2026-11-15, agent:1ki021: 1 Kön 21 entworfen; Nabots Weinberg
+- 2026-11-15, agent:1ki022: 1 Kön 22 entworfen; Michaja und Ahabs Tod
+- 2026-11-15, agent:2ki001: 2 Kön 1 entworfen; Elija und Ahasja
+- 2026-11-15, agent:2ki002: 2 Kön 2 entworfen; Elijas Himmelfahrt, Elischa
+- 2026-11-15, agent:2ki003: 2 Kön 3 entworfen; Feldzug gegen Moab
+- 2026-11-15, agent:2ki004: 2 Kön 4 entworfen; Elischas Wunder
+- 2026-11-15, agent:2ki005: 2 Kön 5 entworfen; Naaman und Gehasi
+- 2026-11-15, agent:2ki006: 2 Kön 6 entworfen; Axteisen, Dotan, Hungersnot in Samaria
+- 2026-11-15, agent:2ki007: 2 Kön 7 entworfen; das Ende der Hungersnot
+- 2026-11-15, agent:2ki008: 2 Kön 8 entworfen; Schunemiterin, Hasael, Joram und Ahasja von Juda
+- 2026-11-15, agent:2ki009: 2 Kön 9 entworfen; Jehus Salbung und Aufstand
+- 2026-11-15, agent:2ki010: 2 Kön 10 entworfen; Jehu rottet Ahabs Haus und den Baal aus
+- 2026-11-15, agent:2ki011: 2 Kön 11 entworfen; Atalja und Joasch
+- 2026-11-15, agent:2ki012: 2 Kön 12 entworfen; Joasch bessert den Tempel aus
+- 2026-11-15, agent:2ki013: 2 Kön 13 entworfen; Joahas, Joasch, Elischas Tod
+- 2026-11-15, agent:2ki014: 2 Kön 14 entworfen; Amazja, Jerobeam II.
+- 2026-11-15, agent:2ki015: 2 Kön 15 entworfen; Asarja, Jotam, die letzten Könige Israels
+- 2026-11-15, agent:2ki016: 2 Kön 16 entworfen; Ahas und der Altar aus Damaskus
+- 2026-11-15, agent:2ki017: 2 Kön 17 entworfen; Fall Samarias und die neuen Bewohner
+- 2026-11-15, agent:2ki018: 2 Kön 18 entworfen; Hiskija und die Rede des Rabschake
+- 2026-11-15, agent:2ki019: 2 Kön 19 entworfen; Hiskija, Jesaja, Rettung Jerusalems
+- 2026-11-15, agent:2ki020: 2 Kön 20 entworfen; Hiskijas Krankheit und die Gesandten aus Babylon
+- 2026-11-15, agent:2ki021: 2 Kön 21 entworfen; Manasse und Amon
+- 2026-11-15, agent:2ki022: 2 Kön 22 entworfen; das Gesetzbuch und die Prophetin Hulda
+- 2026-11-15, agent:2ki023: 2 Kön 23 entworfen; Joschijas Reform, Joahas und Jojakim
+- 2026-11-15, agent:2ki024: 2 Kön 24 entworfen; die erste Wegführung
+- 2026-11-15, agent:2ki025: 2 Kön 25 entworfen; Fall Jerusalems und Begnadigung Jojachins; 2 Kön fertig
+- 2026-11-15, agent:1ch001: 1 Chr 1 entworfen; Geschlechtsregister nach Gen 5, 10, 11, 25, 36; Namen wie in der Genesis
+- 2026-11-15, agent:1ch002: 1 Chr 2 entworfen; Juda bis David, Kaleb, Jerachmeel
+- 2026-11-15, agent:1ch003: 1 Chr 3 entworfen; Davids Söhne und die Davididen
+- 2026-11-15, agent:1ch004: 1 Chr 4 entworfen; Juda und Simeon
+- 2026-11-15, agent:1ch005: 1 Chr 5 entworfen; Ruben, Gad, Halb-Manasse, Hohepriester (BSB 6,1-15)
+- 2026-11-15, agent:1ch006: 1 Chr 6 entworfen; Leviten, Sänger, Levitenstädte (BSB 6,16-81)
+- 2026-11-15, agent:1ch007: 1 Chr 7 entworfen; Issachar, Benjamin, Naftali, Manasse, Efraim, Ascher
+- 2026-11-15, agent:1ch008: 1 Chr 8 entworfen; Benjamin und die Familie Sauls
+- 2026-11-15, agent:1ch009: 1 Chr 9 entworfen; die Bewohner Jerusalems, Torhüter, Sauls Familie
+- 2026-11-15, agent:1ch010: 1 Chr 10 entworfen; Sauls Tod nach 1 Sam 31
+- 2026-11-15, agent:1ch011: 1 Chr 11 entworfen; David König, Jerusalem, Davids Helden (nach 2 Sam 5 und 23)
+- 2026-11-15, agent:1ch012: 1 Chr 12 entworfen; Davids Anhänger in Ziklag und das Heer in Hebron
+- 2026-11-15, agent:1ch013: 1 Chr 13 entworfen; die Lade aus Kirjat-Jearim (nach 2 Sam 6)
+- 2026-11-15, agent:1ch014: 1 Chr 14 entworfen; Hiram, Davids Söhne, Siege über die Philister (nach 2 Sam 5)
+- 2026-11-15, agent:1ch015: 1 Chr 15 entworfen; die Lade kommt nach Jerusalem
+- 2026-11-15, agent:1ch016: 1 Chr 16 entworfen; Davids Danklied (nach Ps 105, 96, 106)
+- 2026-11-15, agent:1ch017: 1 Chr 17 entworfen; die Verheissung an David (nach 2 Sam 7)
+- 2026-11-15, agent:1ch018: 1 Chr 18 entworfen; Davids Siege und Beamte (nach 2 Sam 8)
+- 2026-11-15, agent:1ch019: 1 Chr 19 entworfen; Krieg gegen Ammon und Aram (nach 2 Sam 10)
+- 2026-11-15, agent:1ch020: 1 Chr 20 entworfen; Rabba und die Riesen (nach 2 Sam 12 und 21)
+- 2026-11-15, agent:1ch021: 1 Chr 21 entworfen; die Volkszählung und der Altar auf der Tenne Ornans (nach 2 Sam 24)
+- 2026-11-15, agent:1ch022: 1 Chr 22 entworfen; David bereitet den Tempelbau vor
+- 2026-11-15, agent:1ch023: 1 Chr 23 entworfen; die Leviten und ihre Aufgaben
+- 2026-11-15, agent:1ch024: 1 Chr 24 entworfen; die vierundzwanzig Priesterabteilungen
+- 2026-11-15, agent:1ch025: 1 Chr 25 entworfen; die Sänger und ihre Lose
+- 2026-11-15, agent:1ch026: 1 Chr 26 entworfen; Torhüter, Schatzmeister und Beamte
+- 2026-11-15, agent:1ch027: 1 Chr 27 entworfen; Heeresabteilungen, Stammesführer, Verwalter, Ratgeber
+- 2026-11-15, agent:1ch028: 1 Chr 28 entworfen; David übergibt Salomo den Tempelplan
+- 2026-11-15, agent:1ch029: 1 Chr 29 entworfen; Gaben für den Tempel, Davids Gebet, Salomo König, Davids Tod
+- 2026-11-15, agent:2ch001: 2 Chr 1 entworfen; Salomos Bitte um Weisheit (nach 1 Kön 3 und 10)
+- 2026-11-15, agent:2ch002: 2 Chr 2 entworfen; Salomo und Huram (nach 1 Kön 5)
+- 2026-11-15, agent:2ch003: 2 Chr 3 entworfen; der Bau des Tempels (nach 1 Kön 6-7)
+- 2026-11-15, agent:2ch004: 2 Chr 4 entworfen; die Ausstattung des Tempels (nach 1 Kön 7)
+- 2026-11-15, agent:2ch005: 2 Chr 5 entworfen; die Lade kommt in den Tempel (nach 1 Kön 8)
+- 2026-11-15, agent:2ch006: 2 Chr 6 entworfen; Salomos Rede und Gebet (nach 1 Kön 8)
+- 2026-11-15, agent:2ch007: 2 Chr 7 entworfen; die Einweihung und die zweite Erscheinung des HERRN
+- 2026-11-15, agent:2ch008: 2 Chr 8 entworfen; Salomos Bauten und Flotte (nach 1 Kön 9)
+- 2026-11-15, agent:2ch009: 2 Chr 9 entworfen; die Königin von Saba, Salomos Reichtum und Tod (nach 1 Kön 10-11)
+- 2026-11-15, agent:2ch010: 2 Chr 10 entworfen; die Reichsteilung (nach 1 Kön 12)
+- 2026-11-15, agent:2ch011: 2 Chr 11 entworfen; Rehabeams Festungen und Familie
+- 2026-11-15, agent:2ch012: 2 Chr 12 entworfen; Schischaks Zug und Rehabeams Ende (nach 1 Kön 14)
+- 2026-11-15, agent:2ch013: 2 Chr 13 entworfen; Abija und die Schlacht gegen Jerobeam
+- 2026-11-15, agent:2ch014: 2 Chr 14 entworfen; Asas Reformen und der Sieg über Serach
+- 2026-11-15, agent:2ch015: 2 Chr 15 entworfen; Asarjas Mahnung und Asas Bund
+- 2026-11-15, agent:2ch016: 2 Chr 16 entworfen; Asas Bündnis mit Aram und sein Ende
+- 2026-11-15, agent:2ch017: 2 Chr 17 entworfen; Joschafats Anfänge und Heer
+- 2026-11-15, agent:2ch018: 2 Chr 18 entworfen; Michaja und Ahabs Tod (nach 1 Kön 22)
+- 2026-11-15, agent:2ch019: 2 Chr 19 entworfen; Jehus Tadel und Joschafats Rechtsordnung
+- 2026-11-15, agent:2ch020: 2 Chr 20 entworfen; der Sieg Joschafats durch Lobpreis
+- 2026-11-15, agent:2ch021: 2 Chr 21 entworfen; Joram von Juda und Elijas Brief
+- 2026-11-15, agent:2ch022: 2 Chr 22 entworfen; Ahasja und Atalja (nach 2 Kön 8; 11)
+- 2026-11-15, agent:2ch023: 2 Chr 23 entworfen; Joasch wird König, Ataljas Tod (nach 2 Kön 11)
+- 2026-11-15, agent:2ch024: 2 Chr 24 entworfen; Joasch erneuert den Tempel und fällt ab
+- 2026-11-15, agent:2ch025: 2 Chr 25 entworfen; Amazja von Juda (nach 2 Kön 14)
+- 2026-11-15, agent:2ch026: 2 Chr 26 entworfen; Usija von Juda und sein Aussatz
+- 2026-11-15, agent:2ch027: 2 Chr 27 entworfen; Jotam von Juda
+- 2026-11-15, agent:2ch028: 2 Chr 28 entworfen; Ahas und der Prophet Oded
+- 2026-11-15, agent:2ch029: 2 Chr 29 entworfen; Hiskija heiligt den Tempel
+- 2026-11-15, agent:2ch030: 2 Chr 30 entworfen; Hiskijas Passa
+- 2026-11-15, agent:2ch031: 2 Chr 31 entworfen; Abgaben und Ordnungen unter Hiskija
+- 2026-11-15, agent:2ch032: 2 Chr 32 entworfen; Sanherib vor Jerusalem, Hiskijas Ende
+- 2026-11-15, agent:2ch033: 2 Chr 33 entworfen; Manasse und Amon
+- 2026-11-15, agent:2ch034: 2 Chr 34 entworfen; Joschija und das Gesetzbuch
+- 2026-11-15, agent:2ch035: 2 Chr 35 entworfen; Joschijas Passa und Tod
+- 2026-11-15, agent:2ch036: 2 Chr 36 entworfen; das Ende Judas und der Erlass des Kyrus
+- 2026-11-15, agent:ezr001: Esra 1 entworfen; der Erlass des Kyrus und die Tempelgeräte
+- 2026-11-15, agent:ezr002: Esra 2 entworfen; die Liste der Heimkehrer
+- 2026-11-15, agent:ezr003: Esra 3 entworfen; Altar und Grundlegung des Tempels
+- 2026-11-15, agent:ezr004: Esra 4 entworfen; Widerstand und Baustopp
+- 2026-11-15, agent:ezr005: Esra 5 entworfen; Tattenais Bericht an Darius
+- 2026-11-15, agent:ezr006: Esra 6 entworfen; der Erlass des Darius und die Einweihung
+- 2026-11-15, agent:ezr007: Esra 7 entworfen; Esras Reise und der Brief des Artaxerxes
+- 2026-11-15, agent:ezr008: Esra 8 entworfen; die Heimkehrer mit Esra
+- 2026-11-15, agent:ezr009: Esra 9 entworfen; Esras Bussgebet über die Mischehen
+- 2026-11-15, agent:ezr010: Esra 10 entworfen; die Trennung von den fremden Frauen
+- 2026-11-15, agent:neh001: Nehemia 1 entworfen; Nehemias Gebet in Susa
+- 2026-11-15, agent:neh002: Nehemia 2 entworfen; Sendung und nächtliche Besichtigung
+- 2026-11-15, agent:neh003: Nehemia 3 entworfen; die Bauleute an der Mauer
+- 2026-11-15, agent:neh004: Nehemia 4 entworfen; Bau mit der Waffe in der Hand
+- 2026-11-15, agent:neh005: Nehemia 5 entworfen; Schuldenerlass und Verzicht des Statthalters
+- 2026-11-15, agent:neh006: Nehemia 6 entworfen; Anschläge und Vollendung der Mauer
+- 2026-11-15, agent:neh007: Nehemia 7 entworfen; Wachen und die Liste der Heimkehrer
+- 2026-11-15, agent:neh008: Nehemia 8 entworfen; Lesung des Gesetzes und Laubhüttenfest
+- 2026-11-15, agent:neh009: Nehemia 9 entworfen; das Bussgebet der Leviten
+- 2026-11-15, agent:neh010: Nehemia 10 entworfen; die Verpflichtung auf das Gesetz
+- 2026-11-15, agent:neh011: Nehemia 11 entworfen; die Bewohner Jerusalems und der Städte
+- 2026-11-15, agent:neh012: Nehemia 12 entworfen; Priester, Leviten und die Einweihung der Mauer
+- 2026-11-15, agent:neh013: Nehemia 13 entworfen; Nehemias Reformen; Nehemia fertig
+- 2026-11-15, agent:est001: Ester 1 entworfen; das Fest des Ahasveros und Waschtis Absetzung
+- 2026-11-15, agent:est002: Ester 2 entworfen; Ester wird Königin, Mordochai deckt eine Verschwörung auf
+- 2026-11-15, agent:est003: Ester 3 entworfen; Hamans Plan gegen die Juden
+- 2026-11-15, agent:est004: Ester 4 entworfen; Mordochai bittet Ester um Hilfe
+- 2026-11-15, agent:est005: Ester 5 entworfen; Esters erstes Festmahl und Hamans Pfahl
+- 2026-11-15, agent:est006: Ester 6 entworfen; der König ehrt Mordochai
+- 2026-11-15, agent:est007: Ester 7 entworfen; Hamans Sturz
+- 2026-11-15, agent:est008: Ester 8 entworfen; der Gegenerlass Mordochais
+- 2026-11-15, agent:est009: Ester 9 entworfen; der Sieg der Juden und das Purimfest
+- 2026-11-15, agent:est010: Ester 10 entworfen; Ester fertig
+- 2026-11-15, agent:ezk001: Ezechiel 1 entworfen; die Thronvision am Kebar
+- 2026-11-15, agent:isa001: Jesaja 1 entworfen; »Gnad Gott …« für הוֹי (formula:hoy) festgelegt
+- 2026-11-15, agent:jer001: Jeremia 1 entworfen; Berufung Jeremias; prophetische Formeln »seit der HERR« (נְאֻם יְהוָה) und »Ds Wort vom HERR isch zu mir cho« festgelegt
+- 2026-11-15, agent:pro001: Sprüche 1 entworfen; Weisheitswörter für das Buch festgelegt (Wysheit, gschyd, Verstand, Wüsse, Erziehig, Zrächtwysig, Wysig, Dumme, Eifache)
+- 2026-11-15, agent:ezk002: Ezechiel 2 entworfen; die Berufung und die Buchrolle
+- 2026-11-15, agent:job001: Ijob 1 entworfen; Ijobs Prüfung beginnt
+- 2026-11-15, agent:pro002: Sprüche 2 entworfen; frömdi Frou, Schatte vo de Tote
+- 2026-11-15, agent:isa002: Jesaja 2 entworfen; Jes 2,2-4 als formula:isa002_mic004 für Micha 4 im Store
+- 2026-11-15, agent:ezk003: Ezechiel 3 entworfen; die Buchrolle, der Wächter
+- 2026-11-15, agent:jer002: Jeremia 2 entworfen; Anklage gegen Israel (Quelle und Zisternen, Bilder des Abfalls)
+- 2026-11-15, agent:job002: Ijob 2 entworfen; Ijobs Krankheit und die drei Freunde
+- 2026-11-15, agent:pro003: Sprüche 3 entworfen; Hebr 12,6 und Jak 4,6 übernommen
+- 2026-11-15, agent:ezk004: Ezechiel 4 entworfen; die Zeichenhandlungen der Belagerung
+- 2026-11-15, agent:jer003: Jeremia 3 entworfen; die abtrünnige Israel und die untreue Juda; Ruf zur Umkehr
+- 2026-11-15, agent:isa003: Jesaja 3 entworfen
+- 2026-11-15, agent:job003: Ijob 3 entworfen; Ijobs Klage über seine Geburt
+- 2026-11-15, agent:pro004: Sprüche 4 entworfen; Hebr 12,13 übernommen
+- 2026-11-15, agent:ezk005: Ezechiel 5 entworfen; das geteilte Haar und das Gericht über Jerusalem
+- 2026-11-15, agent:isa004: Jesaja 4 entworfen
+- 2026-11-15, agent:job004: Ijob 4 entworfen; die erste Rede des Elifas
+- 2026-11-15, agent:jer004: Jeremia 4 entworfen; Unheil von Norden; »wüescht und läär« (Jer 4,23) wie 1 Mo 1,2
+- 2026-11-15, agent:pro005: Sprüche 5 entworfen; Wärmuet, Hung
+- 2026-11-15, agent:ezk006: Ezechiel 6 entworfen; gegen die Berge Israels; die Erkenntnisformel
+- 2026-11-15, agent:job005: Ijob 5 entworfen; Elifas: Gott straft und heilt
+- 2026-11-15, agent:pro006: Sprüche 6 entworfen; Fule, Ameisi
+- 2026-11-15, agent:jer005: Jeremia 5 entworfen; kein Gerechter in Jerusalem; »Ehrfurcht« für die Gottesfurcht, »Luft« für den Wind im Bild
+- 2026-11-15, agent:isa005: Jesaja 5 entworfen; Refrain »Bi allem däm …« (formula:isa_refrain_hand)
+- 2026-11-15, agent:ezk007: Ezechiel 7 entworfen; das Ende kommt (als Poesie)
+- 2026-11-15, agent:job006: Ijob 6 entworfen; Ijobs Antwort an Elifas
+- 2026-11-15, agent:isa006: Jesaja 6 entworfen; Berufung, formula:qadosh3
+- 2026-11-15, agent:ezk008: Ezechiel 8 entworfen; die Greuel im Tempel
+- 2026-11-15, agent:jer006: Jeremia 6 entworfen; Belagerung Jerusalems, Volk aus dem Norden, verworfenes Silber
+- 2026-11-15, agent:job007: Ijob 7 entworfen; Ijob: das Leben ist ein Hauch
+- 2026-11-15, agent:pro007: Sprüche 7 entworfen; die Verführerin
+- 2026-11-15, agent:job008: Ijob 8 entworfen; die erste Rede Bildads
+- 2026-11-15, agent:ezk009: Ezechiel 9 entworfen; das Zeichen auf der Stirn
+- 2026-11-15, agent:jer007: Jeremia 7 entworfen; Tempelrede; »Röuberhöli« nach Bietenhard (Lk 19,46)
+- 2026-11-15, agent:pro008: Sprüche 8 entworfen; die Weisheit bei der Schöpfung
+- 2026-11-15, agent:isa007: Jesaja 7 entworfen; Immanuel
+- 2026-11-15, agent:job009: Ijob 9 entworfen; Ijob: kein Schiedsrichter zwischen Gott und Mensch
+- 2026-11-15, agent:ezk010: Ezechiel 10 entworfen; die Herrlichkeit verlässt die Schwelle
+- 2026-11-15, agent:jer008: Jeremia 8 entworfen; Klage Jeremias »Git ’s ke Balsam z Gilead?«; 8,10-12 = 6,13-15
+- 2026-11-15, agent:pro009: Sprüche 9 entworfen; Frau Weisheit und Frau Dümmi
+- 2026-11-15, agent:job010: Ijob 10 entworfen; Ijobs Klage an Gott
+- 2026-11-15, agent:isa008: Jesaja 8 entworfen
+- 2026-11-15, agent:ezk011: Ezechiel 11 entworfen; Topf und Fleisch, das neue Herz
+- 2026-11-15, agent:jer009: Jeremia 9 entworfen; 9,22-23 nach Bietenhards Zitat (1 Kor 1,31)
+- 2026-11-15, agent:job011: Ijob 11 entworfen; die erste Rede Zofars
+- 2026-11-15, agent:isa009: Jesaja 9 entworfen; Thronnamen (formula:isa009_names)
+- 2026-11-15, agent:pro010: Sprüche 10 entworfen; Beginn der Sammlung Salomos; fuul, flyssig
+- 2026-11-15, agent:ezk012: Ezechiel 12 entworfen; das Auszugsgepäck, Gottes Wort ohne Aufschub
+- 2026-11-15, agent:jer010: Jeremia 10 entworfen; Götzenspott und Lob des Schöpfers; V. 12-16 = 51,15-19
+- 2026-11-15, agent:job012: Ijob 12 entworfen; Ijob: bei Gott sind Weisheit und Macht
+- 2026-11-15, agent:isa010: Jesaja 10 entworfen
+- 2026-11-15, agent:ezk013: Ezechiel 13 entworfen; gegen die falschen Propheten und Prophetinnen
+- 2026-11-15, agent:pro011: Sprüche 11 entworfen
+- 2026-11-15, agent:job013: Ijob 13 entworfen; Ijob will mit Gott rechten
+- 2026-11-15, agent:jer011: Jeremia 11 entworfen; der gebrochene Bund; Anschlag der Leute von Anatot
+- 2026-11-15, agent:isa011: Jesaja 11 entworfen
+- 2026-11-15, agent:job014: Ijob 14 entworfen; Ijob: der Mensch lebt kurz
+- 2026-11-15, agent:pro012: Sprüche 12 entworfen
+- 2026-11-15, agent:ezk014: Ezechiel 14 entworfen; Noach, Daniel und Hiob
+- 2026-11-15, agent:isa012: Jesaja 12 entworfen
+- 2026-11-15, agent:jer012: Jeremia 12 entworfen; Klage über das Glück der Gottlosen und Gottes Antwort
+- 2026-11-15, agent:job015: Ijob 15 entworfen; die zweite Rede des Elifas
+- 2026-11-15, agent:ezk015: Ezechiel 15 entworfen; das Rebholz
+- 2026-11-15, agent:pro013: Sprüche 13 entworfen
+- 2026-11-15, agent:isa013: Jesaja 13 entworfen; formula:isa_massa
+- 2026-11-15, agent:jer013: Jeremia 13 entworfen; der leinene Schurz am Euphrat; »Euphrat« nach dem Korpus
+- 2026-11-15, agent:jer014: Jeremia 14 entworfen; Klage über die Dürre; Lügenpropheten
+- 2026-11-15, agent:job016: Ijob 16 entworfen; Ijob: mein Zeuge ist im Himmel
+- 2026-11-15, agent:pro014: Sprüche 14 entworfen
+- 2026-11-15, agent:isa014: Jesaja 14 entworfen; Spottlied, Morgestärn
+- 2026-11-15, agent:jer015: Jeremia 15 entworfen; Jeremias Klage und Gottes Verheißung (feste Mauer aus Bronze)
+- 2026-11-15, agent:job017: Ijob 17 entworfen; Ijob: wo ist meine Hoffnung?
+- 2026-11-15, agent:ezk016: Ezechiel 16 entworfen; Jerusalem, die untreue Frau
+- 2026-11-15, agent:jer016: Jeremia 16 entworfen; Jeremias Ehelosigkeit als Zeichen; Fischer und Jäger
+- 2026-11-15, agent:pro015: Sprüche 15 entworfen
+- 2026-11-15, agent:isa015: Jesaja 15 entworfen
+- 2026-11-15, agent:job018: Ijob 18 entworfen; die zweite Rede Bildads
+- 2026-11-15, agent:pro016: Sprüche 16 entworfen
+- 2026-11-15, agent:jer017: Jeremia 17 entworfen; Fluch und Segen (Wacholder und Baum am Wasser); Sabbatgebot
+- 2026-11-15, agent:ezk017: Ezechiel 17 entworfen; die zwei Adler und der Zedernzweig
+- 2026-11-15, agent:job019: Ijob 19 entworfen; Ijob: ich weiss, dass mein Erlöser lebt
+- 2026-11-15, agent:jer018: Jeremia 18 entworfen; beim Töpfer; Anschlag gegen Jeremia
+- 2026-11-15, agent:isa016: Jesaja 16 entworfen
+- 2026-11-15, agent:jer019: Jeremia 19 entworfen; der zerbrochene Krug im Tal Ben-Hinnom
+- 2026-11-15, agent:pro017: Sprüche 17 entworfen
+- 2026-11-15, agent:ezk018: Ezechiel 18 entworfen; jeder trägt seine eigene Schuld
+- 2026-11-15, agent:job020: Ijob 20 entworfen; die zweite Rede Zofars
+- 2026-11-15, agent:jer020: Jeremia 20 entworfen; Paschhur; Jeremias Klage und Fluch über seinen Geburtstag
+- 2026-11-15, agent:jer021: Jeremia 21 entworfen; Zidkijas Anfrage; Weg des Lebens und Weg des Todes
+- 2026-11-15, agent:isa017: Jesaja 17 entworfen
+- 2026-11-15, agent:pro018: Sprüche 18 entworfen
+- 2026-11-15, agent:ezk019: Ezechiel 19 entworfen; Klagelied über die Fürsten
+- 2026-11-15, agent:jer022: Jeremia 22 entworfen; Worte gegen die Könige Schallum, Jojakim und Konja
+- 2026-11-15, agent:job021: Ijob 21 entworfen; Ijob: warum leben die Gottlosen?
+- 2026-11-15, agent:job022: Ijob 22 entworfen; die dritte Rede des Elifas
+- 2026-11-15, agent:job023: Ijob 23 entworfen; Ijob: wüsste ich nur, wo ich ihn finde
+- 2026-11-15, agent:pro019: Sprüche 19 entworfen
+- 2026-11-15, agent:isa018: Jesaja 18 entworfen
+- 2026-11-15, agent:job024: Ijob 24 entworfen; Ijob: warum schweigt der Allmächtige?
+- 2026-11-15, agent:jer023: Jeremia 23 entworfen; der gerechte Spross; gegen die Lügenpropheten; die Last des HERRN
+- 2026-11-15, agent:jer024: Jeremia 24 entworfen; die guten und die schlechten Feigen
+- 2026-11-15, agent:pro020: Sprüche 20 entworfen
+- 2026-11-15, agent:job025: Ijob 25 entworfen; die dritte Rede Bildads
+- 2026-11-15, agent:ezk020: Ezechiel 20 entworfen; Israels Geschichte der Auflehnung
+- 2026-11-15, agent:isa019: Jesaja 19 entworfen
+- 2026-11-15, agent:job026: Ijob 26 entworfen; Ijob: nur der Rand seiner Wege
+- 2026-11-15, agent:jer025: Jeremia 25 entworfen; siebzig Jahre; der Becher des Zorns; die Klage der Hirten
+- 2026-11-15, agent:pro021: Sprüche 21 entworfen
+- 2026-11-15, agent:isa020: Jesaja 20 entworfen
+- 2026-11-15, agent:job027: Ijob 27 entworfen; Ijob hält an seiner Gerechtigkeit fest
+- 2026-11-15, agent:ezk021: Ezechiel 21 entworfen; das Schwert des HERRN
+- 2026-11-15, agent:jer026: Jeremia 26 entworfen; die Tempelrede und Jeremias Prozess; der Prophet Urija
+- 2026-11-15, agent:jer027: Jeremia 27 entworfen; das Joch Nebukadnezars; die Tempelgeräte
+- 2026-11-15, agent:job028: Ijob 28 entworfen; das Lied von der Weisheit
+- 2026-11-15, agent:pro022: Sprüche 22 entworfen
+- 2026-11-15, agent:jer028: Jeremia 28 entworfen; Hananjas falsche Prophezeiung; das eiserne Joch
+- 2026-11-15, agent:isa021: Jesaja 21 entworfen
+- 2026-11-15, agent:job029: Ijob 29 entworfen; Ijob erinnert sich an frühere Zeiten
+- 2026-11-15, agent:jer029: Jeremia 29 entworfen; der Brief an die Verbannten; Schemaja aus Nehelam
+- 2026-11-15, agent:ezk022: Ezechiel 22 entworfen; die Blutstadt und der Schmelzofen
+- 2026-11-15, agent:pro023: Sprüche 23 entworfen
+- 2026-11-15, agent:jer030: Jeremia 30 entworfen; Wiederherstellung Israels und Judas
+- 2026-11-15, agent:job030: Ijob 30 entworfen; Ijob: jetzt lachen sie über mich
+- 2026-11-15, agent:isa022: Jesaja 22 entworfen; Namen wie 2 Kön 18
+- 2026-11-15, agent:job031: Ijob 31 entworfen; Ijobs Reinigungseid
+- 2026-11-15, agent:pro024: Sprüche 24 entworfen
+- 2026-11-15, agent:job032: Ijob 32 entworfen; Elihu beginnt zu reden
+- 2026-11-15, agent:ezk023: Ezechiel 23 entworfen; Ohola und Oholiba
+- 2026-11-15, agent:jer031: Jeremia 31 entworfen; Rahel weint; der neue Bund
+- 2026-11-15, agent:isa023: Jesaja 23 entworfen
+- 2026-11-15, agent:job033: Ijob 33 entworfen; Elihu: Gott redet zum Menschen
+- 2026-11-15, agent:jer032: Jeremia 32 entworfen; der Ackerkauf in Anatot; Jeremias Gebet und Gottes Antwort
+- 2026-11-15, agent:pro025: Sprüche 25 entworfen
+- 2026-11-15, agent:job034: Ijob 34 entworfen; Elihu: Gott tut kein Unrecht
+- 2026-11-15, agent:ezk024: Ezechiel 24 entworfen; der Kessel und der Tod der Frau
+- 2026-11-15, agent:isa024: Jesaja 24 entworfen
+- 2026-11-15, agent:jer033: Jeremia 33 entworfen; Heilung für Jerusalem; der Bund mit David
+- 2026-11-15, agent:job035: Ijob 35 entworfen; Elihu: was nützt Gott deine Gerechtigkeit?
+- 2026-11-15, agent:pro026: Sprüche 26 entworfen
+- 2026-11-15, agent:jer034: Jeremia 34 entworfen; Zidkijas Schicksal; die widerrufene Freilassung
+- 2026-11-15, agent:job036: Ijob 36 entworfen; Elihu: Gott ist gross in seiner Macht
+- 2026-11-15, agent:ezk025: Ezechiel 25 entworfen; gegen Ammon, Moab, Edom, Philister
+- 2026-11-15, agent:isa025: Jesaja 25 entworfen
+- 2026-11-15, agent:pro027: Sprüche 27 entworfen
+- 2026-11-15, agent:jer035: Jeremia 35 entworfen; die Treue der Rechabiter
+- 2026-11-15, agent:job037: Ijob 37 entworfen; Elihu: Gott donnert mit seiner Stimme
+- 2026-11-15, agent:job038: Ijob 38 entworfen; der HERR antwortet Ijob aus dem Sturm
+- 2026-11-15, agent:jer036: Jeremia 36 entworfen; Baruchs Buchrolle und Jojakims Feuer
+- 2026-11-15, agent:job039: Ijob 39 entworfen; der HERR: Tiere der Wildnis
+- 2026-11-15, agent:ezk026: Ezechiel 26 entworfen; gegen Tyrus
+- 2026-11-15, agent:isa026: Jesaja 26 entworfen
+- 2026-11-15, agent:pro028: Sprüche 28 entworfen
+- 2026-11-15, agent:jer037: Jeremia 37 entworfen; Zidkijas Anfrage; Jeremia im Gefängnis und im Wachthof
+- 2026-11-15, agent:job040: Ijob 40 entworfen; Behemot und Leviatan
+- 2026-11-15, agent:job041: Ijob 41 entworfen; der Leviatan
+- 2026-11-15, agent:jer038: Jeremia 38 entworfen; Jeremia in der Zisterne, Ebed-Melech, das letzte Gespräch mit Zidkija
+- 2026-11-15, agent:pro029: Sprüche 29 entworfen
+- 2026-11-15, agent:job042: Ijob 42 entworfen; Ijob bereut; Schluss des Buches
+- 2026-11-15, agent:isa027: Jesaja 27 entworfen
+- 2026-11-15, agent:ezk027: Ezechiel 27 entworfen; Klagelied über Tyrus, das Schiff
+- 2026-11-15, agent:jer039: Jeremia 39 entworfen; der Fall Jerusalems, Jeremias Befreiung, das Wort an Ebed-Melech
+- 2026-11-15, agent:jer040: Jeremia 40 entworfen; Jeremia bei Gedalja in Mizpa; Johanans Warnung
+- 2026-11-15, agent:ecc001: Prediger 1 entworfen; alles ist Hauch
+- 2026-11-15, agent:pro030: Sprüche 30 entworfen
+- 2026-11-15, agent:ecc002: Prediger 2 entworfen; Freude und Mühe
+- 2026-11-15, agent:jer041: Jeremia 41 entworfen; der Mord an Gedalja, Ismaels Flucht
+- 2026-11-15, agent:isa028: Jesaja 28 entworfen
+- 2026-11-15, agent:ezk028: Ezechiel 28 entworfen; Herrscher und König von Tyrus, Sidon
+- 2026-11-15, agent:jer042: Jeremia 42 entworfen; die Warnung vor dem Zug nach Ägypten
+- 2026-11-15, agent:pro031: Sprüche 31 entworfen
+- 2026-11-15, agent:ezk029: Ezechiel 29 entworfen; gegen den Pharao
+- 2026-11-15, agent:jer043: Jeremia 43 entworfen; der Zug nach Ägypten, die Steine in Tachpanches
+- 2026-11-15, agent:jer044: Jeremia 44 entworfen; das Wort an die Judäer in Ägypten, die Himmelskönigin
+- 2026-11-15, agent:ezk030: Ezechiel 30 entworfen; der Tag über Ägypten, der Arm des Pharao
+- 2026-11-15, agent:jer045: Jeremia 45 entworfen; das Wort an Baruch
+- 2026-11-15, agent:isa029: Jesaja 29 entworfen
+- 2026-11-15, agent:ecc003: Prediger 3 entworfen; alles hat seine Zeit
+- 2026-11-15, agent:ecc004: Prediger 4 entworfen; zwei sind besser als einer
+- 2026-11-15, agent:jer046: Jeremia 46 entworfen; die Sprüche gegen Ägypten
+- 2026-11-15, agent:ezk031: Ezechiel 31 entworfen; die Zeder
+- 2026-11-15, agent:jer047: Jeremia 47 entworfen; der Spruch gegen die Philister
+- 2026-11-15, agent:isa030: Jesaja 30 entworfen
+- 2026-11-15, agent:ecc005: Prediger 5 entworfen; Gelübde und Reichtum
+- 2026-11-15, agent:ecc006: Prediger 6 entworfen; Reichtum ohne Genuss
+- 2026-11-15, agent:ecc007: Prediger 7 entworfen; was besser ist
+- 2026-11-15, agent:ezk032: Ezechiel 32 entworfen; Klagelied über den Pharao, Ägypten im Totenreich
+- 2026-11-15, agent:isa031: Jesaja 31 entworfen
+- 2026-11-15, agent:ecc008: Prediger 8 entworfen; dem König gehorchen
+- 2026-11-15, agent:jer048: Jeremia 48 entworfen; der Spruch gegen Moab, mit den Parallelen aus Jes 15-16 und Num 21
+- 2026-11-15, agent:ecc009: Prediger 9 entworfen; dasselbe Schicksal für alle
+- 2026-11-15, agent:isa032: Jesaja 32 entworfen
+- 2026-11-15, agent:ecc010: Prediger 10 entworfen; wenig Torheit verdirbt viel
+- 2026-11-15, agent:ezk033: Ezechiel 33 entworfen; der Wächter, die Nachricht vom Fall Jerusalems
+- 2026-11-15, agent:jer049: Jeremia 49 entworfen; die Sprüche gegen Ammon, Edom, Damaskus, Kedar und Hazor, Elam
+- 2026-11-15, agent:ecc011: Prediger 11 entworfen; wage etwas, freu dich in der Jugend
+- 2026-11-15, agent:isa033: Jesaja 33 entworfen
+- 2026-11-15, agent:ecc012: Prediger 12 entworfen; der Schluss des Buches
+- 2026-11-15, agent:ezk034: Ezechiel 34 entworfen; die Hirten Israels
+- 2026-11-15, agent:jer050: Jeremia 50 entworfen; der erste Teil des Spruchs gegen Babylon, mit den Parallelen aus 6,22-24 und 49,18-21
+- 2026-11-15, agent:ezk035: Ezechiel 35 entworfen; gegen Se'ir
+- 2026-11-15, agent:jer051: Jeremia 51 entworfen; der zweite Teil des Spruchs gegen Babylon und Serajas Auftrag
+- 2026-11-15, agent:isa034: Jesaja 34 entworfen
+- 2026-11-15, agent:jer052: Jeremia 52 entworfen; der geschichtliche Anhang, mit dem Wortlaut von 2 Kön 24,18-25,30
+- 2026-11-15, agent:dan001: Daniel 1 entworfen
+- 2026-11-15, agent:lam001: Klagelieder 1 entworfen; das erste Klagelied
+- 2026-11-15, agent:ezk036: Ezechiel 36 entworfen; neues Herz und neuer Geist
+- 2026-11-15, agent:sng001: Hoheslied 1 entworfen; das Lied der Lieder
+- 2026-11-15, agent:lam002: Klagelieder 2 entworfen; das zweite Klagelied
+- 2026-11-15, agent:lam003: Klagelieder 3 entworfen; das dritte Klagelied, die Mitte des Buches
+- 2026-11-15, agent:sng002: Hoheslied 2 entworfen; der Winter ist vorbei
+- 2026-11-15, agent:dan002: Daniel 2 entworfen
+- 2026-11-15, agent:lam004: Klagelieder 4 entworfen; das vierte Klagelied
+- 2026-11-15, agent:isa035: Jesaja 35 entworfen
+- 2026-11-15, agent:lam005: Klagelieder 5 entworfen; das Buch der Klagelieder vollständig
+- 2026-11-15, agent:sng003: Hoheslied 3 entworfen; Salomos Hochzeitszug
+- 2026-11-15, agent:dan003: Daniel 3 entworfen
+- 2026-11-15, agent:mic001: Micha 1 entworfen; Beginn des Buches Micha
+- 2026-11-15, agent:ezk037: Ezechiel 37 entworfen; die dürren Gebeine, zwei Stäbe
+- 2026-11-15, agent:mic002: Micha 2 entworfen; Weh über die Landräuber und Verheißung der Sammlung
+- 2026-11-15, agent:sng004: Hoheslied 4 entworfen; der verschlossene Garten
+- 2026-11-15, agent:isa036: Jesaja 36 entworfen (parallel zu 2 Kön 18)
+- 2026-11-15, agent:mic003: Micha 3 entworfen; V. 12 wie Jer 26,18
+- 2026-11-15, agent:dan004: Daniel 4 entworfen
+- 2026-11-15, agent:mic004: Micha 4 entworfen; 4,1-3 wie Jes 2,2-4
+- 2026-11-15, agent:mic005: Micha 5 entworfen; Verheißung des Herrschers aus Betlehem
+- 2026-11-15, agent:sng005: Hoheslied 5 entworfen; die Braut sucht den Geliebten
+- 2026-11-15, agent:dan005: Daniel 5 entworfen
+- 2026-11-15, agent:isa037: Jesaja 37 entworfen (parallel zu 2 Kön 19)
+- 2026-11-15, agent:mic006: Micha 6 entworfen; der Rechtsstreit des HERRN, Mi 6,8
+- 2026-11-15, agent:isa038: Jesaja 38 entworfen (parallel zu 2 Kön 20,1-11)
+- 2026-11-15, agent:mic007: Micha 7 entworfen; das Buch Micha vollständig
+- 2026-11-15, agent:ezk038: Ezechiel 38 entworfen; gegen Gog
+- 2026-11-15, agent:sng006: Hoheslied 6 entworfen; einzig ist meine Taube
+- 2026-11-15, agent:nam001: Nahum 1 entworfen; Beginn des Buches Nahum
+- 2026-11-15, agent:dan006: Daniel 6 entworfen
+- 2026-11-15, agent:isa039: Jesaja 39 entworfen (parallel zu 2 Kön 20,12-19)
+- 2026-11-15, agent:nam002: Nahum 2 entworfen; der Fall Ninives
+- 2026-11-15, agent:ezk039: Ezechiel 39 entworfen; Gogs Untergang
+- 2026-11-15, agent:nam003: Nahum 3 entworfen; das Buch Nahum vollständig
+- 2026-11-15, agent:dan007: Daniel 7 entworfen
+- 2026-11-15, agent:sng007: Hoheslied 7 entworfen; die Sulamit
+- 2026-11-15, agent:sng008: Hoheslied 8 entworfen; stark wie der Tod ist die Liebe; Schluss des Buches
+- 2026-11-15, agent:isa040: Jesaja 40 entworfen
+- 2026-11-15, agent:ezk040: Ezechiel 40 entworfen; Tempelvision: Tore und Höfe
+- 2026-11-15, agent:dan008: Daniel 8 entworfen
+- 2026-11-15, agent:isa041: Jesaja 41 entworfen
+- 2026-11-15, agent:zec001: Sacharja 1 entworfen; Beginn des Buches Sacharja (von Agent 5 übernommen)
+- 2026-11-15, agent:zec002: Sacharja 2 entworfen; Hörner, Schmiede, Messschnur
+- 2026-11-15, agent:dan009: Daniel 9 entworfen
+- 2026-11-15, agent:ezk041: Ezechiel 41 entworfen; Tempelhaus und Allerheiligstes
+- 2026-11-15, agent:amo001: Amos 1 entworfen; Sprüche gegen die Nachbarvölker
+- 2026-11-15, agent:zec003: Sacharja 3 entworfen; der Hohepriester Josua
+- 2026-11-15, agent:isa042: Jesaja 42 entworfen
+- 2026-11-15, agent:zec005: Sacharja 5 entworfen; Buchrolle und Messkorb
+- 2026-11-15, agent:zec004: Sacharja 4 entworfen; Leuchter und Ölbäume
+- 2026-11-15, agent:ezk042: Ezechiel 42 entworfen; Priesterkammern, Aussenmasse
+- 2026-11-15, agent:dan010: Daniel 10 entworfen
+- 2026-11-15, agent:amo002: Amos 2 entworfen; Sprüche gegen Moab, Juda und Israel
+- 2026-11-15, agent:zec006: Sacharja 6 entworfen; vier Wagen, die Krone für Josua
+- 2026-11-15, agent:isa043: Jesaja 43 entworfen
+- 2026-11-15, agent:zec007: Sacharja 7 entworfen; die Fastenfrage
+- 2026-11-15, agent:ezk043: Ezechiel 43 entworfen; Rückkehr der Herrlichkeit, Altar
+- 2026-11-15, agent:amo003: Amos 3 entworfen; erwählt und darum gestraft
+- 2026-11-15, agent:dan011: Daniel 11 entworfen
+- 2026-11-15, agent:zec008: Sacharja 8 entworfen; zehn Heilsworte
+- 2026-11-15, agent:isa044: Jesaja 44 entworfen
+- 2026-11-15, agent:ezk044: Ezechiel 44 entworfen; Osttor, Leviten und Priester
+- 2026-11-15, agent:amo004: Amos 4 entworfen; und doch habt ihr euch nicht bekehrt
+- 2026-11-15, agent:dan012: Daniel 12 entworfen
+- 2026-11-15, agent:zec009: Sacharja 9 entworfen; der König auf dem Esel
+- 2026-11-15, agent:isa045: Jesaja 45 entworfen
+- 2026-11-15, agent:zec010: Sacharja 10 entworfen; der HERR sammelt sein Volk
+- 2026-11-15, agent:ezk045: Ezechiel 45 entworfen; heiliger Bezirk, Masse, Feste
+- 2026-11-15, agent:amo005: Amos 5 entworfen; das Recht soll fliessen wie Wasser
+- 2026-11-15, agent:isa046: Jesaja 46 entworfen
+- 2026-11-15, agent:hos001: Hosea 1 entworfen
+- 2026-11-15, agent:isa047: Jesaja 47 entworfen
+- 2026-11-15, agent:zec011: Sacharja 11 entworfen; die zwei Hirtenstäbe
+- 2026-11-15, agent:ezk046: Ezechiel 46 entworfen; Opfer des Fürsten, Opferküchen
+- 2026-11-15, agent:amo006: Amos 6 entworfen; wehe den Sorglosen in Zion
+- 2026-11-15, agent:isa048: Jesaja 48 entworfen
+- 2026-11-15, agent:hos002: Hosea 2 entworfen
+- 2026-11-15, agent:zec012: Sacharja 12 entworfen; die Klage über den Durchbohrten
+- 2026-11-15, agent:isa049: Jesaja 49 entworfen
+- 2026-11-15, agent:ezk047: Ezechiel 47 entworfen; Tempelstrom, Landesgrenzen
+- 2026-11-15, agent:amo007: Amos 7 entworfen; drei Visionen, Amazja und Amos
+- 2026-11-15, agent:zec013: Sacharja 13 entworfen; der geschlagene Hirt
+- 2026-11-15, agent:hos003: Hosea 3 entworfen
+- 2026-11-15, agent:isa050: Jesaja 50 entworfen
+- 2026-11-15, agent:ezk048: Ezechiel 48 entworfen; Landverteilung, Stadttore
+- 2026-11-15, agent:zec014: Sacharja 14 entworfen; der Tag des HERRN
+- 2026-11-15, agent:amo008: Amos 8 entworfen; der Korb mit reifen Früchten
+- 2026-11-15, agent:hos004: Hosea 4 entworfen
+- 2026-11-15, agent:isa051: Jesaja 51 entworfen
+- 2026-11-15, agent:amo009: Amos 9 entworfen; das zerfallene Haus Davids wieder aufgerichtet
+- 2026-11-15, agent:hos005: Hosea 5 entworfen
+- 2026-11-15, agent:isa052: Jesaja 52 entworfen
+- 2026-11-15, agent:oba001: Obadja 1 entworfen; gegen Edom
+- 2026-11-15, agent:isa053: Jesaja 53 entworfen
+- 2026-11-15, agent:isa054: Jesaja 54 entworfen
+- 2026-11-15, agent:hos006: Hosea 6 entworfen
+- 2026-11-15, agent:hab001: Habakuk 1 entworfen; Klage und Antwort
+- 2026-11-15, agent:isa055: Jesaja 55 entworfen
+- 2026-11-15, agent:hos007: Hosea 7 entworfen
+- 2026-11-15, agent:hab002: Habakuk 2 entworfen; Vision und fünf Weherufe
+- 2026-11-15, agent:isa056: Jesaja 56 entworfen
+- 2026-11-15, agent:hos008: Hosea 8 entworfen
+- 2026-11-15, agent:hab003: Habakuk 3 entworfen; Gebet und Theophanie
+- 2026-11-15, agent:isa057: Jesaja 57 entworfen
+- 2026-11-15, agent:hos009: Hosea 9 entworfen
+- 2026-11-15, agent:zep001: Zefanja 1 entworfen; der Tag des HERRN
+- 2026-11-15, agent:isa058: Jesaja 58 entworfen
+- 2026-11-15, agent:hos010: Hosea 10 entworfen
+- 2026-11-15, agent:zep002: Zefanja 2 entworfen; Gericht über die Völker
+- 2026-11-15, agent:isa059: Jesaja 59 entworfen
+- 2026-11-15, agent:hos011: Hosea 11 entworfen
+- 2026-11-15, agent:zep003: Zefanja 3 entworfen; Jerusalem und das Freudenlied für Zion
+- 2026-11-15, agent:isa060: Jesaja 60 entworfen
+- 2026-11-15, agent:hos012: Hosea 12 entworfen
+- 2026-11-15, agent:isa061: Jesaja 61 entworfen
+- 2026-11-15, agent:hag001: Haggai 1 entworfen; Aufruf zum Tempelbau
+- 2026-11-15, agent:isa062: Jesaja 62 entworfen
+- 2026-11-15, agent:hos013: Hosea 13 entworfen
+- 2026-11-15, agent:isa063: Jesaja 63 entworfen
+- 2026-11-15, agent:hos014: Hosea 14 entworfen
+- 2026-11-15, agent:hag002: Haggai 2 entworfen; Herrlichkeit des neuen Tempels, Serubbabel
+- 2026-11-15, agent:isa064: Jesaja 64 entworfen
+- 2026-11-15, agent:jol001: Joel 1 entworfen
+- 2026-11-15, agent:isa065: Jesaja 65 entworfen
+- 2026-11-15, agent:jol002: Joel 2 entworfen
+- 2026-11-15, agent:isa066: Jesaja 66 entworfen
+- 2026-11-15, agent:jol003: Joel 3 entworfen
+- 2026-11-15, agent:jol004: Joel 4 entworfen
+- 2026-11-15, agent:mal001: Maleachi 1 entworfen; Jakob geliebt, die Priester verachten den Namen
+- 2026-11-15, agent:mal002: Maleachi 2 entworfen; der Bund mit Levi, Untreue in der Ehe
+- 2026-11-15, agent:mal003: Maleachi 3 entworfen; der Bote, der Zehnte, der Tag des HERRN, Elija

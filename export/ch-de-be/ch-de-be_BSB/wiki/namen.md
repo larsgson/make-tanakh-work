@@ -913,11 +913,12 @@ Für griechische Namen, die das Korpus nicht hat, gelten seine Muster: -ος →
   - NT: ACT 7:47 *Salomo*
   - answers: solomon
   - agent:curation-study, 2026-10-15
-- **`name:samaria`** שֹׁמְרוֹן / Σαμάρεια → **Samarie** [high, observed, attested]
-  - NT: ACT 8:1 *Samarie*
-  - answers: samaria
-  - »Samaria« 0× (letter_greek_ia). Für die Stadt im AT zu prüfen.
-  - agent:curation-study, 2026-10-15
+- **`name:samaria`** שֹׁמְרוֹן → **Samaria** [high, decided, by-rule]
+  - gloss: שֹׁמְרוֹן: שֹׁמְר֑וֹן (OBA 1:19) — English (generated): and Samaria
+  - NT: OBA 1:19 *Samaria*
+  - answers: Samaria
+  - שֹׁמְרוֹן.
+  - agent:oba001, 2026-11-15
 - **`name:nazareth`** Ναζαρέτ → **Nazaret** [high, observed, attested]
   - NT: JHN 1:45 *Nazaret*
   - answers: nazareth
@@ -934,4 +935,542 @@ Für griechische Namen, die das Korpus nicht hat, gelten seine Muster: -ος →
   - NT: ACT 4:36 *Zypere*
   - answers: cyprus
   - agent:curation-study, 2026-10-15
-<!-- store:end sha=9afde101 -->
+- **`name:deu001_places`** עֲרָבָה → **d Araba (i der Araba); Suf; Tofel; Di-Sahab; Aschtarot; Eufrat** [high, decided, by-rule]
+  - gloss: עֲרָבָה: עֲרָבָה֩ (DEU 1:1) — English (generated): in the Arabah
+  - gloss: סוּף: ס֜וּף (DEU 1:1) — English (generated): Suph
+  - gloss: תֹּפֶל: תֹּ֛פֶל (DEU 1:1) — English (generated): and Tophel
+  - gloss: דִּי זָהָב: דִ֥י (DEU 1:1) — English (generated): and Dizahab
+  - gloss: עַשְׁתָּרוֹת: עַשְׁתָּרֹ֖ת (DEU 1:4) — English (generated): in Ashtaroth
+  - gloss: פְּרָת: פְּרָֽת (DEU 1:7) — English (generated): Euphrates
+  - NT: DEU 1:1 *i der Araba*; DEU 1:7 *em Eufrat*
+  - answers: Arabah, Suph, Tophel, Dizahab, Ashtaroth, Euphrates
+  - הָעֲרָבָה als Landschaft (Jordangraben und Senke südlich des Toten Meers) ist »d Araba«; עַרְבוֹת מוֹאָב bleibt »Steppe vo Moab« (4Mo 22). Eufrat wie in der Genesis.
+  - agent:deu001, 2026-11-14
+- **`name:anakim`** עֲנָק → **Anakiter** [high, decided, by-rule]
+  - gloss: עֲנָק: עֲנָקִ֖ים (DEU 1:28) — English (generated): of the Anakim
+  - NT: DEU 1:28 *sogar Anakiter*
+  - answers: Anakim, Anakites
+  - Plural עֲנָקִים; mit בְּנֵי ebenfalls »Anakiter«. 4Mo 13 »Nachkomme vom Anak« für den Singular.
+  - agent:deu001, 2026-11-14
+- **`name:deu002_peoples`** אֵימִים → **Emiter; Refaiter; Horiter; Moabiter; Samsummiter; Awwiter; Kaftoriter; Kaftor; Elat; Kedemot; Ar** [high, decided, by-rule]
+  - gloss: אֵימִים: אֵמִ֥ים (DEU 2:10) — English (generated): The Emites
+  - gloss: רְפָאִים: רְפָאִ֛ים (DEU 2:11) — English (generated): as Rephaim
+  - gloss: חֹרִי: חֹרִים֮ (DEU 2:12) — English (generated): The Horites
+  - gloss: מוֹאָבִי: מֹּ֣אָבִ֔ים (DEU 2:11) — English (generated): though the Moabites
+  - gloss: זַמְזֻמִּים: זַמְזֻמִּֽים (DEU 2:20) — English (generated): Zamzummites
+  - gloss: עַוִּים: עַוִּ֛ים (DEU 2:23) — English (generated): And the Avvim
+  - gloss: כַּפְתֹּרִי: כַּפְתֹּרִים֙ (DEU 2:23) — English (generated): the Caphtorites
+  - gloss: כַּפְתּוֹר: כַּפְתּ֔וֹר (DEU 2:23) — English (generated): out of Caphtor
+  - gloss: אֵילַת: אֵילַ֖ת (DEU 2:8) — English (generated): which comes up from Elath
+  - gloss: קְדֵמוֹת: קְדֵמ֔וֹת (DEU 2:26) — English (generated): of Kedemoth
+  - gloss: עָר: עָ֖ר (DEU 2:9) — English (generated): Ar
+  - NT: DEU 2:10 *d Emiter*; DEU 2:20 *Samsummiter*; DEU 2:23 *d Kaftoriter*
+  - answers: Emites, Rephaim, Horites, Moabites, Zamzummites, Avvim, Caphtorites, Caphtor, Elath, Kedemoth, Ar
+  - Völkernamen auf -iter wie in der Genesis (1Mo 14,5-6; 15,20); Ar ist die Stadt/Landschaft Moabs.
+  - agent:deu002, 2026-11-15
+- **`name:deu003_places`** אַרְגֹּב → **Argob; Sidonier; Sirjon; Senir; Salcha; Rabba; Geschuriter; Maachatiter; Bet-Peor; Hermon; Kinneret** [high, decided, by-rule]
+  - gloss: אַרְגֹּב: אַרְגֹּ֔ב (DEU 3:4) — English (generated): of Argob
+  - gloss: צִידֹנִי: צִידֹנִ֛ים (DEU 3:9) — English (generated): which the Sidonians
+  - gloss: שִׂרְיֹן: שִׂרְיֹ֑ן (DEU 3:9) — English (generated): Sirion
+  - gloss: שְׂנִיר: שְׂנִֽיר (DEU 3:9) — English (generated): Senir
+  - gloss: סַלְכָה: סַלְכָ֖ה (DEU 3:10) — English (generated): of Salecah
+  - gloss: רַב: רַבַּ֖ת (DEU 3:11) — English (generated): in Rabbah
+  - gloss: גְּשׁוּרִי: גְּשׁוּרִ֖י (DEU 3:14) — English (generated): of the Geshurites
+  - gloss: מַעֲכָתִי: מַּֽעֲכָתִ֑י (DEU 3:14) — English (generated): and Maacathites
+  - gloss: בֵּית פְּעוֹר: בֵּ֥ית (DEU 3:29) — English (generated): Beth peor
+  - gloss: חֶרְמוֹן: חֶרְמֽוֹן (DEU 3:8) — English (generated): Hermon
+  - gloss: כִּנֶּרֶת: כִּנֶּ֗רֶת (DEU 3:17) — English (generated): from Chinnereth
+  - NT: DEU 3:4 *Gäget Argob*; DEU 3:29 *vis-à-vis vo Bet-Peor*
+  - answers: Argob, Sidonians, Sirion, Senir, Salecah, Rabbah, Geshurites, Maacathites, Beth-peor, Hermon, Chinnereth
+  - Ostjordanische Namen. Bet- mit Bindestrich wie die übrigen Bet-Namen.
+  - agent:deu003, 2026-11-14
+- **`name:deu004_places`** בֶּצֶר → **Bezer; Ramot; Golan; Manassiter; Sion; Baal-Peor** [high, decided, by-rule]
+  - gloss: בֶּצֶר: בֶּ֧צֶר (DEU 4:43) — English (generated): Bezer
+  - gloss: רָמֹת: רָאמֹ֤ת (DEU 4:43) — English (generated): Ramoth
+  - gloss: גּוֹלָן: גּוֹלָ֥ן (DEU 4:43) — English (generated): or Golan
+  - gloss: מְנַשִּׁי: מְנַשִּֽׁי (DEU 4:43) — English (generated): belonging to the Manassites
+  - gloss: שִׂיאֹן: שִׂיאֹ֖ן (DEU 4:48) — English (generated): Siyon
+  - gloss: בַּעַל פְּעוֹר: בַ֣עַל (DEU 4:3) — English (generated): at Baal peor
+  - NT: DEU 4:43 *Ramot z Gilead*; DEU 4:48 *Bärg Sion*
+  - answers: Bezer, Ramoth, Golan, Manassites, Siyon, Baal-peor
+  - Asylstädte im Ostjordanland; שִׂיאֹן »Sion« = Hermon (nicht Zion).
+  - agent:deu004, 2026-11-14
+- **`name:deu010_places`** בְּאֵרֹת בְּנֵי יַעֲקָן → **Beerot-Bne-Jaakan; Mosera; Gudgoda; Jotbata** [high, decided, by-rule]
+  - gloss: בְּאֵרֹת בְּנֵי יַעֲקָן: בְּאֵרֹ֥ת (DEU 10:6) — English (generated): from
+  - gloss: מוֹסֵרָה: מוֹסֵרָ֑ה (DEU 10:6) — English (generated): to Moserah
+  - gloss: גִּדְגָּד: גֻּדְגֹּ֑דָ (DEU 10:7) — English (generated): to Gudgodah
+  - gloss: יׇטְבָתָה: יָטְבָ֔תָה (DEU 10:7) — English (generated): to Jotbathah
+  - NT: DEU 10:6 *uf Mosera*
+  - answers: Beeroth Bene-jaakan, Moserah, Gudgodah, Jotbathah
+  - Stationen 5Mo 10,6-7; vgl. 4Mo 33,31-33 (Moserot, Bne-Jaakan, Hor-Gidgad, Jotbata).
+  - agent:deu010, 2026-11-14
+- **`name:deu011_places`** גְּרִזִים → **Garizim; Ebal; Gilgal; More; Euphrat** [high, decided, by-rule]
+  - gloss: גְּרִזִים: גְּרִזִ֔ים (DEU 11:29) — English (generated): Gerizim
+  - gloss: עֵיבָל: עֵיבָֽל (DEU 11:29) — English (generated): Ebal
+  - gloss: גִּלְגָּל: גִּלְגָּ֔ל (DEU 11:30) — English (generated): Gilgal
+  - gloss: מוֹרֶה: מֹרֶֽה (DEU 11:30) — English (generated): of Moreh
+  - gloss: פְּרָת: פְּרָ֗ת (DEU 11:24) — English (generated): the Euphrates
+  - NT: DEU 11:29 *uf e Bärg Garizim*
+  - answers: Gerizim, Ebal, Gilgal, Moreh, Euphrates
+  - Berge und Orte 5Mo 11,24.29-30; »Eich(e) vo More« 1Mo 12,6; »Euphrat« nach dem Korpus.
+  - agent:deu011, 2026-11-14
+- **`name:ezekiel`** יְחֶזְקֵאל → **Ezechiel** [high, decided, by-rule]
+  - gloss: יְחֶזְקֵאל: יְחֶזְקֵ֨אל (EZK 1:3) — English (generated): Ezekiel
+  - NT: EZK 1:3 *Ezechiel*
+  - answers: ezekiel
+  - Der Prophet; Buchtitel »Ds Buech Ezechiel«.
+  - agent:ezk001, 2026-11-15
+- **`name:kebar`** כְּבָר → **Kebar** [high, decided, by-rule]
+  - gloss: כְּבָר: כְּבָ֑ר (EZK 1:1) — English (generated): Kebar
+  - NT: EZK 1:1 *am Fluss Kebar*
+  - answers: kebar
+  - Fluss in Babylonien, immer »der Fluss Kebar«.
+  - agent:ezk001, 2026-11-15
+- **`name:tel_abib`** תֵּל אָבִיב → **Tel-Abib** [high, decided, by-rule]
+  - gloss: תֵּל אָבִיב: תֵּ֣ל (EZK 3:15) — English (generated): at Tel abib
+  - NT: EZK 3:15 *Tel-Abib*
+  - answers: tel-abib
+  - Ort der Verbannten am Kebar.
+  - agent:ezk003, 2026-11-15
+- **`name:diblah`** דִּבְלָה → **Dibla** [high, decided, by-rule]
+  - gloss: דִּבְלָה: דִּבְלָ֔תָ (EZK 6:14) — English (generated): to Diblah
+  - NT: EZK 6:14 *Dibla*
+  - answers: diblah
+  - Ortsname, Ez 6,14.
+  - agent:ezk006, 2026-11-15
+- **`name:jaazaniah`** יַאֲזַנְיָהוּ → **Jaasanja** [high, decided, by-rule]
+  - gloss: יַאֲזַנְיָהוּ: יַאֲזַנְיָ֨הוּ (EZK 8:11) — English (generated): with Jaazaniah
+  - NT: EZK 8:11 *der Jaasanja*
+  - answers: jaazaniah
+  - Ältester in Ez 8,11; ein anderer 11,1.
+  - agent:ezk008, 2026-11-15
+- **`name:tammuz`** תַּמּוּז → **Tammus** [high, decided, by-rule]
+  - gloss: תַּמּוּז: תַּמּֽוּז (EZK 8:14) — English (generated): for Tammuz
+  - NT: EZK 8:14 *der Tammus*
+  - answers: tammuz
+  - Gottheit, Ez 8,14.
+  - agent:ezk008, 2026-11-15
+- **`name:pelatiah`** פְּלַטְיָהוּ → **Pelatja** [high, decided, by-rule]
+  - gloss: פְּלַטְיָהוּ: פְּלַטְיָ֥הוּ (EZK 11:1) — English (generated): and Pelatiah
+  - NT: EZK 11:1 *der Pelatja*
+  - answers: pelatiah
+  - Ez 11,1.13.
+  - agent:ezk011, 2026-11-15
+- **`name:job`** אִיּוֹב → **Hiob** [high, decided, by-rule]
+  - gloss: אִיּוֹב: אִיּ֑וֹב (EZK 14:14) — English (generated): and Job
+  - NT: EZK 14:14 *der Hiob*
+  - answers: job
+  - אִיּוֹב; Korpus »Hiob« 2×, »Ijob« 1×.
+  - agent:ezk014, 2026-11-15
+- **`name:oholah`** אׇהֳלָה → **Ohola** [high, decided, by-rule]
+  - gloss: אׇהֳלָה: אָהֳלָ֤ה (EZK 23:4) — English (generated): Oholah
+  - NT: EZK 23:4 *Ohola*
+  - answers: Oholah
+  - אָהֳלָה (Ez 23).
+  - agent:ezk023, 2026-11-15
+- **`name:oholibah`** אׇהֳלִיבָה → **Oholiba** [high, decided, by-rule]
+  - gloss: אׇהֳלִיבָה: אָהֳלִיבָ֣ה (EZK 23:4) — English (generated): Oholibah
+  - NT: EZK 23:4 *Oholiba*
+  - answers: Oholibah
+  - אָהֳלִיבָה (Ez 23).
+  - agent:ezk023, 2026-11-15
+- **`name:rabbah_ammon`** רַבָּה → **Rabba** [high, decided, by-rule]
+  - gloss: רַבָּה: רַבָּה֙ (EZK 25:5) — English (generated): Rabbah
+  - NT: EZK 25:5 *Rabba*
+  - answers: Rabbah
+  - רַבָּה (Ez 25,5; 21,25).
+  - agent:ezk025, 2026-11-15
+- **`name:teman`** תֵּימָן → **Teman** [high, decided, by-rule]
+  - gloss: תֵּימָן: תֵּימָ֔ן (EZK 25:13) — English (generated): and from Teman
+  - NT: EZK 25:13 *Teman*
+  - answers: Teman
+  - תֵּימָן.
+  - agent:ezk025, 2026-11-15
+- **`name:dedan`** דְּדָן → **Dedan** [high, decided, by-rule]
+  - gloss: דְּדָן: דְדָ֖נֶ (EZK 25:13) — English (generated): to Dedan
+  - NT: EZK 25:13 *Dedan*
+  - answers: Dedan
+  - דְּדָן.
+  - agent:ezk025, 2026-11-15
+- **`name:beth_jeshimoth`** בֵּית הַיְשִׁמֹות → **Bet-Jeschimot** [high, decided, by-rule]
+  - gloss: בֵּית הַיְשִׁמֹות: בֵּ֣ית (EZK 25:9) — English (generated): Beth jeshimoth
+  - NT: EZK 25:9 *Bet-Jeschimot*
+  - answers: Beth-jeshimoth
+  - בֵּית הַיְשִׁימֹת.
+  - agent:ezk025, 2026-11-15
+- **`name:baal_meon`** בַּעַל מְעוֹן → **Baal-Meon** [high, decided, by-rule]
+  - gloss: בַּעַל מְעוֹן: בַּ֥עַל (EZK 25:9) — English (generated): Baal meon
+  - NT: EZK 25:9 *Baal-Meon*
+  - answers: Baal-meon
+  - בַּעַל מְעוֹן.
+  - agent:ezk025, 2026-11-15
+- **`name:kiriathaim`** קִרְיָתַיִם → **Kirjatajim** [high, decided, by-rule]
+  - gloss: קִרְיָתַיִם: קִרְיָתָֽיְמָ (EZK 25:9) — English (generated): and Kiriathaim
+  - NT: EZK 25:9 *Kirjatajim*
+  - answers: Kiriathaim
+  - קִרְיָתַיִם.
+  - agent:ezk025, 2026-11-15
+- **`name:tyre`** צֹר → **Tyrus** [high, decided, by-rule]
+  - gloss: צֹר: צֹּ֤ר (EZK 26:2) — English (generated): Tyre
+  - NT: EZK 26:2 *Tyrus*
+  - answers: Tyre
+  - צֹר (Ez 26-28).
+  - agent:ezk026, 2026-11-15
+- **`name:arvad`** אַרְוַד → **Arwad** [high, decided, by-rule]
+  - gloss: אַרְוַד: אַרְוַ֔ד (EZK 27:8) — English (generated): and Arvad
+  - NT: EZK 27:8 *Arwad*
+  - answers: Arvad
+  - אַרְוַד.
+  - agent:ezk027, 2026-11-15
+- **`name:beth_togarmah`** בַּיִת → **Bet-Togarma** [high, decided, by-rule]
+  - gloss: בַּיִת: בֵּ֚ית (EZK 38:6) — English (generated): and Beth togarmah
+  - NT: EZK 38:6 *Bet-Togarma*
+  - answers: Beth-togarmah
+  - בֵּית תּוֹגַרְמָה.
+  - agent:ezk038, 2026-11-15
+- **`name:helech`** חֵילֵךְ → **Helech** [high, decided, by-rule]
+  - gloss: חֵילֵךְ: חֵילֵ֗ךְ (EZK 27:11) — English (generated): and Helech
+  - NT: EZK 27:11 *Helech*
+  - answers: Helech
+  - חֵילֵךְ.
+  - agent:ezk027, 2026-11-15
+- **`name:gammadim`** גַּמָּדִים → **Gammaditer** [high, decided, by-rule]
+  - gloss: גַּמָּדִים: גַ֨מָּדִ֔ים (EZK 27:11) — English (generated): and the of Gammad
+  - NT: EZK 27:11 *Gammaditer*
+  - answers: Gammadites
+  - גַּמָּדִים.
+  - agent:ezk027, 2026-11-15
+- **`name:elishah`** אֱלִישָׁה → **Elischa** [high, decided, by-rule]
+  - gloss: אֱלִישָׁה: אֱלִישָׁ֖ה (EZK 27:7) — English (generated): of Elishah
+  - NT: EZK 27:7 *Elischa*
+  - answers: Elishah
+  - אֱלִישָׁה (Volk, nicht der Prophet).
+  - agent:ezk027, 2026-11-15
+- **`name:helbon`** חֶלְבּוֹן → **Helbon** [high, decided, by-rule]
+  - gloss: חֶלְבּוֹן: חֶלְבּ֖וֹן (EZK 27:18) — English (generated): from Helbon
+  - NT: EZK 27:18 *Helbon*
+  - answers: Helbon
+  - חֶלְבּוֹן.
+  - agent:ezk027, 2026-11-15
+- **`name:vedan`** וְדָן → **Wedan** [high, decided, by-rule]
+  - gloss: וְדָן: וְדָ֤ן (EZK 27:19) — English (generated): and casks of wine
+  - NT: EZK 27:19 *Wedan*
+  - answers: Vedan
+  - וְדָן.
+  - agent:ezk027, 2026-11-15
+- **`name:canneh`** כַּנֶּה → **Kanne** [high, decided, by-rule]
+  - gloss: כַּנֶּה: כַנֵּה֙ (EZK 27:23) — English (generated): Canneh
+  - NT: EZK 27:23 *Kanne*
+  - answers: Canneh
+  - כַּנֵּה.
+  - agent:ezk027, 2026-11-15
+- **`name:chilmad`** כִּלְמָד → **Kilmad** [high, decided, by-rule]
+  - gloss: כִּלְמָד: כִּלְמַ֥ד (EZK 27:23) — English (generated): and Chilmad
+  - NT: EZK 27:23 *Kilmad*
+  - answers: Chilmad
+  - כִּלְמַד.
+  - agent:ezk027, 2026-11-15
+- **`name:minnith`** מִנִּית → **Minnit** [high, decided, by-rule]
+  - gloss: מִנִּית: מִ֠נִּית (EZK 27:17) — English (generated): from Minnith
+  - NT: EZK 27:17 *Minnit*
+  - answers: Minnith
+  - מִנִּית.
+  - agent:ezk027, 2026-11-15
+- **`name:syene`** סְוֵנֵה → **Syene** [high, decided, by-rule]
+  - gloss: סְוֵנֵה: סְוֵנֵ֖ה (EZK 29:10) — English (generated): to Syene
+  - NT: EZK 29:10 *Syene*
+  - answers: Syene
+  - סְוֵנֵה.
+  - agent:ezk029, 2026-11-15
+- **`name:pathros`** פַּתְרוֹס → **Pathros** [high, decided, by-rule]
+  - gloss: פַּתְרוֹס: פַּתְר֔וֹס (EZK 29:14) — English (generated): of Pathros
+  - NT: EZK 29:14 *Pathros*
+  - answers: Pathros
+  - פַּתְרוֹס.
+  - agent:ezk029, 2026-11-15
+- **`name:no_thebes`** נֹא → **No** [high, decided, by-rule]
+  - gloss: נֹא: נֹֽא (EZK 30:14) — English (generated): on Thebes
+  - NT: EZK 30:14 *No*
+  - answers: Thebes
+  - נֹא (Theben).
+  - agent:ezk030, 2026-11-15
+- **`name:sin_pelusium`** סִין → **Sin** [high, decided, by-rule]
+  - gloss: סִין: סִ֖ין (EZK 30:15) — English (generated): Pelusium
+  - NT: EZK 30:15 *Sin*
+  - answers: Pelusium
+  - סִין (Pelusium).
+  - agent:ezk030, 2026-11-15
+- **`name:pi_beseth`** פִּי בֶסֶת → **Pi-Beset** [high, decided, by-rule]
+  - gloss: פִּי בֶסֶת: פִי (EZK 30:17) — English (generated): and Pi beseth
+  - NT: EZK 30:17 *Pi-Beset*
+  - answers: Pi-beseth
+  - פִּי־בֶסֶת.
+  - agent:ezk030, 2026-11-15
+- **`name:cub`** כּוּב → **Kub** [high, decided, by-rule]
+  - gloss: כּוּב: כ֔וּב (EZK 30:5) — English (generated): as well as Libya
+  - NT: EZK 30:5 *Kub*
+  - answers: Libya
+  - כּוּב.
+  - agent:ezk030, 2026-11-15
+- **`name:elam`** עֵילָם → **Elam** [high, decided, by-rule]
+  - gloss: עֵילָם: עֵילָם֙ (EZK 32:24) — English (generated): Elam
+  - NT: EZK 32:24 *Elam*
+  - answers: Elam
+  - עֵילָם.
+  - agent:ezk032, 2026-11-15
+- **`name:dan001_names`** אַשְׁפְּנַז → **Aschpenas; Beltschazzar; Schadrach; Meschach; Abed-Nego; Schinar** [high, decided, by-rule]
+  - gloss: אַשְׁפְּנַז: אַשְׁפְּנַ֖ז (DAN 1:3) — English (generated): Ashpenaz
+  - gloss: בֵּלְטְשַׁאצַּר: בֵּ֣לְטְשַׁאצַּ֗ר (DAN 1:7) — English (generated): the name Belteshazzar
+  - gloss: שַׁדְרַךְ: שַׁדְרַ֔ךְ (DAN 1:7) — English (generated): Shadrach
+  - gloss: מֵישַׁךְ: מֵישַׁ֔ךְ (DAN 1:7) — English (generated): Meshach
+  - gloss: עֲבֵד נְגוֹ: עֲבֵ֥ד (DAN 1:7) — English (generated): Abednego
+  - gloss: שִׁנְעָר: שִׁנְעָ֖ר (DAN 1:2) — English (generated): of Shinar
+  - NT: DAN 1:7 *Beltschazzar*
+  - answers: Ashpenaz, Belteshazzar, Shadrach, Meshach, Abednego, Shinar
+  - Hofbeamter und babylonische Namen der vier jungen Männer (Dan 1).
+  - agent:dan001, 2026-11-15
+- **`name:dan002_names`** אֲרְיוֹךְ → **Arjoch** [high, decided, by-rule]
+  - gloss: אֲרְיוֹךְ: אַרְי֕וֹךְ (DAN 2:14)
+  - NT: DAN 2:14 *em Arjoch*
+  - answers: Arioch
+  - Oberst der Leibwache Nebukadnezars (Dan 2).
+  - agent:dan002, 2026-11-15
+- **`name:dan003_places`** דּוּרָא → **Dura** [high, decided, by-rule]
+  - gloss: דּוּרָא: דּוּרָ֔א (DAN 3:1)
+  - NT: DAN 3:1 *i der Ebeni Dura*
+  - answers: Dura
+  - Ebene in der Provinz Babylon (Dan 3,1).
+  - agent:dan003, 2026-11-15
+- **`name:dan005_names`** בֵּלְשַׁאצַּר → **Belschazzar; Meder; Perser** [high, decided, by-rule]
+  - gloss: בֵּלְשַׁאצַּר: בֵּלְשַׁאצַּ֣ר (DAN 5:1)
+  - gloss: מָדַי: מָדַ֥י (DAN 5:28)
+  - gloss: פָּרַס: פָרָֽס (DAN 5:28)
+  - NT: DAN 5:1 *Chünig Belschazzar*
+  - answers: Belshazzar, Medes, Persians
+  - König in Babylon; Meder und Perser (Dan 5).
+  - agent:dan005, 2026-11-15
+- **`name:gog`** גּוֹג → **Gog** [high, decided, by-rule]
+  - gloss: גּוֹג: גּוֹג֙ (EZK 38:2) — English (generated): Gog
+  - gloss: גּוֹג: גּ֔וֹג (EZK 38:3) — English (generated): O Gog
+  - gloss: גּוֹג: ג֔וֹג (EZK 38:14) — English (generated): Gog
+  - gloss: גּוֹג: גּֽוֹג (EZK 38:16) — English (generated): O Gog
+  - gloss: גּוֹג: גוֹג֙ (EZK 38:18) — English (generated): when Gog
+  - NT: EZK 38:2 *Gog*
+  - answers: Gog
+  - גּוֹג.
+  - agent:ezk038, 2026-11-15
+- **`name:magog`** מָגוֹג → **Magog** [high, decided, by-rule]
+  - gloss: מָגוֹג: מָּג֔וֹג (EZK 38:2) — English (generated): of Magog
+  - NT: EZK 38:2 *Magog*
+  - answers: Magog
+  - מָגוֹג.
+  - agent:ezk038, 2026-11-15
+- **`name:tubal`** תֻּבַל → **Tubal** [high, decided, by-rule]
+  - gloss: תֻּבַל: תֻבָ֑ל (EZK 38:2) — English (generated): and Tubal
+  - gloss: תֻּבַל: תֻבָֽל (EZK 38:3) — English (generated): and Tubal
+  - NT: EZK 38:2 *Tubal*
+  - answers: Tubal
+  - תֻּבָל.
+  - agent:ezk038, 2026-11-15
+- **`name:gomer`** גֹּמֶר → **Gomer** [high, decided, by-rule]
+  - gloss: גֹּמֶר: גֹּ֚מֶר (EZK 38:6) — English (generated): Gomer
+  - NT: EZK 38:6 *Gomer*
+  - answers: Gomer
+  - גֹּמֶר.
+  - agent:ezk038, 2026-11-15
+- **`name:put`** פּוּט → **Put** [high, decided, by-rule]
+  - gloss: פּוּט: פ֖וּט (EZK 38:5) — English (generated): and Put
+  - NT: EZK 38:5 *Put*
+  - answers: Put
+  - פּוּט.
+  - agent:ezk038, 2026-11-15
+- **`name:dan006_names`** דָּרְיָוֶשׁ → **Darius** [high, decided, by-rule]
+  - gloss: דָּרְיָוֶשׁ: דָרְיָ֨וֶשׁ֙ (DAN 6:1)
+  - NT: DAN 6:1 *Darius vo de Meder*
+  - answers: Darius
+  - Darius der Meder (Dan 6; 9,1; 11,1).
+  - agent:dan006, 2026-11-15
+- **`name:hamon_gog`** גַּיְא → **Hamon-Gog-Tal** [high, decided, by-rule]
+  - gloss: גַּיְא: גֵּ֖יא (EZK 39:11) — English (generated): the Valley of Hamon gog
+  - gloss: גַּיְא: גֵּ֖יא (EZK 39:15) — English (generated): the Valley of Hamon gog
+  - NT: EZK 39:11 *Hamon-Gog-Tal*
+  - answers: Hamon-gog
+  - גֵּיא הֲמוֹן גּוֹג.
+  - agent:ezk039, 2026-11-15
+- **`name:hamonah`** הֲמוֹנָה → **Hamona** [high, decided, by-rule]
+  - gloss: הֲמוֹנָה: הֲמוֹנָ֖ה (EZK 39:16) — English (generated): Hamonah
+  - NT: EZK 39:16 *Hamona*
+  - answers: Hamonah
+  - הֲמוֹנָה.
+  - agent:ezk039, 2026-11-15
+- **`name:dan008_names`** שׁוּשַׁן → **Susa; Elam; Ulai; Gabriel; Medie; Persie; Griecheland** [high, decided, by-rule]
+  - gloss: שׁוּשַׁן: שׁוּשַׁ֣ן (DAN 8:2) — English (generated): of Susa
+  - gloss: עֵילָם: עֵילָ֣ם (DAN 8:2) — English (generated): of Elam
+  - gloss: אוּלַי: אוּלָֽי (DAN 8:2) — English (generated): the Ulai
+  - gloss: גַּבְרִיאֵל: גַּבְרִיאֵ֕ל (DAN 8:16) — English (generated): Gabriel
+  - gloss: מָדַי: מָדַ֥י (DAN 8:20) — English (generated): of Media
+  - gloss: פָּרַס: פָרָֽס (DAN 8:20) — English (generated): and Persia
+  - gloss: יָוָן: יָוָ֑ן (DAN 8:21) — English (generated): of Greece
+  - NT: DAN 8:2 *Burg Susa*
+  - answers: Susa, Elam, Ulai, Gabriel, Media, Persia, Greece
+  - Orte und Völker der Vision; der Engel Gabriel (Dan 8).
+  - agent:dan008, 2026-11-15
+- **`name:dan009_names`** אֲחַשְׁוֵרוֹשׁ → **Xerxes** [high, decided, by-rule]
+  - gloss: אֲחַשְׁוֵרוֹשׁ: אֲחַשְׁוֵר֖וֹשׁ (DAN 9:1) — English (generated): of Xerxes
+  - NT: DAN 9:1 *vom Xerxes*
+  - answers: Xerxes
+  - Vater des Darius (Dan 9,1).
+  - agent:dan009, 2026-11-15
+- **`name:dan010_names`** חִדֶּקֶל → **Tigris; Ufas; Michael** [high, decided, by-rule]
+  - gloss: חִדֶּקֶל: חִדָּֽקֶל (DAN 10:4) — English (generated): the Tigris
+  - gloss: אוּפָז: אוּפָֽז (DAN 10:5) — English (generated): from Uphaz
+  - gloss: מִיכָאֵל: מִֽיכָאֵ֗ל (DAN 10:13) — English (generated): Then Michael
+  - NT: DAN 10:4 *der Tigris*
+  - answers: Tigris, Uphaz, Michael
+  - Fluss, Goldland, der Engelfürst (Dan 10).
+  - agent:dan010, 2026-11-15
+- **`name:dan011_names`** כִּתִּיִּים → **Kittäer; Libyer; Kuschiter** [high, decided, by-rule]
+  - gloss: כִּתִּיִּים: כִּתִּים֙ (DAN 11:30) — English (generated): of Kittim
+  - gloss: לוּבִי: לֻבִ֥ים (DAN 11:43) — English (generated): and the Libyans
+  - gloss: כֻּשִׁי: כֻשִׁ֖ים (DAN 11:43) — English (generated): and Cushites
+  - NT: DAN 11:30 *vo de Kittäer*; DAN 11:43 *d Libyer*
+  - answers: Kittim, Libyans, Cushites
+  - Völker in der Rede des Boten (Dan 11).
+  - agent:dan011, 2026-11-15
+- **`name:hos001_names`** בְּאֵרִי → **Beeri; Gomer; Diblajim; Lo-Ruhama; Lo-Ammi** [high, decided, by-rule]
+  - gloss: בְּאֵרִי: בְּאֵרִ֔י (HOS 1:1) — English (generated): of Beeri
+  - gloss: גֹּמֶר: גֹּ֖מֶר (HOS 1:3) — English (generated): Gomer
+  - gloss: דִּבְלַיִם: דִּבְלָ֑יִם (HOS 1:3) — English (generated): of Diblaim
+  - gloss: לֹא רֻחָמָה: לֹ֣א (HOS 1:6) — English (generated): Lo ruhamah
+  - gloss: לֹא עַמִּי: לֹ֣א (HOS 1:9) — English (generated): Lo ammi
+  - NT: HOS 1:1 *vom Beeri*; HOS 1:3 *d Gomer*
+  - answers: Beeri, Gomer, Diblaim, Lo-ruhamah, Lo-ammi
+  - Vater Hoscheas, seine Frau und ihre Kinder (Hos 1).
+  - agent:hos001, 2026-11-15
+- **`name:hos002_names`** עָכוֹר → **Achor** [high, decided, by-rule]
+  - gloss: עָכוֹר: עָכ֖וֹר (HOS 2:17) — English (generated): of Achor
+  - NT: HOS 2:17 *Tal Achor*
+  - answers: Achor
+  - Tal bei Jericho (Jos 7; Hos 2,17).
+  - agent:hos002, 2026-11-15
+- **`name:hethlon`** חֶתְלֹן → **Hetlon** [high, decided, by-rule]
+  - gloss: חֶתְלֹן: חֶתְלֹ֖ן (EZK 47:15) — English (generated): of Hethlon
+  - NT: EZK 47:15 *Hetlon*
+  - answers: Hethlon
+  - חֶתְלֹן.
+  - agent:ezk047, 2026-11-15
+- **`name:berothah`** בֵּרוֹתָה → **Berota** [high, decided, by-rule]
+  - gloss: בֵּרוֹתָה: בֵּר֨וֹתָה֙ (EZK 47:16) — English (generated): Berothah
+  - NT: EZK 47:16 *Berota*
+  - answers: Berothah
+  - בֵּרוֹתָה.
+  - agent:ezk047, 2026-11-15
+- **`name:sibraim`** סִבְרַיִם → **Sibrajim** [high, decided, by-rule]
+  - gloss: סִבְרַיִם: סִבְרַ֔יִם (EZK 47:16) — English (generated): and Sibraim
+  - NT: EZK 47:16 *Sibrajim*
+  - answers: Sibraim
+  - סִבְרַיִם.
+  - agent:ezk047, 2026-11-15
+- **`name:hazer_hattikon`** חָצֵר → **Hazer-Hattikon** [high, decided, by-rule]
+  - gloss: חָצֵר: חָצֵר֙ (EZK 47:16) — English (generated): as far as Hazer hatticon
+  - NT: EZK 47:16 *Hazer-Hattikon*
+  - answers: Hazer-hattikon
+  - חָצֵר הַתִּיכוֹן.
+  - agent:ezk047, 2026-11-15
+- **`name:hauran`** חַוְרָן → **Hauran** [high, decided, by-rule]
+  - gloss: חַוְרָן: חַוְרָֽן (EZK 47:16) — English (generated): of Hauran
+  - gloss: חַוְרָן: חַוְרָ֣ן (EZK 47:18) — English (generated): Hauran
+  - NT: EZK 47:16 *Hauran*
+  - answers: Hauran
+  - חַוְרָן.
+  - agent:ezk047, 2026-11-15
+- **`name:hazar_enon`** חֲצַר עֵינוֹן → **Hazar-Enon** [high, decided, by-rule]
+  - gloss: חֲצַר עֵינוֹן: חֲצַ֤ר (EZK 47:17) — English (generated): to Hazar enan
+  - NT: EZK 47:17 *Hazar-Enon*
+  - answers: Hazar-enan
+  - חֲצַר עֵינוֹן.
+  - agent:ezk047, 2026-11-15
+- **`name:en_eglaim`** עֵין עֶגְלַיִם → **En-Eglajim** [high, decided, by-rule]
+  - gloss: עֵין עֶגְלַיִם: עֵ֣ין (EZK 47:10) — English (generated): from En gedi
+  - NT: EZK 47:10 *En-Eglajim*
+  - answers: En-eglaim
+  - עֵין עֶגְלַיִם.
+  - agent:ezk047, 2026-11-15
+- **`name:hazar_enan`** חֲצַר עֵינָן → **Hazar-Enan** [high, decided, by-rule]
+  - gloss: חֲצַר עֵינָן: חֲצַ֣ר (EZK 48:1) — English (generated): and running on to Hazar enan
+  - NT: EZK 48:1 *Hazar-Enan*
+  - answers: Hazar-enan
+  - חֲצַר עֵינָן.
+  - agent:ezk048, 2026-11-15
+- **`name:obadiah`** עֹבַדְיָה → **Obadja** [high, decided, by-rule]
+  - gloss: עֹבַדְיָה: עֹֽבַדְיָ֑ה (OBA 1:1) — English (generated): of Obadiah
+  - NT: OBA 1:1 *Obadja*
+  - answers: Obadiah
+  - עֹבַדְיָה.
+  - agent:oba001, 2026-11-15
+- **`name:sepharad`** סְפָרַד → **Sefarad** [high, decided, by-rule]
+  - gloss: סְפָרַד: סְפָרַ֑ד (OBA 1:20) — English (generated): are in Sepharad
+  - NT: OBA 1:20 *Sefarad*
+  - answers: Sepharad
+  - סְפָרַד.
+  - agent:oba001, 2026-11-15
+- **`name:habakkuk`** חֲבַקּוּק → **Habakuk** [high, decided, by-rule]
+  - gloss: חֲבַקּוּק: חֲבַקּ֖וּק (HAB 1:1) — English (generated): Habakkuk
+  - NT: HAB 1:1 *Habakuk*
+  - answers: Habakkuk
+  - חֲבַקּוּק.
+  - agent:hab001, 2026-11-15
+- **`name:cushan`** כּוּשָׁן → **Kuschan** [high, decided, by-rule]
+  - gloss: כּוּשָׁן: כוּשָׁ֑ן (HAB 3:7) — English (generated): of Cushan
+  - NT: HAB 3:7 *Kuschan*
+  - answers: Cushan
+  - כּוּשָׁן.
+  - agent:hab003, 2026-11-15
+- **`name:zephaniah`** צְפַנְיָה → **Zefanja** [high, decided, by-rule]
+  - gloss: צְפַנְיָה: צְפַנְיָה֙ (ZEP 1:1) — English (generated): Zephaniah
+  - NT: ZEP 1:1 *Zefanja*
+  - answers: Zephaniah
+  - צְפַנְיָה.
+  - agent:zep001, 2026-11-15
+- **`name:cushi`** כּוּשִׁי → **Kuschi** [high, decided, by-rule]
+  - gloss: כּוּשִׁי: כּוּשִׁ֣י (ZEP 1:1) — English (generated): of Cushi
+  - NT: ZEP 1:1 *Kuschi*
+  - answers: Cushi
+  - כּוּשִׁי.
+  - agent:zep001, 2026-11-15
+- **`name:hos010_names`** שַׁלְמַן → **Schalman; Bet-Arbel; Awen** [high, decided, by-rule]
+  - gloss: שַׁלְמַן: שַֽׁלְמַ֛ן (HOS 10:14) — English (generated): as Shalman
+  - gloss: בֵּית אַרְבֵאל: בֵּ֥ית (HOS 10:14) — English (generated): Beth arbel
+  - gloss: אָוֶן: אָ֗וֶן (HOS 10:8) — English (generated): of Aven
+  - NT: HOS 10:14 *der Schalman*
+  - answers: Shalman, Beth-arbel, Aven
+  - Unbekannter König, Ort, Spottname für Bet-El (Hos 10).
+  - agent:hos010, 2026-11-15
+- **`name:haggai`** חַגַּי → **Haggai** [high, decided, by-rule]
+  - gloss: חַגַּי: חַגַּ֣י (HAG 1:1) — English (generated): Haggai
+  - NT: HAG 1:1 *Haggai*
+  - answers: Haggai
+  - חַגַּי.
+  - agent:hag001, 2026-11-15
+- **`name:jehozadak`** יְהוֹצָדָק → **Jozadak** [high, decided, by-rule]
+  - gloss: יְהוֹצָדָק: יְהוֹצָדָ֛ק (HAG 1:1) — English (generated): of Jehozadak
+  - NT: HAG 1:1 *Jozadak*
+  - answers: Jehozadak
+  - יְהוֹצָדָק.
+  - agent:hag001, 2026-11-15
+- **`name:jol001_names`** יוֹאֵל → **Joel; Petuël** [high, decided, by-rule]
+  - gloss: יוֹאֵל: יוֹאֵ֖ל (JOL 1:1) — English (generated): Joel
+  - gloss: פְּתוּאֵל: פְּתוּאֵֽל (JOL 1:1) — English (generated): of Pethuel
+  - NT: JOL 1:1 *zum Joel*
+  - answers: Joel, Pethuel
+  - Der Prophet und sein Vater (Joel 1,1).
+  - agent:jol001, 2026-11-15
+- **`name:jol004_names`** יְהוֹשָׁפָט → **Joschafat; Sabäer; Schittim** [high, decided, by-rule]
+  - gloss: יְהוֹשָׁפָט: יְהֽוֹשָׁפָ֑ט (JOL 4:2) — English (generated): of Jehoshaphat
+  - gloss: שְׁבָאִים: שְׁבָאיִ֖ם (JOL 4:8) — English (generated): to the Sabeans
+  - gloss: שִׁטִּים: שִּׁטִּֽים (JOL 4:18) — English (generated): of Acacias
+  - NT: JOL 4:2 *Tal Joschafat*
+  - answers: Jehoshaphat, Sabeans, Shittim
+  - Tal des Gerichts, Volk, Tal (Joel 4).
+  - agent:jol004, 2026-11-15
+<!-- store:end sha=d7d7b6c2 -->

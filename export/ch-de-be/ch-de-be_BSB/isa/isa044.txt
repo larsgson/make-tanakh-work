@@ -1,0 +1,158 @@
+!!<Reifegrad: Entwurf>!! !!<Übersetzung: Maschinenentwurf aus dem Grundtext (orig/heb/isa044.txt), abgeglichen mit der Berean Standard Bible>!! !!<Exegetische Bearbeitung: Noch nicht erfolgt>!! !!<Literarische Prüfung: Noch nicht erfolgt>!! !!<Datum dieser Version: 15.11.2026>!!
+
+===Ds Buech Jesaja, Kapitel 44===
+
+
+==I gibe my Geischt==
+
+//1 v1 Aber jitz los, Jakob, my Chnächt,
+//2 und Israel, won i usgwählt ha!
+//1 v2 So seit der HERR, wo di gmacht
+//2 und di vo Mueterlyb aa gformt het
+//2 und dir hilft:
+//1 Häb ke Angscht, my Chnächt Jakob,
+//2 und Jeschurun, won i usgwählt ha!
+//1 v3 Denn i giesse Wasser uf ds durschtige Land
+//2 und Bäch uf e trockene Bode;
+//1 i giesse my Geischt uus uf dyni Nachkomme
+//2 und my Säge uf dyni Chind und Chindeschind.
+//1 v4 Si wachse uuf wi zwüsche Gras,
+//2 wi Wyde a de Wasserbech.
+//1 v5 Eine seit: ‚I ghöre em HERR‘,
+//2 und en andere rüeft sech bim Name Jakob,
+//1 und e dritte schrybt uf sy Hand: ‚Em HERR‘,
+//2 und git sech der Ehrename Israel.
+
+//1 v6 So seit der HERR, der Chünig vo Israel,
+//2 und sy Löser, der HERR Zebaoth:
+//1 I bi der Erscht
+//2 und i bi der Letscht,
+//2 und usser mir git’s ke Gott.
+//1 v7 Wär isch wi ig? Dä söll rüefe
+//2 und es aachünde
+//2 und mir’s darlege,
+//1 sit i ds uralte Volk ygsetzt ha!
+//2 Und was chunt,
+//2 und was no wird ytreffe,
+//2 das sölle si aachünde!
+//1 v8 Erschrecket nid
+//2 und häbet ke Angscht!
+//1 Han i dir’s nid scho längschtens la ghöre
+//2 und aagchündet?
+//1 Dihr syt myni Züge!
+//2 Git’s e Gott usser mir?
+//2 Nei, es git ke Felse, i weiss kene.
+//1 v9 Die, wo Götzebilder mache, sy alli nüüt,
+//2 und ires Liebschte nützt nüüt.
+//1 Iri Züge – si gseh nüüt
+//2 und wüsse nüüt,
+//2 drum wärde si zschande.
+//1 v10 Wär gformt e Gott
+//2 und giesst es Götzebild,
+//2 wo nüüt nützt?
+//1 v11 Lueget, all syni Gspane wärde zschande,
+//2 und d Handwärcher sy ja nume Mönsche.
+//1 Si sölle sech alli versammle
+//2 und häre sta;
+//2 si wärde erchlüpfe
+//2 und zäme zschande wärde.
+
+//1 v12 Der Schmid schaffet ds Ise mit em Meissel
+//2 und werchet über der Gluet;
+//1 mit em Hammer formt er’s
+//2 und schaffet’s mit sym starche Arm.
+//1 Er überchunt o Hunger,
+//2 und d Chraft geit uus;
+//2 er trinkt kes Wasser
+//2 und wird erschöpft.
+//1 v13 Der Zimmermaa spannt d Mässschnuer,
+//2 er zeichnet’s mit em Rissstift aa,
+//1 er schaffet’s mit em Hobel
+//2 und zeichnet’s mit em Zirkel uus;
+//1 er macht’s nach em Bild vo me Ma,
+//2 wi ne prächtige Mönsch,
+//2 dass es im Huus cha wohne.
+//1 v14 Er hout sech Zedere um,
+//2 er nimmt e Stäineiche oder en Eiche
+//2 und lat se starch wärde under de Böim vom Wald;
+//1 er pflanzt e Lorbeerboum,
+//2 und der Räge lat ne gross wärde.
+//1 v15 Das git de Mönsche Brennholz;
+//2 er nimmt dervo
+//2 und wärmt sech,
+//1 er füüret o aa
+//2 und bachet Brot;
+//1 er macht o e Gott drus
+//2 und bättet ne aa,
+//2 er macht es Götzebild drus
+//2 und chnöilet vor ihm nider.
+//1 v16 D Hälfti verbrönnt er im Füür,
+//2 über der Hälfti isst er Fleisch;
+//2 er bratet e Brate
+//2 und wird satt.
+//1 Er wärmt sech o
+//2 und seit: „O, i ha warm,
+//2 i gseh ds Füür!“
+//1 v17 Us em Räscht macht er e Gott,
+//2 sys Götzebild;
+//1 vor däm chnöilet er nider
+//2 und bättet aa
+//2 und bättet zue n ihm
+//2 und seit: „Rett mi,
+//2 denn du bisch my Gott!“
+//1 v18 Si merke nüüt
+//2 und begryffe nüüt,
+//1 denn er het iri Ouge verchläbt, dass si nid gseh,
+//2 und iri Härze, dass si nid verstöh.
+//1 v19 Und kene nimmt sech’s z Härze,
+//2 und kene het d Erkenntnis
+//2 und kene d Ysicht, dass er seit:
+//1 „D Hälfti han i im Füür verbrönnt
+//2 und o Brot uf syr Gluet bbache,
+//2 i ha Fleisch bbrate
+//2 und ggässe,
+//1 und us em Räscht söll i es Gröiel mache?
+//2 Vor eme Chlotz Holz söll i nidechnöile?“
+//1 v20 Er weidet Äsche;
+//2 sys verblendete Härz het ne verfüert,
+//1 und er cha sys Läbe nid rette
+//2 und nid säge: „Isch nid das, won i i myr rächte Hand ha, e Lugi?“
+
+//1 v21 Dänk dra, Jakob,
+//2 und Israel,
+//2 denn du bisch my Chnächt.
+//1 I ha di gformt,
+//2 du bisch my Chnächt,
+//2 Israel, i vergisse di nid!
+//1 v22 I ha dyni Vergähe uslöscht wi ne Wulche
+//2 und dyni Sünde wi ne Näbel.
+//1 Chehr um zu mir,
+//2 denn i ha di glöst!
+//1 v23 Jublet, dihr Himel, denn der HERR het’s gmacht!
+//2 Jutzet, dihr Tiefine vo der Ärde!
+//1 Brächet uus, dihr Bärge, i Jubel,
+//2 du Wald und jede Boum drin!
+//1 Denn der HERR het Jakob glöst,
+//2 und a Israel zeigt er sy Herrlechkeit.
+
+//1 v24 So seit der HERR, dy Löser,
+//2 wo di vo Mueterlyb aa gformt het:
+//1 I bi der HERR,
+//2 wo alls macht,
+//2 wo eleini der Himel usgspannt het
+//2 und d Ärde usbreitet – wär isch by mir gsi?
+//1 v25 Wo d Zeiche vo de Schwätzer zunüte macht
+//2 und d Wahrsäger zu Narre macht,
+//1 wo d Gschyde zrügg drängt
+//2 und ires Wüsse zur Dummheit macht;
+//1 v26 wo ds Wort vo sym Chnächt lat gälte
+//2 und der Rat vo syne Bote erfüllt;
+//1 wo vo Jerusalem seit: ‚Es wird wider bewohnt‘,
+//2 und vo de Stedt vo Juda: ‚Si wärde ufbbout,
+//2 und iri Trümmer richte n i wider uuf‘;
+//1 v27 wo zur Tiefi seit: ‚Wird troche,
+//2 und dyni Ström la n i uströchne‘;
+//1 v28 wo vom Kyrus seit: ‚Er isch my Hirt,
+//2 und alls, was i wott, füert er uus‘,
+//1 und vo Jerusalem seit: ‚Es wird ufbbout‘,
+//2 und vom Tämpel: ‚Er wird ggründet.‘

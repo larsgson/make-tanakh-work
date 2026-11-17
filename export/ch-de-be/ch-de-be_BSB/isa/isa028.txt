@@ -1,0 +1,127 @@
+!!<Reifegrad: Entwurf>!! !!<Übersetzung: Maschinenentwurf aus dem Grundtext (orig/heb/isa028.txt), abgeglichen mit der Berean Standard Bible>!! !!<Exegetische Bearbeitung: Noch nicht erfolgt>!! !!<Literarische Prüfung: Noch nicht erfolgt>!! !!<Datum dieser Version: 15.11.2026>!!
+
+===Ds Buech Jesaja, Kapitel 28===
+
+
+==Gnad Gott de Bsoffne vo Efraim==
+
+//1 v1 Gnad Gott der stolze Chrone vo de Bsoffne vo Efraim
+//2 und der verwälkende Blueme vo syr prächtige Zierde,
+//1 wo obe uf em fruchtbare Tal isch,
+//2 vo dene, wo vom Wy erschlage sy!
+//1 v2 Lueget, der Herr het eine, wo starch und mächtig isch;
+//2 wi nes Hagelwätter, wi ne verderbleche Sturm,
+//2 wi nes Unwätter mit mächtige, überflüetende Wasser
+//2 schlat er se mit der Hand z Bode.
+//1 v3 Mit Füess wird sy zertrappet,
+//2 di stolzi Chrone vo de Bsoffne vo Efraim.
+//1 v4 Und mit der verwälkende Blueme vo syr prächtige Zierde,
+//2 wo obe uf em fruchtbare Tal isch,
+//1 geit’s wi mit ere Frücheige vor em Summer:
+//2 Wär se gseht,
+//2 verschlückt se, chuum het er se i der Hand.
+
+//1 v5 A däm Tag wird der HERR Zebaoth
+//2 zur prächtige Chrone und zum herrliche Chranz
+//2 für e Räscht vo sym Volk,
+//1 v6 und zum Geischt vom Rächt
+//2 für dä, wo uf em Richterstuel sitzt,
+//2 und zur Chraft für die, wo der Chrieg bis a ds Tor zruggtrybe.
+
+//1 v7 Aber o die da torkle vom Wy
+//2 und schwanke vom Bier;
+//1 Priester und Prophet torkle vom Bier,
+//2 si sy vom Wy benäblet,
+//2 si schwanke wäge em Bier,
+//1 si torkle bi irne Visione,
+//2 si stolpere bim Urteil.
+//1 v8 Ja, alli Tische sy voll Gchotzets und Dräck,
+//2 da isch ke Platz meh suber.
+//1 v9 „Wäm wott er Erkenntnis bybringe,
+//2 und wäm wott er d Botschaft erkläre?
+//1 Chind, wo vo der Milch entwöhnt sy,
+//2 wo me grad vo der Brüscht wäggno het?
+//1 v10 Denn es isch Gebot uf Gebot, Gebot uf Gebot,
+//2 Schnuer uf Schnuer, Schnuer uf Schnuer,
+//2 chly hie, chly dert!“
+//1 v11 Ja, mit stammlige Lippe und mit ere frömde Sprach
+//2 redt er zu däm Volk,
+//1 v12 zu däm er gseit het:
+//2 „Hie isch der Ruehplatz,
+//2 gät em Müede Rue,
+//2 und hie isch der Ort, wo me cha verschnuufe!“
+//1 Aber si hei nid wölle lose.
+//1 v13 Drum wird ds Wort vom HERR für se zu:
+//2 Gebot uf Gebot, Gebot uf Gebot,
+//2 Schnuer uf Schnuer, Schnuer uf Schnuer,
+//2 chly hie, chly dert,
+//1 dass si gange und hindere gheie
+//2 und sech verletze
+//2 und i d Falle gange und gfange wärde.
+
+//1 v14 Drum loset ds Wort vom HERR,
+//2 dihr Spötter,
+//2 wo über das Volk z Jerusalem herrsche!
+//1 v15 Denn dihr säget:
+//2 „Mir hei mit em Tod e Bund gschlosse
+//2 und mit em Toterych e Vertrag gmacht.
+//1 We di überflüetendi Geissle düregeit,
+//2 de chunt si nid zu üüs;
+//1 denn mir hei d Lugi zu üser Zueflucht gmacht
+//2 und üüs i der Unwahrheit versteckt.“
+//1 v16 Drum seit der Herr, der HERR, so:
+//2 „Lueget, i lege z Zion e Stei,
+//2 e bewährte Stei, e wärtvolle Eckstei,
+//2 wo fescht grundet isch;
+//2 wär gloubt, wird nid wankelmüetig.
+//1 v17 I mache ds Rächt zur Mässschnuer
+//2 und d Grächtigkeit zur Waag.
+//1 Der Hagel fägt d Zueflucht vo der Lugi ewägg,
+//2 und ds Wasser überschwemmt ds Versteck.
+//1 v18 Öie Bund mit em Tod wird ufghobe,
+//2 und öie Vertrag mit em Toterych het nid Bestand.
+//1 We di überflüetendi Geissle düregeit,
+//2 de wärdet dihr vo ire zertrappet.
+//1 v19 So mängisch si düregeit,
+//2 nimmt si öich mit;
+//1 denn Morge für Morge geit si düre,
+//2 am Tag und i der Nacht.
+//1 Und es wird nüüt als Schrecke sy,
+//2 d Botschaft z versta.“
+//1 v20 Denn ds Bett isch z churz, für sech drin uszstrecke,
+//2 und d Decki z schmal, für sech drin yzwickle.
+//1 v21 Denn der HERR steit uuf wi am Bärg Perazim,
+//2 er wird toub wi im Tal vo Gibeon,
+//1 für sys Wärch z tue – frömd isch sys Wärch –
+//2 und für sy Arbeit z verrichte – usswärtig isch sy Arbeit.
+//1 v22 Und jitz spottet nid,
+//2 süsch wärde öiji Fesslen no herter!
+//1 Denn vo mym Herr, em HERR Zebaoth, han i ghört,
+//2 dass d Vernichtig über ds ganze Land beschlosse isch.
+
+==Der Gleichnis vom Buur==
+
+//1 v23 Loset und ghöret uf my Stimm,
+//2 passet uuf und ghöret, was i säge!
+//1 v24 Pflüegt der Buur jede Tag, für z sääje?
+//2 Bricht er geng nume der Bode uuf und eget?
+//1 v25 Nei! We er der Acher äbe gmacht het,
+//2 de sääjt er Schwarzkümmel
+//2 und strout Chümi;
+//1 und er tuet der Weize i Reie
+//2 und d Gärschte a ires Plätzli
+//2 und der Dinkel a Rand.
+//1 v26 Sy Gott lehrt ne so, wi’s rächt isch,
+//2 und underwyst ne.
+//1 v27 Denn Schwarzkümmel drischt me nid mit em Dröschschlitte,
+//2 und ds Rad vom Wage rollet me nid über e Chümi;
+//1 nei, der Schwarzkümmel wird mit em Stab usgschlage
+//2 und der Chümi mit der Ruete.
+//1 v28 Ds Brotchorn wird drösche,
+//2 aber me drischt ’s nid ohni Ändi;
+//1 we me o ds Rad vo sym Wage drüber lat
+//2 und syni Ross,
+//2 verribt me ’s nid.
+//1 v29 O das chunt vom HERR Zebaoth;
+//2 sy Rat isch wunderbar,
+//2 und sy Wysheit isch gross.

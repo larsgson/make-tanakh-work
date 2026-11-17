@@ -1,0 +1,153 @@
+!!<Reifegrad: Entwurf>!! !!<Übersetzung: Maschinenentwurf aus dem Grundtext (orig/heb/isa030.txt), abgeglichen mit der Berean Standard Bible>!! !!<Exegetische Bearbeitung: Noch nicht erfolgt>!! !!<Literarische Prüfung: Noch nicht erfolgt>!! !!<Datum dieser Version: 15.11.2026>!!
+
+===Ds Buech Jesaja, Kapitel 30===
+
+
+==Kes Bündnis mit Ägypte==
+
+//1 v1 „Gnad Gott de störrische Chinder“,
+//2 seit der HERR,
+//1 „wo e Plan usfüere, wo nid vo mir isch,
+//2 und es Bündnis schliesse, aber nid i mym Geischt,
+//2 für Sünd uf Sünd z häufe!
+//1 v2 Si mache sech uf e Wäg, für uf Ägypte abezga,
+//2 und hei mi nid gfragt,
+//1 für bim Schutz vom Pharao Schutz z sueche
+//2 und im Schatte vo Ägypte Zueflucht z sueche.
+//1 v3 Aber der Schutz vom Pharao wird öich zur Schand,
+//2 und d Zueflucht im Schatte vo Ägypte zur Blamasch.
+//1 v4 Denn wen o syni Fürschte z Zoan sy
+//2 und syni Gsandte bis uf Hanes chöme,
+//1 v5 wärde si doch alli z Schande wäge eme Volk,
+//2 wo ne nüüt nützt,
+//1 wo nid hilft
+//2 und nüüt bringt,
+//2 sondern nume Schand und o Spott.“
+
+v6 Der Spruch über d Tier vom Negev:
+//1 Dür nes Land vo Not und Angscht,
+//2 wo d Löiin und der Löi drin sy,
+//2 d Viper und der flügend Drache,
+//1 trage si uf em Rügge vo junge Esel ire Rychtum
+//2 und uf em Höcker vo de Kamel iri Schätz
+//2 zu nem Volk, wo ne nüüt nützt.
+//1 v7 Ägypte hilft für nüüt und vergäbe.
+//2 Drum han i’s gnennt:
+//2 ‹Rahab, wo nume umehocket›.
+
+//1 v8 Und jitz gang, schryb’s vor ne uf nes Tafele
+//2 und ritz’s i nes Buech,
+//1 dass es für di spätere Zyte blybt,
+//2 als Züge für alli Zyt und Ewigkeit.
+//1 v9 Denn es isch es störrischs Volk,
+//2 verlogeni Chinder,
+//2 Chinder, wo nid wei lose uf d Wysig vom HERR,
+//1 v10 wo de Seher säge: „Lueget nid!“,
+//2 und de Prophete: „Gseht für üüs nid, was rächt isch!
+//1 Säget üüs schöni Sache,
+//2 gseht für üüs Trugbilder!
+//1 v11 Gät der Wäg frei,
+//2 göt vom Pfad ab!
+//2 Löt üüs in Rue mit em Heilige vo Israel!“
+//1 v12 Drum seit der Heilig vo Israel so:
+//2 „Wil dihr das Wort verachtet
+//2 und uf Gwalt und Verdrääjtheit vertrouet
+//2 und nech druf verlöt,
+//1 v13 drum wird öich die Schuld
+//2 wi ne Lücke i nere höche Muur, wo zämegheit
+//2 und sech uusbuchtet,
+//2 wo plötzlech, i eim Ougeblick, zämebricht.
+//1 v14 Si bricht zäme wi ne Töpferchrueg,
+//2 wo me verschlat ohni Erbarme,
+//1 und under syne Schärbe findet me nid eini,
+//2 für Gluet us em Härd z nä
+//2 oder Wasser us em Wasserloch z schöpfe.“
+//1 v15 Denn so het der Herr, der HERR, der Heilig vo Israel, gseit:
+//2 „Mit Umchehr und Rue wärdet dihr grettet,
+//2 i der Stilli und im Vertroue isch öiji Chraft.
+//2 Aber dihr heit nid wölle.
+//1 v16 Dihr heit gseit: ‚Nei, mir flie uf Ross!‘
+//2 Drum müesst dihr flie!
+//1 ‚Mir ryte uf flinke Ross!‘
+//2 Drum sy öiji Verfolger no flinker!
+//1 v17 Tuusig flie vor der Dröijig vo eim,
+//2 vor der Dröijig vo füfe flieht dihr alli,
+//1 bis nume no öppis übrig blybt wi ne Fahnestange zoberscht uf em Bärg
+//2 und wi nes Fahnezeiche uf em Hoger.“
+
+//1 v18 Drum wartet der HERR druf,
+//2 öich gnädig z sy,
+//1 und drum steit er uuf,
+//2 für sech öier z erbarme;
+//1 denn der HERR isch e Gott vom Rächt.
+//2 Glücklech sy alli, wo uf ihn warte!
+//1 v19 Ja, du Volk z Zion,
+//2 wo z Jerusalem wohnt,
+//2 du muesch nümm briegge.
+//1 Er wird dir gnädig sy, we du um Hilf rüefsch;
+//2 we n är’s ghört, git er dir Antwort.
+//1 v20 Und o we der Herr öich ds Brot vo der Not git
+//2 und ds Wasser vom Drangsal,
+//1 so versteckt sech dy Lehrer nümm,
+//2 sondern dyni Ouge gseh dy Lehrer.
+//1 v21 Und dyni Ohre ghöre hinder dir es Wort:
+//2 „Das isch der Wäg, dä göt druf!“
+//2 we dihr nach rächts oder nach links göt.
+//1 v22 De entweihet dihr di silberne Überzüg vo öine Götzebilder
+//2 und di guldige Hülle vo öine gossne Bilder.
+//1 Dihr schmeisst se wägg wi ne Lumpe vo der Monetsblüetig:
+//2 „Furt dermit!“, säget dihr zu ne.
+
+//1 v23 Er git Räge für dy Saat,
+//2 wo du uf ds Fäld sääjsch,
+//1 und Brot vom Ertrag vom Fäld,
+//2 und das wird fett und chrüftig sy.
+//1 Dy Veh weidet a däm Tag
+//2 uf ere wyte Weid.
+//1 v24 D Rinder und d Esel,
+//2 wo ds Fäld schaffe,
+//1 frässe gsalzes Fueter,
+//2 wo me mit der Schufle und mit der Gable gwannet het.
+//1 v25 Uf jedem höche Bärg und uf jedem hoche Hoger
+//2 git’s Bäch mit flüssigem Wasser
+//2 am Tag vom grosse Morde,
+//2 we d Türm umfalle.
+//1 v26 Ds Liecht vom Mond wird wi ds Liecht vo der Sunne,
+//2 und ds Liecht vo der Sunne wird sibemal heller,
+//2 wi ds Liecht vo sibe Tage,
+//1 am Tag, wo der HERR d Wunde vo sym Volk verbindet
+//2 und d Verletzige, won er ihm gschlage het, heilt.
+
+==Gott richtet Assur==
+
+//1 v27 Lueget, der Name vom HERR chunt vo wytem,
+//2 sy Töubi brönnt,
+//2 und dichte Rouch stygt uuf.
+//1 Syni Lippe sy voll Töubi,
+//2 und sy Zunge isch wi ne frässends Füür.
+//1 v28 Sy Aate isch wi ne überflüetende Bach,
+//2 wo bis a Hals geit,
+//1 für d Völker mit em Sieb vom Verderbe z schüttle,
+//2 und e Zoum, wo verfüert,
+//2 lyt uf de Backe vo de Völker.
+//1 v29 Dihr singet es Lied
+//2 wi i der Nacht, wo me ds Fescht heiliget,
+//1 und öies Härz fröit sech,
+//2 wi we me mit der Flöte louft,
+//2 für uf e Bärg vom HERR z ga, zum Felse vo Israel.
+//1 v30 Der HERR lat sy prächtigi Stimm la ghöre
+//2 und zeigt, wi sy Arm drischlat,
+//1 mit grimmiger Töubi und mit ere Flamme vo frässendem Füür,
+//2 mit Wulchebruch und Unwätter und Hagelsteine.
+//1 v31 Ja, vor der Stimm vom HERR verlüürt Assur der Muet,
+//2 er schlat mit em Stäcke dry.
+//1 v32 Und jede Schlag mit em Strafstab,
+//2 wo der HERR uf ihn abesuuse lat,
+//2 gscheht mit Tamburin und mit Zithere,
+//2 und i Schlachte mit schwingendem Arm kämpft er gäge se.
+//1 v33 Denn der Tofet isch scho lang parat,
+//2 o für e Chünig isch er zwäg gmacht;
+//1 töif und wyt isch sy Füürgrueb,
+//2 Füür und Holz het’s gnue.
+//1 Der Aate vom HERR
+//2 zündet se aa wi ne Bach vo Schwäfel.

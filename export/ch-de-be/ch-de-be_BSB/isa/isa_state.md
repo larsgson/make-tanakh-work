@@ -1,0 +1,146 @@
+# Jesaja – Arbeitsstand (Tanakh-Lauf, Agent 3 von 5; 15.11.2026)
+
+Letztes fertiges Kapitel: **66** (15.11.2026).
+
+## Register und Stil
+- Kopf `===Ds Buech Jesaja, Kapitel N===`; Poesie in //1 //2-Zeilen wie die Psalmen, Prosa (Überschriften, Erzählung, Kap. 36-39) als Fliesstext.
+- Rede Gottes in „…“, wo die BSB Anführung hat; Rede in der Rede ‚…‘; die Rede des Propheten ohne Zeichen.
+- Bietenhard-Punkte: ga / nä / sta ohne h; abgetrennte Vorsilbe lang (uuf, uus, aa); »für e / dür e / uf e« + m. Nomen; wägem; dd-/bb-Verdopplung; »heisse«, nie »nenne«; l bleibt.
+- Prophetenformeln (Store, gemeinsam mit Jer/Ez/Kleinen Propheten): נְאֻם יְהוָה »seit der HERR« (formula:neum_yhwh, von jer001); כֹּה אָמַר יְהוָה »So seit der HERR« (formula:thus_says_yhwh); הוֹי »Gnad Gott dir / dene, wo …« (formula:hoy), als blosser Ausruf »Ha«; »Denn ds Muul vom HERR het gredt« (formula:mouth_yhwh_spoken); קְדוֹשׁ יִשְׂרָאֵל »der Heilig vo Israel« (term:qedosh_israel); יְהוָה צְבָאוֹת »der HERR Zebaoth«; וַיְהִי דְבַר־יְהוָה »Ds Wort vom HERR isch zu … cho« (formula:word_of_yhwh_came).
+- Parallelen: Jes 2,2-4 = Mi 4,1-3 (Agent 4); Jes 36-39 = 2 Kön 18-20 (Wortlaut von 2 Kön übernehmen, wo das Hebräische gleich ist).
+
+## Feste Wiedergaben (Kap.)
+- Kap. 1: חָזוֹן »Erschynig«; עָזַב »im Stich la« (term:H5800_2); זֶבַח »Schlachtopfer«; מִנְחָה »Speisopfer«; קְטֹרֶת »Röucherwärch«; תּוֹעֵבָה »Gröiel«; חֹדֶשׁ »Nöimond«, עֲצָרָה »Feschtversammlig«, מוֹעֲדִים »Feschtzyte«; תְּפִלָּה »Gebätt«; שָׁמַע (Gott hört Gebet) »lose«; בַּת־צִיּוֹן »d Tochter Zion«; שָׂרִים »Oberschte«; שֹׁחַד »Bstächigsgäld«; יָתוֹם »Waisechind«, אַלְמָנָה »Witfrou«; סִיגִים »Schlacke«; »verschlage« (שֶׁבֶר).
+- Kap. 2: Jes 2,2-4 = Mi 4,1-3 (formula:isa002_mic004); בַּיּוֹם הַהוּא »a däm Tag« (formula:bayyom_hahu); »der Tag vom HERR« (formula:yom_yhwh); שׁחח/שׁפל »abeddrückt / gring gmacht«; נִשְׂגַּב »höch«; גִּבְעָה »Hoger«; רוּם »Übermuet«; פַּחַד יְהוָה »der Schrecke vom HERR«, הֲדַר גְּאוֹנוֹ »d Pracht vo syr Majestät«
+- Kap. 3: אוֹי לְ »Gnad Gott …« wie הוֹי; נְשׂוּא פָנִים »dä, wo aagseh isch«; רָשָׁע »Gottlose«; זְקֵנִים »Eltischte«; Schmuckliste V. 18-23 als Prosa
+- Kap. 4: צֶמַח יְהוָה »der Spross vom HERR«; פְּלֵיטָה »die, wo dervocho sy«
+- Kap. 5: Weherufe »Gnad Gott dene, wo …« (V. 8-23); Refrain »Bi allem däm het sich sy Töubi nid gleit, und sy Hand isch geng no usgstreckt« (formula:isa_refrain_hand); שְׁאוֹל »Toterych«; אַף »Töubi«; שֵׁכָר »Bier«; צֶמֶד »Jucharte«; Masse Bat/Homer/Efa mit Liter-Fussnote
+- Kap. 6: Kap. 6,1-8 Prosa; אוֹי לִי »O weh mir«; שְׂרָפִים »Seraphe«; »Heilig, heilig, heilig« (formula:qadosh3); כפר »gsüehnt«; V. 9-10 an Bietenhards NT-Zitate angelehnt (»begryffe«, »umchehre«, »gsund wärde«)
+- Kap. 7: Dritte Redeebene «…»; עַלְמָה »di jungi Frou« (Fussnote Jungfrou); »We dihr nid gloubet, so blybet dihr nid bsta«; חֶמְאָה וּדְבַשׁ »Nidle und Hung«; תַּעַר »Rasiermässer«; »gruuset« (term:qutz_dread)
+- Kap. 8: Hebr. 8,23 = BSB 9,1; Namen auf der Tafel in ‹…›; »Stei, wo me dra aaschlat«, »Felse, wo me drüber stolperet«; אֹבוֹת וְיִדְּעֹנִים »Totebeschwörer und Wahrsäger«; תּוֹרָה (Prophetenwort) »Wysig«, תְּעוּדָה »Zügnis«
+- Kap. 9: Hebr. 9,1-20 = BSB 9,2-21; Thronnamen (formula:isa009_names); Refrain V. 11.16.20; עֹל »Joch«, מַטֶּה »Stab«, שֵׁבֶט »Ruete«; צַלְמָוֶת »Todesschatte«
+- Kap. 10: פקד »heimsueche«; גַּרְזֶן »Axt«; שְׁאָר »Räscht«; »E Räscht chehrt um« (10,21-22)
+- Kap. 11: חֹטֶר »Schoss«, נֵצֶר »Trib«, שֹׁרֶשׁ יִשַׁי »d Wurzle vom Isai«; נֵס »Fahnezeiche«; דַּעַת יְהוָה »Erkenntnis vom HERR«; גּוֹיִם »Völker« (»Heide« nur 11,10 nach Röm 15,12)
+- Kap. 12: יְשׁוּעָה »Rettig«; 12,2 wie 2 Mo 15,2 / Ps 118,14; הוֹדוּ »danket«
+- Kap. 13: מַשָּׂא »Spruch über …« (formula:isa_massa); שַׁדַּי »der Allmächtig«; שְׂעִירִים »Bocksgeischter«; צִיִּים »Wüeschtetier«
+- Kap. 14: מָשָׁל »Spottlied« (14,4); רְפָאִים »d Schatte vo de Tote«; בּוֹר (Totenreich) »Grueb«; הֵילֵל »Morgestärn«; פְלֶשֶׁת »Philischtäa«
+- Kap. 15: בָּמוֹת »Opferhöchine«; בֶּכִי »briegge / Träne«
+- Kap. 16: חֶסֶד »Güeti«; אֲשִׁישֵׁי »Rosinechüeche«
+- Kap. 17: עוֹלֵלֹת »Nachläse«; אֲשֵׁרִים »Ascherapfähl«; חַמָּנִים »Röucheraltär«; הוֹי (Ausruf) »He«
+- Kap. 18: שׁוֹפָר »Posuune«; נוֹרָא »vor däm me Angscht het«
+- Kap. 19: אִטִּים »Geischter vo de Tote«, אֹבוֹת »Totebeschwörer«, יִדְּעֹנִים »Wahrsäger«; מַצֵּבָה »Steimale«; »Assyrer« (Volk) / »Assur« (Land)
+- Kap. 20: עָרוֹם וְיָחֵף »blutt und barfuess«; אוֹת וּמוֹפֵת »Zeiche und Warnzeiche«
+- Kap. 21: חָזוּת »Vision«; שֹׁמֵר / מְצַפֶּה »Wächter«; »Gfalle, gfalle isch Babel«
+- Kap. 22: חִזָּיוֹן »Vision«; יָתֵד »Pflock«; הַסֹּכֵן »Verwalter«
+- Kap. 23: כִּתִּים »Zypere« (Fussnote Kittäer); אֶתְנַן »Hurelohn«; זוֹנָה »Proschtituierti«
+- Kap. 24: פַּחַד וָפַחַת וָפָח »Schrecke und Grueb und Falle«; בּוֹר (Kerker/Tote) »Grueb«
+- Kap. 25: כָּנַע »bodige«; מִשְׁתֶּה »Feschtmahl«; לָנֶצַח »für alli Zyt«
+- Kap. 26: מִשְׁפָּטִים »Grichte«; רְפָאִים »Schatte (vo de Tote)«; עַד־עַד / לָנֶצַח »für alli Zyt«
+- Kap. 27: לִוְיָתָן »Leviatan«; תַּנִּין »Ungheuer«; »Euphrat«
+- Kap. 28: צַו לָצָו »Gebot uf Gebot«; קַו »Schnuer«; פִּנָּה יִקְרַת »wärtvolle Eckstei«; שׁוֹט שׁוֹטֵף »überflüetendi Geissle«
+- Kap. 29: אוֹב »Totegeischt«; חֲכָמִים »Gschyde«; יֹצֵר »Töpfer«, חֹמֶר »Lätt«
+- Kap. 30: סוֹרְרִים »störrisch«; תּוֹרָה »Wysig« (30,9); תֹּפֶת »Tofet«
+- Kap. 31: גָּנַן »beschütze«; מַס »Fronarbeit«
+- Kap. 32: נָבָל »der Dumm«, כִּילַי »Halungg«, נָדִיב »edel«; בֹּטְחוֹת »ahnigslos«
+- Kap. 33: בָּגַד »verrate«; גּוּר »z Gascht sy«
+- Kap. 34: חרם »em Bann übergä«; לִּילִית »Nachtgspängscht« (Fussnote)
+- Kap. 35: 35,3 nach Hebr 12,12; פָּדָה »erlöse«, גָּאַל »löse«
+- Kap. 36: Parallele 2 Kön 18,13.17-37: Wortlaut übernommen; Unterschiede in den Notizen
+- Kap. 37: Parallele 2 Kön 19: Wortlaut übernommen; Unterschiede in den Notizen
+- Kap. 38: Parallele 2 Kön 20,1-11; Lied Hiskijas neu (Poesie)
+- Kap. 39: Parallele 2 Kön 20,12-19; Merodach (MT Jes) vs Berodach (2 Kön)
+- Kap. 40: 40,3 nach Mt 3,3 (»strassnet«); מְבַשֶּׂרֶת »Fröidebotin«
+- Kap. 41: אַל־תִּירָא »Häb ke Angscht«; Deuterojesaja: Gottesrede ohne äussere „…“
+- Kap. 42: Erstes Gottesknechtslied; תּוֹרָה »Wysig«
+- Kap. 43: גָּאַל »löse«; כֹּפֶר »Lösgäld«
+- Kap. 44: Kyrus (wie Esra); צוּר »Felse«
+- Kap. 45: מָשִׁיחַ »dä, won är gsalbet het«; רִיב »zangge«
+- Kap. 46: Bel, Nebo
+- Kap. 47: כֶּשֶׁף »Zouberei«, חֶבֶר »Bannsprüch«
+- Kap. 48: »heisse« statt »nenne«
+- Kap. 49: עָזַב »im Stich la«
+- Kap. 50: רִיב »zangge«
+- Kap. 51: V. 11 = 35,10; חֵמָה »Wuet«
+- Kap. 52: Bietenhards Zitate (Röm 2,24; 10,15; 15,21; 2 Kor 6,17)
+- Kap. 53: פֹּשְׁעִים »Verbrächer« (Lk 22,37)
+- Kap. 54: חֶסֶד »Tröiji«
+- Kap. 55: הוֹי als Einladung »He«; חַסְדֵי דָוִד »Gnadeverspräche«
+- Kap. 56: סָרִיס »Hofma«
+- Kap. 57: זָנָה »Proschtituierti«; נָחַם »groue«
+- Kap. 58: שׁוֹפָר »Posuune«; עָנָה nefesch »demüetige«
+- Kap. 59: יָרֵא vor dem Namen »Ehrfurcht ha«
+- Kap. 60: יָרַשׁ »i Bsitz nä«
+- Kap. 61: Lk 4,18-19 Wortlaut übernommen
+- Kap. 62: Hefzi-Bah / Beula übersetzt
+- Kap. 63: אַף »Töubi«; Hebr. 63,19 = BSB 63,19-64,1
+- Kap. 64: Hebr. Zählung 64,1-11
+- Kap. 65: V. 25 = 11,6-9; Röm 10,20-21 Wortlaut
+- Kap. 66: Apg 7,49 und Mk 9,48 Wortlaut
+
+## Namen
+- Kap. 1: Jesaja, Amoz, Usija, Jotam, Ahas, Hiskija; Sodom, Gomorra; Zion.
+- Kap. 2: Tarsis, Baschan, Libanon, Philister
+- Kap. 6: Seraphe
+- Kap. 7: Rezin, Pekach, Remalja, Schear-Jaschub, Tabeel, Immanuel, Samaria, Damaskus, Assur
+- Kap. 8: Maher-Schalal-Hasch-Bas, Urija, Secharja, Jeberechja, Schiloach, Sebulon, Naftali, Galiläa
+- Kap. 9: Midian, Manasse, Efraim
+- Kap. 10: Kalno, Karkemisch, Arpad, Hamat, Ajat, Migron, Michmas, Geba, Rama, Gibea, Gallim, Lajscha, Anatot, Madmena, Gebim, Nob, Oreb
+- Kap. 11: Isai, Patros, Elam, Schinar
+- Kap. 13: Meder, Chaldäer
+- Kap. 14: Ahas, Philischtäa
+- Kap. 15: Ar, Kir, Dibon, Nebo, Medeba, Heschbon, Elale, Jahaz, Zoar, Eglat-Schelischija, Luhit, Horonajim, Nimrim, Eglajim, Beer-Elim, Dimon
+- Kap. 16: Sela, Arnon, Kir-Hareset, Kir-Heres, Sibma, Jaser
+- Kap. 17: Aroër, Aram, Tal Refaim
+- Kap. 18: Kusch
+- Kap. 19: Zoan, Memfis, Kanaan
+- Kap. 20: Aschdod, Sargon
+- Kap. 21: Negev, Elam, Medie, Duma, Se'ir, Arabie, Dedaniter, Tema, Kedar
+- Kap. 22: Schebna, Eljakim, Hilkija (wie 2 Kön 18)
+- Kap. 23: Tyrus, Tarsis, Zypere, Sidon, Schichor
+- Kap. 27: Leviatan, Euphrat
+- Kap. 28: Perazim, Gibeon
+- Kap. 29: Ariel
+- Kap. 30: Hanes, Rahab, Tofet
+- Kap. 33: Baschan, Karmel, Scharon
+- Kap. 34: Bozra
+- Kap. 36: wie 2 Kön 18
+- Kap. 37: wie 2 Kön 19
+- Kap. 38: Ahas
+- Kap. 39: Merodach-Baladan
+- Kap. 42: Kedar, Sela
+- Kap. 43: Seba, Chaldäer
+- Kap. 44: Jeschurun, Kyrus
+- Kap. 45: Sabäer
+- Kap. 46: Bel, Nebo
+- Kap. 49: Sinim
+- Kap. 51: Rahab (Ungeheuer)
+- Kap. 54: Noach
+- Kap. 57: Moloch
+- Kap. 60: Nebajot, Efa, Kedar
+- Kap. 63: Bozra
+- Kap. 65: Achor, Scharon
+- Kap. 66: Pul (MT), Lud, Tubal, Jawan
+
+## Abweichungen von anderen Büchern (für den Korrekturdurchgang)
+
+## Offene Fragen
+- Kap. 1: Buchtitel »Ds Buech Jesaja«; V. 17 חָמוֹץ »Underdrücker« (BSB) oder »Underdrückte«.
+- Kap. 3: 3,12 מְעוֹלֵל Kinder oder Gläubiger; 3,17 פֹּת
+- Kap. 6: 6,13 Text schwierig (Same/Stumpf)
+- Kap. 17: 17,9 Text schwierig (Hiwiter/Amoriter-Lesart in der Fussnote)
+- Kap. 19: 19,18 Stadt vo der Zerstörig (MT) oder Sunnestadt (BSB): MT gewählt, Fussnote
+- Kap. 21: 21,8 אַרְיֵה »Löi« (MT) statt »Seher« (1QIsa, BSB)
+- Kap. 33: 33,7 אֶרְאֶלָּם »Helde« unsicher
+- Kap. 38: 38,14 עָרְבֵנִי; 38,15-16 schwierig
+- Kap. 39: Berodach/Merodach-Schreibung zwischen 2 Kön 20,12 und Jes 39,1
+- Kap. 45: 45,2 הֲדוּרִים »Buggle« (unsicher)
+- Kap. 49: 49,12 Sinim als Name; 49,24 צַדִּיק wie עָרִיץ
+- Kap. 53: 53,11 »Liecht« ergänzt (1QIsa/LXX) oder MT »er gseht«?
+- Kap. 54: 54,12 Edelsteinnamen unsicher
+- Kap. 57: 57,9 מֶלֶךְ als Moloch gelesen
+- Kap. 60: 60,13 Baumnamen
+- Kap. 62: 62,4 Namen übersetzt oder transkribiert?
+- Kap. 63: 63,9 Qere לוֹ gewählt
+- Kap. 64: 64,4b MT schwierig
+- Kap. 66: 66,19 Pul (MT) oder Put?
+
