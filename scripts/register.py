@@ -510,6 +510,19 @@ def live(E):
     return [e for e in E if e["status"] not in ("superseded", "retired")]
 
 
+BINDING = ("kind", "value", "status", "basis", "scope", "supersedes")   # the envelope's fields a draft depends on
+SUM_LEN = 12
+
+
+def binding_sum(e):
+    """a short checksum of what binds in an entry: the envelope's kind, value, status, basis, scope and supersedes and
+    the kind's whole payload (renderings with their statuses, denials, ...); not evidence, note, by, when, from or
+    origin, so an added evidence line changes nothing. The same in either store form (lifecycle.py's stamps)"""
+    import hashlib
+    d = {k: e.get(k) for k in BINDING + KINDS.get(e.get("kind"), ("", ()))[1] if e.get(k) not in (None, [], {}, "")}
+    return hashlib.sha256(json.dumps(d, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:SUM_LEN]
+
+
 # ------------------------------------------------------------------ what agents are told
 
 ADD = ("with `python3 scripts/register.py add {project} --kind <kind> --name <name> --value <value> --basis human "

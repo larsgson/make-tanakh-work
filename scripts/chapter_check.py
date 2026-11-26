@@ -169,10 +169,12 @@ def main(a):
         print(f"  NOTE    {KEEP_RULE}")
     for l in info:
         print(f"  INFO    {l}")
-    import register as RG
-    if not fix and RG.has_register(RG.profile_of(pname)):   # the stamp: checked against this register revision
-        import lifecycle
-        lifecycle.stamp(pname, code, ch, "checked")
+    if not fix:                                   # the stamp: the decisions the chapter was checked with (lifecycle.py)
+        try:
+            import lifecycle
+            lifecycle.stamp(pname, code, ch, "checked")
+        except Exception as x:                    # noqa: BLE001  (a stamp never fails the check)
+            print(f"  INFO    no stamp: {x}")
     sys.exit(1 if fix else 0)
 
 
