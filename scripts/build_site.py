@@ -636,10 +636,12 @@ def verse_view(p, code, n, draft_file, notes_md, ui, tdir=""):
         if bsb.get(v):
             cell.append(f'<div class="vv-e"><span class="muted">BSB {H.escape(bsb[v][0])}</span> {H.escape(bsb[v][1])}</div>')
         for r in by_v.get(v, []):
-            if per_verse:
+            if per_verse or len(head) <= 3:          # Verse · Comment, or Verse · phrase · Comment (v0.11.0)
+                heb = r[1] if len(head) == 3 and len(r) > 2 and not per_verse else ""
                 cm = r[-1] if len(r) > 1 else ""
-                if cm:
-                    cell.append(f'<div class="vv-c">{inline_md(cm)}</div>')
+                if heb or cm:
+                    cell.append(f'<div class="vv-c">' + (f'<span{"" if nt else rtl}>{inline_md(heb)}</span>'
+                                                       + ("<br>" if cm else "") if heb else "") + f'{inline_md(cm)}</div>')
             else:
                 heb, tgt = (r[1] if len(r) > 1 else ""), (r[2] if len(r) > 2 else "")
                 eng, cm = (r[3] if len(r) > 4 else ""), (r[-1] if len(r) > 3 else "")

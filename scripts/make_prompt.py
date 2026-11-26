@@ -203,14 +203,19 @@ def main():
     else:
         notes_rule = (f"- **Notes** in {notes_lang}, in `{code}{nnn}_notes.md`, with the structure of the earlier chapters:\n"
                       "  - what the draft is;\n"
-                      f"  - a table *Verse · {NAMES[orig_dir][1]} · {lang_name} · {NAMES[assist_dir][1]} · Comment*;\n"
+                      f"  - a table *Verse · {NAMES[orig_dir][1]} · Comment*: the {NAMES[orig_dir][1]} a phrase the note is "
+                      f"about (a few words; may be empty), never a whole verse, and no copy of your draft or the "
+                      f"{NAMES[assist_dir][1]} (a reader gets the verses from their sources); a rendering you discuss goes "
+                      f"into the comment;\n"
                       "  - exegetical observations;\n  - dialect/style (with corpus counts);\n  - new name forms;\n  - open questions.")
     orig_word = "Greek" if nt else "Hebrew"
     notes_rule += (f"\n- **The {orig_word} in the notes** comes from the open text, never from `orig/heb/` (our BHSA copy, "
-                   f"not free: consult its clause lines, don't copy its text): a phrase from the clause package, or a verse "
-                   f"from `python3 scripts/notes_hebrew.py show {code} {chapter}:<verse>`. In a table with a row per verse, leave "
-                   f"the {orig_word} cell empty. When the notes are written, run `python3 scripts/notes_hebrew.py {pname} "
-                   f"{code} {chapter}`: it fills the verses from the WLC (or the BGB) and adds the credit line."
+                   f"not free: consult its clause lines, don't copy its text): a phrase from the clause package, or from the "
+                   f"verse `python3 scripts/notes_hebrew.py show {code} {chapter}:<verse>` prints. A table row quotes a "
+                   f"phrase, never a whole verse, and copies neither your draft nor the {NAMES[assist_dir][1]} (a reader "
+                   f"gets the verses from their sources): a rendering you discuss goes into the comment. When the notes are written, "
+                   f"run `python3 scripts/notes_hebrew.py {pname} {code} {chapter}`: it adds the credit line for the "
+                   f"{orig_word} quoted."
                    + (" " + quotes.VARIANT_RULE if nt else ""))
     footnotes = p.get("footnotes", True)
     fh = p.get("footnotes_header")

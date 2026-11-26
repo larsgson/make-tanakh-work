@@ -43,7 +43,8 @@ write (prompts, the store validator, `wiki.py lint`); `python3 scripts/check_pro
 publishable file before a commit (`docs/workflow.md`).
 
 **The original in notes** is quoted from the open texts, never from `orig/heb/` (BHSA): the WLC for Hebrew, the BGB
-(`orig/grc`) for Greek; `scripts/notes_hebrew.py` fills the verses. A Greek **Majority Text variant** may be quoted
+(`orig/grc`) for Greek, as phrases (a whole verse is never copied into the notes: a reader gets it from its source);
+`scripts/notes_hebrew.py` adds the credit line. A Greek **Majority Text variant** may be quoted
 when it is Robinson-Pierpont (`orig/grc-rp`, public domain) word for word and its line names it: `RP`, `BYZ`,
 `Robinson-Pierpont` or `Majority Text` (e.g. `8,59 | BYZ, TR + διελθὼν διὰ μέσου αὐτῶν …`). A TR-only
 reading (not in RP) is described in words, not quoted at length: we have no open TR text to check it against. `…`

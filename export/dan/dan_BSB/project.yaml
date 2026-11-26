@@ -63,7 +63,7 @@ header:
   - "!!<Eksegetisk bearbejdning: Endnu ikke sket>!!"
   - "!!<Litterært tjek: Endnu ikke sket>!!"
   - "!!<Dato for denne version: {date}>!!"
-notes_structure: "what the draft is; a table Vers / Hebraisk / Dansk / BSB / Kommentar; numbered exegetical observations, each flagged as an {E:}/{T:}/{H:} candidate; consistency points against Den Frie Bibel; »Nye navneformer«; open questions."
+notes_structure: "what the draft is; a table Vers / Hebraisk / Kommentar (en hebraisk frase, aldrig et helt vers; den danske gengivelse og BSB i kommentaren); numbered exegetical observations, each flagged as an {E:}/{T:}/{H:} candidate; consistency points against Den Frie Bibel; »Nye navneformer«; open questions."
 book_title_rule: "Neither the drafts nor Den Frie Bibel have a title for this book yet: use the traditional Danish title in Den Frie Bibel's style (e.g. »Første Samuelsbog«, as »Første Kongebog«) and list it under open questions."
 
 # Style guides for the prompt's contract, besides the book's own <code>/<code>_style_guide.md:

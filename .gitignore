@@ -68,6 +68,8 @@ export/**/_learn/nt-only/
 export/**/_learn/style_norms*.json
 export/**/*_style.md
 export/**/_eval/local/
+export/**/stories/
+.stories/
 export/**/wiki-view.html
 
 # Local only (CLAUDE.local.md holds this working copy's private state)

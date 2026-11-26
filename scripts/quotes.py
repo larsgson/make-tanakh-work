@@ -30,8 +30,8 @@ N = 5
 BOOK_SHARE, TOTAL_SHARE = 0.10, 0.04
 MAX_QUOTE = 15                 # words in one quotation (a store note, a notes line): a phrase or a short verse
 # The original in our files is quoted from the open texts (the WLC via MACULA Hebrew, orig/heb.sqlite; the BGB,
-# orig/grc), never copied from orig/heb/ (our BHSA copy, the BHS text, CC BY-NC): scripts/notes_hebrew.py fills the
-# notes' verses. A run of more Hebrew or Greek words than this must be the open text word for word.
+# orig/grc), never copied from orig/heb/ (our BHSA copy, the BHS text, CC BY-NC), as phrases (scripts/notes_hebrew.py
+# show prints a verse to quote from). A run of more Hebrew or Greek words than this must be the open text word for word.
 CHECK_ORIGINAL = 6
 # "…" marks a left-out part (the quoting rule), so it ends a run
 ORIGINAL_RUN = re.compile(r"(?:[\u0590-\u05FF\uFB1D-\uFB4F]+[\s\u05BE\u05C0\u05C3.,;:()·-]*)+|"
