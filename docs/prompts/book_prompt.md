@@ -24,8 +24,9 @@ For each chapter N:
    follow every rule in it (sources, {draft_kind}, notes, footnotes, the quotation rule, the files it names as not to
    be opened). Where it speaks of the style model, the earlier chapters are your own.
 4. Check before you go on: `python3 scripts/chapter_check.py {project} {code} N`. Fix every `FIX` line (it fails
-   until none is left). Look at every `REVIEW` line: fix the draft where it is wrong; where you keep it, say why in
-   the chapter's `_notes.md` in one line.
+   until none is left). Look at every `REVIEW` line: it is a question, not an error. Fix the draft where it is
+   wrong; where you keep it, say why in the chapter's `_notes.md` in one line. A word you know to be right stays,
+   even if the check flags it again: never change a right word, or reword a sentence, only to quiet a check.
 5. Write what the chapter taught: the store entries the chapter prompt asks for, and `{state}` (short, in
    {notes_language}): name forms, recurring formulas and their fixed wording, the register decisions (tenses in
    narrative, how speech is introduced, forms of address), terms, the open threads of the story, the last verse

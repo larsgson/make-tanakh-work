@@ -87,7 +87,12 @@ an NT chapter the edition has never sees the edition's own text of it.
   diphthong reduced to one of its vowels (the letter pairs `y`/`i` and `ä`/`e` by default; a project's `words:
   {variant_pairs: [[a, b], ...]}` replaces them, `[]` for none: in Danish `y`/`i` makes only noise, `tyde`/`tide`,
   `sindet`/`syndet`). **rare**: the corpus writes the form itself at most twice and the variant ten times as often
-  (and at least 20 times; not by the diphthong rule: `Böim` is not `Bim`).
+  (and at least 20 times; not by the diphthong rule: `Böim` is not `Bim`). **The same word only:** a variant whose
+  links (this DB) show only other source words than the draft word renders (the chapter's `.align`; for a store form,
+  its entry's source) is another word, not a spelling, and is not listed (counted in the figure); the line says
+  "it renders the same source word" where the links agree, and asks "another spelling, or another word?" where there
+  is no evidence. In a language without a standard spelling a one-letter neighbour is often another word. A line is a
+  question: a word the agent knows to be right stays, with a note.
 - **marks**: the corpus writes the same letters with other marks only (a tone or accent mark).
 - **project spelling**: the draft writes a form as the corpus does where the project's respelling rules write it
   otherwise.

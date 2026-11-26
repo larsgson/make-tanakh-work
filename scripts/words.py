@@ -273,6 +273,36 @@ def corpus_variant(w, counts, keep=DEFAULT_KEEP, pairs=PAIRS, least=VARIANT_MIN)
     return best
 
 
+def lexemes_by_bare(L, R=None, keep=DEFAULT_KEEP):
+    """{bare form (in the project's spelling): {lexeme id}}: the source words the corpus's forms render (the word DB's
+    links); a form with no links is not in it"""
+    out = collections.defaultdict(set)
+    for lx, c in L.n.items():
+        for pl in c:
+            out[bare(R(pl) if R else pl, keep)].add(lx)
+    return out
+
+
+def word_variant(w, counts, keep=DEFAULT_KEEP, pairs=PAIRS, least=VARIANT_MIN, own=None, lex=None):
+    """corpus_variant for the same word only: (variant, rule, n, same) or None. own: the lexeme ids the form renders
+    (the chapter's .align, a store entry's source), lex: lexemes_by_bare. A variant whose links show only other
+    source words is another word (in a language without a standard spelling a one-letter neighbour often is) and is
+    passed over; same is True where the
+    variant renders one of own, None where there is no evidence either way (a question, not a finding)"""
+    best = None
+    for v, r in variants(bare(w, keep), pairs).items():
+        n = counts.get(v, 0)
+        if n < least:
+            continue
+        lv = (lex or {}).get(v)
+        same = bool(own & lv) if own and lv else None
+        if same is False:
+            continue
+        if best is None or (bool(same), n) > (bool(best[3]), best[2]):
+            best = (v, r, n, same)
+    return best
+
+
 # --- the edition's text and its layers ---------------------------------------
 
 def edition_verses(P):
@@ -883,6 +913,7 @@ def review(pname, code, ch, path=None, respell=None, figure=None, every=False, r
     out_term, out_exp, sp, listed = [], [], collections.defaultdict(list), set()
     term_groups = collections.defaultdict(list)    # one line per decided entry and draft form, its verses
     proper = set(R.names)                          # names: never a spelling finding (the names check has them)
+    dlex = collections.defaultdict(set)            # draft form -> the source words the .align links it to
     for v, text in verses:
         toks = written_tokens(text); low = [t.lower() for t in toks]; words = set(low)
         main = FA.parse(rows[v][0]) if v in rows else {}
@@ -943,9 +974,23 @@ def review(pname, code, ch, path=None, respell=None, figure=None, every=False, r
         for o, lx, lem, cls, typ, key in S.get(v, []):
             if typ in ("proper", "gentilic"):
                 proper.update(low[i] for i in main.get(o, []) if i < len(low))
+            if lx:
+                for i in main.get(o, []):
+                    if i < len(low):
+                        dlex[low[i]].add(lx)
         for t in low:
             sp[t].append(v)
     out_sp = []
+    lex = lexemes_by_bare(L, R, keep)
+
+    def pick(w, least, cls):
+        """the variant of the same word (word_variant); one the links show to be another word is counted, not listed"""
+        v = word_variant(w, proj_bare, keep, pairs, least, dlex.get(w), lex)
+        if not v and corpus_variant(w, proj_bare, keep, pairs, least):
+            st[f"{cls}: the variant is another word (its links), not listed"] += 1
+        return v
+
+    evidence = lambda v: "; it renders the same source word" if v[3] else "; another spelling, or another word?"
     import modes
     spelling = (P.p.get("words") or {}).get("spelling", modes.mode(P.p)["spell_check"])
     for w, vs in sorted(sp.items(), key=lambda x: (-len(x[1]), x[0])):
@@ -963,14 +1008,15 @@ def review(pname, code, ch, path=None, respell=None, figure=None, every=False, r
         if w in proj:
             c = proj[w]
             if c <= RARE_MAX:
-                var = corpus_variant(w, proj_bare, keep, pairs, max(RARE_MIN, RARE_RATIO * c))
+                var = pick(w, max(RARE_MIN, RARE_RATIO * c), "spelling (rare)")
                 if var and var[1] == "diphthong":    # Böim (1x) is not Bim: a rare form's diphthong is the word's
                     var = None
                 if var:
                     st["spelling (rare)"] += 1
-                    rec(cls="spelling (rare)", verses=sorted(set(vs)), draft=w, expected=var[0], n=len(vs), corpus_n=c, variant_n=var[2], rule=var[1])
+                    rec(cls="spelling (rare)", verses=sorted(set(vs)), draft=w, expected=var[0], n=len(vs), corpus_n=c,
+                        variant_n=var[2], rule=var[1], same=var[3])
                     out_sp.append(f"spelling {where}: {k}“{w}” ({c}x in the corpus) — the corpus writes “{var[0]}” "
-                                  f"{var[2]}x ({var[1]}, rare)")
+                                  f"{var[2]}x ({var[1]}, rare{evidence(var)})")
             continue
         b = bare(w, keep)
         if proj_bare.get(b):
@@ -979,11 +1025,13 @@ def review(pname, code, ch, path=None, respell=None, figure=None, every=False, r
             rec(cls="marks", verses=sorted(set(vs)), draft=w, expected=alts[0] if alts else "", n=len(vs), corpus_n=0, variant_n=proj[alts[0]] if alts else 0)
             out_sp.append(f"marks {where}: {k}“{w}” — the corpus writes {', '.join(f'“{a}” {proj[a]}x' for a in alts)}")
             continue
-        var = corpus_variant(w, proj_bare, keep, pairs)
+        var = pick(w, VARIANT_MIN, "spelling")
         if var:
             st["spelling"] += 1
-            rec(cls="spelling", verses=sorted(set(vs)), draft=w, expected=var[0], n=len(vs), corpus_n=0, variant_n=var[2], rule=var[1])
-            out_sp.append(f"spelling {where}: {k}“{w}” (0x in the corpus) — the corpus writes “{var[0]}” {var[2]}x ({var[1]})")
+            rec(cls="spelling", verses=sorted(set(vs)), draft=w, expected=var[0], n=len(vs), corpus_n=0, variant_n=var[2],
+                rule=var[1], same=var[3])
+            out_sp.append(f"spelling {where}: {k}“{w}” (0x in the corpus) — the corpus writes “{var[0]}” {var[2]}x "
+                          f"({var[1]}{evidence(var)})")
     for (lem, here, dec, cor), vs in term_groups.items():
         where = ", ".join(f"{ch}:{v}" for v in vs[:6]) + (" …" if len(vs) > 6 else "")
         out_term.append(f"term {where}: {f'{len(vs)}x ' if len(vs) > 1 else ''}“{here}” for {lem} (decided: {dec}{cor})")
