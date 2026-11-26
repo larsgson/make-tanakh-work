@@ -3,7 +3,7 @@
 published tokenizer, a compact layer read only for exactly its text, the holdout recount from occ, the Septuagint
 bridge, the spelling variants, the respelling rules (a toy rule) and the decided-term matching. No edition text, no
 network. Run: python3 scripts/tests/test_words.py (or pytest)."""
-import collections, json, os, sys, tempfile
+import collections, json, os, sys, tempfile, types
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 import full_align as FA  # noqa: E402
 import words as W  # noqa: E402
@@ -112,6 +112,19 @@ def test_spelling_variants():
     assert W.corpus_variant("darbracht", counts)[0] == "darbbracht"
     assert W.corpus_variant("darbracht", collections.Counter({"darbbracht": 1})) is None    # once is not enough
     assert W.corpus_variant("zeche", counts) is None
+
+
+def test_variant_of_the_same_word():
+    """a variant the links show to be another source word is passed over; one that renders the same word is marked;
+    without evidence the commonest variant stands, unmarked (a question)"""
+    counts = collections.Counter({"kua": 40, "kau": 3, "moch": 300, "tas": 2})
+    lex = {"kua": {"grc:3816"}, "kau": {"grc:1092"}, "moch": {"grc:2089"}}
+    assert W.word_variant("kaua", counts, own={"grc:1092"}, lex=lex)[:4] == ("kau", "diphthong", 3, True)  # not "kua"
+    assert W.word_variant("moach", counts, own={"grc:3575"}, lex=lex) is None                # moch renders another word
+    assert W.word_variant("moach", counts, own=None, lex=lex)[:4] == ("moch", "diphthong", 300, None)        # no evidence
+    assert W.word_variant("taas", counts, own={"grc:5131"}, lex=lex)[:4] == ("tas", "long/short vowel", 2, None)  # tas: no links
+    L = types.SimpleNamespace(n={"grc:3816": collections.Counter({"kua": 3, "kuam": 1})})
+    assert W.lexemes_by_bare(L) == {"kua": {"grc:3816"}, "kuam": {"grc:3816"}}
 
 
 def spelling(i, frm, to, status="decided", order=1, **ctx):

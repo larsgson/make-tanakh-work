@@ -8,7 +8,10 @@ To fix (the command fails while any is left):
   - verb marking, in a binding project (`pack_grammar`, scripts/modes.py: by default for an unknown language with
     clearly marked cells): a verb of a cell the human OT clearly marks whose tagged words lack the pattern, unless the
     notes say why (`unmarked <ch>:<v> ...`), scripts/cell_check.py (binding_fix)
-To review (reported, not failed; each kept one explained in the chapter's notes):
+To review (reported, not failed; questions, not errors: a flagged word the agent knows to be right stays, with a
+one-line note in the chapter's notes; never changed to quiet a check):
+  - spelling (check_draft.py --spell): forms the corpus writes with other marks, store forms it writes in a one-rule
+    variant of the same word (the forms it doesn't have: a count, INFO)
   - lost or added negations: scripts/rough_check.py (its markers are learned from the corpus; with a .align beside the
     draft, a negation the alignment links to a draft word counts too, so a negation word that is also a common other
     word, Hebrew אל "do not" / "to", is no false flag)
@@ -25,13 +28,17 @@ To review (reported, not failed; each kept one explained in the chapter's notes)
     otherwise than in the earlier chapters of the book (their most frequent rendering, seen at least twice)
   - words (a project with export/<project>/_learn/words.db, scripts/words.py build; docs/word-db.md): a decided store
     term whose source word is in the verse and whose value isn't; a draft form the corpus never writes while it writes
-    a one-rule variant (doubled consonant, y/i, ä/e, long vowel, diphthong), store forms included; other marks only;
+    a one-rule variant (doubled consonant, y/i, ä/e, long vowel, diphthong), store forms included, unless the word
+    DB's links show the variant to render another source word (without evidence: a question); other marks only;
     a form in the corpus's spelling where the project respells it (`orthography.respell`); a content word whose usual
     corpus form isn't in the verse. The chapter itself is left out of the counts. INFO: found/checkable
 
 Usage: python3 scripts/chapter_check.py <project> <code> <chapter>
 """
 import collections, difflib, os, re, sqlite3, subprocess, sys
+
+KEEP_RULE = ("REVIEW lines are questions, not errors: a flagged word you know to be right stays as it is, with a "
+             "one-line note in the chapter's notes (the word, why it is right); never change a right word to quiet a check")
 
 CODE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.path.abspath(os.environ.get("MAKE_TANAKH_ROOT") or CODE)   # the data root (books.py)
@@ -112,10 +119,17 @@ def main(a):
     txt = os.path.join(d, f"{code}{nnn}.txt")
     if not os.path.exists(txt):
         sys.exit(f"no {os.path.relpath(txt, ROOT)}")
-    fix, review = [], []
+    fix, review, info = [], [], []
     rc, out = run("scripts/check_draft.py", pname, code, "--chapter", str(ch), *(["--spell"] if m["spell_check"] else []))
+    spell = re.compile(r"\S+: (spelling|built from parts|not in the corpus): ")   # questions, never to fix
+    review += [f"check_draft: {l}" for l in out.splitlines() if re.match(r"\S+: spelling: ", l)]
+    new = [l.split(": ", 2)[2] for l in out.splitlines() if re.match(r"\S+: not in the corpus: ", l)]
+    if new:
+        info.append(f"check_draft: {len(new[0].split(', '))} forms not in the corpus (new words, names, typos; "
+                    f"check_draft.py --spell lists them)")
     if rc or not re.search(r"\b0 with problems", out):
-        fix += [f"check_draft: {l}" for l in out.splitlines() if l.strip() and "chapters checked" not in l]
+        fix += [f"check_draft: {l}" for l in out.splitlines() if l.strip() and "chapters checked" not in l
+                and not spell.match(l)]
     if os.path.exists(os.path.join(d, f"{code}{nnn}.align")):
         rc, out = run("scripts/full_align.py", "check", pname, code, str(ch))
         if rc or not out.rstrip().endswith("ok"):
@@ -141,7 +155,6 @@ def main(a):
             review += morphs.chain_review(pname, code, ch)
     import alternations                           # forms told apart by their marks (tone): the store's cues
     review += alternations.review(pname, code, ch)
-    info = []
     import words                                  # the corpus's words (words.db): decided terms, spelling, expected forms
     if os.path.exists(words.db_file(pname)):
         f = {}
@@ -152,6 +165,8 @@ def main(a):
         print(f"  FIX     {l}")
     for l in review:
         print(f"  REVIEW  {l}")
+    if review:
+        print(f"  NOTE    {KEEP_RULE}")
     for l in info:
         print(f"  INFO    {l}")
     import register as RG

@@ -15,8 +15,9 @@ draft for a team), and useful on any draft.
   to a draft word, so a marker the corpus can't learn because it is also a common other word (Hebrew אל "do not", also
   "to") is no false "missing" flag; a negation the draft leaves unlinked is counted by the markers alone.
 - English: word forms the corpus doesn't have but the assisting English does ("seven", "mules"): text the model copied
-  from its English source instead of translating ("mules", Ps 32:9). Capitalised ones may be names spelled the English
-  way; an English loanword the corpus has is not flagged.
+  from its English source instead of translating ("mules", Ps 32:9), and only where the verse's own English has the
+  word (a target word spelled like an English one the verse doesn't have is not flagged). Capitalised ones may be
+  names spelled the English way; an English loanword the corpus has is not flagged.
 
 Both report verse numbers and forms only (no corpus text), so the output may go into a review list. The markers and how
 well they cover the corpus's negated verses are printed first (--markers shows them alone).
@@ -224,6 +225,7 @@ def main():
     if "--markers" in a:
         return
     ms, (eng, names) = set(markers), english_forms(P)
+    import words as W
     sp, store = P.spellings(), P.store_forms()
     for f in files:
         b = os.path.basename(f)
@@ -238,8 +240,10 @@ def main():
                 flags.append((v, f"negation fewer: the original negates {n_src}x, the draft {n_tgt}x"))
             elif n_tgt and not n_src and "--no-added" not in a:
                 flags.append((v, f"negation added? the draft has {n_tgt} marker(s), the original no negation"))
+            here = set(LT.eng_tokens(W.bsb_verse(P, code, c, v)))     # copied English comes from the verse in view
             leak = [w for w in P.tok.tokens(text, exact=True)
-                    if w not in store and not sp.get(P.tok.plain(w)) and w.lower() in eng and w.lower() not in names]
+                    if w not in store and not sp.get(P.tok.plain(w)) and w.lower() in eng and w.lower() not in names
+                    and (not here or w.lower() in here)]
             if leak:
                 flags.append((v, "English? not in the corpus but in the English: " + ", ".join(dict.fromkeys(leak))))
         print(f"\n## {code} {ch} ({os.path.relpath(f, ROOT) if f.startswith(ROOT) else f}): {len({v for v, _ in flags})} verses flagged")

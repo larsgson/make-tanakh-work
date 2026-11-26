@@ -4,6 +4,31 @@ Tags are `vMAJOR.MINOR.PATCH`. A work copy merges a tag; make-tanakh-grammar pin
 Each entry has a **Format changes** section for the stable formats listed in `docs/related-repos.md`, section 4:
 what changed and how existing files move over. Before 1.0 a breaking format change raises the minor version.
 
+## v0.9.2
+
+**The checks stop pushing agents off right words; our own drafts repeated are no quotation** (from the work copy's
+report of 2026-11-26: in a dialect drafted at partial familiarity, agents changed correct words four times to quiet
+the spelling and English checks).
+
+- **The spelling lines need the same word** (`words.py` review, `check_draft.py --spell` for store forms):
+  `words.word_variant` passes over a one-rule variant (long/short vowel, diphthong, doubled consonant, the letter
+  pairs) whose word-DB links show only other source words than the draft word renders (its `.align` link; for a store
+  form, its entry's source): in a language without a standard spelling a one-letter neighbour is often another word.
+  Where the links agree the line says so; with no evidence it asks "another spelling, or another word?". Passed-over
+  variants are counted in the figure. Without a word DB nothing changes.
+- **The English check** (`rough_check.py`): only English words the verse's own BSB has (a copied word comes from the
+  verse in view); a target word spelled like an English word elsewhere is no longer flagged.
+- **REVIEW lines are questions:** `chapter_check.py` prints the rule under them (a word you know to be right stays,
+  with a one-line note; never change a right word to quiet a check), and the book prompt says so. `check_draft.py`'s
+  spelling lines are always REVIEW (they went to FIX when the chapter had another problem, else were dropped); its
+  forms not in the corpus are one INFO count.
+- **`quotes.py`:** a run of 5+ words that stands in one of the project's own drafts counts nothing in any file (a story
+  or selection file built from the drafts, a note citing our verse): it is our text again. Edition text copied into
+  such a file is checked as before. `docs/licensing.md` says so.
+- Tests: `test_quotes_own.py` (new), `test_words.py` (the same-word variant).
+
+**Format changes:** none.
+
 ## v0.9.1
 
 - **`CLAUDE.md`:** the command line for `scripts/draft_cache.py` (v0.9.0), in the Commands list.

@@ -298,14 +298,32 @@ class Project:
                             out.update(t for t in self.tok.tokens(v, exact=True) if t.lower() not in eng)
         return out
 
+    def store_lexemes(self, R=None, keep=None):
+        """(lexemes_by_bare of the word DB, {store form: {lexeme id}} of the decided entries that name their source
+        word): the evidence that a store form and a corpus variant are one word. ({}, {}) without the word DB."""
+        import words as W
+        db = W.db_file(self.name)
+        if not os.path.exists(db):
+            return {}, {}
+        keep = keep or W.keep_marks(self)
+        lex = W.lexemes_by_bare(W.Lexicon(db, keep=keep), R, keep)
+        own, lemmas = collections.defaultdict(set), W.source_lemmas()
+        for e in W.store_entries(self):
+            ids = {x for _, x in W.entry_lexemes(e, lemmas)}
+            if ids:
+                for t in self.tok.tokens(re.sub(r"<[^<>]*>|\([^()]*\)", " ", e["value"]), exact=True):
+                    own[t] |= ids
+        return lex, own
+
     def spell_check(self, text):
         """Spelling of a draft against the corpus, as the edition writes it (every mark kept), in the project's spelling
         (the store's `orthography.respell` rules applied to the corpus's forms, scripts/words.py).
         Returns (marks, unknown): marks = [(form, n, corpus spellings)] for forms the corpus has only with other marks
         (zøveqase -> zøveqasé), for a form written as the corpus writes it where the project respells it (aand -> ånd),
         and for a store form the corpus writes in a one-rule variant (komer -> kommer: doubled consonant, y/i,
-        ä/e, long vowel, diphthong; words.variants); unknown = [(form, n)] for forms it doesn't have at all (new names,
-        new words, typos). The store's decided forms count as attested unless the corpus writes such a variant."""
+        ä/e, long vowel, diphthong; words.variants), unless the word DB's links show the variant to be another word
+        (words.word_variant); with no evidence either way it is shown as a question; unknown = [(form, n)] for forms it
+        doesn't have at all (new names, new words, typos). The store's decided forms count as attested unless the corpus writes such a variant."""
         import words as W
         sp, store = self.spellings(), self.store_forms()
         R = W.Respeller(W.respell_rules(self), W.names_of(self))
@@ -325,16 +343,19 @@ class Project:
             for x, k in c.items():
                 counts[W.bare(x, keep)] += k
         seen = collections.Counter(self.tok.tokens(text, exact=True))
-        marks, unknown = [], []
+        marks, unknown, lex, own = [], [], None, {}
         for w, n in seen.most_common():
             if w in changed and w not in written:
                 marks.append((w, n, [changed[w]]))
                 continue
             if w in store and w not in written:
                 vp = (self.p.get("words") or {}).get("variant_pairs")
-                var = W.corpus_variant(w, counts, keep, W.PAIRS if vp is None else [tuple(x) for x in vp])
-                if var:
-                    marks.append((w, n, [var[0]]))
+                if lex is None:
+                    lex, own = self.store_lexemes(R, keep)
+                var = W.word_variant(w, counts, keep, W.PAIRS if vp is None else [tuple(x) for x in vp], W.VARIANT_MIN,
+                                     own.get(w), lex)
+                if var:                          # one the word DB's links show to be another word is passed over
+                    marks.append((w, n, [var[0] if var[3] else f"{var[0]} (another spelling, or another word?)"]))
                 continue
             c = sp.get(self.tok.plain(w))
             if not c:

@@ -3,7 +3,9 @@
 
 A quotation is a run of 5 or more written words (a hyphenated suffix is part of its word) that stands in one verse of a style edition (or in at most 3:
 longer common formulas are not quotations of a verse). Drafts (<code>NNN.txt) are not checked: they are our
-own text, and a phrase they share with the edition is the language's, not a quotation. For each file:
+own text, and a phrase they share with the edition is the language's, not a quotation. Nor is a run another file
+repeats from them (a story or selection file built from the drafts, a note citing our own verse): a run every 5 words
+of which stand in one of the project's drafts is our text again, counted once. For each file:
   - per book of the edition, at most 10% of its words quoted;
   - every quotation is in the edition's published text (`published_text`, else its text/): a quotation of
     a newer working copy that differs from the published text is a problem;
@@ -158,6 +160,18 @@ class Quotes:
                 ts = self.w(P.tok, t)
                 self.published |= {tuple(ts[j:j + N]) for j in range(len(ts) - N + 1)}
         self.has_published = bool(self.published)
+        self.own = self.own_grams(pname)
+
+    def own_grams(self, pname):
+        """the runs of N words of the project's own drafts (<code>NNN.txt anywhere in its folder): a file that repeats
+        them (a story file built from the drafts) repeats our text, not the edition's"""
+        out = set()
+        for dp, _, fs in os.walk(project_dir(pname)):
+            for f in fs:
+                if re.fullmatch(r"[0-9a-z]{3}\d{3}\.txt", f):
+                    ts = self.w(self.P.tok, open(os.path.join(dp, f), encoding="utf-8", errors="replace").read())
+                    out |= {tuple(ts[j:j + N]) for j in range(len(ts) - N + 1)}
+        return out
 
     def runs(self, text):
         """[(start, end, verse indices)] of the quotations in a text (plain tokens)."""
@@ -191,6 +205,8 @@ class Quotes:
             vs = {v for v in vs if self.rows[v][6] and self.rows[v][1] != own_book}  # limited (non-free) editions only
             if not vs or tuple(ts[a:b]) in seen:    # the same quotation again in one file (a superseded entry and its copy)
                 continue
+            if all(tuple(ts[i:i + N]) in self.own for i in range(a, b - N + 1)):   # our own draft's words again
+                continue
             seen.add(tuple(ts[a:b]))
             quoted += b - a
             verses[self.rows[min(vs)][1]] += b - a
@@ -210,7 +226,7 @@ class Quotes:
         out = []
         for a, b, vs in runs:
             vs = {v for v in vs if self.rows[v][6]}
-            if vs and b - a > max_words:
+            if vs and b - a > max_words and not all(tuple(ts[i:i + N]) in self.own for i in range(a, b - N + 1)):
                 out.append(f"quotes {b - a} words of {self.rows[min(vs)][0]} (at most {max_words}: a phrase, not the verse)")
         _, _, unpub, marks = self.check_text(text)
         out += [f"{ref} quoted from the working copy, not the published text" for ref, _ in unpub]
