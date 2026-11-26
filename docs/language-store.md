@@ -229,8 +229,11 @@ store's morphs.
 - **Host view**: with the NT aligned to the Greek (`lang.py build`), a verb's affixes come off words linked to Greek
   verbs in at least half their tokens, or that leave such a word's stem; nouns keep their class prefixes.
 - **Infixes after the onset and reduplication** (`site: after_onset`, slot `redup`): taken off the stem the prefixes
-  and suffixes leave, only where the root is attested (a stem of its own, or with another infix or copy): *s-um-ulat*,
-  *nag-su-sulat*, *s-um-u-sulat*. An infix cuts the stem into two pieces of one form, the root (`s` / `-um-` / `ulat`,
+  and suffixes leave, only where the root is attested (a stem of its own, or with another infix or copy) and is not a
+  free word: *s-um-ulat*, *nag-su-sulat*, *s-um-u-sulat*. They are chosen together with the prefixes and suffixes
+  (*k-in-ain*, not *kina-in*: the stem or root attested in more forms wins a tie), and the root's evidence is enough for
+  the affixes around it (*nag-sa-sabi*). With the NT aligned to the Greek, they come off only words linked to their host
+  (verb), or unlinked words whose root is such a word's (not *la-laki*, *t-in-ig*). An infix cuts the stem into two pieces of one form, the root (`s` / `-um-` / `ulat`,
   both stem `sulat`); the copy is labelled `redup:CV` (or its form). The vowels are `orthography.tone.vowels`
   (default `aeiou`). A store without them splits as before.
 - **Hyphenated words** (a store with `written: hyphen` or `both`): a word with an internal hyphen is one word with a

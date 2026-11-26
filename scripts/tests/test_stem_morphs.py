@@ -51,6 +51,34 @@ def run():
     assert C.decode(e) == model_text.NFC(line), (e, C.decode(e))
 
 
+def faults():
+    """make-tanakh-research's check of v0.7.0, with and without positions (a chain store, as theirs): (1) a prefix before
+    a copy whose core is rare on its own (nag-sa-sabi beside one magsasabi); (2) no infix or copy off words the NT links
+    to another class (lalaki, tinig, sino), still off an unlinked verb whose root a linked verb has; no infix before a
+    consonant (in-yong); (3) no free word as root (k-in-a-in), the infix reading over a productive suffix (k-in-ain)"""
+    import collections
+    vocab = {"nagsasabi": 200, "magsasabi": 1, "sabi": 50, "nagsabi": 50, "sinabi": 40, "kinain": 60, "kain": 20,
+             "kainin": 10, "kumain": 250, "kakain": 15, "kina": 300, "ka": 900, "lalaki": 2000, "laki": 40, "tinig": 250,
+             "tig": 5, "sino": 500, "so": 3, "inyong": 3000, "yong": 3, "kumakain": 80}
+    vocab |= {w + "in": 3 for w in ("bas", "sul", "tak", "lak", "big", "dal", "kit", "tan", "luk", "sak", "sab", "ip")}
+    vocab |= {w: 3 for w in ("bas", "sul", "tak", "lak", "big", "dal", "kit", "tan", "luk", "sak", "sab", "ip")}   # -in productive
+    free = [dict(id="m:ka", slot="free", form="ka", host="any")]
+    na = [dict(id="m:na-", slot="prefix", form="na-", host="verb"), dict(id="m:mag-", slot="prefix", form="mag-", host="verb")]
+    C = lambda c: collections.Counter({c: 10, "": 10})
+    classes = {"lalaki": C("noun"), "tinig": C("noun"), "sino": C("pron"), "kumain": C("verb"), "kinain": C("verb"),
+               "nagsasabi": C("verb")}
+    for pos in (0, 1):
+        ms = [dict(e, position=pos) if pos and e["slot"] in ("prefix", "suffix") else e for e in AFFIXES + na] + STEM + free
+        S = morphs.Segmenter(types.SimpleNamespace(morphs=ms, words=[]), {}, vocab, classes)
+        got = {w: shown(S, w) for w in ("nagsasabi", "kinain", "kumain", "kumakain", "lalaki", "tinig", "sino", "inyong")}
+        assert got["nagsasabi"] == "nag- / sa* / sabi", (pos, got)
+        assert got["kinain"] == "k / -in- / ain" and got["kumain"] == "k / -um- / ain", (pos, got)
+        assert got["kumakain"] == "k* / -um- / a* / kain", (pos, got)       # not linked: kain is a linked verb's root
+        assert got["lalaki"] == "lalaki" and got["tinig"] == "tinig" and got["sino"] == "sino", (pos, got)
+        assert "-in-" not in got["inyong"], (pos, got)
+        assert all(S.rebuild(S.split(w)) == w for w in vocab)
+
+
 def validator():
     """language_profile.py check: site and pattern; an after_onset infix may begin a word; a copy is not matched"""
     import json, subprocess, tempfile
@@ -72,10 +100,12 @@ def validator():
 
 def test_stem_morphs():
     run()
+    faults()
     validator()
 
 
 if __name__ == "__main__":
     run()
+    faults()
     validator()
     print("ok")

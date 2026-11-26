@@ -4,6 +4,29 @@ Tags are `vMAJOR.MINOR.PATCH`. A work copy merges a tag; make-tanakh-grammar pin
 Each entry has a **Format changes** section for the stable formats listed in `docs/related-repos.md`, section 4:
 what changed and how existing files move over. Before 1.0 a breaking format change raises the minor version.
 
+## v0.7.1
+
+**The stem's infix and copy, mended after make-tanakh-research's check of v0.7.0** (2026-11-26, the Tagalog ULB: verb
+tokens split 26.6 % → 62.4 %, 0 rebuild failures, and three faults). With a store that has neither, nothing changes:
+the Zinza and Kuni stores split byte-identically again; research found the same for Indonesian, Swahili, Tok Pisin,
+Danish, Kuni and Tagalog's old store on v0.7.0.
+
+- **A prefix before a copy** (fault 1: *nagsasabi* whole beside *mag-sa-sabi*): the prefixes and suffixes, the infix
+  and the copy are chosen together (in `chain_parse` and without positions alike), and the root's evidence is enough
+  for the affixes around it, so *nag-sa-sabi* and *na-su-sulat* split where *sasabi* is rare on its own.
+- **Non-verbs** (fault 2: *la-laki*, *bi-big*, *t-in-ig*, *s-in-o*, *in-yo-ng*): where the NT is aligned to the Greek
+  (`lang.py build`), an infix or copy comes off only words linked to its host (`verb`) in at least half their tokens,
+  or unlinked words whose root is the root of such a word (`host_ok`); this now holds without positions as well. And
+  the infix stands right before the stem's first vowel, so *inyong* is not *in-yong*.
+- **The suffix over the infix** (fault 3: *kina-in*, *kuma-in*): a free word (`ka`) is never a root, and of two
+  readings with as many letters off in as many pieces, the one whose stem or root is attested in more forms wins
+  (*k-in-ain*, *k-um-ain*, *k-um-a-kain*).
+- Test: `scripts/tests/test_stem_morphs.py` adds the three faults, with and without positions.
+
+**Format changes:** none.
+
+**Migration for a work copy:** merge v0.7.1.
+
 ## v0.7.0
 
 **Infixes after the stem's onset and reduplication in the morph view** (make-tanakh-research's request, 2026-11-14,
