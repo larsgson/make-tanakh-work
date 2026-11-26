@@ -4,6 +4,37 @@ Tags are `vMAJOR.MINOR.PATCH`. A work copy merges a tag; make-tanakh-grammar pin
 Each entry has a **Format changes** section for the stable formats listed in `docs/related-repos.md`, section 4:
 what changed and how existing files move over. Before 1.0 a breaking format change raises the minor version.
 
+## v0.8.0
+
+**Clitics in the morph view, and a root spelled like a free word** (make-tanakh-research's check of v0.7.1,
+2026-11-26: the three faults mended, Tagalog verb tokens split 0.80, stores without stem morphs byte-identical on all
+seven bundles; and three points, a to c).
+
+- **Clitics** (point b: *d-um-ati-ng*, as the linker *-ng* was a suffix). The store's slot `clitic`, accepted by the
+  store's description and validator but ignored by the splitter until now, is a part that attaches to a whole word:
+  `=ng` or `-ng` after it, `ng=` before it. Fused, it comes off only where what remains is a word of the corpus, not
+  rare beside this form (*dati=ng*; not *dumati=ng*, as *dumati* is no word, so *d-um-ating* stands); several stack,
+  each leaving a word; the word under it is split as any word. Written with a hyphen (`written: hyphen | both`), it is a
+  hyphen part, labelled clitic. Whether a part is a clitic or a suffix is the store's call (a linker or particle that
+  follows any word: a clitic; an ending of a word class's paradigm: a suffix). The model text glues an enclitic after
+  and a proclitic before (decoded back exactly); `language_profile.py check` wants a clitic's form to mark one side.
+- **A root spelled like a free word** (point a: *tumayo*, *tatayo* whole, as *tayo* is also "we"; *ninais*). v0.7.1
+  never took a free word as a root (for *k-in-a-in*). Now the paradigm decides, as everywhere in the splitter: a free
+  word's own uses are no evidence for a root, an infix or copy on it in other words is (*t-um-ayo* beside *ta-tayo*),
+  and such a root is taken only where the word has no other reading (*k-in-ain* still wins; *sina* stays whole
+  beside *sa*).
+- Not changed: *in-ilagay* (point c).
+- Tests: `scripts/tests/test_clitics.py` (new), `scripts/tests/test_stem_morphs.py`. Stores without clitics or stem
+  morphs split byte-identically (Zinza, Kuni).
+
+**Format changes:**
+- The language store and the register's `morph` kind: slot `clitic` now takes effect in the morph view (it was accepted
+  and ignored); `written` applies to it as to prefixes and suffixes. A store with clitic entries now splits them off
+  (none known). A morph view consumer outside this repo may now see the slot `clitic`.
+
+**Migration for a work copy:** merge v0.8.0. A store that writes a word-level linker or particle as a `suffix` may move
+it to `clitic` (make-tanakh-research: Tagalog's *-ng*).
+
 ## v0.7.1
 
 **The stem's infix and copy, mended after make-tanakh-research's check of v0.7.0** (2026-11-26, the Tagalog ULB: verb

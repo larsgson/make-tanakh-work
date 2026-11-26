@@ -55,18 +55,23 @@ def faults():
     """make-tanakh-research's check of v0.7.0, with and without positions (a chain store, as theirs): (1) a prefix before
     a copy whose core is rare on its own (nag-sa-sabi beside one magsasabi); (2) no infix or copy off words the NT links
     to another class (lalaki, tinig, sino), still off an unlinked verb whose root a linked verb has; no infix before a
-    consonant (in-yong); (3) no free word as root (k-in-a-in), the infix reading over a productive suffix (k-in-ain)"""
+    consonant (in-yong); (3) no free word as root (k-in-a-in), the infix reading over a productive suffix (k-in-ain).
+    Its check of v0.7.1: (a) a root spelled like a free word, attested by an infix or copy on it in other words (t-um-ayo
+    beside ta-tayo: tayo is also "we"), but not by its own uses alone (s-in-a: sa)"""
     import collections
     vocab = {"nagsasabi": 200, "magsasabi": 1, "sabi": 50, "nagsabi": 50, "sinabi": 40, "kinain": 60, "kain": 20,
              "kainin": 10, "kumain": 250, "kakain": 15, "kina": 300, "ka": 900, "lalaki": 2000, "laki": 40, "tinig": 250,
-             "tig": 5, "sino": 500, "so": 3, "inyong": 3000, "yong": 3, "kumakain": 80}
+             "tig": 5, "sino": 500, "so": 3, "inyong": 3000, "yong": 3, "kumakain": 80,
+             "tumayo": 380, "tatayo": 50, "tayo": 600, "nakatayo": 200,
+             "sina": 500, "sa": 5000}
     vocab |= {w + "in": 3 for w in ("bas", "sul", "tak", "lak", "big", "dal", "kit", "tan", "luk", "sak", "sab", "ip")}
     vocab |= {w: 3 for w in ("bas", "sul", "tak", "lak", "big", "dal", "kit", "tan", "luk", "sak", "sab", "ip")}   # -in productive
-    free = [dict(id="m:ka", slot="free", form="ka", host="any")]
+    free = [dict(id="m:ka", slot="free", form="ka", host="any"), dict(id="m:tayo", slot="free", form="tayo", host="any"),
+            dict(id="m:sa", slot="free", form="sa", host="any"), dict(id="m:naka-", slot="prefix", form="naka-", host="verb")]
     na = [dict(id="m:na-", slot="prefix", form="na-", host="verb"), dict(id="m:mag-", slot="prefix", form="mag-", host="verb")]
     C = lambda c: collections.Counter({c: 10, "": 10})
     classes = {"lalaki": C("noun"), "tinig": C("noun"), "sino": C("pron"), "kumain": C("verb"), "kinain": C("verb"),
-               "nagsasabi": C("verb")}
+               "nagsasabi": C("verb"), "tumayo": C("verb")}
     for pos in (0, 1):
         ms = [dict(e, position=pos) if pos and e["slot"] in ("prefix", "suffix") else e for e in AFFIXES + na] + STEM + free
         S = morphs.Segmenter(types.SimpleNamespace(morphs=ms, words=[]), {}, vocab, classes)
@@ -76,6 +81,8 @@ def faults():
         assert got["kumakain"] == "k* / -um- / a* / kain", (pos, got)       # not linked: kain is a linked verb's root
         assert got["lalaki"] == "lalaki" and got["tinig"] == "tinig" and got["sino"] == "sino", (pos, got)
         assert "-in-" not in got["inyong"], (pos, got)
+        got = {w: shown(S, w) for w in ("tumayo", "tatayo", "sina")}
+        assert got == {"tumayo": "t / -um- / ayo", "tatayo": "ta* / tayo", "sina": "sina"}, (pos, got)
         assert all(S.rebuild(S.split(w)) == w for w in vocab)
 
 

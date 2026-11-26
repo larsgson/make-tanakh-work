@@ -44,14 +44,18 @@ Infixes and reduplication (the stem's own morphology, in the stem the prefixes a
 k-in-ain, um-alis; i-s-in-ulat, s-in-ulat-an); `site: after_prefix`, the default, is the infix after a prefix as before. A
 `redup` morph (`pattern` CV, CVC or full, `site: before_stem`) is a copy of the root's first CV / CVC or of the whole root
 before it (su-sulat, nag-su-sulat; s-um-u-sulat: the infix inside the copy). Each comes off only where the root is
-attested (a stem of its own, or with another infix or copy) and is not a free word (ka), with the infix right before the
-stem's first vowel (not in-yong); they are chosen together with the prefixes and suffixes (k-in-ain, not kina-in: most
+attested (a stem of its own, or with another infix or copy; a root spelled like a free word only by an infix or copy on
+it in other words, t-um-ayo beside ta-tayo, and only where the word has no other reading: k-in-ain, not k-in-a-in), with
+the infix right before the stem's first vowel (not in-yong); they are chosen together with the prefixes and suffixes (k-in-ain, not kina-in: most
 letters off in fewest pieces, then the stem or root attested in more forms), and the root's evidence is enough for the
 affixes around it (nag-sa-sabi, where sasabi is rare on its own). Where the NT is aligned to the Greek they come off only
 words linked to their host (verb) in at least half their tokens, or unlinked words whose root is such a word's (not
 la-laki, t-in-ig). An infix cuts the stem (or the copy) into two pieces of one form, the root (s / -um- / ulat: two stem
 morphs, form sulat). The copy's label is its
 form, `redup:CV` unless the entry gives one. The vowels are orthography.tone.vowels (default aeiou).
+Clitics (slot clitic: a part that attaches to a whole word; =ng or -ng after it, ng= before it): fused, one comes off
+only where what remains is a word of the corpus, not rare beside this form (dati=ng; not dumati=ng, so d-um-ating
+stands); several stack; the word under it is split as any word (split_clitic). Written with a hyphen, a hyphen part.
 Hyphens: a store part written with one (`written`: hyphen / both) comes off a hyphen word whole; before the hyphen a chain
 of such prefixes is read as fused ones would be (ge-mbo-), as a hyphen may have no grammar of its own. A protected
 word is protected inside a hyphen word too (zita-te). A word entry's `parts` give its analysis by hand (nigi =
@@ -211,7 +215,7 @@ def detect_tone(tokens, min_mark=0.002, min_words=0.03, min_twins=0.15, max_top=
 
 
 class Morph(NamedTuple):
-    slot: str       # prefix, infix, redup, stem, tone, suffix
+    slot: str       # prefix, infix, redup, stem, tone, suffix, clitic
     form: str       # the store's form (qo-, -eav, tone-proh) or, for the stem, its plain text
     text: str       # as written (NFC); for a tone morph the marks it took, as "pos:mark" items
     position: int = 0   # an affix of a chain: its position (the store's `position`), else 0
@@ -289,10 +293,19 @@ class Segmenter:
         # (a clitic: noun-postposition); what is between is segmented as a word. Grammatical tone is read on the whole
         # word, across the hyphen. A "hyphen" morph never comes off a fused word
         wr = lambda e: e.get("written") or "fused"
+        # clitics (slot clitic): a part that attaches to a whole word, its side by its form (=ng, -ng after the word; ng=
+        # before it); written with a hyphen they are hyphen parts as below, fused they come off in split_clitic
+        side = lambda e: (("suffix" if e.get("form", "")[:1] in ("-", "=") else "prefix" if e.get("form", "")[-1:] in ("-", "=")
+                           else None) if e.get("slot") == "clitic" else e.get("slot"))
         self.hy_pre = {self.plain(e["form"].strip("-=")): e["form"] for e in G.morphs
-                       if e.get("slot") == "prefix" and wr(e) in ("hyphen", "both") and e.get("form", "").strip("-=")}
+                       if side(e) == "prefix" and wr(e) in ("hyphen", "both") and e.get("form", "").strip("-=")}
         self.hy_suf = {self.plain(e["form"].strip("-=")): e["form"] for e in G.morphs
-                       if e.get("slot") == "suffix" and wr(e) in ("hyphen", "both") and e.get("form", "").strip("-=")}
+                       if side(e) == "suffix" and wr(e) in ("hyphen", "both") and e.get("form", "").strip("-=")}
+        self.hy_clitic = {e["form"] for e in G.morphs if e.get("slot") == "clitic" and e.get("form")}
+        cl_ = lambda sd: sorted({(self.plain(e["form"].strip("-=")), e["form"]) for e in G.morphs if side(e) == sd
+                                 and e.get("slot") == "clitic" and wr(e) in ("fused", "both") and e["form"].strip("-=")},
+                                key=lambda x: -len(x[0]))
+        self.encl, self.procl = cl_("suffix"), cl_("prefix")
         self.hyphen = bool(self.hy_pre or self.hy_suf)
         if any(wr(e) == "hyphen" for e in G.morphs):
             G = types.SimpleNamespace(morphs=[e for e in G.morphs if wr(e) != "hyphen"], words=getattr(G, "words", []))
@@ -495,19 +508,25 @@ class Segmenter:
 
     def stem_best(self, t, s, cut_ok=lambda a: True):
         """the best analysis of the plain stem t (of the word s) by its infix after the onset and its copy, or None:
-        (letters off, morphs, cells, evidence, pieces). Only where the root is attested (a stem of its own, or with another
-        infix or copy), is not a free word (ka) and the morphs' host fits the word (host_ok); cut_ok(a): a boundary a
-        letters into t may be cut"""
+        (tier, letters off, morphs, cells, evidence, pieces). Only where the root is attested (a stem of its own, or with
+        another infix or copy) and the morphs' host fits the word (host_ok). A root spelled like a free word (tayo "we" in
+        t-um-ayo) is attested only by an infix or copy on it in other words, not by its own uses, and is tier 0: taken only
+        where the word has no other reading (not k-in-a-in beside k-in-ain); cut_ok(a): a boundary a letters into t may be
+        cut"""
         n, best = self.vocab[s], None
         for root, ps, key in self.stem_cands(t):
-            if root in self.free or not all(cut_ok(a) for _, _, a, _ in ps):
+            if not all(cut_ok(a) for _, _, a, _ in ps):
                 continue
-            ev = sum(self.forms.get(root, {}).values()) + sum(v for k, v in self.roots[root].items() if k != key)
+            other = sum(v for k, v in self.roots[root].items() if k != key)
+            if root in self.free:                        # its own uses ("we") are no evidence for a root: only an infix
+                ev = other                               # or copy on it in other words (t-um-ayo beside ta-tayo)
+            else:
+                ev = sum(self.forms.get(root, {}).values()) + other
             labs = {fm for sl, fm, _, _ in ps if sl != "stem"}
             if not ev or ev < self.min_share * n or not self.host_ok(s, root, labs):
                 continue
-            r = (len(t) - len(root), len(labs), self.cells(root, key=key), ev, ps)
-            if best is None or (r[0], -r[1], r[2], r[3]) > (best[0], -best[1], best[2], best[3]):
+            r = (int(root not in self.free), len(t) - len(root), len(labs), self.cells(root, key=key), ev, ps)
+            if best is None or (r[0], r[1], -r[2], r[3], r[4]) > (best[0], best[1], -best[2], best[3], best[4]):
                 best = r
         return best
 
@@ -599,12 +618,12 @@ class Segmenter:
                 # not kina-in), the root's evidence enough for the chains around it (nag-sa-sabi); then the stem or root
                 # attested in more forms
                 own_k = (tuple(f for _, f in pc), tuple(f for _, f in sc))
-                opts = [(0, 0, self.cells(core, own_k), ev, None)] if ev else []
+                opts = [(1, 0, 0, self.cells(core, own_k), ev, None)] if ev else []
                 sb = self.stem_best(core, s, lambda a: cut_ok(lp + a))
                 if sb:
                     opts.append(sb)
-                for off, nm, cel, e, ps in opts:
-                    key = (lp + ls + off, -len(pc) - len(sc) - nm, cel, fit(pc, sc), own, e)
+                for tier, off, nm, cel, e, ps in opts:
+                    key = (tier, lp + ls + off, -len(pc) - len(sc) - nm, cel, fit(pc, sc), own, e)
                     if best is None or key > best[0]:
                         best = (key, core, pc, sc, ps)
         return best[1:] if best else None
@@ -663,8 +682,35 @@ class Segmenter:
         if key not in self.cache:
             r = self.split_analysed(w, tones)
             r = r or (self.split_hyphen(w, tones) if self.hyphen and "-" in w.strip("-") else None)
+            r = r or (self.split_clitic(w, tones) if self.encl or self.procl else None)
             self.cache[key] = r or self.split_plain(w, self.tones if tones else ())
         return self.cache[key]
+
+    def split_clitic(self, w, tones=True):
+        """a word with a fused clitic (slot clitic): the word it attaches to, split as any word, and the clitic, or None.
+        A clitic attaches to a whole word, so it comes off only where what remains is a word of the corpus, not rare
+        beside this one (dati=ng, not dumati=ng: dumati is no word). Several stack, each leaving a word. Grammatical
+        tone is read on the word before an enclitic, not after a proclitic"""
+        cl = clusters(w.lower())
+        pl = [self.plain(c) for c in cl]
+        s = "".join(pl)
+        if s in self.free or "-" in s.strip("-"):
+            return None
+        idx = [0]
+        for p in pl:
+            idx.append(idx[-1] + len(p))
+        cut = lambda a, b: unicodedata.normalize("NFC", "".join(cl[a:b]))
+        n = self.vocab[s]
+        word = lambda r: len(r) >= 2 and r not in self.protected and self.vocab[r] and self.vocab[r] >= self.min_share * n
+        for c, form in self.encl:
+            if s.endswith(c) and len(s) - len(c) in idx[1:-1] and word(s[:len(s) - len(c)]):
+                k = idx.index(len(s) - len(c))
+                return self.split(cut(0, k), tones) + [Morph("clitic", form, cut(k, len(cl)))]
+        for c, form in self.procl:
+            if s.startswith(c) and len(c) in idx[1:-1] and word(s[len(c):]):
+                k = idx.index(len(c))
+                return [Morph("clitic", form, cut(0, k))] + self.split(cut(k, len(cl)), tones=False)
+        return None
 
     def split_analysed(self, w, tones=True):
         """a word the store analyses by hand (a word entry's `parts`): its parts cut from the written word, or None"""
@@ -766,17 +812,18 @@ class Segmenter:
                     y += 1
                 last = p == cover[-1] and y >= a - 1
                 t = cut(x, a if last else y)
-                out.append(Morph("prefix", self.tone_label("prefix", 0, p, t.rstrip("-")) if p not in self.hy_pre or last
-                                 else self.hy_pre[p], t))
+                fm = self.tone_label("prefix", 0, p, t.rstrip("-")) if p not in self.hy_pre or last else self.hy_pre[p]
+                out.append(Morph("clitic" if fm in self.hy_clitic else "prefix", fm, t))
                 x = y
         else:
-            out = [Morph("prefix", self.tone_label("prefix", 0, f, cut(0, a).rstrip("-")) if (("prefix", 0, f) in self.tone_forms)
-                         else self.hy_pre[f], cut(0, a))] if a else []
+            fm = self.tone_label("prefix", 0, f, cut(0, a).rstrip("-")) if (("prefix", 0, f) in self.tone_forms) \
+                else self.hy_pre.get(f)
+            out = [Morph("clitic" if fm in self.hy_clitic else "prefix", fm, cut(0, a))] if a else []
         inner = ([Morph("stem", self.plain(cut(a, b)), cut(a, b))] if whole else self.split(cut(a, b), tones=False)) if b > a else []
         k = next((n for n, m in enumerate(inner) if m.slot == "stem"), len(inner)) + 1
         out += inner[:k] + ([Morph("tone", tone[0].form, " ".join(f"{i}:U+{ord(m):04X}" for i, m in tone[1]))]
                            if tone else []) + inner[k:]
-        out += [Morph("suffix", form, cut(x, y)) for x, y, form in post]
+        out += [Morph("clitic" if form in self.hy_clitic else "suffix", form, cut(x, y)) for x, y, form in post]
         return out
 
     def split_plain(self, w, tone_morphs=()):
@@ -864,12 +911,12 @@ class Segmenter:
                                 best = (key, p, q, None)
                         continue
                     # with the stem's own morphology: chosen together with the prefix and suffix, as in chain_parse
-                    opts = [(0, 0, self.cells(core, (p, q)), ev, None)] if ev else []
+                    opts = [(1, 0, 0, self.cells(core, (p, q)), ev, None)] if ev else []
                     sb = self.stem_best(core, s, lambda a: at(len(p) + a) is not None)
                     if sb:
                         opts.append(sb)
-                    for off, nm, cel, e, ps in opts:
-                        key = (bool(p) + bool(q) + nm, cel, e)
+                    for tier, off, nm, cel, e, ps in opts:
+                        key = (tier, bool(p) + bool(q) + nm, cel, e)
                         if best is None or key > best[0]:
                             best = (key, p, q, ps)
             if best:
@@ -898,7 +945,7 @@ class Segmenter:
             tail = []
         if redo and self.stem_on:
             sb = self.stem_best(s[idx[i]:idx[j]], s, lambda a: at(idx[i] + a) is not None)
-            pieces = sb[4] if sb else None
+            pieces = sb[5] if sb else None
         out += self.stem_morphs(s, i, j, idx, at, cut, pieces)
         if tone:
             out.append(Morph("tone", tone[0].form, " ".join(f"{a}:U+{ord(m):04X}" for a, m in tone[1])))
@@ -1593,7 +1640,7 @@ def affix_entries(G):
     out = {}
     for e in G.morphs:
         fm = e.get("form") or (f"redup:{e['pattern']}" if e.get("slot") == "redup" and e.get("pattern") else "")
-        if e.get("slot") in ("prefix", "infix", "suffix", "tone", "redup") and fm and e.get("status") not in ("rejected",):
+        if e.get("slot") in ("prefix", "infix", "suffix", "tone", "redup", "clitic") and fm and e.get("status") not in ("rejected",):
             out[(unicodedata.normalize("NFC", fm if e.get("slot") == "redup" else fm.lower()), int(e.get("position") or 0))] = e
     return out
 
@@ -1603,7 +1650,7 @@ def affix_table(G):
     by = collections.defaultdict(list)
     for (fm, pos), e in affix_entries(G).items():
         by[(e["slot"], e.get("host") or "any", pos)].append(f"{fm} {meaning(e)}".strip())
-    order = {"prefix": 0, "infix": 1, "redup": 2, "tone": 3, "suffix": 4}
+    order = {"prefix": 0, "infix": 1, "redup": 2, "tone": 3, "suffix": 4, "clitic": 5}
     return [f"- {slot}{f' {pos}' if pos else ''} ({host}): " + "; ".join(sorted(v))
             for (slot, host, pos), v in sorted(by.items(), key=lambda x: (order[x[0][0]], x[0][1], x[0][2]))]
 

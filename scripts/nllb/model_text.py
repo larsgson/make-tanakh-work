@@ -187,6 +187,8 @@ class Codec:
                 continue
             t, codes = self.lex(pc)
             slot = "prefix" if m.slot == "infix" and not out else m.slot   # an infix that begins the word (um-alis)
+            if m.slot == "clitic":                        # by its side: =ng after the word, ng= before it
+                slot = "suffix" if m.form[:1] in "-=" else "prefix"
             t = {"prefix": t + self.J, "infix": self.J + t + self.J, "redup": t + self.J,
                  "suffix": self.J + t}.get(slot, t)
             out += [t] + codes
