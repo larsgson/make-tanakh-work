@@ -55,7 +55,7 @@ working; this file adds the rules that hold for any task here.
 - **What we derive is free, what we quote is credited** (`docs/licensing.md`): drafts, notes, wiki
   prose, the language store and statistics learned from any edition, non-free ones included, are
   CC0 (CC BY-SA only where built on share-alike data). Quotes from an edition are short (a phrase, at
-  most a verse per point; at most 10% of a book's verses per file, 2% of the edition in all),
+  most a verse per point; at most 10% of a book's verses per file, 4% of the edition in all),
   unchanged, from its published text, with the reference and the edition's `credit` line; they are
   not under our CC0. Bulk text stays local: the editions' texts, verse packs, alignment links, style
   reports, `_eval/local/`. The limits apply to non-free editions; public-domain and CC BY / BY-SA ones

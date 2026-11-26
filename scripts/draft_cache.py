@@ -18,8 +18,9 @@ verse, part (whole | from_start | to_end); verses not in it count as whole.
 
 Usage:
   python3 scripts/draft_cache.py build <project> [--selection FILE] [--version NAME]   # all of the above
-  python3 scripts/draft_cache.py new <project> <selection.tsv>   # verses of a (new) selection not yet drafted, per
-                                                                  # chapter (add / extend), chapters an edition has left out
+  python3 scripts/draft_cache.py new <project> <selection.tsv> [--skip-edition-chapters]
+      # verses of a (new) selection not yet drafted, per chapter (add / extend); --skip-edition-chapters: leave out the
+      # chapters a style edition already has (a project that drafts only what the editions lack)
 """
 import csv, glob, json, os, re, sys
 
@@ -27,15 +28,17 @@ CODE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, CODE)
 import yaml  # noqa: E402
 from books import ROOT, BY_CODE  # noqa: E402
+from project import edition_dir, project_dir  # noqa: E402
+import register as RG  # noqa: E402
 WORD = re.compile(r"[\wऀ-෿؀-ۿঀ-৿ሀ-፿'’-]+", re.U)
 
 
 def load_store(pd):
+    """the store's live entries, from the register if the project has one, else from the JSON files (register.py)"""
     ents = []
     for f in ("decisions.json", "observations.json"):
-        p = os.path.join(pd, "profile", f)
-        if os.path.exists(p):
-            d = json.load(open(p, encoding="utf-8"))
+        d = RG.store_file(os.path.join(pd, "profile"), f)
+        if d:
             ents += d.get("entries", []) if isinstance(d, dict) else d
     return [e for e in ents if e.get("status") not in ("retired", "superseded", "rejected")]
 
@@ -67,9 +70,7 @@ def selection(path=None):
     if not path:
         return sel
     for r in csv.DictReader(open(path, encoding="utf-8"), delimiter="\t"):
-        if r["book"] == "mat":
-            continue
-        sel[(r["book"], int(r["chapter"]), int(r["verse"]))] = r["part"]
+        sel[(r["book"].lower(), int(r["chapter"]), int(r["verse"]))] = r["part"]
     return sel
 
 
@@ -161,7 +162,7 @@ def digest(pd, code, ch, path, store, sel):
 
 
 def build(pname, selpath=None, version=None):
-    pd = os.path.join(ROOT, "export", pname)
+    pd = project_dir(pname)
     cfg = yaml.safe_load(open(os.path.join(pd, "project.yaml"), encoding="utf-8"))
     store, sel = load_store(pd), selection(selpath)
     version = version or (os.path.splitext(os.path.basename(selpath))[0] if selpath else "-")
@@ -195,8 +196,8 @@ def build(pname, selpath=None, version=None):
           f"{len(rows) - 1} verses in drafted.tsv; cache {size // 1024} KB in {os.path.relpath(out, ROOT)}")
 
 
-def new(pname, selpath):
-    pd = os.path.join(ROOT, "export", pname)
+def new(pname, selpath, skip_edition_chapters=False):
+    pd = project_dir(pname)
     done = {}
     dt = os.path.join(pd, "_learn", "cache", "drafted.tsv")
     if not os.path.exists(dt):
@@ -204,13 +205,12 @@ def new(pname, selpath):
     for r in csv.DictReader(open(dt, encoding="utf-8"), delimiter="\t"):
         done[(r["code"], int(r["chapter"]), int(r["verse"]))] = r["part"]
     cfg = yaml.safe_load(open(os.path.join(pd, "project.yaml"), encoding="utf-8"))
-    eds = [os.path.dirname(x) for e in cfg.get("style_from") or []
-           for x in glob.glob(os.path.join(ROOT, "import", "*", "*", e, "edition.yaml"))]
+    eds = [os.path.join(ROOT, edition_dir(e)) for e in cfg.get("style_from") or []] if skip_edition_chapters else []
     in_edition = lambda code, ch: any(os.path.exists(os.path.join(d, "text", f"{code}{ch:03d}.txt")) for d in eds)
     todo, skipped = {}, 0
     for (code, ch, v), part in selection(selpath).items():
         if (code, ch, v) not in done and in_edition(code, ch):
-            skipped += 1                                  # an edition has the chapter: not drafted (the user's rule)
+            skipped += 1                                  # a style edition has the chapter (--skip-edition-chapters)
             continue
         have = done.get((code, ch, v))
         if have is None:
@@ -230,8 +230,8 @@ def main():
     opt = lambda k: a[a.index(k) + 1] if k in a and a.index(k) + 1 < len(a) else None
     if len(a) >= 2 and a[0] == "build":
         build(a[1], opt("--selection"), opt("--version"))
-    elif len(a) == 3 and a[0] == "new":
-        new(a[1], a[2])
+    elif len(a) >= 3 and a[0] == "new":
+        new(a[1], a[2], "--skip-edition-chapters" in a)
     else:
         raise SystemExit(__doc__)
 

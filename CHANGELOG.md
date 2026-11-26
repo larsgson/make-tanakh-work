@@ -4,6 +4,44 @@ Tags are `vMAJOR.MINOR.PATCH`. A work copy merges a tag; make-tanakh-grammar pin
 Each entry has a **Format changes** section for the stable formats listed in `docs/related-repos.md`, section 4:
 what changed and how existing files move over. Before 1.0 a breaking format change raises the minor version.
 
+## v0.9.0
+
+**The drafting cache, and fixes from a many-language drafting run** (the work copy's delivery, 2026-11-26: its commit
+`db69cd8`, about 60 projects onboarded and drafted with it since 2026-11-17).
+
+- **`scripts/draft_cache.py` (new):** a project's drafting cache in `_learn/cache/` (derived, git-ignored):
+  `primer.md`, the project's memory in one file (rules, book titles, quotes, formulas, terms, names, grammar and
+  spelling observations, gaps, open questions); a digest per drafted chapter (its verses, the store entries its text
+  uses, its open questions); `drafted.tsv`, every drafted verse with its part (whole | from_start | to_end) and
+  selection. `build <project> [--selection F] [--version NAME]`; `new <project> <selection.tsv>
+  [--skip-edition-chapters]` lists the verses of a selection still to add or extend. The book prompt
+  (`docs/prompts/book_prompt.md`) has the agent read the primer at the start and after a compaction or resume, and
+  rebuild the cache before a handover; the draft-chapter skill says so. The store and wiki stay the source. Taken with
+  three changes: the store is read through the register's loader (a converted project's primer had no entries), the
+  project and edition folders as the other tools find them (`export/CC-NC/` too), and a project's own rules are left
+  out (Matthew skipped in a selection; chapters a style edition has: now `--skip-edition-chapters`).
+- **`onboard.py`:** the `quotes:` line is written as a JSON string (ASCII `"` quotes broke the YAML); the answers
+  list `write_priors` and `build_and_draft`; editions in a dialect's folder (`import/<licence>/<dialect id>/`) are
+  found.
+- **`probe_language.py`:** the write prompt always names the script; the write chrF is scored with optional pointing
+  (Arabic harakat, Hebrew niqqud, Syriac vowels) removed on both sides where the edition has it
+  (`pointing_removed`).
+- **`align.py`:** the hbo side maps a chapter beyond the Hebrew's count (an edition numbering Joel or Malachi as the
+  BSB does) through `orig/vrs` (it crashed); a scaffold that can't be fetched is skipped with a warning.
+- **`fetch_edition.py`:** a DBT text's licence class comes from its copyright line, else non-free (it was always
+  non-free).
+- **`morphs.py`:** `hebrew_features` skips MACULA's object pronouns of person `unknown: x` (it crashed).
+- **`.gitignore`:** `export/**/_learn/cache/`; a language folder's `README.md` under `import/non-free/`, `CC-ND/` and
+  `CC-NC/` (a dialect folder with several editions) is kept, as an edition's is.
+- **The quotation limit for an edition in all: 4% of its words (was 2%)**, in `quotes.py`, `docs/licensing.md` and
+  `CLAUDE.md`; at most 10% of a book's verses per file stays. No source backed 2% (the Berne Convention's Art. 10,
+  §51 UrhG and fair use name no percentage); 4% is the user's judgement. The check is looser: nothing to change in a
+  project, `check_project.py` only reports fewer problems.
+
+**Format changes:** none.
+
+**Migration for a work copy:** merge v0.9.0.
+
 ## v0.8.0
 
 **Clitics in the morph view, and a root spelled like a free word** (make-tanakh-research's check of v0.7.1,

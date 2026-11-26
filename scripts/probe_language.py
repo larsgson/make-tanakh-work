@@ -264,8 +264,8 @@ def script_of(P):
 def prompt_write(P, n=16):
     lang = P.p.get("language_name") or P.p.get("language")
     script = script_of(P)
-    # always name the script: a language usually written in another one (Balochi in Arabic script) may be published
-    # in Latin letters, and the score compares with that text
+    # always name the script: a language usually written in one script may be published in another, and the score
+    # compares with that text
     out = [f"Translate each verse below from English into **{lang}**, from your own knowledge of the language, "
            f"written in the {script} script, as the published {lang} text is.\n\n"
            f"{NO_TOOLS} If you don't know {lang}, write your best attempt anyway (or the closest language you can, and say which).\n\n"

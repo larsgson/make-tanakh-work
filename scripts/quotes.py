@@ -8,7 +8,7 @@ own text, and a phrase they share with the edition is the language's, not a quot
   - every quotation is in the edition's published text (`published_text`, else its text/): a quotation of
     a newer working copy that differs from the published text is a problem;
   - quotations keep the edition's marks (tone, accents) as written: a warning when only the plain form matches;
-and for the files together, at most 2% of the edition's words quoted. The project's CREDITS.md (written by
+and for the files together, at most 4% of the edition's words quoted. The project's CREDITS.md (written by
 `--credits`) must carry each quoted edition's `credit` line and say that quotations are not under CC0.
 
 Usage: python3 scripts/quotes.py <project> [FILE ...] [--credits | --rule]
@@ -25,7 +25,7 @@ from project import project_dir  # noqa: E402
 import langtools as LT  # noqa: E402
 
 N = 5
-BOOK_SHARE, TOTAL_SHARE = 0.10, 0.02
+BOOK_SHARE, TOTAL_SHARE = 0.10, 0.04
 MAX_QUOTE = 15                 # words in one quotation (a store note, a notes line): a phrase or a short verse
 # The original in our files is quoted from the open texts (the WLC via MACULA Hebrew, orig/heb.sqlite; the BGB,
 # orig/grc), never copied from orig/heb/ (our BHSA copy, the BHS text, CC BY-NC): scripts/notes_hebrew.py fills the

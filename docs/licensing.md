@@ -30,7 +30,7 @@ published work to explain or illustrate, in a fitting amount, with the source na
 
 - **short**: a word, a phrase, at most a verse for one point; never a run of verses;
 - **few**: a published file quotes at most 10% of the verses of any book of the edition; the project's published
-  files together at most 2% of the edition's words;
+  files together at most 4% of the edition's words;
 - **unchanged**: as the edition writes it (tone marks, punctuation), `…` for a gap;
 - **from the published text**: if the working copy is newer (`published_text` in `edition.yaml`), only what the
   published text has;
