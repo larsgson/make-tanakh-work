@@ -41,7 +41,7 @@ CODE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.path.abspath(os.environ.get("MAKE_TANAKH_ROOT") or CODE)   # the data root (books.py)
 sys.path.insert(0, os.path.join(CODE, "scripts"))
 import langtools as LT  # noqa: E402
-from books import BY_CODE  # noqa: E402
+from books import BY_CODE, chapters, heb_chapters  # noqa: E402
 import register as RG  # noqa: E402
 
 GREEK = {"critical": "orig/grc", "majority": "orig/grc-rp", "tr": "orig/grc-rp"}
@@ -146,13 +146,35 @@ def scaffold(code, ch):
     return json.load(open(cache, encoding="utf-8"))
 
 
+_FROM_BSB = {}
+
+
+def from_bsb(code, ch, v):
+    """The Hebrew (chapter, verse) of a BSB-numbered verse in a chapter the Hebrew doesn't have (orig/vrs), or None."""
+    if not _FROM_BSB:
+        import vrs
+        single, _ = vrs.load()
+        for s, t in single.items():
+            b, cv = t.split()
+            if ":" in cv and not cv.endswith("title"):
+                hb, hcv = s.split()
+                if ":" in hcv and not hcv.endswith("title"):
+                    tc, tv = map(int, cv.split(":"))
+                    _FROM_BSB[(b.lower(), tc, tv)] = tuple(map(int, hcv.split(":")))
+    return _FROM_BSB.get((code, ch, v))
+
+
 def side_pairs(P, side):
     """[(source tokens, target tokens, ref, code)]"""
     out, greek = [], {}
     gl = collections.defaultdict(collections.Counter)
     lemma = {}
     heb = {}
-    for ref, code, key, assist, text in P.corpus():
+    corpus = list(P.corpus())
+    max_ch, bsb_numbered = {}, {}
+    for ref, code, key, assist, text in corpus:
+        max_ch[code] = max(max_ch.get(code, 0), key[0])
+    for ref, code, key, assist, text in corpus:
         ot = BY_CODE[code][2] != "nt"
         tgt = P.tok.tokens(text)
         if not tgt:
@@ -174,15 +196,31 @@ def side_pairs(P, side):
         else:
             if not ot:
                 continue
-            if (code, key[0]) not in heb:
+            hkey = key
+            if code not in bsb_numbered:
+                # a book whose chapter count differs in the two numberings (Joel 3 / 4, Malachi 4 / 3): an edition with
+                # the BSB's count numbers it as the BSB does, and every verse is mapped to its Hebrew verse (orig/vrs)
+                last = max_ch.get(code, 0)
+                bsb_numbered[code] = heb_chapters(code) != chapters(code) and last == chapters(code)
+            if bsb_numbered[code] or key[0] > heb_chapters(code):
+                hkey = from_bsb(code, *key) or (key if key[0] <= heb_chapters(code) else None)
+                if not hkey:
+                    continue
+            if (code, hkey[0]) not in heb:
                 byv = collections.defaultdict(list)
-                for t in scaffold(code, key[0])["tokens"]:
+                try:
+                    tokens = scaffold(code, hkey[0])["tokens"]
+                except Exception as e:  # a chapter the Hebrew source can't give: leave it out, say so once
+                    print(f"  {code} {hkey[0]}: no Hebrew scaffold ({e}); its verses are left out of the hbo side",
+                          file=sys.stderr)
+                    tokens = []
+                for t in tokens:
                     if t.get("lexeme"):
                         byv[t["verse"]].append(t["lexeme"])
                         gl[t["lexeme"]][(t.get("gloss") or "").strip("[]")] += 1
                         lemma[t["lexeme"]] = t.get("lemma") or ""
-                heb[(code, key[0])] = byv
-            src = heb[(code, key[0])].get(key[1], [])
+                heb[(code, hkey[0])] = byv
+            src = heb[(code, hkey[0])].get(hkey[1], [])
         if src:
             out.append((src, tgt, ref, code, P.tok.tokens(text, exact=True)))
     return out, gl, lemma

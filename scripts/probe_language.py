@@ -24,7 +24,7 @@ The verses are spread over the corpus (half narrative) with fixed seeds, so a pr
 probes use different verses. Thresholds (calibrated on the three pilots, docs/onboarding.md): write known >= 65,
 partial 30-65. Read the answers too: a write answer that slips into the standard language is what `partial` means.
 """
-import datetime, difflib, json, os, random, re, sys
+import datetime, difflib, json, os, random, re, sys, unicodedata
 
 CODE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.path.abspath(os.environ.get("MAKE_TANAKH_ROOT") or CODE)   # the data root (books.py)
@@ -264,8 +264,10 @@ def script_of(P):
 def prompt_write(P, n=16):
     lang = P.p.get("language_name") or P.p.get("language")
     script = script_of(P)
-    out = [f"Translate each verse below from English into **{lang}**, from your own knowledge of the language"
-           f"{'' if script == 'Latin' else f', written in the {script} script, as published {lang} texts are'}.\n\n"
+    # always name the script: a language usually written in another one (Balochi in Arabic script) may be published
+    # in Latin letters, and the score compares with that text
+    out = [f"Translate each verse below from English into **{lang}**, from your own knowledge of the language, "
+           f"written in the {script} script, as the published {lang} text is.\n\n"
            f"{NO_TOOLS} If you don't know {lang}, write your best attempt anyway (or the closest language you can, and say which).\n\n"
            "Answer with one line per verse, the reference, a TAB, your translation, and nothing else:\n"]
     out += [f"{r[0]}\t{r[3]}" for r in sample(P, n)]
@@ -295,14 +297,28 @@ def prompt_tell(P, write_answer, n=24):
     return "\n".join(out) + "\n"
 
 
+# Optional pointing: vowel and cantillation marks that many texts of a script leave out (Arabic harakat, Hebrew
+# niqqud, Syriac vowels). An edition printed with them and a model writing without them would differ on every word:
+# the write probe scores with them removed from both sides. Tone and other marks that carry the language stay.
+POINTING = re.compile("[\u0591-\u05bd\u05bf\u05c1\u05c2\u05c4\u05c5\u05c7\u0610-\u061a\u064b-\u065f\u0670"
+                      "\u06d6-\u06dc\u06df-\u06e4\u06e7\u06e8\u06ea-\u06ed\u0730-\u074a\u08d3-\u08ff]")
+
+
+def unpointed(t):
+    return POINTING.sub("", unicodedata.normalize("NFD", t))
+
+
 def score_write(P, ans, n=16):
     rows = sample(P, n)
-    hyp = " ".join(P.tok.plain(ans.get(r[0], "")) for r in rows)
-    ref = " ".join(P.tok.plain(r[4]) for r in rows)
+    pointed = sum(len(POINTING.findall(unicodedata.normalize("NFD", r[4]))) for r in rows) > 0
+    f = (lambda t: unicodedata.normalize("NFC", unpointed(P.tok.plain(t)))) if pointed else P.tok.plain
+    hyp = " ".join(f(ans.get(r[0], "")) for r in rows)
+    ref = " ".join(f(r[4]) for r in rows)
     return {"chrf": round(LT.chrf(hyp, ref), 1),
-            "chrf_by_verse": round(mean(LT.chrf(P.tok.plain(ans.get(r[0], "")), P.tok.plain(r[4])) for r in rows), 1),
-            "floor": round(mean(LT.chrf(P.tok.plain(b[4]), P.tok.plain(r[4])) for r, b in zip(rows, rows[1:] + rows[:1])), 1),
-            "answered": sum(1 for r in rows if r[0] in ans), "n": len(rows)}
+            "chrf_by_verse": round(mean(LT.chrf(f(ans.get(r[0], "")), f(r[4])) for r in rows), 1),
+            "floor": round(mean(LT.chrf(f(b[4]), f(r[4])) for r, b in zip(rows, rows[1:] + rows[:1])), 1),
+            "answered": sum(1 for r in rows if r[0] in ans), "n": len(rows),
+            **({"pointing_removed": True} if pointed else {})}
 
 
 def score_read(P, ans, n=16):

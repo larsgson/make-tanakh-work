@@ -2,7 +2,7 @@
 """Check a project's publishable files against the quotation rules of docs/licensing.md.
 
 A quotation is a run of 5 or more written words (a hyphenated suffix is part of its word) that stands in one verse of a style edition (or in at most 3:
-longer common formulas are not quotations of a verse). Drafts (<code>NNN.txt) are not checked: they are our
+longer common formulas are not quotations of a verse). Drafts (<code>NNN.txt) and the story files built from them (stories/) are not checked: they are our
 own text, and a phrase they share with the edition is the language's, not a quotation. For each file:
   - per book of the edition, at most 10% of its words quoted;
   - every quotation is in the edition's published text (`published_text`, else its text/): a quotation of
@@ -219,7 +219,10 @@ class Quotes:
 
     def check_files(self, files, credit_file=None):
         problems, warnings, total, per_file = [], [], 0, []
-        files = [f for f in files if not re.fullmatch(r"[0-9a-z]{3}\d{3}\.txt", os.path.basename(f))]
+        # drafts, and story files built from them (stories/: our drafts' verses; a non-free edition's readings are
+        # only referenced there, never copied)
+        files = [f for f in files if not re.fullmatch(r"[0-9a-z]{3}\d{3}\.txt", os.path.basename(f))
+                 and os.path.basename(os.path.dirname(f)) != "stories"]
         for f in files:
             text = open(f, encoding="utf-8", errors="replace").read()
             m = re.fullmatch(r"([0-9a-z]{3})\d{3}\D.*", os.path.basename(f))

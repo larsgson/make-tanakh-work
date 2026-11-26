@@ -11,6 +11,11 @@ Work in {root}. You are the book agent for **{book_title}** in the project `{pro
 chapters {first} to {last}, in that order, one after the other, as the same translator: what you decide in one chapter
 holds in the next. {resume}
 
+Before the first chapter, and again whenever this conversation was compacted or resumed: `python3 scripts/draft_cache.py
+build {project}`, then read `export/{project}/_learn/cache/primer.md` (the project's memory in one file: rules, names,
+terms, formulas, spelling, gaps, open questions) and the digest of the last drafted chapter
+(`_learn/cache/<code><nnn>.md`). The store and wiki stay the source; the primer is the quick way in.
+
 For each chapter N:
 1. Read `{state}` if it exists: your state file (below), and the one a former agent of this book left you.
 2. Build the chapter's materials just in time, after the previous chapter's store entries:
@@ -28,8 +33,9 @@ For each chapter N:
    renderings" in `{style_guide}`.
 
 **Handover.** After {handoff} chapters, or earlier if this conversation has grown long, stop after a finished
-chapter (step 5 done): what matters is in the files, not in this conversation. A fresh agent continues from the state
-file, the store and your last chapter. Don't start a chapter you can't finish.
+chapter (step 5 done): what matters is in the files, not in this conversation. Rebuild the drafting cache
+(`python3 scripts/draft_cache.py build {project}`) before you stop. A fresh agent continues from the state file, the
+store, the cache's primer and your last chapter. Don't start a chapter you can't finish.
 
 Rules that hold throughout:
 - The original is what you translate; the assisting translation is only the check for the meaning. Use no other

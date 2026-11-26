@@ -23,18 +23,27 @@ import/*
 !import/CC-NC/
 # non-free/, CC-ND/, CC-NC/: only each edition's description (edition.yaml, README.md) and our build scripts are kept;
 # its texts (text/, source/, glossary, quarantined/) stay local
+import/non-free/*/*
+!import/non-free/*/*/
+!import/non-free/*/README.md
 import/non-free/*/*/*
 !import/non-free/*/*/edition.yaml
 !import/non-free/*/*/README.md
 !import/non-free/*/*/*.py
 !import/non-free/*/*/.gitignore
 !import/non-free/*/*/fetch.lock.json
+import/CC-ND/*/*
+!import/CC-ND/*/*/
+!import/CC-ND/*/README.md
 import/CC-ND/*/*/*
 !import/CC-ND/*/*/edition.yaml
 !import/CC-ND/*/*/README.md
 !import/CC-ND/*/*/*.py
 !import/CC-ND/*/*/.gitignore
 !import/CC-ND/*/*/fetch.lock.json
+import/CC-NC/*/*
+!import/CC-NC/*/*/
+!import/CC-NC/*/README.md
 import/CC-NC/*/*/*
 !import/CC-NC/*/*/edition.yaml
 !import/CC-NC/*/*/README.md
@@ -51,6 +60,7 @@ import/**/quarantined/
 export/**/quarantine/
 # Generated files that print corpus verses (docs/licensing.md): local only, rebuilt at will
 export/**/_learn/packs/
+export/**/_learn/cache/
 export/**/_learn/links_*.tsv
 export/**/_learn/units_*.tsv
 export/**/_learn/derived_report.md
