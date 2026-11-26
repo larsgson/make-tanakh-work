@@ -4,6 +4,28 @@ Tags are `vMAJOR.MINOR.PATCH`. A work copy merges a tag; make-tanakh-grammar pin
 Each entry has a **Format changes** section for the stable formats listed in `docs/related-repos.md`, section 4:
 what changed and how existing files move over. Before 1.0 a breaking format change raises the minor version.
 
+## v0.13.1
+
+**Fewer false drift hits in `stamp --all --verify`** (the work copy's run on 67 projects: 12,653 drift verses, most of
+them false).
+
+- **Only differs, never drift:** a formula; a value that is a pattern or a description (placeholders, `…`, quotation
+  marks, brackets, a word in another script than the draft's); a value of several words (a phrase: `borgen Susa`);
+  a term that is one of several forms decided for its source word (a list of inflected forms, not a choice).
+- **Inflection:** a value's words of one or two letters beside a longer one (an article: `da Herr`) aren't required;
+  terms may take an ending of up to two letters, as names already could (`Herrn`).
+- **Entries too broad:** over the run, a term broken in more verses than it is followed in is set aside (`differs
+  (broken in most of its verses: the entry may be too broad)`) and listed at the end of the summary. Names stay drift.
+- Measured read-only on the work copy: drift verses aeb 3,034 → 47, apd 1,947 → 35, de-opf 1,018 → 66, ch-de-be
+  1,028 → 495, dan 20 → 13 (only `borgen Susa` gone; Negev, Keila, Maon, Manasse, Asahel kept). The real drift the
+  work copy named stays (`Ahasveros` / `Xerxes`, `verla` / `im Stich la`).
+- `docs/register.md`; `scripts/tests/test_lifecycle.py`.
+
+### Format changes
+
+- A verified stamp's `unverified` holds the new kinds too; its format is unchanged. Stamps written by v0.12.0–v0.13.0
+  keep their drift lists: rerun `stamp --all --verify` to replace them.
+
 ## v0.13.0
 
 **Stories rebuilt, not published** (the work copy's proposal, agreed by the user 2026-11-26: story files repeat the

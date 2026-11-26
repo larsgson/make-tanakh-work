@@ -31,7 +31,7 @@ quotations or store evidence), and term/name swaps where the chapter's .align li
 draft word that is the old value as written; anything else (an inflected form, a phrase, another kind) goes to the
 review list. A change of one token never changes the token count, so the .align positions stay. Chapters the team has
 published (status.py) get proposals only."""
-import argparse, collections, datetime, json, os, re, sys, time
+import argparse, collections, datetime, json, os, re, sys, time, unicodedata
 
 CODE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(CODE, "scripts"))
@@ -223,7 +223,14 @@ def verify(pname, code, ch, D, ctx=None):
     name has no other sense; its scope, if any, still holds); one found by its lemma (a homonym, another sense) or a proposal only differs
     (unverified). A decision followed somewhere and broken nowhere counts as followed, one that applies in no verse
     (another sense, out of scope) too. Phrases and names without a source word can't be tested (unverified). Spelling entries: drift where the rule still changes a word of the draft.
-    Every other general decision (rules, morphs, letters, the orthography) is unverified."""
+    Every other general decision (rules, morphs, letters, the orthography) is unverified.
+    v0.13.1, what only differs (unverified, never drift): a formula, or a value that is a pattern or a description
+    (a placeholder X, `…`, quotation marks, brackets, a word in another script than the draft's); a value of several
+    words the verse must have (a phrase: `borgen Susa`, `Schlachtopfer und Brandopfer`); a term that is one of
+    several forms decided for its source word (a list of forms, not a choice). A value's words of one or two letters
+    (an article: `da Herr`) are not required beside a longer one, and a term, like a name, may take an ending of up to
+    two letters. `counts["followed verses"]` per id lets stamp --all set aside a decision broken in most of its verses
+    (demote())."""
     import langtools as LT, full_align as FA, words as W
     ctx = ctx if ctx is not None else {}
     if "P" not in ctx:
@@ -242,14 +249,27 @@ def verify(pname, code, ch, D, ctx=None):
     except Exception:                              # noqa: BLE001  (no source index: nothing lexical can be tested)
         lang, S = None, {}
     now, _ = D.of(code, ch)
-    sums, drift, unv, cnt = {}, {}, {}, collections.Counter()
+    sums, drift, unv, cnt, fv = {}, {}, {}, collections.Counter(), {}
+    scripts = {unicodedata.name(c, "?").split()[0] for t_ in verses.values() for c in t_ if c.isalpha()}
     bsb_has = lambda v, ws: any(re.search(rf"\b{re.escape(w.lower())}", W.bsb_verse(P, code, ch, v).lower()) for w in ws)
 
     def forms(e):
         vs = W.value_forms(e.get("value") or "") + [x for a in e.get("alternatives") or [] if isinstance(a, dict)
                                                    and a.get("status") in ("preferred", "admitted") and a.get("value")
                                                    for x in W.value_forms(a["value"])]
-        return [x for x in (W.value_words(v, ctx["common"]) for v in vs) if x]
+        out = []
+        for v in vs:
+            x = W.value_words(v, ctx["common"])
+            x = [w for w in x if len(w) > 2] or x if any(len(w) > 2 for w in x) else x   # da Herr -> herr
+            if x:
+                out.append(x)
+        return out
+
+    def pattern(e, i):
+        """a formula, or a value that describes rather than renders: placeholders, a gap, quotes, brackets, another script"""
+        v = e.get("value") or ""
+        return (D.entry[i]["kind"] == "formula" or bool(re.search(r"…|\.\.\.|[„“”\"»«‹›()\[\]]|(?<!\w)[XYZ](?!\w)", v))
+                or any(c.isalpha() and unicodedata.name(c, "?").split()[0] not in scripts for c in v))
 
     def test(i, e, verse_ids, lx, siblings=()):
         """-> (followed, [[verse, draft words]], untested) over the verses where the decision applies; a verse that
@@ -267,8 +287,7 @@ def verify(pname, code, ch, D, ctx=None):
             if ws and not bsb_has(v, ws):                  # another sense (the entry's BSB words not in the verse)
                 continue
             words_ = W.written_tokens(verses[v]); low = [t.lower() for t in words_]
-            same = W.same_word if D.entry[i]["kind"] != "name" else (       # a name with an ending: Elis, Asas, Ogs
-                lambda w, t, k: W.same_word(w, t, k) or (t.startswith(w) and 0 < len(t) - len(w) <= 2))
+            same = lambda w, t, k: W.same_word(w, t, k) or (t.startswith(w) and 0 < len(t) - len(w) <= 2)   # Elis, Herrn
             if any(all(any(same(w, t, keep) for t in low) for w in val) for val in vals):
                 ok += 1; continue
             if any(all(any(same(w, t, keep) for t in low) for w in val) for val in other):
@@ -285,9 +304,19 @@ def verify(pname, code, ch, D, ctx=None):
                 untested += 1
         return ok, bad, untested
 
-    def record(i, sm, e, ok, bad, untested):
+    def record(i, sm, e, ok, bad, untested, siblings=()):
         sure = bool(re.search(r"\b[HG]\d+", f"{e.get('source') or ''} {i}")) or D.entry[i]["kind"] == "name"
-        if bad and D.entry[i]["status"] == "decided" and sure:
+        why = ("the value is a pattern or a description" if pattern(e, i) else
+               "the value is a phrase" if forms(e) and all(len(x) > 1 for x in forms(e)) else
+               "one of several forms decided for the word"
+               if D.entry[i]["kind"] != "name" and len({(s_.get("value") or "") for s_ in siblings
+                                                         if D.entry.get(s_.get("id"), {}).get("kind") != "name"} - {e.get("value") or ""}) >= 2
+               else None)
+        if ok:
+            fv[i] = ok
+        if bad and D.entry[i]["status"] == "decided" and sure and why:
+            unv[i] = sm; cnt[f"differs ({why})"] += 1
+        elif bad and D.entry[i]["status"] == "decided" and sure:
             drift[i] = {"sum": sm, "verses": bad, "expected": e.get("value")}; cnt["drift"] += 1
         elif bad and D.entry[i]["status"] == "decided":  # found by its lemma: a homonym, or another sense of the word
             unv[i] = sm; cnt["differs (source word by its lemma: sense not known)"] += 1
@@ -301,8 +330,8 @@ def verify(pname, code, ch, D, ctx=None):
 
     for i, sm in now.items():
         e = RG.to_store(D.entry[i], {})
-        sib = [j for j in now if j != i and D.lexical[j][1] & D.lexical[i][1]]   # other decisions on the word (bearers, senses)
-        record(i, sm, e, *test(i, e, sorted(S), D.lexical[i][1], [RG.to_store(D.entry[j], {}) for j in sib]))
+        sib = [RG.to_store(D.entry[j], {}) for j in now if j != i and D.lexical[j][1] & D.lexical[i][1]]   # bearers, senses, forms
+        record(i, sm, e, *test(i, e, sorted(S), D.lexical[i][1], sib), siblings=sib)
     gen = {}
     toks = sorted({t.lower() for t_ in verses.values() for t in W.written_tokens(t_)})
     for i, sm in D.general.items():
@@ -321,7 +350,25 @@ def verify(pname, code, ch, D, ctx=None):
             cnt["drift"] += 1
         else:
             gen[i] = sm; cnt["followed"] += 1
-    return {"sums": sums, "general_table": gen, "drift": drift, "unverified": unv, "counts": cnt}
+    return {"sums": sums, "general_table": gen, "drift": drift, "unverified": unv, "counts": cnt, "followed_verses": fv}
+
+
+def demote(results, D):
+    """over a whole run (stamp --all --verify): a term broken in more verses than it is followed in is set aside, its
+    drift turned into `differs (broken in most of its verses: the entry may be too broad)`, unverified. An entry that
+    expects »Ehrfurcht« wherever the word is, plain fear included, marks the entry, not the chapters. Names stay
+    drift (one name, one form). -> the ids set aside"""
+    ok, bad = collections.Counter(), collections.Counter()
+    for r in results:
+        ok.update(r["followed_verses"])
+        for i, x in r["drift"].items():
+            bad[i] += len(x["verses"])
+    out = {i for i in bad if D.entry[i]["kind"] not in ("name", "spelling") and bad[i] > ok[i]}
+    for r in results:
+        for i in out & set(r["drift"]):
+            r["unverified"][i] = r["drift"].pop(i)["sum"]
+            r["counts"]["drift"] -= 1; r["counts"]["differs (broken in most of its verses: the entry may be too broad)"] += 1
+    return out
 
 
 def as_written(text, toks):
@@ -765,9 +812,10 @@ def stamp_verified(a):
     what = a.what or "checked"
     D, ctx, tot, out = Decisions(a.project), {}, collections.Counter(), []
     rep = open(a.report, "w", encoding="utf-8") if a.report else None
+    runs = [(code, c_, verify(a.project, code, c_, D, ctx)) for code, c_, _ in chapters(a.project, a.books)]
+    aside = demote([r for _, _, r in runs], D)
     n = 0
-    for code, c_, _ in chapters(a.project, a.books):
-        r = verify(a.project, code, c_, D, ctx)
+    for code, c_, r in runs:
         tot.update(r["counts"]); n += 1
         for i, x in sorted(r["drift"].items()):
             for v, w in x["verses"]:
@@ -786,7 +834,9 @@ def stamp_verified(a):
     if len(out) > 200:
         print(f"… {len(out) - 200} more" + (f" (all in {a.report})" if a.report else " (--report FILE for all)"))
     print(f"{a.project}: {n} chapters verified ({what}); decisions per chapter: "
-          + ", ".join(f"{k} {v}" for k, v in tot.most_common()) + f"; {len(out)} drift verses"
+          + ", ".join(f"{k} {v}" for k, v in tot.most_common() if v) + f"; {len(out)} drift verses"
+          + (f"; set aside as broken in most of their verses (check the entry): {', '.join(sorted(aside)[:12])}"
+             + (" …" if len(aside) > 12 else "") if aside else "")
           + (f"; the mechanical ones: `python3 scripts/lifecycle.py migrate {a.project} --ids …`" if out else ""))
 
 
