@@ -4,6 +4,12 @@ Tags are `vMAJOR.MINOR.PATCH`. A work copy merges a tag; make-tanakh-grammar pin
 Each entry has a **Format changes** section for the stable formats listed in `docs/related-repos.md`, section 4:
 what changed and how existing files move over. Before 1.0 a breaking format change raises the minor version.
 
+## v0.9.1
+
+- **`CLAUDE.md`:** the command line for `scripts/draft_cache.py` (v0.9.0), in the Commands list.
+
+**Format changes:** none.
+
 ## v0.9.0
 
 **The drafting cache, and fixes from a many-language drafting run** (the work copy's delivery, 2026-11-26: its commit

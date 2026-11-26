@@ -125,6 +125,7 @@ python3 scripts/usage.py <project> add <code><nnn> --tokens N | summary # tokens
 python3 scripts/memory_prompt.py <project>           # prompt for an agent that builds the store and wiki, by mode
 python3 scripts/make_prompt.py <project> <code> <ch> [--end-align] # chapter prompt (tagged drafting; --end-align: the old way)
 python3 scripts/make_prompt.py <project> <code> --book [a-b] [--handoff N] # the book agent's prompt: chapters in order, handover after N
+python3 scripts/draft_cache.py build <project> [--selection F] | new <project> <selection.tsv> [--skip-edition-chapters] # the drafting cache (_learn/cache/: primer.md, a digest per chapter, drafted.tsv): read at the start and after a compaction, rebuilt before a handover; new: a selection's verses still to draft
 python3 scripts/chapter_check.py <project> <code> <ch> # the checks inside the loop: to fix (format, alignment, quotes), to review (negations, names, copy, words)
 python3 scripts/register.py convert|check|show|add|supersede|retire|status|bump <project> ... # the store as one entry per file (profile/register/, docs/register.md); agents add and change entries with it
 python3 scripts/register.py stale|migrate <project> ... [--apply|--undo REC] (also lifecycle.py) # which chapters predate a changed decision; carry decisions back (dry run by default; edit records)
