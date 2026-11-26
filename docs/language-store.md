@@ -107,8 +107,10 @@ bridge between an NT translated from the Greek and the Tanakh being drafted from
 
 | field | values |
 |---|---|
-| `form` | required: as written, hyphen on the attaching side (`ka-`, `-a`, `=te`); a tone morph's form is a name (`tone-proh`) |
-| `slot` | required: `prefix`, `suffix`, `infix`, `clitic`, `free`, `tone` |
+| `form` | required: as written, hyphen on the attaching side (`ka-`, `-a`, `=te`); a tone morph's form is a name (`tone-proh`); a `redup` morph's is optional (its label, default `redup:<pattern>`) |
+| `slot` | required: `prefix`, `suffix`, `infix`, `clitic`, `free`, `tone`, `redup` (a reduplicated syllable) |
+| `site` | optional, an infix: `after_prefix` (the default: right after a prefix) or `after_onset` (after the stem's consonants before its first vowel, with or without a prefix: *s-um-ulat*, *i-s-in-ulat*; before a vowel-initial stem: *um-alis*); a `redup` morph: `before_stem` (after any prefix and infix) |
+| `pattern` | required for a `redup` morph: `CV`, `CVC` or `full`, a copy of the root's first consonant and vowel (*su-sulat*), with the consonant after, or of the whole root |
 | `host` | required: `verb`, `noun`, `pron`, `any` |
 | `value`, `unimorph` | the Leipzig gloss (`2.PL`); optionally the UniMorph tags |
 | `position` | optional: the place in an affix chain (prefixes from the word's start, suffixes from the stem outward); one form can hold two (subject *mu-* at 2, object *mu-* at 4) |
@@ -122,7 +124,8 @@ bridge between an NT translated from the Greek and the Tanakh being drafted from
 | `productive` | from `morphs.py try`: `true` where the affix, taken off every word, still marks its Greek feature (confirmed, with at least half its odds ratio) (its words split without a stem attested elsewhere); `false` where it doesn't |
 | `stats` | from scripts: `count`, `hosts`, `lift`, `test_lift`, `odds`, `test_odds`; `productive_count`, `productive_hosts`, `productive_odds`, `productive_test_odds` |
 
-The form must occur on its side of a word in at least one cited verse (tone morphs are not matched). Only a tone morph
+The form must occur on its side of a word in at least one cited verse (tone and redup morphs are not matched; an
+`after_onset` infix may begin a word). Only a tone morph
 with a `tone_pattern` is grammatical and taken out of the word; other tone is lexical and stays in the stem.
 
 ### Protected words
@@ -215,7 +218,8 @@ Top-level fields of `observations.json`. A change makes the tests that depended 
 
 ## The morph view
 
-`scripts/morphs.py` splits each word into prefix, stem, grammatical tone and suffix, from the store's morphs.
+`scripts/morphs.py` splits each word into prefix, infix, reduplication, stem, grammatical tone and suffix, from the
+store's morphs.
 
 - Without `position` in the store: one affix of each slot, longest first, word-class blind, only where what remains
   is attested.
@@ -224,6 +228,14 @@ Top-level fields of `observations.json`. A change makes the tests that depended 
   wins.
 - **Host view**: with the NT aligned to the Greek (`lang.py build`), a verb's affixes come off words linked to Greek
   verbs in at least half their tokens, or that leave such a word's stem; nouns keep their class prefixes.
+- **Infixes after the onset and reduplication** (`site: after_onset`, slot `redup`): taken off the stem the prefixes
+  and suffixes leave, only where the root is attested (a stem of its own, or with another infix or copy) and is not a
+  free word: *s-um-ulat*, *nag-su-sulat*, *s-um-u-sulat*. They are chosen together with the prefixes and suffixes
+  (*k-in-ain*, not *kina-in*: the stem or root attested in more forms wins a tie), and the root's evidence is enough for
+  the affixes around it (*nag-sa-sabi*). With the NT aligned to the Greek, they come off only words linked to their host
+  (verb), or unlinked words whose root is such a word's (not *la-laki*, *t-in-ig*). An infix cuts the stem into two pieces of one form, the root (`s` / `-um-` / `ulat`,
+  both stem `sulat`); the copy is labelled `redup:CV` (or its form). The vowels are `orthography.tone.vowels`
+  (default `aeiou`). A store without them splits as before.
 - **Hyphenated words** (a store with `written: hyphen` or `both`): a word with an internal hyphen is one word with a
   boundary inside. A hyphen prefix is the whole first piece, a hyphen suffix the whole last piece (several clitics come
   off from the end), and the piece between is split as any word; a grammatical tone pattern is read on the whole word,

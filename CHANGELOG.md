@@ -4,6 +4,81 @@ Tags are `vMAJOR.MINOR.PATCH`. A work copy merges a tag; make-tanakh-grammar pin
 Each entry has a **Format changes** section for the stable formats listed in `docs/related-repos.md`, section 4:
 what changed and how existing files move over. Before 1.0 a breaking format change raises the minor version.
 
+## v0.7.1
+
+**The stem's infix and copy, mended after make-tanakh-research's check of v0.7.0** (2026-11-26, the Tagalog ULB: verb
+tokens split 26.6 % → 62.4 %, 0 rebuild failures, and three faults). With a store that has neither, nothing changes:
+the Zinza and Kuni stores split byte-identically again; research found the same for Indonesian, Swahili, Tok Pisin,
+Danish, Kuni and Tagalog's old store on v0.7.0.
+
+- **A prefix before a copy** (fault 1: *nagsasabi* whole beside *mag-sa-sabi*): the prefixes and suffixes, the infix
+  and the copy are chosen together (in `chain_parse` and without positions alike), and the root's evidence is enough
+  for the affixes around it, so *nag-sa-sabi* and *na-su-sulat* split where *sasabi* is rare on its own.
+- **Non-verbs** (fault 2: *la-laki*, *bi-big*, *t-in-ig*, *s-in-o*, *in-yo-ng*): where the NT is aligned to the Greek
+  (`lang.py build`), an infix or copy comes off only words linked to its host (`verb`) in at least half their tokens,
+  or unlinked words whose root is the root of such a word (`host_ok`); this now holds without positions as well. And
+  the infix stands right before the stem's first vowel, so *inyong* is not *in-yong*.
+- **The suffix over the infix** (fault 3: *kina-in*, *kuma-in*): a free word (`ka`) is never a root, and of two
+  readings with as many letters off in as many pieces, the one whose stem or root is attested in more forms wins
+  (*k-in-ain*, *k-um-ain*, *k-um-a-kain*).
+- Test: `scripts/tests/test_stem_morphs.py` adds the three faults, with and without positions.
+
+**Format changes:** none.
+
+**Migration for a work copy:** merge v0.7.1.
+
+## v0.7.0
+
+**Infixes after the stem's onset and reduplication in the morph view** (make-tanakh-research's request, 2026-11-14,
+found on Tagalog: the verb is focus affix x aspect over a root). Both are store entries a team writes from a grammar
+sketch, with no code of its own (`docs/language-store.md`, *Morphs* and *The morph view*):
+
+```json
+{"kind": "morph", "slot": "infix", "form": "-um-", "site": "after_onset", "host": "verb"}
+{"kind": "morph", "slot": "redup", "pattern": "CV", "site": "before_stem", "value": "IPFV/CTP", "host": "verb"}
+```
+
+- An infix's `site`: `after_prefix` (the default, as before) or `after_onset`: after the stem's consonants before its
+  first vowel, before a vowel-initial stem, with or without a prefix or suffix (*s-um-ulat*, *um-alis*, *i-s-in-ulat*,
+  *s-in-ulat-an*).
+- Slot `redup`, `pattern` `CV` | `CVC` | `full`: a copy of the root's first syllable or of the whole root before it,
+  after any prefix and infix (*su-sulat*, *nag-su-sulat*, *s-um-u-sulat*).
+- The splitter's rules hold: a piece comes off only where the root is attested (a stem of its own, or with another
+  infix or copy); the parts rebuild the token exactly; the label is the store form (`-um-`, `redup:CV`). An infix cuts
+  the stem (or the copy) into two pieces of one form: `s` / `-um-` / `ulat` are stem `sulat`, infix, stem `sulat`.
+- The callers: `align.py --by parts` takes a cut stem as one part (the root), the model text
+  (`nllb/model_text.py`) glues a copy to what follows and an infix that begins the word like a prefix (decoded back
+  exactly), `stem_forms` joins the pieces; `language_profile.py check` validates `site` and `pattern`; `grammar.basis`
+  includes them where an entry has them (existing fingerprints unchanged). Test: `scripts/tests/test_stem_morphs.py`,
+  the request's twelve Tagalog words.
+- A store without them splits byte-identically: checked on every corpus token of the Zinza and Kuni stores here.
+
+**Format changes:**
+- The language store and the register's `morph` kind: two optional fields, `site` and `pattern`, and the slot
+  `redup` (whose `form` is optional). Additive: existing stores and registers are unchanged. A morph view consumer
+  outside this repo may now see the slot `redup` and a word with two stem morphs (of one form).
+
+**Migration for a work copy:** merge v0.7.0; nothing to rewrite.
+
+## v0.6.0
+
+**The register's revision is a plain number in the files** (make-tanakh-grammar's request, 2026-11-12). The prefix
+`register-` earns its place only in the git tag, where a language repository has other tags beside it; inside the
+files the field is already called `revision`. `register.py`: `revision()` returns the number (0 before the first
+bump), `bump` writes it, `tag_of` gives the tag name it suggests; `rev_n` takes `3`, `"3"` and `"register-3"` alike.
+`lifecycle.py`: an unstamped chapter counts as drafted against 1; `stale --since` takes both forms.
+
+**Format changes:**
+- The register: `VERSION.json` and `REVISIONS.jsonl` `revision` is an integer (`"revision": 3`), the chapter stamp
+  `.tanakh/runs/<BOOK>_<CCC>.json` (`drafted.revision`, `checked.revision`) likewise. The git tag stays
+  `register-<n>`. Files written before (`"register-<n>"`) are still read, for this version at least, and compare with
+  the new ones; the next `bump` writes the number. A reader of these files outside this repo reads an integer now.
+
+**Migration for a work copy:** merge v0.6.0. Nothing has to be rewritten: a register at `register-1` reads as 1 and
+the next `bump` writes 2. To have the files in the new form at once, set `"revision": 1` in `VERSION.json` and on the
+line of `REVISIONS.jsonl` (the digests are untouched); `register.py check` reports `revision 1`. Stamps already
+written may stay as they are.
+
 ## v0.5.0
 
 **Two field names in the register, as make-tanakh-grammar decided** (the work copy's follow-up to v0.4.0,

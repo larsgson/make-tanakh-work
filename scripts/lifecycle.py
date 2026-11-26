@@ -53,7 +53,7 @@ def stamp(pname, code, ch, what, rev=None):
 def drafted_rev(pname, code, ch):
     f = run_file(pname, code, ch)
     d = json.load(open(f, encoding="utf-8")) if os.path.exists(f) else {}
-    return (d.get("drafted") or {}).get("revision") or "register-1"
+    return RG.rev_n((d.get("drafted") or {}).get("revision")) or 1
 
 
 def chapters(pname, books=None):
@@ -134,7 +134,7 @@ def changed_entries(pname, since=None, ids=None):
     if ids:
         ch = {i: "named" for i in ids}
     else:
-        ch = RG.changed_since(prof, since or "register-1")
+        ch = RG.changed_since(prof, since or 1)
     return E, ch
 
 

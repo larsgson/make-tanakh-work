@@ -239,8 +239,12 @@ def by_parts(P, pairs):
         ws = exact if len(exact) == len(tgt) else tgt   # the exact tokens, where they pair with the plain ones
         ps, ow = [], []
         for j, w in enumerate(ws):
-            for m in S.split(w):
-                ps.append(m.form if m.slot != "stem" else P.tok.plain(m.text).lower() or m.text)
+            ms = S.split(w)
+            two = sum(m.slot == "stem" for m in ms) > 1     # a stem an infix cuts (s-um-ulat): one part, the root
+            for k, m in enumerate(ms):
+                if m.slot in ("stem", "redup") and any((x.slot, x.form) == (m.slot, m.form) for x in ms[:k]):
+                    continue
+                ps.append(m.form if m.slot != "stem" or two else P.tok.plain(m.text).lower() or m.text)
                 ow.append(j)
         out.append((src, ps)); owner.append(ow)
     return out, owner

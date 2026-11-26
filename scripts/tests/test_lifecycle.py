@@ -65,9 +65,12 @@ assert after == before, [f for f in before if before[f] != after.get(f)]
 assert rec2["undo_of"] == os.path.basename(rec_f) and len(rec2["changes"]) == 3
 
 # stamps
-LC.RG.revision = lambda prof: "register-3"
+LC.RG.revision = lambda prof: 3
 LC.RG.profile_of = lambda p: pdir
 s = LC.stamp("toy", "gen", 1, "drafted")
-assert s["drafted"]["revision"] == "register-3" and LC.drafted_rev("toy", "gen", 1) == "register-3"
-assert LC.drafted_rev("toy", "gen", 2) == "register-1"
+assert s["drafted"]["revision"] == 3 and LC.drafted_rev("toy", "gen", 1) == 3
+assert LC.drafted_rev("toy", "gen", 2) == 1
+s["drafted"]["revision"] = "register-2"                      # a stamp written before v0.6.0 still compares
+open(LC.run_file("toy", "gen", 1), "w", encoding="utf-8").write(json.dumps(s))
+assert LC.drafted_rev("toy", "gen", 1) == 2
 print("ok")

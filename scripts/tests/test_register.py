@@ -61,7 +61,7 @@ assert not err, err
 assert all("store" not in x for x in RG.load(RG.register_dir(d), store=False))
 assert json.load(open(os.path.join(RG.register_dir(d), "STORE.json"), encoding="utf-8"))["round_trip"]
 assert not RG.check_files(RG.register_dir(d))
-assert RG.revision(d) == "register-1"
+assert RG.revision(d) == 1 and RG.version(RG.register_dir(d))["revision"] == 1
 
 # a writer's whole-file write goes into the register
 x = RG.read(os.path.join(d, "observations.json")); x["entries"].append({"id": "gap:bird", "kind": "gap", "value": "b", "status": "open"})
@@ -85,11 +85,12 @@ dec = RG.store_file(d, "decisions.json")["entries"]
 assert [e["status"] for e in dec if e["id"] == "term:H1288"] == ["superseded"]
 assert dec[-1]["supersedes"] == "term:H1288" and dec[-1]["value"] == "praise"
 RG.set_status(d, "gap:fish", "retired")
-ch = RG.changed_since(d, "register-1")
+ch = RG.changed_since(d, 1)
 assert set(ch) == {"choice:bird", "term:H1288", "term:H1288.2", "choice:fish"} and set(ch.values()) == {"unreleased"}, ch
 rev, changed = RG.bump(d, "2026-11-12")
-assert rev == "register-2" and changed["term:H1288.2"] == "added" and changed["term:H1288"] == "added" and changed["choice:fish"] == "changed"
-assert RG.changed_since(d, "register-2") == {} and set(RG.changed_since(d, "register-1")) == set(ch)
+assert rev == 2 and RG.tag_of(rev) == "register-2" and changed["term:H1288.2"] == "added" and changed["term:H1288"] == "added" and changed["choice:fish"] == "changed"
+assert RG.changed_since(d, 2) == {} and set(RG.changed_since(d, 1)) == set(ch)
+assert RG.rev_n("register-3") == RG.rev_n(3) == RG.rev_n("3") == 3 and RG.changed_since(d, "register-1") == RG.changed_since(d, 1)
 assert not RG.check(RG.load(RG.register_dir(d), store=False))[0]
 
 # the rules catch what they should

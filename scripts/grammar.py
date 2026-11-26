@@ -467,7 +467,7 @@ def plan(where):
 def line(e):
     k = e["kind"]
     if k == "morph":
-        return f"{e['id']:28} {e['form']:12} {e['slot']:7} {e['host']:5} {e['value']:14} {e.get('stats', {})}"
+        return f"{e['id']:28} {e.get('form') or 'redup:' + e.get('pattern', '?'):12} {e['slot']:7} {e['host']:5} {e['value']:14} {e.get('stats', {})}"
     if k == "cell":
         return f"{e['id']:36} {e['value']:12} {e.get('stats', {})}" + (" gap" if e.get("gap") else "")
     if k == "word":
@@ -489,7 +489,8 @@ def basis(where, cell=None, method=""):
     G = Grammar(d.get("entries", []))
     parts = {"orthography": d.get("orthography") or {}, "analysis": d.get("analysis") or {}, "method": method,
              "morphs": sorted([e.get("form"), e.get("slot"), e.get("host"), e.get("tone_pattern")]
-                               + ([e["position"]] if e.get("position") else []) for e in G.morphs)}
+                               + ([e["position"]] if e.get("position") else [])
+                               + [e[k] for k in ("site", "pattern") if e.get(k)] for e in G.morphs)}
     if cell:
         ce = G.cell(*cell)
         parts["cell"] = [ce.get("value"), sorted(x.get("value") for x in ce.get("alternatives", [])
