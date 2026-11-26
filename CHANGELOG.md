@@ -4,6 +4,41 @@ Tags are `vMAJOR.MINOR.PATCH`. A work copy merges a tag; make-tanakh-grammar pin
 Each entry has a **Format changes** section for the stable formats listed in `docs/related-repos.md`, section 4:
 what changed and how existing files move over. Before 1.0 a breaking format change raises the minor version.
 
+## v0.10.0
+
+**The lifecycle without revisions and without thousands of files** (make-tanakh-work's few-files request of
+2026-11-12, points 1, 2, 3 and 5, with make-tanakh-grammar's answer: per-decision checksums suit it; its language
+repositories keep the per-chapter layout).
+
+- **Stale from checksums** (`lifecycle.py stale`): a chapter's stamp records the checksums of the decisions it was
+  drafted and checked with (`register.binding_sum`: kind, value, status, basis, scope, supersedes and the kind's whole
+  payload, renderings and denials included; not evidence or notes), the lexical ones by the source words in the
+  chapter, the general ones by digest (`.tanakh/general.jsonl`). A chapter is stale for a decision that changed, was
+  superseded, retired or removed, or that applies now and is not in its stamp. It works on the JSON store, across a
+  history reset and outside git; `--since REV` keeps the revision route, and `bump` stays for a named state.
+- **Stamps in every project** (`make_prompt.py`, `chapter_check.py`; before, only with a register), and never a
+  failed prompt or check because of one. `lifecycle.py stamp <project> --all` records the chapters already drafted,
+  as they are now.
+- **Few files** (project.yaml `lifecycle: {files: book | chapter}`; default `chapter` with a register, else `book`):
+  `book` writes one stamp file per book (`.tanakh/runs/<BOOK>.json`, a key per chapter; a chapter's old file moves into
+  it) and a migration's edit records inside its record (`edit_rows`), one file per batch. `chapter` is the layout as
+  it was (make-tanakh-review's). Both are read.
+- **`migrate` on the JSON store:** tested (a spelling rule over the Danish demo's copy: 57 words, edit records in the
+  record, undone byte for byte); with nothing to change, `--apply` writes no record.
+- Point 4 (the register as JSON Lines per kind) waits until a work copy wants the register.
+- Tests: `test_lifecycle.py` (checksums, the general log, stale reasons, both layouts).
+
+**Format changes:**
+- The chapter stamp gains `sums` and `general`, and `revision` is written only with a register. Stamps written before
+  (a revision only) are read and compared by revision. New file: `.tanakh/general.jsonl`. New layout: `.tanakh/runs/<BOOK>.json`.
+- A migration record in the `book` layout carries `edit_rows` and an empty `edits`; in the `chapter` layout nothing
+  changes.
+
+**Migration:** nothing has to move. A project on the JSON store (a work copy) gets the `book` layout by default; run
+`python3 scripts/lifecycle.py stamp <project> --all` once to record the chapters already drafted, then commit
+`.tanakh/`. A project with a register keeps per-chapter files unless it sets `lifecycle: {files: book}`; its old stamps
+then move into the book files as chapters are stamped again.
+
 ## v0.9.2
 
 **The checks stop pushing agents off right words; our own drafts repeated are no quotation** (from the work copy's

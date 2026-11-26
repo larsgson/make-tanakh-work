@@ -135,23 +135,42 @@ has `match`, `replace`, `said` and patterns that compile; `orthography.respell` 
 
 `register.py stale | migrate | stamp` run `scripts/lifecycle.py`'s commands of the same name (the code lives there).
 
-- **Revisions:** `register.py bump` writes `VERSION.json` (`revision`, a number; the entries' digests) and a line of
+- **Revisions** (optional since v0.10.0: a named state of the register, for a project or language repository that
+  wants one; `stale` doesn't need them): `register.py bump` writes `VERSION.json` (`revision`, a number; the entries' digests) and a line of
   `REVISIONS.jsonl` with the ids changed since the last revision. `convert` makes revision 1, the store as it was; 0
   is a register before its first bump. The git tag of a revision is `register-<n>` (a language repository has other
   tags beside it); `bump` suggests it and makes none. Readers take `3` and `register-3` alike (`register.rev_n`; files
   written before v0.6.0 say `register-<n>`), and so does `lifecycle.py stale --since`.
-- **Stamps:** `make_prompt.py` records the revision a chapter is drafted against, `chapter_check.py` the one its checks
-  last ran against: `.tanakh/runs/<BOOK>_<CCC>.json` in the project folder, `{"drafted": {revision, when}, "checked":
-  {...}}` (make-tanakh-grammar's run record place). A chapter without a stamp counts as drafted against revision 1.
-- **Stale:** `lifecycle.py stale <project> [--since REV] [--ids …] [--verses]`: per changed decision the chapters that
-  predate it, with the verses it touches (spelling rules on the text; terms and names through the .align).
-- **Migrate:** `lifecycle.py migrate <project> --ids … [--books …] [--apply]`, a dry run by default. Whether a decision
+- **Stamps:** `make_prompt.py` records what a chapter is drafted with, `chapter_check.py` (when nothing is left to
+  fix) what it was last checked with, in every project, the register or the JSON store alike: `{"drafted": {when,
+  sums, general, revision}, "checked": {...}}`. `sums` holds the checksums of the decisions that apply to the chapter
+  by their source word (decided and proposed terms, names and formulas whose source word is in it); `general` is the
+  digest of all the other decisions (rules, letters, morphs, words, spelling, the orthography, formulas that are
+  phrases), whose checksums are kept once in `.tanakh/general.jsonl` (a line per new state, each a change from the
+  line before); `revision` only with a register. The checksum (`register.binding_sum`, 12 hex) covers what binds: the
+  envelope's kind, value, status, basis, scope and supersedes and the kind's whole payload (renderings with their
+  statuses, denials); not evidence, note, by, when, from or origin, so an added evidence line marks nothing stale.
+  Where: `.tanakh/runs/<BOOK>.json` (`{book, chapters: {"<ch>": stamp}}`) or `.tanakh/runs/<BOOK>_<CCC>.json` (a
+  language repository's layout, make-tanakh-review FORMAT.md section 13), as project.yaml `lifecycle: {files: book |
+  chapter}` says (default `chapter` with a register, else `book`); both are read, the chapter's file first.
+  `lifecycle.py stamp <project> --all [--what checked]` stamps every drafted chapter that has no checksums yet, as it
+  is now (once, when a project starts using stamps). A stamp written before v0.10.0 (a revision only) still compares
+  by revision.
+- **Stale:** `lifecycle.py stale <project> [--ids …] [--books …] [--verses]`: per decision the chapters it changed for
+  since their stamp (the checked one, else the drafted one): `changed` (another checksum), `new` (it applies now, the
+  stamp doesn't have it), `superseded` / `retired` / `removed`. No revisions are needed, so it works on the JSON
+  store, across a history reset and for a store outside git. `--since REV` compares by the register's revisions
+  instead, as before. `--verses`: the verses each touches (spelling rules on the text; terms and names through the
+  .align).
+- **Migrate:** `lifecycle.py migrate <project> --ids … [--books …] [--apply]`, a dry run by default, on the register
+  or the JSON store. Whether a decision
   is carried back is a choice per batch, recorded in the migration record (`.tanakh/text-migrations/<time>.json`: ids,
   chapters, applied or proposed, edit files, fingerprints before and after); there is no `applies` field. Mechanical:
   `spelling` (our own text only, never notes, footnotes or store evidence) and term/name swaps the .align locates (one
   linked draft word that is the old value as written; case kept); the rest goes to a review list. Each change is an
   edit record in make-tanakh-review's format (FORMAT.md section 10: `who: script:migrate`, `entry` the decision id, op
-  `R`, cat `SPELL` or `WORD`) under `.tanakh/edits/<BOOK>/<BOOK>_<CCC>/`; the `# text` fingerprint of the chapter's
+  `R`, cat `SPELL` or `WORD`) under `.tanakh/edits/<BOOK>/<BOOK>_<CCC>/` (the `chapter` layout), or in the
+  migration record's `edit_rows` (`{"<BOOK>_<CCC>": [rows]}`, the `book` layout: one file per batch); the `# text` fingerprint of the chapter's
   .align is rewritten (one token for one token: positions stay). `migrate --undo <record>` reverses a batch with new
   edit records. Chapters the team has published (`status.py`) get proposals only; the review project's approval signal
   is not settled yet (a hook in `lifecycle.published`).

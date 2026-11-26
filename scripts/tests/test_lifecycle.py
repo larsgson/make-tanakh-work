@@ -37,6 +37,7 @@ assert LC.case_like("Wält", "wäut") == "Wäut" and LC.case_like("HERR", "herr"
 # a batch: Wält -> Wäut (both verses), voll -> vou
 LC.project_dir = lambda p: pdir
 LC.ROOT = d
+LC.layout = lambda p: "chapter"                              # a language repository's layout: a file per chapter
 R = W.Respeller([{"match": "l", "replace": "u", "context": {"before": "[äo]", "after": "t"}}, {"match": "ll$", "replace": "u"}])
 changes = []
 for v, p, a, b, cut in toks:
@@ -65,12 +66,58 @@ assert after == before, [f for f in before if before[f] != after.get(f)]
 assert rec2["undo_of"] == os.path.basename(rec_f) and len(rec2["changes"]) == 3
 
 # stamps
+import types  # noqa: E402
 LC.RG.revision = lambda prof: 3
 LC.RG.profile_of = lambda p: pdir
-s = LC.stamp("toy", "gen", 1, "drafted")
+LC.RG.has_register = lambda prof: True
+GEN = {"rule:word-order": "a1", "letter:x": "b1"}
+D = types.SimpleNamespace(general=dict(GEN), of=lambda c, ch: ({"term:H639": "c1"}, LC.general_digest(D.general)))
+s = LC.stamp("toy", "gen", 1, "drafted", D=D)
+assert s["drafted"]["sums"] == {"term:H639": "c1"} and s["drafted"]["general"] == LC.general_digest(GEN)
 assert s["drafted"]["revision"] == 3 and LC.drafted_rev("toy", "gen", 1) == 3
 assert LC.drafted_rev("toy", "gen", 2) == 1
 s["drafted"]["revision"] = "register-2"                      # a stamp written before v0.6.0 still compares
 open(LC.run_file("toy", "gen", 1), "w", encoding="utf-8").write(json.dumps(s))
 assert LC.drafted_rev("toy", "gen", 1) == 2
+
+# the checksum: what binds, not evidence or notes; the same for an entry read from either store form
+e = {"id": "term:H639", "kind": "term", "value": "fred", "status": "decided", "basis": "human", "by": "agent:x",
+     "when": "2026-11-26", "source": "H7965", "renderings": [{"value": "fred", "status": "preferred"}]}
+assert LC.RG.binding_sum(e) == LC.RG.binding_sum(dict(e, evidence=[{"ref": "GEN 1:1"}], note="more", when="2026-12-01"))
+assert LC.RG.binding_sum(e) != LC.RG.binding_sum(dict(e, basis="team"))
+assert LC.RG.binding_sum(e) != LC.RG.binding_sum(dict(e, denials=["frid"]))
+
+# the general log: one line per new state, each a change from the last; read back exactly
+t1 = LC.general_tables("toy")[LC.general_digest(GEN)]
+assert t1 == GEN
+GEN2 = {"rule:word-order": "a2", "spelling:aa": "d1"}
+LC.save_general("toy", GEN2); LC.save_general("toy", GEN2)
+lines = open(LC.general_file("toy"), encoding="utf-8").read().splitlines()
+assert len(lines) == 2 and json.loads(lines[1])["drop"] == ["letter:x"] and "spelling:aa" in json.loads(lines[1])["set"]
+assert LC.general_tables("toy")[LC.general_digest(GEN2)] == GEN2
+
+# stale: changed, new, retired, removed; a stamp without checksums: None
+tables = LC.general_tables("toy")
+st = {"checked": {"sums": {"term:H639": "c1", "term:old": "e1", "name:gone": "f1"}, "general": LC.general_digest(GEN)}}
+got = LC.stale_ids(st, {"term:H639": "c2", "term:new": "g1"}, GEN2, tables, {"term:old": "retired"})
+assert got == {"term:H639": "changed", "term:old": "retired", "name:gone": "removed", "rule:word-order": "changed",
+               "letter:x": "removed", "term:new": "new", "spelling:aa": "new"}, got
+assert LC.stale_ids({"drafted": {"revision": 2}}, {}, {}, tables, {}) is None
+st["checked"]["general"] = "unknown"                         # a state the log lacks: the lexical ones only
+assert set(LC.stale_ids(st, {"term:H639": "c1"}, GEN2, tables, {})) == {"term:old", "name:gone"}
+
+# a work copy's layout: one stamp file per book (the chapter's own file moves into it), the batch's edit records in
+# its migration record
+LC.layout = lambda p: "book"
+LC.stamp("toy", "gen", 1, "checked", D=D); LC.stamp("toy", "gen", 2, "checked", D=D)
+assert not os.path.exists(LC.run_file("toy", "gen", 1))
+b = json.load(open(LC.book_file("toy", "gen"), encoding="utf-8"))
+assert list(b["chapters"]) == ["1", "2"] and b["chapters"]["1"]["drafted"]["revision"] == "register-2"
+assert LC.read_stamp("toy", "gen", 2)["checked"]["sums"] == {"term:H639": "c1"}
+toks = LC.verse_tokens(open(txt, encoding="utf-8").read())
+ch2 = [dict(x, start=next(a for v, p, a, b, _ in toks if v == x["v"] and p == x["pos"]),
+            end=next(b for v, p, a, b, _ in toks if v == x["v"] and p == x["pos"])) for x in changes]
+rec_f3, rec3 = LC.apply_changes("toy", ch2, ["spelling:toy"], "20261126T000000Z")
+assert rec3["edits"] == [] and len(rec3["edit_rows"]["GEN_001"]) == 3 and rec3["edit_rows"]["GEN_001"][0]["who"] == "script:migrate"
+assert not os.path.exists(os.path.join(pdir, ".tanakh", "edits", "GEN", "GEN_001", "20261126T000000Z-script-migrate.jsonl"))
 print("ok")

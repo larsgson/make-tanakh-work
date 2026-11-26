@@ -54,6 +54,7 @@ with `role: revise` must be CC0; `scripts/project.py` refuses any other.
 | `quarantine`, `do_not_open` | books and paths kept from the agents (`scripts/quarantine.py` maintains `quarantine`) |
 | `quarantine_attributable` | `true`: also quarantine books a CC BY / BY-SA style edition has |
 | `lexeme_aligner` | id of a bcv-commons alignment layer for the style edition (below) |
+| `lifecycle` | `{files: book \| chapter}`: the stamps (`.tanakh/runs/`) one file per book and a migration's edit records inside its record (few files, for a work copy), or a file per chapter each (make-tanakh-review's layout for language repositories); default `chapter` with a register, else `book`; both are read (`docs/register.md`, *Lifecycle*) |
 | `words` | the word DB (`scripts/words.py`, `docs/word-db.md`): `keep_marks` (marks kept when forms are compared; default the store's `orthography.keep_marks`, else diaeresis, ring, cedilla, ogonek), `variant_pairs` (letter pairs the spelling check tries, `[[y, i], [ä, e]]` by default; `[]` for none), `aligner` (lexeme-aligner's executable for `words.py align`), `spelling` (the word check's spelling lines: default as `spell_check`, off for a `known` language, whose other corpus spellings are mostly other words) |
 | `familiarity` | `known` (default) \| `partial` \| `unknown`: picks the rule bundle (`docs/prompts/modes.md`), the verse-pack level and the check defaults (`scripts/modes.py`) |
 | `close_to` | for `partial`: the standard language agents must not fall back on (`English` for Jamaican) |

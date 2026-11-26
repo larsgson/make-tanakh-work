@@ -316,9 +316,12 @@ def main():
     template = open(os.path.join(CODE, "docs", "prompts", "chapter_prompt.md"), encoding="utf-8").read()
     body = template.split("\n---\n", 1)[1]
     text = body.format(**fields)
-    if RG.has_register(RG.profile_of(pname)):   # the chapter's stamp: drafted against this register revision
+    try:                                         # the chapter's stamp: the decisions it is drafted with (lifecycle.py)
         import lifecycle
         lifecycle.stamp(pname, code, chapter, "drafted")
+    except Exception as x:                       # noqa: BLE001  (a stamp never stops a prompt)
+        print(f"warning: no stamp for {code} {chapter}: {x}", file=sys.stderr)
+    if RG.has_register(RG.profile_of(pname)):
         text = RG.agent_wording(text, pname)
     print(re.sub(r"\n{3,}", "\n\n", text).strip())
 

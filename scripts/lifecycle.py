@@ -1,21 +1,26 @@
 #!/usr/bin/env python3
-"""The decisions' lifecycle (docs/register.md, *Lifecycle*): which register revision a chapter was drafted and checked
-against, which chapters predate changed decisions, and carrying a decision back into chapters already drafted.
+"""The decisions' lifecycle (docs/register.md, *Lifecycle*): what a chapter was drafted and checked with, which chapters
+a changed decision has gone stale for, and carrying a decision back into chapters already drafted. On the register and
+on the JSON store alike.
 
     python3 scripts/lifecycle.py stamp <project> <code> <ch> drafted|checked   # (make_prompt and chapter_check do it)
-    python3 scripts/lifecycle.py stale <project> [--since REV] [--ids ID ...] [--books CODE ...] [--verses]
+    python3 scripts/lifecycle.py stamp <project> --all [--what checked] [--books CODE ...]   # chapters without checksums
+    python3 scripts/lifecycle.py stale <project> [--ids ID ...] [--books CODE ...] [--verses] [--since REV]
     python3 scripts/lifecycle.py migrate <project> --ids ID ... [--books CODE ...] [--apply] [--out DIR] [--rules FILE]
     python3 scripts/lifecycle.py migrate <project> --undo <record>
 
-The stamp: `.tanakh/runs/<BOOK>_<CCC>.json` in the project folder (make-tanakh-grammar's place for run records), with
-{"drafted": {revision, when}, "checked": {revision, when}}. A chapter without a stamp counts as drafted against the
-register's first revision (the store as it was converted).
+The stamp: {"drafted": {when, sums, general, revision}, "checked": {...}}: the checksums (register.binding_sum) of the
+decisions that apply to the chapter by their source word, the digest of the general ones (their checksums in
+`.tanakh/general.jsonl`), the register revision if there is a register. In `.tanakh/runs/<BOOK>.json` (a key per
+chapter) or `.tanakh/runs/<BOOK>_<CCC>.json` (make-tanakh-grammar's place for run records), as `layout` says. stale
+compares a chapter's stamp with the decisions now; --since compares by register revisions instead.
 
 migrate is a dry run by default: a report and the edit records it would write. --apply rewrites the chapter's text
 (.txt; the .tagged interim words alike), the `# text` fingerprint of its .align, and writes the edit records
-(`.tanakh/edits/<BOOK>/<BOOK>_<CCC>/<time>-script-migrate.jsonl`, make-tanakh-review's FORMAT.md section 10, who
-`script:migrate`, entry = the decision id) and a migration record (`.tanakh/text-migrations/<time>.json`: ids,
-chapters, applied or proposed, the edit files, the fingerprints before and after); `--undo <record>` reverses it.
+(make-tanakh-review's FORMAT.md section 10, who `script:migrate`, entry = the decision id: in the `chapter` layout
+`.tanakh/edits/<BOOK>/<BOOK>_<CCC>/<time>-script-migrate.jsonl`, in the `book` layout inside the migration record) and
+a migration record (`.tanakh/text-migrations/<time>.json`: ids, chapters, applied or proposed, the edits, the
+fingerprints before and after); `--undo <record>` reverses it.
 Mechanical: `spelling` entries (our own text only: verse text outside inline notes; never notes, footnotes, headings'
 quotations or store evidence), and term/name swaps where the chapter's .align links the source word to exactly one
 draft word that is the old value as written; anything else (an inflected form, a phrase, another kind) goes to the
@@ -34,26 +39,182 @@ ROOT = os.path.abspath(os.environ.get("MAKE_TANAKH_ROOT") or CODE)
 
 # ------------------------------------------------------------------ stamps
 
+DECISION_STATUS = ("decided", "proposed")       # what a chapter is drafted with (open entries are questions)
+NOT_DECISIONS = ("answer", "question")
+LEXICAL = ("term", "name", "formula")           # apply to a chapter where their source word is in it
+
+
+def layout(pname):
+    """where stamps and a migration's edit records go: 'chapter' (a file per chapter, make-tanakh-review's and
+    make-tanakh-grammar's layout for language repositories) or 'book' (a stamp file per book, a migration's edit
+    records inside its record: few files, for a work copy). project.yaml `lifecycle: {files: book | chapter}`; by
+    default 'chapter' for a project with a register, else 'book'. Both are always read."""
+    from project import project
+    f = ((project(pname).get("lifecycle") or {}).get("files") or "").strip()
+    if f in ("book", "chapter"):
+        return f
+    return "chapter" if RG.has_register(RG.profile_of(pname)) else "book"
+
+
 def run_file(pname, code, ch):
     return os.path.join(project_dir(pname), ".tanakh", "runs", f"{code.upper()}_{ch:03d}.json")
 
 
-def stamp(pname, code, ch, what, rev=None):
-    """record the register revision a chapter was drafted (make_prompt) or last checked (chapter_check) against"""
-    f = run_file(pname, code, ch)
-    d = json.load(open(f, encoding="utf-8")) if os.path.exists(f) else {"book": code.upper(), "chapter": ch}
-    d[what] = {"revision": rev or RG.revision(RG.profile_of(pname)),
-               "when": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")}
+def book_file(pname, code):
+    return os.path.join(project_dir(pname), ".tanakh", "runs", f"{code.upper()}.json")
+
+
+def _read(f):
+    return json.load(open(f, encoding="utf-8")) if os.path.exists(f) else None
+
+
+def _write(f, d):
     os.makedirs(os.path.dirname(f), exist_ok=True)
     with open(f, "w", encoding="utf-8") as fh:
-        fh.write(json.dumps(d, ensure_ascii=False, indent=1) + "\n")
-    return d
+        fh.write(json.dumps(d, ensure_ascii=False, indent=1, sort_keys=False) + "\n")
+
+
+def read_stamp(pname, code, ch):
+    """a chapter's stamp {drafted: {...}, checked: {...}} from either layout ({} if none); the chapter file wins"""
+    d = _read(run_file(pname, code, ch))
+    if d is not None:
+        return d
+    b = _read(book_file(pname, code)) or {}
+    return (b.get("chapters") or {}).get(str(ch)) or {}
+
+
+def write_stamp(pname, code, ch, d):
+    if layout(pname) == "chapter":
+        _write(run_file(pname, code, ch), dict({"book": code.upper(), "chapter": ch}, **d))
+        return
+    f = book_file(pname, code)
+    b = _read(f) or {"book": code.upper(), "chapters": {}}
+    b.setdefault("chapters", {})[str(ch)] = {k: v for k, v in d.items() if k not in ("book", "chapter")}
+    b["chapters"] = dict(sorted(b["chapters"].items(), key=lambda x: int(x[0])))
+    _write(f, b)
+    old = run_file(pname, code, ch)               # moved into the book's file
+    if os.path.exists(old):
+        os.remove(old)
+
+
+class Decisions:
+    """the project's decisions as a chapter is drafted with them: {id: binding_sum} of the decided and proposed
+    entries, split into those that apply where their source word is (terms, names, formulas naming a source word: by
+    their lexemes) and the general ones (every other kind: rules, letters, morphs, words, spelling, the orthography,
+    formulas that are phrases)"""
+    def __init__(self, pname):
+        import words as W
+        self.pname = pname
+        A = RG.entries(pname)
+        E = [e for e in A if e["status"] in DECISION_STATUS and e["kind"] not in NOT_DECISIONS]
+        self.status = {e["id"]: e["status"] for e in A}
+        lemmas = W.source_lemmas() if any(e["kind"] in LEXICAL for e in E) else {}
+        self.lexical, self.general, self.by_lex = {}, {}, collections.defaultdict(set)
+        for e in E:
+            lx = {x for _, x in W.entry_lexemes(RG.to_store(e, {}), lemmas)} if e["kind"] in LEXICAL else set()
+            if lx:
+                self.lexical[e["id"]] = (RG.binding_sum(e), lx)
+                for x in lx:
+                    self.by_lex[x].add(e["id"])
+            else:
+                self.general[e["id"]] = RG.binding_sum(e)
+
+    def of(self, code, ch):
+        """({id: sum} of the lexical decisions whose source word is in the chapter, the general digest). Without the
+        chapter's source index every lexical decision counts"""
+        import words as W
+        try:
+            _, S = W.chapter_source(code, ch)
+            here = {lx for toks in S.values() for _, lx, *_ in toks if lx}
+            ids = {i for x in here for i in self.by_lex.get(x, ())}
+        except Exception:                          # noqa: BLE001  (no orig/ index: all of them)
+            ids = set(self.lexical)
+        return {i: self.lexical[i][0] for i in sorted(ids)}, general_digest(self.general)
+
+
+def general_digest(table):
+    import hashlib
+    return hashlib.sha256(json.dumps(table, sort_keys=True).encode()).hexdigest()[:RG.SUM_LEN]
+
+
+def general_file(pname):
+    return os.path.join(project_dir(pname), ".tanakh", "general.jsonl")
+
+
+def general_tables(pname):
+    """{digest: {id: sum}} of the general decisions as stamps saw them: .tanakh/general.jsonl, one line per new state,
+    each a change from the line before ({digest, set: {id: sum}, drop: [id]}; the first line sets all)"""
+    out, cur = {}, {}
+    f = general_file(pname)
+    for line in open(f, encoding="utf-8") if os.path.exists(f) else []:
+        r = json.loads(line)
+        cur = {k: v for k, v in cur.items() if k not in set(r.get("drop") or [])} | (r.get("set") or {})
+        out[r["digest"]] = dict(cur)
+    return out
+
+
+def save_general(pname, table):
+    """append the general table to .tanakh/general.jsonl if it is a state not seen yet; its digest"""
+    dg = general_digest(table)
+    have = general_tables(pname)
+    if dg in have:
+        return dg
+    last = {}
+    f = general_file(pname)
+    if os.path.exists(f):
+        lines = open(f, encoding="utf-8").read().splitlines()
+        if lines:
+            last = have[json.loads(lines[-1])["digest"]]
+    r = {"digest": dg, "set": {k: v for k, v in sorted(table.items()) if last.get(k) != v},
+         "drop": sorted(set(last) - set(table))}
+    os.makedirs(os.path.dirname(f), exist_ok=True)
+    with open(f, "a", encoding="utf-8") as fh:
+        fh.write(json.dumps(r, ensure_ascii=False, sort_keys=False) + "\n")
+    return dg
+
+
+def stamp(pname, code, ch, what, rev=None, D=None):
+    """record what a chapter was drafted (make_prompt) or last checked (chapter_check) with: the checksums of the
+    decisions that apply to it (`sums`, the general ones by `general` digest) and, with a register, its revision"""
+    D = D or Decisions(pname)
+    sums, dg = D.of(code, ch)
+    save_general(pname, D.general)
+    d = read_stamp(pname, code, ch) or {}
+    d = {k: v for k, v in d.items() if k not in ("book", "chapter")}
+    r = {"when": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "sums": sums, "general": dg}
+    prof = RG.profile_of(pname)
+    if rev or RG.has_register(prof):
+        r["revision"] = rev or RG.revision(prof)
+    d[what] = r
+    write_stamp(pname, code, ch, d)
+    return dict({"book": code.upper(), "chapter": ch}, **d)
 
 
 def drafted_rev(pname, code, ch):
-    f = run_file(pname, code, ch)
-    d = json.load(open(f, encoding="utf-8")) if os.path.exists(f) else {}
+    d = read_stamp(pname, code, ch)
     return RG.rev_n((d.get("drafted") or {}).get("revision")) or 1
+
+
+def stale_ids(stamp_d, now, general_now, tables, status):
+    """{id: why} of the decisions that changed for a chapter since its stamp (the checked one, else the drafted one):
+    changed (another checksum), superseded / retired / removed, or new (applies now, not in the stamp); None where
+    the stamp has no checksums (written before v0.10.0)"""
+    s = stamp_d.get("checked") or stamp_d.get("drafted") or {}
+    if "sums" not in s:
+        return None
+    known = s.get("general") in tables             # a general state the log doesn't have: only the lexical ones compared
+    then = dict(s["sums"]) | (tables[s["general"]] if known else {})
+    cur = dict(now) | (general_now if known else {})
+    out = {}
+    for i, v in then.items():
+        if i not in cur:
+            out[i] = status.get(i) or "removed"     # superseded, retired, open again, or gone
+        elif cur[i] != v:
+            out[i] = "changed"
+    for i in cur:
+        if i not in then:
+            out[i] = "new"
+    return out
 
 
 def chapters(pname, books=None):
@@ -311,7 +472,8 @@ def apply_changes(pname, changes, ids, stamp_s, undo_of=None):
                 fps[os.path.relpath(al, ROOT)] = [old[1], new]
     d = project_dir(pname)
     rows = edit_rows(changes, commit)
-    for (code, c), rs in rows.items():
+    inline = layout(pname) == "book"              # few files: the batch's edit records inside its record
+    for (code, c), rs in rows.items() if not inline else ():
         f = os.path.join(d, ".tanakh", "edits", code.upper(), f"{code.upper()}_{c:03d}", f"{stamp_s}-script-migrate.jsonl")
         os.makedirs(os.path.dirname(f), exist_ok=True)
         with open(f, "w", encoding="utf-8") as fh:
@@ -320,6 +482,8 @@ def apply_changes(pname, changes, ids, stamp_s, undo_of=None):
     rec = {"when": stamp_s, "ids": ids, "applied": True, "undo_of": undo_of, "commit": commit,
            "chapters": sorted({f"{x['code']}{x['ch']:03d}" for x in changes}), "edits": files, "fingerprints": fps,
            "changes": [{k: x[k] for k in ("code", "ch", "v", "pos", "start", "old", "new", "entry", "cat")} for x in changes]}
+    if inline:
+        rec["edit_rows"] = {f"{code.upper()}_{c:03d}": rs for (code, c), rs in sorted(rows.items())}
     f = os.path.join(d, ".tanakh", "text-migrations", f"{stamp_s}.json")
     os.makedirs(os.path.dirname(f), exist_ok=True)
     json.dump(rec, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
@@ -356,11 +520,52 @@ def undo(pname, recf):
 
 # ------------------------------------------------------------------ commands
 
+def stale_by_sums(a):
+    """stale from the stamps' checksums (either store form; no revisions needed): per decision the chapters it changed
+    for since they were stamped. A stamp without checksums (before v0.10.0) falls back to the register's revisions"""
+    prof = RG.profile_of(a.project)
+    D, tables = Decisions(a.project), general_tables(a.project)
+    per, why, none, old = collections.defaultdict(list), collections.defaultdict(collections.Counter), [], []
+    for code, c_, path in chapters(a.project, a.books):
+        st = read_stamp(a.project, code, c_)
+        now, _ = D.of(code, c_)
+        ids = stale_ids(st, now, D.general, tables, D.status) if st else None
+        if ids is None:
+            if st and RG.has_register(prof):
+                ids = {i: w for i, w in RG.changed_since(prof, drafted_rev(a.project, code, c_)).items()}
+            else:
+                (old if st else none).append(f"{code.upper()} {c_}"); continue
+        for i, w in ids.items():
+            if not a.ids or i in a.ids:
+                per[i].append((code, c_)); why[i][w] += 1
+    E = {e["id"]: e for e in RG.entries(a.project)}
+    changes, review = plan(a.project, sorted(per), a.books) if a.verses and per else ([], [])
+    where = collections.defaultdict(lambda: collections.defaultdict(set))
+    for x in changes:
+        for i in x["entry"].split("+"):
+            where[i][(x["code"], x["ch"])].add(x["v"])
+    for i in sorted(per):
+        k = E.get(i, {}).get("kind", "?")
+        print(f"{i} ({k}, {', '.join(f'{w} {n}' for w, n in why[i].most_common())}; mechanical: "
+              f"{RG.MECHANICAL.get(k, 'no')}): {len(per[i])} chapters stamped before it")
+        if a.verses and where.get(i):
+            print("   verses: " + "; ".join(f"{c.upper()} {n}:{','.join(map(str, sorted(vs)))}"
+                                       for (c, n), vs in sorted(where[i].items())[:30]))
+    if a.verses:
+        print(f"review list: {len(review)}")
+    if none or old:
+        print(f"{len(none) + len(old)} chapters without a stamp to compare ({', '.join((none + old)[:8])}"
+              f"{' …' if len(none) + len(old) > 8 else ''}): `python3 scripts/lifecycle.py stamp {a.project} --all` "
+              "records them as they are now")
+    print(f"{a.project}: {len(per)} decisions changed for {len({x for v in per.values() for x in v})} chapters")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
-    c = sub.add_parser("stamp"); c.add_argument("project"); c.add_argument("code"); c.add_argument("ch", type=int)
-    c.add_argument("what", choices=("drafted", "checked"))
+    c = sub.add_parser("stamp"); c.add_argument("project"); c.add_argument("rest", nargs="*", help="<code> <ch> drafted|checked")
+    c.add_argument("--all", action="store_true", help="every drafted chapter without a stamp (or without checksums), as it is now")
+    c.add_argument("--what", default="checked", choices=("drafted", "checked")); c.add_argument("--books", nargs="*")
     c = sub.add_parser("stale"); c.add_argument("project"); c.add_argument("--since"); c.add_argument("--ids", nargs="*")
     c.add_argument("--books", nargs="*"); c.add_argument("--verses", action="store_true"); c.add_argument("--rules")
     c = sub.add_parser("migrate"); c.add_argument("project"); c.add_argument("--ids", nargs="*", default=[])
@@ -369,7 +574,19 @@ def main():
     c.add_argument("--sample", type=int, default=0)
     a = ap.parse_args()
     if a.cmd == "stamp":
-        print(json.dumps(stamp(a.project, a.code, a.ch, a.what), ensure_ascii=False))
+        if a.all:
+            D, n = Decisions(a.project), 0
+            for code, c_, _ in chapters(a.project, a.books):
+                st = read_stamp(a.project, code, c_).get(a.what) or {}
+                if "sums" not in st:
+                    stamp(a.project, code, c_, a.what, D=D); n += 1
+            print(f"{a.project}: {n} chapters stamped ({a.what}), as they are now; layout: {layout(a.project)}")
+            return
+        if len(a.rest) != 3 or a.rest[2] not in ("drafted", "checked"):
+            ap.error("stamp <project> <code> <ch> drafted|checked, or stamp <project> --all [--what checked]")
+        print(json.dumps(stamp(a.project, a.rest[0], int(a.rest[1]), a.rest[2]), ensure_ascii=False))
+    elif a.cmd == "stale" and not a.since:
+        stale_by_sums(a)
     elif a.cmd == "stale":
         prof = RG.profile_of(a.project)
         E, ch = changed_entries(a.project, a.since, a.ids)
@@ -416,7 +633,9 @@ def main():
             json.dump({"ids": a.ids, "applied": False, "changes": len(do), "published": len(pub), "review": len(review),
                        "per book": dict(per)}, open(os.path.join(a.out, "summary.json"), "w"), indent=1)
             print("dry run written to", a.out)
-        if a.apply:
+        if a.apply and not do:
+            print("nothing to apply")
+        elif a.apply:
             s = time.strftime("%Y%m%dT%H%M%SZ", time.gmtime())
             f, rec = apply_changes(a.project, do, a.ids, s)
             print(f"applied: {len(do)} changes; record {os.path.relpath(f, ROOT)}")
