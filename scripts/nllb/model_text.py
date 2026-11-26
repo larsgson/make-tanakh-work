@@ -186,7 +186,9 @@ class Codec:
             if not pc:
                 continue
             t, codes = self.lex(pc)
-            t = {"prefix": t + self.J, "infix": self.J + t + self.J, "suffix": self.J + t}.get(m.slot, t)
+            slot = "prefix" if m.slot == "infix" and not out else m.slot   # an infix that begins the word (um-alis)
+            t = {"prefix": t + self.J, "infix": self.J + t + self.J, "redup": t + self.J,
+                 "suffix": self.J + t}.get(slot, t)
             out += [t] + codes
         return out
 

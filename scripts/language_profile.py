@@ -44,7 +44,7 @@ import register as RG  # noqa: E402
 
 KINDS = {"feature", "letter", "gap", "term", "formula", "name", "morph", "cell", "claim", "word", "spelling"}
 NEEDS_EVIDENCE = {"feature", "term", "formula", "name", "morph", "word"}
-SLOTS = {"prefix", "suffix", "infix", "clitic", "free", "tone"}
+SLOTS = {"prefix", "suffix", "infix", "clitic", "free", "tone", "redup"}
 VERDICTS = {"confirmed", "corpus-only", "contradicted", "new", "open"}
 TESTS = {"corpus", "greek", "hebrew", "nllb", "team"}
 ENUMS = {"confidence": {"high", "medium", "low"}, "method": {"corpus-observed", "corpus-derived", "project-decision", "external", "team-decision"},
@@ -124,9 +124,10 @@ def text_dir_of(args, iso, edition):
     return os.path.join(ROOT, e["dir"], e.get("text_dir", "text"))
 
 
-def morph_in(form, slot, verse, marks, chain=False):
+def morph_in(form, slot, verse, marks, chain=False, site=None):
     """does the morph occur in the verse, on its side of a word (parts of a hyphenated word count as words); an affix
-    of a chain (an entry with `position`) may stand inside the word, after (before) the chain's other affixes"""
+    of a chain (an entry with `position`) may stand inside the word, after (before) the chain's other affixes; an infix
+    after the stem's onset may begin a word (um-alis)"""
     bare = normal(form.strip("-="), marks)
     if not bare:
         return False
@@ -136,7 +137,7 @@ def morph_in(form, slot, verse, marks, chain=False):
     if slot == "suffix":
         return any((bare in w[1:] if chain else w.endswith(bare)) and len(w) > len(bare) for w in words)
     if slot == "infix":
-        return any(bare in w[1:-1] for w in words)
+        return any(bare in (w[:-1] if site == "after_onset" else w[1:-1]) for w in words)
     return any(w == bare or bare in w for w in words)
 
 
@@ -213,9 +214,14 @@ def main():
                 others.append((where, e))
             k = e.get("kind")
             if k == "morph":
-                for f in ("form", "slot", "host"):
+                for f in ("slot", "host") if e.get("slot") == "redup" else ("form", "slot", "host"):
                     if not e.get(f):
                         problems.append(f"{where}: a morph needs {f}")
+                if e.get("slot") == "redup" and e.get("pattern") not in ("CV", "CVC", "full"):
+                    problems.append(f"{where}: a redup morph needs pattern CV, CVC or full")
+                if e.get("site") and not (e.get("slot") == "infix" and e["site"] in ("after_prefix", "after_onset")
+                                          or e.get("slot") == "redup" and e["site"] == "before_stem"):
+                    problems.append(f"{where}: site {e['site']!r} (an infix: after_prefix or after_onset; redup: before_stem)")
                 if e.get("slot") and e["slot"] not in SLOTS:
                     problems.append(f"{where}: slot {e['slot']!r}")
                 if e.get("written") and (e["written"] not in ("fused", "hyphen", "both")
@@ -311,8 +317,9 @@ def main():
                     continue
                 if text and k == "word" and e.get("form"):
                     found_form = found_form or normal(e["form"], marks) in re.findall(rf"[\w{WORD_MARKS}\ua789'-]+", normal(text[key], marks))
-                if text and k == "morph" and e.get("slot") != "tone" and e.get("form"):
-                    found_form = found_form or morph_in(e["form"], e.get("slot"), text[key], marks, bool(e.get("position")))
+                if text and k == "morph" and e.get("slot") not in ("tone", "redup") and e.get("form"):
+                    found_form = found_form or morph_in(e["form"], e.get("slot"), text[key], marks, bool(e.get("position")),
+                                                        e.get("site"))
                 if text and e.get("kind") in ("term", "formula", "name") and e.get("attested") != "by-rule":
                     form = r.get("form") or (G.split_value(e["value"])[0] if isinstance(e["value"], str) else "")
                     form = re.sub(r"<[^>]*>", "", form).strip()
@@ -322,7 +329,7 @@ def main():
                 problems.append(f"{where}: value {e.get('value')!r} not found in any cited verse")
             if text and k == "word" and e.get("evidence") and not found_form:
                 problems.append(f"{where}: word {e.get('form')!r} not found as a whole word in any cited verse")
-            if text and k == "morph" and e.get("slot") != "tone" and e.get("evidence") and not found_form:
+            if text and k == "morph" and e.get("slot") not in ("tone", "redup") and e.get("evidence") and not found_form:
                 problems.append(f"{where}: morph {e.get('form')!r} not found ({e.get('slot')}) in any cited verse")
             if text and marks and e.get("kind") in ("term", "formula", "name") and e.get("status") != "superseded" \
                     and isinstance(e.get("value"), str):

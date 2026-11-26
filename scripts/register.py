@@ -36,7 +36,7 @@ KINDS = {   # kind -> (plural, payload keys): grammar's 12 + spelling
     "formula": ("formulas", ("source", "renderings", "gloss", "words", "attested", "pattern")),
     "word": ("words", ("form", "class", "parts", "gloss", "lexemes", "affixes", "never_split")),
     "morph": ("morphs", ("form", "slot", "host", "position", "unimorph", "written", "variants", "tone_pattern", "with",
-                         "productive", "greek", "agree", "class")),
+                         "productive", "greek", "agree", "class", "site", "pattern")),
     "letter": ("letters", ("examples",)),
     "orthography": ("orthography", ("normalization", "ignore_marks", "tone", "keep_marks", "respell")),
     "answer": ("answers", ("text", "ref", "entries", "who")),
@@ -635,17 +635,26 @@ def digest(e):
 
 def version(d):
     p = os.path.join(d, "VERSION.json")
-    return json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {"revision": "register-0", "digests": {}}
+    return json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {"revision": 0, "digests": {}}
 
 
 def revision(profile):
-    """the project's register revision (register-<n>; register-0 before the first bump or without a register)"""
-    return version(register_dir(profile)).get("revision", "register-0") if has_register(profile) else "register-0"
+    """the project's register revision, a number (0 before the first bump or without a register; v0.5.0 and before
+    wrote register-<n>, read here as n)"""
+    return rev_n(version(register_dir(profile)).get("revision")) if has_register(profile) else 0
 
 
 def rev_n(rev):
-    m = re.match(r"register-(\d+)$", str(rev or ""))
+    """a revision as its number: 3, "3" and "register-3" (the git tag, and the files before v0.6.0) are all 3"""
+    if isinstance(rev, int):
+        return rev
+    m = re.match(r"(?:register-)?(\d+)$", str(rev or ""))
     return int(m[1]) if m else 0
+
+
+def tag_of(rev):
+    """the git tag name of a revision: register-<n> (a language repository has other tags beside it)"""
+    return f"register-{rev_n(rev)}"
 
 
 def revisions(profile):
@@ -656,14 +665,13 @@ def revisions(profile):
 
 def bump(profile, date=None):
     """a new revision: VERSION.json {revision, date, entries, sha256, digests}, a REVISIONS.jsonl line of the ids changed
-    since the last one. The revision is also a suggested git tag name; no tag is made"""
+    since the last one. The revision is a number; tag_of gives the git tag name to suggest (no tag is made)"""
     d = register_dir(profile); v = version(d); E = load(d, store=False)
     dig = {e["id"]: digest(e) for e in E}
     old = v.get("digests") or {}
     changed = {i: "added" for i in dig if i not in old} | {i: "changed" for i in dig if i in old and old[i] != dig[i]} \
         | {i: "removed" for i in old if i not in dig}
-    n = rev_n(v.get("revision")) + 1
-    rev = f"register-{n}"; date = date or datetime.date.today().isoformat()
+    rev = rev_n(v.get("revision")) + 1; date = date or datetime.date.today().isoformat()
     whole = hashlib.sha256("".join(f"{i}\t{dig[i]}\n" for i in sorted(dig)).encode()).hexdigest()
     by = {}
     for e in E:
@@ -781,7 +789,7 @@ def convert(profile, keep=False, when=None):
         if json.dumps(back[fn], ensure_ascii=False) != json.dumps(data, ensure_ascii=False):
             sys.exit(f"round trip failed for {fn}: the register is in {d}, the JSON files are kept")
     if first:
-        bump(profile, when)                  # register-1: the store as it was converted
+        bump(profile, when)                  # revision 1: the store as it was converted
     if not keep:
         for fn in files:
             if os.path.exists(os.path.join(profile, fn)):
@@ -860,7 +868,7 @@ def main():
         set_status(prof, a.id, a.status); print(a.id, "->", a.status)
     elif a.cmd == "bump":
         rev, ch = bump(prof, a.date)
-        print(f"{rev}: {len(ch)} entries changed (suggested tag name: {rev}; no tag made)")
+        print(f"revision {rev}: {len(ch)} entries changed (suggested tag name: {tag_of(rev)}; no tag made)")
 
 
 if __name__ == "__main__":

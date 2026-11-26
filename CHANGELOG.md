@@ -4,6 +4,58 @@ Tags are `vMAJOR.MINOR.PATCH`. A work copy merges a tag; make-tanakh-grammar pin
 Each entry has a **Format changes** section for the stable formats listed in `docs/related-repos.md`, section 4:
 what changed and how existing files move over. Before 1.0 a breaking format change raises the minor version.
 
+## v0.7.0
+
+**Infixes after the stem's onset and reduplication in the morph view** (make-tanakh-research's request, 2026-11-14,
+found on Tagalog: the verb is focus affix x aspect over a root). Both are store entries a team writes from a grammar
+sketch, with no code of its own (`docs/language-store.md`, *Morphs* and *The morph view*):
+
+```json
+{"kind": "morph", "slot": "infix", "form": "-um-", "site": "after_onset", "host": "verb"}
+{"kind": "morph", "slot": "redup", "pattern": "CV", "site": "before_stem", "value": "IPFV/CTP", "host": "verb"}
+```
+
+- An infix's `site`: `after_prefix` (the default, as before) or `after_onset`: after the stem's consonants before its
+  first vowel, before a vowel-initial stem, with or without a prefix or suffix (*s-um-ulat*, *um-alis*, *i-s-in-ulat*,
+  *s-in-ulat-an*).
+- Slot `redup`, `pattern` `CV` | `CVC` | `full`: a copy of the root's first syllable or of the whole root before it,
+  after any prefix and infix (*su-sulat*, *nag-su-sulat*, *s-um-u-sulat*).
+- The splitter's rules hold: a piece comes off only where the root is attested (a stem of its own, or with another
+  infix or copy); the parts rebuild the token exactly; the label is the store form (`-um-`, `redup:CV`). An infix cuts
+  the stem (or the copy) into two pieces of one form: `s` / `-um-` / `ulat` are stem `sulat`, infix, stem `sulat`.
+- The callers: `align.py --by parts` takes a cut stem as one part (the root), the model text
+  (`nllb/model_text.py`) glues a copy to what follows and an infix that begins the word like a prefix (decoded back
+  exactly), `stem_forms` joins the pieces; `language_profile.py check` validates `site` and `pattern`; `grammar.basis`
+  includes them where an entry has them (existing fingerprints unchanged). Test: `scripts/tests/test_stem_morphs.py`,
+  the request's twelve Tagalog words.
+- A store without them splits byte-identically: checked on every corpus token of the Zinza and Kuni stores here.
+
+**Format changes:**
+- The language store and the register's `morph` kind: two optional fields, `site` and `pattern`, and the slot
+  `redup` (whose `form` is optional). Additive: existing stores and registers are unchanged. A morph view consumer
+  outside this repo may now see the slot `redup` and a word with two stem morphs (of one form).
+
+**Migration for a work copy:** merge v0.7.0; nothing to rewrite.
+
+## v0.6.0
+
+**The register's revision is a plain number in the files** (make-tanakh-grammar's request, 2026-11-12). The prefix
+`register-` earns its place only in the git tag, where a language repository has other tags beside it; inside the
+files the field is already called `revision`. `register.py`: `revision()` returns the number (0 before the first
+bump), `bump` writes it, `tag_of` gives the tag name it suggests; `rev_n` takes `3`, `"3"` and `"register-3"` alike.
+`lifecycle.py`: an unstamped chapter counts as drafted against 1; `stale --since` takes both forms.
+
+**Format changes:**
+- The register: `VERSION.json` and `REVISIONS.jsonl` `revision` is an integer (`"revision": 3`), the chapter stamp
+  `.tanakh/runs/<BOOK>_<CCC>.json` (`drafted.revision`, `checked.revision`) likewise. The git tag stays
+  `register-<n>`. Files written before (`"register-<n>"`) are still read, for this version at least, and compare with
+  the new ones; the next `bump` writes the number. A reader of these files outside this repo reads an integer now.
+
+**Migration for a work copy:** merge v0.6.0. Nothing has to be rewritten: a register at `register-1` reads as 1 and
+the next `bump` writes 2. To have the files in the new form at once, set `"revision": 1` in `VERSION.json` and on the
+line of `REVISIONS.jsonl` (the digests are untouched); `register.py check` reports `revision 1`. Stamps already
+written may stay as they are.
+
 ## v0.5.0
 
 **Two field names in the register, as make-tanakh-grammar decided** (the work copy's follow-up to v0.4.0,

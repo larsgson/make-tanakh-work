@@ -52,7 +52,7 @@ and the payload of its kind:
 | `name` | source, renderings, denials, replaces, gloss, words, attested, letters |
 | `formula` | source, renderings, gloss, words, attested, pattern |
 | `word` | form, class, parts, gloss, lexemes, affixes, never_split |
-| `morph` | form, slot, host, position, unimorph, written, variants, tone_pattern, with, productive, greek, agree, class |
+| `morph` | form, slot, host, position, unimorph, written, variants, tone_pattern, with, productive, greek, agree, class, site, pattern |
 | `letter` | examples |
 | `orthography` | normalization, ignore_marks, tone, keep_marks, respell |
 | `answer` | text, ref, entries, who |
@@ -135,11 +135,14 @@ has `match`, `replace`, `said` and patterns that compile; `orthography.respell` 
 
 `register.py stale | migrate | stamp` run `scripts/lifecycle.py`'s commands of the same name (the code lives there).
 
-- **Revisions:** `register.py bump` writes `VERSION.json` (`register-<n>`, the entries' digests) and a line of
-  `REVISIONS.jsonl` with the ids changed since the last revision. `convert` makes `register-1`, the store as it was.
+- **Revisions:** `register.py bump` writes `VERSION.json` (`revision`, a number; the entries' digests) and a line of
+  `REVISIONS.jsonl` with the ids changed since the last revision. `convert` makes revision 1, the store as it was; 0
+  is a register before its first bump. The git tag of a revision is `register-<n>` (a language repository has other
+  tags beside it); `bump` suggests it and makes none. Readers take `3` and `register-3` alike (`register.rev_n`; files
+  written before v0.6.0 say `register-<n>`), and so does `lifecycle.py stale --since`.
 - **Stamps:** `make_prompt.py` records the revision a chapter is drafted against, `chapter_check.py` the one its checks
   last ran against: `.tanakh/runs/<BOOK>_<CCC>.json` in the project folder, `{"drafted": {revision, when}, "checked":
-  {...}}` (make-tanakh-grammar's run record place). A chapter without a stamp counts as drafted against `register-1`.
+  {...}}` (make-tanakh-grammar's run record place). A chapter without a stamp counts as drafted against revision 1.
 - **Stale:** `lifecycle.py stale <project> [--since REV] [--ids …] [--verses]`: per changed decision the chapters that
   predate it, with the verses it touches (spelling rules on the text; terms and names through the .align).
 - **Migrate:** `lifecycle.py migrate <project> --ids … [--books …] [--apply]`, a dry run by default. Whether a decision
