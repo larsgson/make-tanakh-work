@@ -136,6 +136,27 @@ r = LC.verify("toy", "gen", 1, D2, {"P": types.SimpleNamespace(p={}, profile=pdi
 assert r["drift"]["term:X"]["verses"] == [[2, "Der"]], r["drift"]           # v1 has Herr, v2 links the word to "Der"
 assert sorted(v for v, _ in r["drift"]["spelling:toy"]["verses"]) == [1, 2]   # the text has Wäut (the batch above)
 assert r["unverified"] == {"term:P": "s4", "rule:r": "s3"} and r["sums"] == {} and r["general_table"] == {}
+
+# v0.13.1: what only differs, never drift (the false hits of a 67-project run)
+def run(ent_):
+    D3 = types.SimpleNamespace(entry=ent_, lexical={i: ("s", {"hbo:1"}) for i in ent_}, general={}, status={})
+    D3.of = lambda c, ch: ({i: "s" for i in ent_}, LC.general_digest({}))
+    return LC.verify("toy", "gen", 1, D3, {"P": types.SimpleNamespace(p={}, profile=pdir), "L": None, "common": {}, "names": []}), D3
+dec = lambda i, v, kind="term": {"id": i, "kind": kind, "status": "decided", "value": v, "source": "H1"}
+r3, _ = run({"term:a": dec("term:a", "da Her")})                    # an article not required, an ending allowed: Herr
+assert r3["followed_verses"] == {"term:a": 1} and r3["drift"]["term:a"]["verses"] == [[2, "Der"]], r3
+for v, kind, why in [("X sagt zu Y: „…“", "formula", "pattern"), ("Herr (der Schöpfer)", "term", "pattern"),
+                     ("עוֹלָם", "term", "pattern"), ("borgen Volk", "name", "phrase")]:
+    r3, _ = run({"x:1": dec("x:1", v, kind)})
+    assert not r3["drift"] and "x:1" in r3["unverified"] and any(why in k for k in r3["counts"]), (v, r3)
+r3, D3 = run({f"term:d:{w}": dec(f"term:d:{w}", w) for w in ("Herrn", "Herre", "Herrlis")})   # forms, not a choice
+assert not r3["drift"] and r3["counts"]["differs (one of several forms decided for the word)"] == 3, r3["counts"]
+r3, D3 = run({"term:a": dec("term:a", "da Her"), "name:n": dec("name:n", "Volk", "name")})
+r3["drift"]["name:n"] = {"sum": "s", "verses": [[1, "Der"], [2, "Der"]], "expected": "Volk"}
+r4 = {"drift": {"term:a": {"sum": "s", "verses": [[3, "x"], [4, "y"]]}}, "followed_verses": {}, "unverified": {},
+      "counts": LC.collections.Counter(drift=1)}
+assert LC.demote([r3, r4], D3) == {"term:a"}                        # broken in 3 verses, followed in 1: the entry
+assert "term:a" not in r3["drift"] | r4["drift"] and r4["unverified"] == {"term:a": "s"} and "name:n" in r3["drift"]
 LC.RG.to_store = to_store
 s = LC.stamp("toy", "gen", 1, "checked", D=D2, basis="verified",
              extra={"sums": r["sums"], "general_table": r["general_table"], "unverified": r["unverified"],

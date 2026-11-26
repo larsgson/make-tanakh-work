@@ -165,7 +165,14 @@ has `match`, `replace`, `said` and patterns that compile; `orthography.respell` 
     scope and sense), the draft has one of its forms (or another decision's on the same word: another bearer of a
     name), else the draft word the .align links to it is broken; with no link the verse is untested. Broken counts as
     drift only for a decided entry that names its word by number (H/G) or is a name; a term found by its lemma (a
-    homonym, another sense) and a proposal only differ. Spelling: drift where the rule still changes a draft word.
+    homonym, another sense) and a proposal only differ. Also only differ (v0.13.1): a formula, a value that is a
+    pattern or a description (a placeholder X, `…`, quotation marks, brackets, a word in another script than the
+    draft's), a value of several words (a phrase), and a term that is one of several forms decided for its word. A
+    value's words of one or two letters beside a longer one (an article) aren't required, and terms, like names, may
+    take an ending of up to two letters. Over the run (all chapters, or the `--books` given), a term broken in more
+    verses than it is followed in is set aside as `differs (broken in most of its verses: the entry may be too
+    broad)` and listed at the end: the entry needs a look, not the chapters. Names stay drift. Spelling: drift where
+    the rule still changes a draft word.
     Phrases, names without a source word, rules, morphs, letters and the orthography can't be tested. `sums` and
     `general` then hold only what the chapter follows; `drift` ({id: {sum, verses}}) what it breaks; `unverified`
     ({id: sum}) what couldn't be tested or only differs. The drift list is printed (all of it in `--report`,
