@@ -6,7 +6,9 @@ original that the notes quote comes from the open texts: the Westminster Leningr
 Hebrew in orig/heb.sqlite, and for the NT the Berean Greek Bible (orig/grc/, CC0).
 
 - A notes table with a row per verse (Verse · Hebrew · <language> · BSB · Comment) gets the whole verse in its original
-  column, written here from the WLC / BGB (the agent leaves it empty, or anything it wrote is replaced).
+  column, written here from the WLC / BGB (the agent leaves it empty, or anything it wrote is replaced). Its rows that
+  name one verse count: a partial chapter, or rows for a few verses beside ranges, is filled too; where the original
+  cell is empty in such a table, the BSB column must hold the verse (whole, or cut with …). A table not filled says why.
 - A table with a row per choice (Danish, Jamaican: the Hebrew phrase · the rendering · …) keeps the agent's phrase;
   quotes.py checks that a long one is the WLC word for word.
 - The file ends with a credit line for the original text (replaced, not repeated, on a second run).
@@ -88,32 +90,53 @@ def verse_numbers(cell):
     return out
 
 
-def per_verse(rows, orig):
-    """A row per verse whose original column is the verse (whole, left empty, or cut to a few words with …), not a
-    row per choice (Danish, Jamaican), even where a chapter has one choice per verse (a list of names)."""
-    vs = [verse_numbers(r[0]) for r in rows]
-    if not (rows and orig and len(rows) >= 0.8 * len(orig) and all(len(v) == 1 for v in vs)
-            and len({v[0] for v in vs}) == len(vs)):
-        return False
+def per_verse(rows, orig, head=None):
+    """(True, "") for a table with a row per verse whose original column is the verse (whole, left empty, or cut to a
+    few words with …), not a row per choice (Danish, Jamaican), even where a chapter has one choice per verse (a list of
+    names); else (False, why). Only its rows naming one verse count: a partial chapter, or rows for a few verses and
+    ranges (1-5) beside them, is still a per-verse table, and its one-verse rows get their verse."""
+    if not rows or not orig:
+        return False, "no table rows" if orig else "no original text for the chapter"
+    one = [(r, vs[0]) for r in rows for vs in [verse_numbers(r[0])] if len(vs) == 1 and vs[0] in orig]
+    if not one:
+        return False, "no row names a single verse"
+    if len({v for _, v in one}) < len(one):
+        return False, "a verse has more than one row (a row per choice)"
+
+    if len(one) >= 0.8 * len(orig) and len(one) == len(rows):
+        strict = False                           # a row for (nearly) every verse: a per-verse table, as it always was
+    else:                                        # a few rows: an empty original cell only where the English is the verse
+        strict = True
+    bsb = next((i for i, h in enumerate(head or []) if "BSB" in h.upper()), 3)
 
     def whole(r, v):
         cell = r[1].strip() if len(r) > 1 else ""
         n, full = len(cell.split()), len((orig.get(v) or "").split())
-        return not cell or cell.endswith("…") or (full and n >= 0.6 * full)
-    return sum(whole(r, v[0]) for r, v in zip(rows, vs)) >= 0.8 * len(rows)
+        if cell:
+            return cell.endswith("…") or bool(full and n >= 0.6 * full)
+        if not strict:
+            return True
+        eng = r[bsb].strip() if len(r) > bsb else ""
+        return eng.endswith("…") or len(eng.split()) >= 0.8 * full
+    w = sum(whole(r, v) for r, v in one)
+    if w < 0.8 * len(one):
+        return False, f"the rows hold phrases, not verses ({len(one) - w} of {len(one)}): a row per choice"
+    return True, ""
 
 
 def fill(path, code, ch):
-    """Fill one notes file: the whole verse in a per-verse table's original column, and the credit line. -> (cells, changed)"""
+    """Fill one notes file: the whole verse in a per-verse table's original column, and the credit line.
+    -> (cells, changed, why not filled or "")"""
     md = open(path, encoding="utf-8").read()
     rows, head, _, span = notes_table(md)
     orig = original_verses(code, ch)
-    lines, cells = md.splitlines(), 0
-    if span and head and len(head) >= 3 and per_verse(rows, orig):
+    lines, cells, why = md.splitlines(), 0, ""
+    ok, why = per_verse(rows, orig, head) if span and head and len(head) >= 3 else (False, "no notes table" if not span else "")
+    if ok:
         for i in range(span[0] + 2, span[1]):
             c = split_row(lines[i])
             vs = verse_numbers(c[0])
-            if len(c) >= 3 and vs and orig.get(vs[0]) and c[1] != orig[vs[0]]:
+            if len(c) >= 3 and len(vs) == 1 and orig.get(vs[0]) and c[1] != orig[vs[0]]:
                 c[1] = orig[vs[0]].replace("|", "/")
                 lines[i] = "| " + " | ".join(c) + " |"
                 cells += 1
@@ -121,7 +144,7 @@ def fill(path, code, ch):
     new = body + "\n\n" + CREDIT["nt" if BY_CODE[code][2] == "nt" else "ot"] + "\n"
     if new != md:
         open(path, "w", encoding="utf-8").write(new)
-    return cells, new != md
+    return cells, new != md, why
 
 
 def project_notes(pname):
@@ -152,11 +175,18 @@ def main():
     else:
         raise SystemExit(__doc__)
     cells = changed = 0
+    import collections
+    whys = collections.Counter()
     for f, code, ch in todo:
-        c, ch_ = fill(f, code, ch)
+        c, ch_, why = fill(f, code, ch)
         cells += c
         changed += ch_
-    print(f"{a[0]}: {len(todo)} notes files, {changed} changed, {cells} verses filled from the open original")
+        if why and len(todo) == 1:
+            print(f"{os.path.relpath(f, ROOT)}: original column not filled: {why}")
+        elif why:
+            whys[why.split(" (")[0]] += 1
+    print(f"{a[0]}: {len(todo)} notes files, {changed} changed, {cells} verses filled from the open original"
+          + ("; not filled: " + "; ".join(f"{n} {w}" for w, n in whys.most_common()) if whys else ""))
 
 
 if __name__ == "__main__":

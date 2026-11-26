@@ -439,6 +439,9 @@ def fetch_source(rec, force, edition_path=None):
             books.append((code, title, flat(usj["content"])))
         return meta.get("name") or sid, f"{OPENBIBLE}/openbible/{sid}/", statement, found, meta.get("version") or meta.get("updated"), books
     if src == "ebible":
+        import importlib.util
+        if importlib.util.find_spec("usfmtc") is None:    # say so before the download, not after it
+            raise SystemExit("  an eBible edition comes as USFM, parsed with usfmtc: pip install usfmtc")
         rows = list(csv.DictReader(io.StringIO(get(f"{EBIBLE}/translations.csv", os.path.join(DL, "_ebible", "translations.csv"), True).decode("utf-8-sig"))))
         row = next((r for r in rows if r["translationId"] == sid), None)
         if not row:

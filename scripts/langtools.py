@@ -280,6 +280,20 @@ class Project:
         return [w for w in self.tok.tokens(re.sub(r"<[^<>]*>", " ", text or ""), exact=True)
                 if re.fullmatch(r"[A-Za-z]{2,}", w) and w.lower() in self._eng and self.tok.plain(w) not in sp]
 
+    def name_forms(self):
+        """exact tokens of the live name entries' values and alternatives: a name is spelled as decided, never a
+        spelling question (Sarai is not Sara)"""
+        out = set()
+        for fn in ("observations.json", "decisions.json"):
+            f = os.path.join(self.profile, fn)
+            if RG.exists(f):
+                for e in RG.read(f).get("entries", []):
+                    if e.get("kind") == "name" and e.get("status") not in ("superseded", "rejected"):
+                        for v in [e.get("value")] + [a.get("value") for a in e.get("alternatives") or [] if isinstance(a, dict)]:
+                            if isinstance(v, str):
+                                out.update(self.tok.tokens(re.sub(r"<[^<>]*>|\([^()]*\)", " ", v), exact=True))
+        return out
+
     def store_forms(self):
         """Exact tokens of the live term, formula and name entries' values and alternatives (they count as attested): the
         target language only, so English in brackets (a gloss left in a value) and <slot> placeholders are left out, and
@@ -343,12 +357,16 @@ class Project:
             for x, k in c.items():
                 counts[W.bare(x, keep)] += k
         seen = collections.Counter(self.tok.tokens(text, exact=True))
-        marks, unknown, lex, own = [], [], None, {}
+        marks, unknown, lex, own, names = [], [], None, {}, None
         for w, n in seen.most_common():
             if w in changed and w not in written:
                 marks.append((w, n, [changed[w]]))
                 continue
             if w in store and w not in written:
+                if names is None:
+                    names = self.name_forms()
+                if w in names:                   # a decided name: its own spelling
+                    continue
                 vp = (self.p.get("words") or {}).get("variant_pairs")
                 if lex is None:
                     lex, own = self.store_lexemes(R, keep)

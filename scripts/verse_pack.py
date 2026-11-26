@@ -33,9 +33,12 @@ Levels (`--level`, default from the project's mode, scripts/modes.py):
             keeps the project's decisions in front of it).
 
 Usage: python3 scripts/verse_pack.py <project> <code> <chapter> [--level full|dialect|memory] [--similar K]
-                                     [--grammar] [--lexicon units|words] [--out FILE]
+                                     [--grammar] [--lexicon units|words] [--verses 1-5,8] [--out FILE]
+       --verses: only these verses (a selection run, or a long chapter in parts; the header stays whole)
 """
 import collections, glob, json, math, os, re, sys, unicodedata
+
+BIG = 100 * 1024                                   # a pack size worth a note (a long chapter of a large store)
 
 CODE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.path.abspath(os.environ.get("MAKE_TANAKH_ROOT") or CODE)   # the data root (books.py)
@@ -171,6 +174,14 @@ def main():
             if (bc, bv) in files[bc]:
                 assist[(chapter, hv)] = files[bc][(bc, bv)]
                 bsb_ref[hv] = (bc, bv)
+    if "--verses" in args:                         # a selection run: only its verses (the header stays whole)
+        want = set()
+        for part in args[args.index("--verses") + 1].split(","):
+            a_, _, b_ = part.partition("-")
+            want |= set(range(int(a_), int(b_ or a_) + 1))
+        assist = {k: t for k, t in assist.items() if k[1] in want}
+        if not assist:
+            raise SystemExit(f"--verses {args[args.index('--verses') + 1]}: none of them in {code} {chapter}")
     LP = LT.Project(pname)                         # the style corpus, paired with the BSB (scripts/langtools.py)
     glossary = LP.glossary()
     # never the chapter being drafted; the book's other chapters are the best models when the edition has them (its
@@ -484,6 +495,9 @@ def main():
     open(out, "w", encoding="utf-8").write("\n".join(L) + "\n")
     print(f"{out}: {len(assist)} verses, {len(L)} lines, {os.path.getsize(out) // 1024} KB; store hits: "
           f"{sum(1 for v in assist for _ in term_hits(content_words(assist[v])))} terms; still to search: {sum(need_total)} words")
+    if os.path.getsize(out) > BIG and "--verses" not in args:
+        print(f"note: a pack over {BIG // 1024} KB is more than an agent reads per chapter: give it the verses it "
+              f"drafts (--verses 1-5,8), or --level memory")
 
 
 if __name__ == "__main__":
