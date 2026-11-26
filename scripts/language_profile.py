@@ -113,15 +113,26 @@ def load_text(text_dir):
     return out
 
 
-def text_dir_of(args, iso, edition):
+def text_dirs_of(args, iso, edition):
+    """the text folders evidence may cite: --text-dir, else every style edition of --project, else the profile's
+    edition"""
     if "--text-dir" in args:
-        return args[args.index("--text-dir") + 1]
+        return [args[args.index("--text-dir") + 1]]
     from project import edition as ed_cfg, project as proj_cfg
+    eds = [edition]
     if "--project" in args:
-        p = proj_cfg(args[args.index("--project") + 1])
-        edition = p["style_from"][0]
-    e = ed_cfg(edition)
-    return os.path.join(ROOT, e["dir"], e.get("text_dir", "text"))
+        eds = proj_cfg(args[args.index("--project") + 1])["style_from"] or [edition]
+    return [os.path.join(ROOT, e["dir"], e.get("text_dir", "text")) for e in map(ed_cfg, eds)]
+
+
+def load_texts(dirs):
+    """load_text of several folders; a verse two editions have holds both texts (a line each), so evidence may cite
+    either"""
+    out = {}
+    for d in dirs:
+        for k, t in load_text(d).items():
+            out[k] = out[k] + "\n" + t if k in out and t not in out[k] else out.get(k, t)
+    return out
 
 
 def morph_in(form, slot, verse, marks, chain=False, site=None):
@@ -177,7 +188,7 @@ def main():
         respell_ids += [(fn, i) for i in (prof.get("orthography") or {}).get("respell") or []]
         if text is None:
             try:
-                text = load_text(text_dir_of(args, iso, edition))
+                text = load_texts(text_dirs_of(args, iso, edition))
             except Exception as e:  # noqa: BLE001
                 notes.append(f"edition text not found ({e}); references and forms not checked")
                 text = {}

@@ -21,8 +21,9 @@ no files; their scores set `familiarity` (scripts/modes.py, docs/onboarding.md, 
       export/<project>/_learn/probe.json.
 
 The verses are spread over the corpus (half narrative) with fixed seeds, so a probe can be repeated; the three
-probes use different verses. Thresholds (calibrated on the three pilots, docs/onboarding.md): write known >= 65,
-partial 30-65. Read the answers too: a write answer that slips into the standard language is what `partial` means.
+probes use different verses. The suggestion (calibrated on the pilots, docs/onboarding.md: `suggest`): read under 15
+above its floor, or write by verse under 10 above its floor: unknown; write by verse >= KNOWN_BY_VERSE (58): known;
+else partial. Read the answers too: a write answer that slips into the standard language is what `partial` means.
 """
 import datetime, difflib, json, os, random, re, sys, unicodedata
 
@@ -30,9 +31,6 @@ CODE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.path.abspath(os.environ.get("MAKE_TANAKH_ROOT") or CODE)   # the data root (books.py)
 sys.path.insert(0, os.path.join(CODE, "scripts"))
 import langtools as LT  # noqa: E402
-
-KNOWN, PARTIAL = 65.0, 30.0
-
 
 def sample(P, n, seed=20261014, avoid=()):
     """N verses of 8-30 words, half from narrative books (Gospels, Acts, OT narrative), the rest spread over the
@@ -99,7 +97,7 @@ def answers(path):
     for l in open(path, encoding="utf-8").read().splitlines():
         if "\t" in l:
             k, t = l.split("\t", 1)
-            out[k.strip()] = t.strip()
+            out[re.sub(r"[.):]+$", "", k.strip())] = t.strip()      # "1." "1)" "1:" are item 1
     return out
 
 
@@ -482,9 +480,10 @@ def main():
     ans = answers(score)
     if probe == "write":
         res = score_write(P, ans, n)
-        fam = "known" if res["chrf"] >= KNOWN else "partial" if res["chrf"] >= PARTIAL else "unknown"
-        print(f"{pname}: write chrF {res['chrf']} on {res['answered']} of {res['n']} verses: familiarity {fam} "
-              f"(known >= {KNOWN:.0f}, partial >= {PARTIAL:.0f}); verse by verse {res['chrf_by_verse']} (another corpus verse: {res['floor']})")
+        fam, why = suggest({"write": res})
+        print(f"{pname}: write chrF {res['chrf']} on {res['answered']} of {res['n']} verses, verse by verse "
+              f"{res['chrf_by_verse']} (another corpus verse: {res['floor']}): by this probe {fam} ({why}; known >= "
+              f"{KNOWN_BY_VERSE:.0f} by verse); `run` weighs the read and tell probes too")
     elif probe == "read":
         res = score_read(P, ans, n)
         print(f"{pname}: read chrF {res['chrf']} against the BSB, verse by verse, on {res['answered']} of {res['n']} verses "

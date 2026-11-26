@@ -414,6 +414,7 @@ def strip_tags(text):
     """The tagged text without its marks: the prose draft."""
     text = re.sub(r"[ \t]+\^-\d+(?:,\d+)*", "", text)                    # a drop marker after a word or a space
     text = re.sub(r"(?m)^\^-\d+(?:,\d+)*[ \t]*", "", text)              # one at the start of a line
+    text = re.sub(r"(?<=\w)\^-\d+(?:,\d+)*", "", text)                    # one glued to a word: Gott^-5. -> Gott.
     return TAG.sub("", ADDED.sub("", text))
 VMARK = re.compile(r"(?<![\w>.])v(\d+)(?=\s)")
 
@@ -582,11 +583,12 @@ def default_slot(n, linked):
     return max(linked[max(before)]) if before else -1
 
 
-def split(pname, code, ch, profile="b", write=True, tagged=None):
+def split(pname, code, ch, profile="b", write=True, tagged=None, warnings=None):
     """The tagged file -> the prose draft (marks removed) and the .align (profile `profile`) in lexeme-aligner's notation:
     links; !/u for source tokens with no target word (u with @slot only where it differs from the default rule); + for
     added target words (in fn; >ord: the content token they serve). Returns the report: problems (marks in the wrong
-    place, unknown numbers, a token both linked and dropped), per verse the content tokens left undecided, and the rows."""
+    place, unknown numbers), per verse the content tokens left undecided, and the rows. warnings (a list) gets what
+    split decided for the agent: a token both linked and dropped is linked (the ^- is void)."""
     base = os.path.join(project_dir(pname), code, f"{code}{ch:03d}")
     tagged = tagged if tagged is not None else open(base + ".tagged", encoding="utf-8").read()
     problems, untagged = [], {}
@@ -664,8 +666,10 @@ def split(pname, code, ch, profile="b", write=True, tagged=None):
             if n is not None:
                 linked.setdefault(n, []).append(pos)
         both = sorted({n for n, _ in D} & {n for n, co in num(v).items() if co in L})
-        if both:
-            problems.append(f"v{v}: token {', '.join(map(str, both))} both linked and dropped (^-)")
+        if both:                                     # the link wins: the ^- is void
+            D = [(n, slot) for n, slot in D if n not in both]
+            if warnings is not None:
+                warnings.append(f"v{v}: token {', '.join(map(str, both))} both linked and dropped (^-): kept as linked")
         parts = {"c": [f"{o}:{span(ids)}" for (cc, o), ids in sorted(L.items()) if cc == "c"],
                  "f": [f"{o}:{span(ids)}" for (cc, o), ids in sorted(L.items()) if cc == "f"]}
         for c in ("c", "f"):
@@ -920,9 +924,12 @@ def main():
         print(f"wrote {os.path.relpath(out, ROOT)}")
         return
     if a[0] == "split":
-        problems, untagged, rows = split(a[1], a[2], int(a[3]))
+        warns = []
+        problems, untagged, rows = split(a[1], a[2], int(a[3]), warnings=warns)
         for p in problems:
             print("problem: " + p)
+        for w in warns:
+            print("warning: " + w)
         if not problems:
             print(f"wrote {a[2]}{int(a[3]):03d}.txt and .align; " + (
                 "tokens undecided (f: a function token): " + "; ".join(f"v{v}: {' '.join(map(str, n))}" for v, n in untagged.items())

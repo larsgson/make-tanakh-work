@@ -50,8 +50,9 @@ def nfc(s):
 
 
 def bare(s):
-    """Greek without accents, breathings and case; Hebrew consonants only"""
-    s = POINTS.sub("", nfc(s))
+    """Greek without accents, breathings and case; Hebrew consonants only (and without U+034F, the combining grapheme
+    joiner MACULA writes in some lemmas, ירושׁ͏לם: combining class 0, so `combining` keeps it)"""
+    s = POINTS.sub("", nfc(s)).replace("\u034f", "")
     return "".join(c for c in unicodedata.normalize("NFD", s) if not unicodedata.combining(c)).casefold().replace("ς", "σ")
 
 

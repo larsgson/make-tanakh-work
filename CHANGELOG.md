@@ -4,6 +4,34 @@ Tags are `vMAJOR.MINOR.PATCH`. A work copy merges a tag; make-tanakh-grammar pin
 Each entry has a **Format changes** section for the stable formats listed in `docs/related-repos.md`, section 4:
 what changed and how existing files move over. Before 1.0 a breaking format change raises the minor version.
 
+## v0.10.1
+
+**The work copy's "seen, not fixed" list** (its report of 2026-11-26, with cases from its projects for the last four).
+
+- **`probe_language.py write --score`** reports familiarity by the rule that sets it (chrF verse by verse, known >= 58,
+  the floors), not by the old pooled thresholds 65/30, which are gone.
+- **`fetch_edition.py`:** an eBible edition needs `usfmtc`; that is said before the download, not after it.
+- **`gloss.py`:** U+034F (the combining grapheme joiner some MACULA lemmas carry, Jerusalem) is ignored when lemmas
+  are compared.
+- **The probe's answers:** `1.`, `1)` and `1:` are item 1 (`tell` misread `1.<TAB>B`).
+- **`language_profile.py check --project`:** evidence resolves against every style edition, not only the first (a
+  verse two editions have may cite either).
+- **`full_align.py split`:** a token both linked and dropped (`word^3 ^-3`) is linked, with a warning (it was a
+  problem that stopped the split); a drop mark glued to a word (`Gott^-5.`) is read like one after a space, its
+  punctuation staying with the word.
+- **`notes_hebrew.py`:** a notes table's one-verse rows are filled where the table covers only some verses (a partial
+  chapter, a few rows beside ranges); an empty original cell in such a table only where its BSB column is the verse,
+  so a table of choices is left alone (the Danish demo's are). A table not filled says why (`--all`: counted).
+- **`check_draft.py --spell`:** a decided name is spelled as decided, never a spelling question (Sarai is not Sara;
+  Sin, Zin, Ai, Beeroth): all 7 spelling lines of the work copy's pilot were names.
+- **`verse_pack.py --verses 1-5,8`:** only those verses (a selection run, a long chapter in parts; the header stays
+  whole); a pack over 100 KB gets a note naming it.
+- Built forms (`check_draft.py`'s "built from parts" and "not in the corpus" lines) no longer reach the loop's FIX or
+  REVIEW since v0.9.2 (one INFO count), which was the rest of that report.
+- Tests: `test_seen_fixes.py` (new).
+
+**Format changes:** none.
+
 ## v0.10.0
 
 **The lifecycle without revisions and without thousands of files** (make-tanakh-work's few-files request of
