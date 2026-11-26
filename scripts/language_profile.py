@@ -225,8 +225,11 @@ def main():
                 if e.get("slot") and e["slot"] not in SLOTS:
                     problems.append(f"{where}: slot {e['slot']!r}")
                 if e.get("written") and (e["written"] not in ("fused", "hyphen", "both")
-                                         or e.get("slot") not in ("prefix", "suffix")):
-                    problems.append(f"{where}: written {e['written']!r} (fused, hyphen or both; a prefix or suffix)")
+                                         or e.get("slot") not in ("prefix", "suffix", "clitic")):
+                    problems.append(f"{where}: written {e['written']!r} (fused, hyphen or both; a prefix, suffix or clitic)")
+                fm = e.get("form") or ""
+                if e.get("slot") == "clitic" and (fm[:1] in ("-", "=")) == (fm[-1:] in ("-", "=")):
+                    problems.append(f"{where}: a clitic's form {fm!r} marks one side: =ng (after the word) or ng= (before it)")
                 problems += [f"{where}: {p}" for p in agree_problems(e)]
             if e.get("alternation") is not None:  # forms with the same letters, other marks (scripts/alternations.py)
                 al = e["alternation"]
