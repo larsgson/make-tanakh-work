@@ -153,12 +153,33 @@ has `match`, `replace`, `said` and patterns that compile; `orthography.respell` 
   Where: `.tanakh/runs/<BOOK>.json` (`{book, chapters: {"<ch>": stamp}}`) or `.tanakh/runs/<BOOK>_<CCC>.json` (a
   language repository's layout, make-tanakh-review FORMAT.md section 13), as project.yaml `lifecycle: {files: book |
   chapter}` says (default `chapter` with a register, else `book`); both are read, the chapter's file first.
-  `lifecycle.py stamp <project> --all [--what checked]` stamps every drafted chapter that has no checksums yet, as it
-  is now (once, when a project starts using stamps). A stamp written before v0.10.0 (a revision only) still compares
-  by revision.
+  Every stamp says what it rests on (`basis`, v0.12.0): `prompt` (make_prompt: what the agent was given),
+  `chapter_check`, `git <commit>`, `verified` or `asserted`. For chapters drafted before stamps, three ways to start:
+  - `lifecycle.py stamp <project> --all --as-of git`: each chapter's `drafted` stamp from the decisions in the commit
+    that last changed its text (the profile folder at that commit, either store form), with `committed` and, where the
+    text has changes not committed, `modified`. A chapter committed after it was drafted gets decisions it may not
+    have had: the commit is an upper bound. Chapters never committed are left (a store outside git has no fallback:
+    the entries' dates are too coarse to stand as evidence).
+  - `lifecycle.py stamp <project> --all --verify [--report F]`: each chapter's `checked` stamp from a test of every
+    decision on it. Terms, names and formulas with a source word: in each verse where the word is (in the entry's
+    scope and sense), the draft has one of its forms (or another decision's on the same word: another bearer of a
+    name), else the draft word the .align links to it is broken; with no link the verse is untested. Broken counts as
+    drift only for a decided entry that names its word by number (H/G) or is a name; a term found by its lemma (a
+    homonym, another sense) and a proposal only differ. Spelling: drift where the rule still changes a draft word.
+    Phrases, names without a source word, rules, morphs, letters and the orthography can't be tested. `sums` and
+    `general` then hold only what the chapter follows; `drift` ({id: {sum, verses}}) what it breaks; `unverified`
+    ({id: sum}) what couldn't be tested or only differs. The drift list is printed (all of it in `--report`,
+    JSON Lines) and is the work list for `migrate --ids`.
+  - `lifecycle.py stamp <project> --all [--what checked]`: as the project is now, untested (`asserted`, with a
+    warning).
+  Both evidence-based stamps can be kept: `--as-of git` writes `drafted`, `--verify` writes `checked`, and `stale
+  --stamp drafted|checked` compares with either. A stamp written before v0.10.0 (a revision only) still compares by
+  revision.
 - **Stale:** `lifecycle.py stale <project> [--ids …] [--books …] [--verses]`: per decision the chapters it changed for
   since their stamp (the checked one, else the drafted one): `changed` (another checksum), `new` (it applies now, the
-  stamp doesn't have it), `superseded` / `retired` / `removed`. No revisions are needed, so it works on the JSON
+  stamp doesn't have it), `superseded` / `retired` / `removed`; from a verified stamp also `drift` (broken when it was
+  verified; `drift, changed since`) and `changed (unverified)` (an untested decision that changed; an unchanged one
+  is only counted). The summary line counts the stamps by basis. No revisions are needed, so it works on the JSON
   store, across a history reset and for a store outside git. `--since REV` compares by the register's revisions
   instead, as before. `--verses`: the verses each touches (spelling rules on the text; terms and names through the
   .align).

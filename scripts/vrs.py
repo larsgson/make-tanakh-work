@@ -72,6 +72,31 @@ def to_bsb(code, ch, v):
     return int(c), (vv if vv == "title" else int(vv))
 
 
+_inverse = None
+
+
+def to_heb(code, ch, v):
+    """the Hebrew (chapter, verse) of a BSB verse, the inverse of to_bsb: a shifted verse moves back; a BSB verse
+    that several Hebrew verses make up (or one of several a Hebrew verse is split into) maps to the first Hebrew verse
+    of the relation; a verse no relation names stays"""
+    global _inverse
+    if _inverse is None:
+        single, multi = load()
+        _inverse = {}
+        for s, t in single.items():
+            if not t.endswith(":title"):
+                _inverse.setdefault(t, s)
+        for (_, hs, _), (tb, ts, te), _, _ in multi:
+            _inverse.setdefault(f"{tb} {ts[0]}:{ts[1]}", f"{tb} {hs[0]}:{hs[1]}")
+            if te != ts:
+                _inverse.setdefault(f"{tb} {te[0]}:{te[1]}", f"{tb} {hs[0]}:{hs[1]}")
+    h = _inverse.get(f"{code.upper()} {ch}:{v}")
+    if not h:
+        return ch, v
+    c, vv = h.split()[1].split(":")
+    return int(c), int(vv)
+
+
 def heb_verses(code, ch):
     vs = []
     for line in open(os.path.join(ROOT, "orig", "heb", f"{code}{ch:03d}.txt"), encoding="utf-8").read().splitlines()[1:]:

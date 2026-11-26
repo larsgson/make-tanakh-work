@@ -120,4 +120,31 @@ ch2 = [dict(x, start=next(a for v, p, a, b, _ in toks if v == x["v"] and p == x[
 rec_f3, rec3 = LC.apply_changes("toy", ch2, ["spelling:toy"], "20261126T000000Z")
 assert rec3["edits"] == [] and len(rec3["edit_rows"]["GEN_001"]) == 3 and rec3["edit_rows"]["GEN_001"][0]["who"] == "script:migrate"
 assert not os.path.exists(os.path.join(pdir, ".tanakh", "edits", "GEN", "GEN_001", "20261126T000000Z-script-migrate.jsonl"))
+# v0.12.0: a verified stamp (stamp --verify): what the chapter follows, its drift, what can't be tested
+src = {1: [(0, "hbo:1", "lem", "noun", "common", "k")], 2: [(0, "hbo:1", "lem", "noun", "common", "k")]}
+W.chapter_source = lambda c, ch: ("hbo", src)
+to_store = LC.RG.to_store; LC.RG.to_store = lambda e, sids: e
+ent = {"term:X": {"id": "term:X", "kind": "term", "status": "decided", "value": "Herr", "source": "H1"},
+       "term:P": {"id": "term:P", "kind": "term", "status": "proposed", "value": "Gott"},
+       "spelling:toy": {"id": "spelling:toy", "kind": "spelling", "status": "decided", "match": "u", "replace": "l",
+                        "context": {"before": "[ä]", "after": "t"}},
+       "rule:r": {"id": "rule:r", "kind": "rule", "status": "decided", "value": "SOV"}}
+D2 = types.SimpleNamespace(entry=ent, lexical={"term:X": ("s1", {"hbo:1"}), "term:P": ("s4", {"hbo:1"})},
+                           general={"spelling:toy": "s2", "rule:r": "s3"}, status={})
+D2.of = lambda c, ch: ({"term:X": "s1", "term:P": "s4"}, LC.general_digest(D2.general))
+r = LC.verify("toy", "gen", 1, D2, {"P": types.SimpleNamespace(p={}, profile=pdir), "L": None, "common": {}, "names": []})
+assert r["drift"]["term:X"]["verses"] == [[2, "Der"]], r["drift"]           # v1 has Herr, v2 links the word to "Der"
+assert sorted(v for v, _ in r["drift"]["spelling:toy"]["verses"]) == [1, 2]   # the text has Wäut (the batch above)
+assert r["unverified"] == {"term:P": "s4", "rule:r": "s3"} and r["sums"] == {} and r["general_table"] == {}
+LC.RG.to_store = to_store
+s = LC.stamp("toy", "gen", 1, "checked", D=D2, basis="verified",
+             extra={"sums": r["sums"], "general_table": r["general_table"], "unverified": r["unverified"],
+                    "drift": {i: {"sum": x["sum"], "verses": [v for v, _ in x["verses"]]} for i, x in r["drift"].items()}})
+assert s["checked"]["basis"] == "verified" and s["checked"]["drift"]["term:X"] == {"sum": "s1", "verses": [2]}
+got = LC.stale_ids(s, {"term:X": "s1", "term:P": "s4"}, D2.general, LC.general_tables("toy"), {})
+assert got == {"term:X": "drift", "spelling:toy": "drift"}, got                 # untested and unchanged: silent
+got = LC.stale_ids(s, {"term:X": "s9", "term:P": "s5"}, dict(D2.general, **{"rule:new": "n1"}), LC.general_tables("toy"), {})
+assert got == {"term:X": "drift, changed since", "term:P": "changed (unverified)", "spelling:toy": "drift",
+               "rule:new": "new"}, got
+assert LC.stamp("toy", "gen", 2, "drafted", D=D)["drafted"]["basis"] == "prompt"
 print("ok")

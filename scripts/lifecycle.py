@@ -4,14 +4,19 @@ a changed decision has gone stale for, and carrying a decision back into chapter
 on the JSON store alike.
 
     python3 scripts/lifecycle.py stamp <project> <code> <ch> drafted|checked   # (make_prompt and chapter_check do it)
-    python3 scripts/lifecycle.py stamp <project> --all [--what checked] [--books CODE ...]   # chapters without checksums
-    python3 scripts/lifecycle.py stale <project> [--ids ID ...] [--books CODE ...] [--verses] [--since REV]
+    python3 scripts/lifecycle.py stamp <project> --all [--what checked] [--books CODE ...]   # chapters without checksums (asserted)
+    python3 scripts/lifecycle.py stamp <project> --all --as-of git [--books ...]   # the store at each chapter's commit
+    python3 scripts/lifecycle.py stamp <project> --all --verify [--report F] [--books ...]  # what each chapter follows
+    python3 scripts/lifecycle.py stale <project> [--ids ID ...] [--books CODE ...] [--verses] [--since REV] [--stamp drafted|checked]
     python3 scripts/lifecycle.py migrate <project> --ids ID ... [--books CODE ...] [--apply] [--out DIR] [--rules FILE]
     python3 scripts/lifecycle.py migrate <project> --undo <record>
 
-The stamp: {"drafted": {when, sums, general, revision}, "checked": {...}}: the checksums (register.binding_sum) of the
-decisions that apply to the chapter by their source word, the digest of the general ones (their checksums in
-`.tanakh/general.jsonl`), the register revision if there is a register. In `.tanakh/runs/<BOOK>.json` (a key per
+The stamp: {"drafted": {when, basis, sums, general, revision}, "checked": {...}}: the checksums (register.binding_sum) of
+the decisions that apply to the chapter by their source word, the digest of the general ones (their checksums in
+`.tanakh/general.jsonl`), the register revision if there is a register, and what the stamp rests on (`basis`: prompt,
+chapter_check, asserted, git <commit> with `committed` and `modified`, verified with `drift` {id: {sum, verses}} and
+`unverified` {id: sum}; see stamp()). stale reports a verified stamp's drift as `drift` and an untested decision only
+when it changed (`changed (unverified)`). In `.tanakh/runs/<BOOK>.json` (a key per
 chapter) or `.tanakh/runs/<BOOK>_<CCC>.json` (make-tanakh-grammar's place for run records), as `layout` says. stale
 compares a chapter's stamp with the decisions now; --since compares by register revisions instead.
 
@@ -102,14 +107,15 @@ class Decisions:
     entries, split into those that apply where their source word is (terms, names, formulas naming a source word: by
     their lexemes) and the general ones (every other kind: rules, letters, morphs, words, spelling, the orthography,
     formulas that are phrases)"""
-    def __init__(self, pname):
+    def __init__(self, pname, profile=None):
         import words as W
         self.pname = pname
-        A = RG.entries(pname)
+        A = RG.entries(pname, profile=profile)                    # profile: another folder (the store at a commit)
         E = [e for e in A if e["status"] in DECISION_STATUS and e["kind"] not in NOT_DECISIONS]
         self.status = {e["id"]: e["status"] for e in A}
         lemmas = W.source_lemmas() if any(e["kind"] in LEXICAL for e in E) else {}
         self.lexical, self.general, self.by_lex = {}, {}, collections.defaultdict(set)
+        self.entry = {e["id"]: e for e in E}
         for e in E:
             lx = {x for _, x in W.entry_lexemes(RG.to_store(e, {}), lemmas)} if e["kind"] in LEXICAL else set()
             if lx:
@@ -173,21 +179,194 @@ def save_general(pname, table):
     return dg
 
 
-def stamp(pname, code, ch, what, rev=None, D=None):
+BASIS = {"drafted": "prompt", "checked": "chapter_check"}   # what a stamp written in the loop rests on
+
+
+def now_utc():
+    return datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def stamp(pname, code, ch, what, rev=None, D=None, basis=None, extra=None):
     """record what a chapter was drafted (make_prompt) or last checked (chapter_check) with: the checksums of the
-    decisions that apply to it (`sums`, the general ones by `general` digest) and, with a register, its revision"""
+    decisions that apply to it (`sums`, the general ones by `general` digest), with a register its revision, and its
+    `basis`: prompt / chapter_check (written in the loop), asserted (stamp --all: today's decisions, not tested),
+    git <commit> (stamp --as-of git: the store at the commit that last changed the chapter's text), verified (stamp
+    --verify: `sums` and `general` only what the chapter follows, `drift` and `unverified` beside them). extra: fields
+    that replace or add to the record (the verified and git forms)"""
     D = D or Decisions(pname)
     sums, dg = D.of(code, ch)
     save_general(pname, D.general)
     d = read_stamp(pname, code, ch) or {}
     d = {k: v for k, v in d.items() if k not in ("book", "chapter")}
-    r = {"when": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "sums": sums, "general": dg}
+    r = {"when": now_utc(), "basis": basis or BASIS.get(what, "asserted"), "sums": sums, "general": dg}
+    if extra:
+        if "general_table" in extra:
+            r["general"] = save_general(pname, extra.pop("general_table"))
+        r.update(extra)
     prof = RG.profile_of(pname)
     if rev or RG.has_register(prof):
         r["revision"] = rev or RG.revision(prof)
     d[what] = r
     write_stamp(pname, code, ch, d)
     return dict({"book": code.upper(), "chapter": ch}, **d)
+
+
+# ------------------------------------------------------------------ evidence for a stamp: --verify, --as-of git
+
+def verify(pname, code, ch, D, ctx=None):
+    """test the decisions that apply to a chapter against its text: -> {"sums", "general_table", "drift", "unverified",
+    "counts"}. Terms, names and formulas naming a source word: in each verse where the source word is (in the entry's
+    scope, in its sense: the entry's BSB words in the verse), the draft follows it when one of its forms (the value,
+    a preferred or admitted alternative; inflected as words.same_word allows, or a form the corpus writes for the
+    word) is in the verse; else the word the .align links to the source word is drift; with no link, that verse is
+    untested. A broken decision is drift when it is decided and names its source word by number (H/G), or is a name (a
+    name has no other sense; its scope, if any, still holds); one found by its lemma (a homonym, another sense) or a proposal only differs
+    (unverified). A decision followed somewhere and broken nowhere counts as followed, one that applies in no verse
+    (another sense, out of scope) too. Phrases and names without a source word can't be tested (unverified). Spelling entries: drift where the rule still changes a word of the draft.
+    Every other general decision (rules, morphs, letters, the orthography) is unverified."""
+    import langtools as LT, full_align as FA, words as W
+    ctx = ctx if ctx is not None else {}
+    if "P" not in ctx:
+        P = ctx["P"] = LT.Project(pname)
+        db = W.db_file(pname)
+        ctx["L"] = W.Lexicon(db, keep=W.keep_marks(P)) if os.path.exists(db) else None
+        ctx["common"] = ({w: i for i, (w, _) in enumerate(ctx["L"].vocab.most_common(W.FUNCTION_TOP))} if ctx["L"] else {})
+        ctx["names"] = W.names_of(P, con=ctx["L"].db if ctx["L"] else None)
+    P, L, keep = ctx["P"], ctx["L"], W.keep_marks(ctx["P"])
+    d = os.path.join(project_dir(pname), code)
+    path, al = os.path.join(d, f"{code}{ch:03d}.txt"), os.path.join(d, f"{code}{ch:03d}.align")
+    rows = FA.read_chapter(al)[1] if os.path.exists(al) else {}
+    verses = dict(FA.draft_texts(path))
+    try:
+        lang, S = W.chapter_source(code, ch)
+    except Exception:                              # noqa: BLE001  (no source index: nothing lexical can be tested)
+        lang, S = None, {}
+    now, _ = D.of(code, ch)
+    sums, drift, unv, cnt = {}, {}, {}, collections.Counter()
+    bsb_has = lambda v, ws: any(re.search(rf"\b{re.escape(w.lower())}", W.bsb_verse(P, code, ch, v).lower()) for w in ws)
+
+    def forms(e):
+        vs = W.value_forms(e.get("value") or "") + [x for a in e.get("alternatives") or [] if isinstance(a, dict)
+                                                   and a.get("status") in ("preferred", "admitted") and a.get("value")
+                                                   for x in W.value_forms(a["value"])]
+        return [x for x in (W.value_words(v, ctx["common"]) for v in vs) if x]
+
+    def test(i, e, verse_ids, lx, siblings=()):
+        """-> (followed, [[verse, draft words]], untested) over the verses where the decision applies; a verse that
+        follows another decision on the same word (another bearer of the name, another sense) is not drift"""
+        vals = forms(e)
+        other = [x for s_ in siblings for x in forms(s_)]
+        ws = [w for w in e.get("words") or [] if re.fullmatch(r"[A-Za-z][A-Za-z' -]+", w)]
+        ok, bad, untested = 0, [], 0
+        if not vals or not W.in_scope(e.get("scope") or W.id_scope(i), code, ch):
+            return ok, bad, untested
+        for v in verse_ids:
+            here = [t for t in S.get(v, []) if lx and t[1] in lx]
+            if v not in verses or not here:
+                continue
+            if ws and not bsb_has(v, ws):                  # another sense (the entry's BSB words not in the verse)
+                continue
+            words_ = W.written_tokens(verses[v]); low = [t.lower() for t in words_]
+            same = W.same_word if D.entry[i]["kind"] != "name" else (       # a name with an ending: Elis, Asas, Ogs
+                lambda w, t, k: W.same_word(w, t, k) or (t.startswith(w) and 0 < len(t) - len(w) <= 2))
+            if any(all(any(same(w, t, keep) for t in low) for w in val) for val in vals):
+                ok += 1; continue
+            if any(all(any(same(w, t, keep) for t in low) for w in val) for val in other):
+                continue
+            x = L.expected(lang, here[0][1]) if L else None
+            cf = {t for f in (x[0] if x else ()) for t in W.tokens_of(f)}
+            if any(t in cf and any(t[:3] == w[:3] for val in vals for w in val) for t in low):
+                ok += 1; continue
+            main = FA.parse(rows[v][0]) if v in rows else {}
+            linked = [j for o, *_ in here for j in main.get(o, []) if j < len(words_)]
+            if linked:
+                bad.append([v, as_written(verses[v], [words_[j] for j in sorted(set(linked))])])
+            else:
+                untested += 1
+        return ok, bad, untested
+
+    def record(i, sm, e, ok, bad, untested):
+        sure = bool(re.search(r"\b[HG]\d+", f"{e.get('source') or ''} {i}")) or D.entry[i]["kind"] == "name"
+        if bad and D.entry[i]["status"] == "decided" and sure:
+            drift[i] = {"sum": sm, "verses": bad, "expected": e.get("value")}; cnt["drift"] += 1
+        elif bad and D.entry[i]["status"] == "decided":  # found by its lemma: a homonym, or another sense of the word
+            unv[i] = sm; cnt["differs (source word by its lemma: sense not known)"] += 1
+        elif bad:                                       # a proposal the chapter doesn't follow: not drift, not followed
+            unv[i] = sm; cnt["differs from a proposal"] += 1
+        elif ok or not untested:
+            sums[i] = sm
+            cnt["followed" if ok else "not in this chapter's sense or scope"] += 1
+        else:
+            unv[i] = sm; cnt["unverified (no .align link)"] += 1
+
+    for i, sm in now.items():
+        e = RG.to_store(D.entry[i], {})
+        sib = [j for j in now if j != i and D.lexical[j][1] & D.lexical[i][1]]   # other decisions on the word (bearers, senses)
+        record(i, sm, e, *test(i, e, sorted(S), D.lexical[i][1], [RG.to_store(D.entry[j], {}) for j in sib]))
+    gen = {}
+    toks = sorted({t.lower() for t_ in verses.values() for t in W.written_tokens(t_)})
+    for i, sm in D.general.items():
+        e = D.entry[i]
+        if e["kind"] in LEXICAL:                    # a phrase, or a name without a source id: no word to find it by
+            unv[i] = sm; cnt["unverified (no source word)"] += 1; continue
+        if e["kind"] != "spelling":
+            unv[i] = sm; cnt["unverified (general)"] += 1; continue
+        se = RG.to_store(e, {}); se = dict(se, status="decided")
+        R = W.Respeller(W.spelling_rules({"entries": [se]}), ctx["names"])
+        hit = [t for t in toks if R(t) != t] if R else []
+        if hit:
+            vs = [v for v, t_ in verses.items() if any(w.lower() in hit for w in W.written_tokens(t_))]
+            drift[i] = {"sum": sm, "verses": [[v, ", ".join(sorted({w for w in W.written_tokens(verses[v]) if w.lower() in hit}))]
+                                              for v in vs[:20]], "expected": e.get("value")}
+            cnt["drift"] += 1
+        else:
+            gen[i] = sm; cnt["followed"] += 1
+    return {"sums": sums, "general_table": gen, "drift": drift, "unverified": unv, "counts": cnt}
+
+
+def as_written(text, toks):
+    """the linked draft words as the verse writes them: tokens next to each other with what stands between them (Ke'ila,
+    not Ke ila), others joined by ' … '"""
+    out, k = [], 0
+    for t in toks:
+        m = re.compile(re.escape(t)).search(text, k)
+        if not m:
+            return " ".join(toks)
+        if out and re.fullmatch(r"\W{0,2}", text[out[-1][1]:m.start()]) and "  " not in text[out[-1][1]:m.start()]:
+            out[-1] = (out[-1][0], m.end())
+        else:
+            out.append((m.start(), m.end()))
+        k = m.end()
+    return " … ".join(text[a:b] for a, b in out)
+
+
+def git_basis(pname, code, ch, cache):
+    """the commit that last changed a chapter's text and the project's decisions in it: -> (commit, date, modified,
+    Decisions) or None where the text was never committed. The profile folder at the commit is read from git (git
+    archive into a temporary folder), whichever form the store had then"""
+    import subprocess, tempfile, tarfile, io
+    pd = project_dir(pname)
+    f = os.path.join(pd, code, f"{code}{ch:03d}.txt")
+    g = lambda *a: subprocess.run(["git", "-C", pd, *a], capture_output=True, text=True)
+    top = g("rev-parse", "--show-toplevel").stdout.strip()
+    if not top:
+        return None
+    out = g("log", "-1", "--format=%H %cI", "--", f).stdout.split()
+    if not out:
+        return None
+    commit, date = out
+    modified = bool(g("status", "--porcelain", "--", f).stdout.strip())
+    if (pname, commit) not in cache:
+        rel = os.path.relpath(os.path.join(pd, "profile"), top)
+        tmp = tempfile.mkdtemp(prefix="stamp-")
+        r = subprocess.run(["git", "-C", top, "archive", "--format=tar", commit, "--", rel], capture_output=True)
+        if r.returncode == 0:
+            with tarfile.open(fileobj=io.BytesIO(r.stdout)) as t:
+                t.extractall(tmp, filter="data")
+        prof = os.path.join(tmp, rel)
+        os.makedirs(prof, exist_ok=True)              # no profile at that commit: no decisions then
+        cache[(pname, commit)] = Decisions(pname, profile=prof)
+    return commit, date, modified, cache[(pname, commit)]
 
 
 def drafted_rev(pname, code, ch):
@@ -205,6 +384,7 @@ def stale_ids(stamp_d, now, general_now, tables, status):
     known = s.get("general") in tables             # a general state the log doesn't have: only the lexical ones compared
     then = dict(s["sums"]) | (tables[s["general"]] if known else {})
     cur = dict(now) | (general_now if known else {})
+    drift, unv = s.get("drift") or {}, s.get("unverified") or {}   # a verified stamp: broken, and not testable
     out = {}
     for i, v in then.items():
         if i not in cur:
@@ -212,8 +392,18 @@ def stale_ids(stamp_d, now, general_now, tables, status):
         elif cur[i] != v:
             out[i] = "changed"
     for i in cur:
-        if i not in then:
+        if i in then:
+            continue
+        if i in drift:
+            out[i] = "drift" if drift[i].get("sum") == cur[i] else "drift, changed since"
+        elif i in unv:
+            if unv[i] != cur[i]:
+                out[i] = "changed (unverified)"     # an unchanged untested one is silent: stale says nothing new
+        else:
             out[i] = "new"
+    for i in drift:
+        if i not in cur:
+            out[i] = status.get(i) or "removed"
     return out
 
 
@@ -526,8 +716,14 @@ def stale_by_sums(a):
     prof = RG.profile_of(a.project)
     D, tables = Decisions(a.project), general_tables(a.project)
     per, why, none, old = collections.defaultdict(list), collections.defaultdict(collections.Counter), [], []
+    basis, unknown = collections.Counter(), 0
     for code, c_, path in chapters(a.project, a.books):
         st = read_stamp(a.project, code, c_)
+        if st and getattr(a, "stamp", None):
+            st = {a.stamp: st.get(a.stamp)} if st.get(a.stamp) else {}
+        s_ = (st or {}).get("checked") or (st or {}).get("drafted") or {}
+        basis[s_.get("basis") or "before v0.12.0"] += bool(s_)
+        unknown += len(s_.get("unverified") or {})
         now, _ = D.of(code, c_)
         ids = stale_ids(st, now, D.general, tables, D.status) if st else None
         if ids is None:
@@ -557,7 +753,64 @@ def stale_by_sums(a):
         print(f"{len(none) + len(old)} chapters without a stamp to compare ({', '.join((none + old)[:8])}"
               f"{' …' if len(none) + len(old) > 8 else ''}): `python3 scripts/lifecycle.py stamp {a.project} --all` "
               "records them as they are now")
-    print(f"{a.project}: {len(per)} decisions changed for {len({x for v in per.values() for x in v})} chapters")
+    print(f"{a.project}: {len(per)} decisions changed for {len({x for v in per.values() for x in v})} chapters; "
+          "stamps by basis: " + ", ".join(f"{k} {v}" for k, v in sorted(collections.Counter(
+              ("git" if k.startswith("git ") else k) for k in basis.elements()).items()))
+          + (f"; {unknown} decision-chapter pairs untested (verified stamps' `unverified`, unchanged ones not listed)" if unknown else "")
+          + ("; `asserted` stamps were not tested: --verify for evidence" if basis.get("asserted") else ""))
+
+
+def stamp_verified(a):
+    """stamp --all --verify: each chapter's `checked` stamp from verify(); the drift list printed (and --report)"""
+    what = a.what or "checked"
+    D, ctx, tot, out = Decisions(a.project), {}, collections.Counter(), []
+    rep = open(a.report, "w", encoding="utf-8") if a.report else None
+    n = 0
+    for code, c_, _ in chapters(a.project, a.books):
+        r = verify(a.project, code, c_, D, ctx)
+        tot.update(r["counts"]); n += 1
+        for i, x in sorted(r["drift"].items()):
+            for v, w in x["verses"]:
+                out.append(f"{code.upper()} {c_}:{v}  {i}: the draft has “{w}”, the decision “{(x['expected'] or '')[:60]}”")
+                if rep:
+                    rep.write(json.dumps({"book": code.upper(), "chapter": c_, "id": i, "verse": v, "draft": w,
+                                          "expected": x["expected"]}, ensure_ascii=False) + "\n")
+        stamp(a.project, code, c_, what, D=D, basis="verified",
+              extra={"sums": r["sums"], "general_table": r["general_table"],
+                     "drift": {i: {"sum": x["sum"], "verses": [v for v, _ in x["verses"]]} for i, x in r["drift"].items()},
+                     "unverified": r["unverified"]})
+    if rep:
+        rep.close()
+    for l in out[:200]:
+        print(l)
+    if len(out) > 200:
+        print(f"… {len(out) - 200} more" + (f" (all in {a.report})" if a.report else " (--report FILE for all)"))
+    print(f"{a.project}: {n} chapters verified ({what}); decisions per chapter: "
+          + ", ".join(f"{k} {v}" for k, v in tot.most_common()) + f"; {len(out)} drift verses"
+          + (f"; the mechanical ones: `python3 scripts/lifecycle.py migrate {a.project} --ids …`" if out else ""))
+
+
+def stamp_git(a):
+    """stamp --all --as-of git: each chapter's `drafted` stamp with the decisions at the commit that last changed its
+    text (basis `git <commit>`); chapters never committed, and stamps written in the loop (basis prompt), are left"""
+    what = a.what or "drafted"
+    cache, n, skip, mod = {}, 0, collections.Counter(), 0
+    for code, c_, _ in chapters(a.project, a.books):
+        st = read_stamp(a.project, code, c_).get(what) or {}
+        if "sums" in st and st.get("basis") not in (None, "asserted"):
+            skip[f"already stamped ({st.get('basis')})"] += 1; continue
+        g = git_basis(a.project, code, c_, cache)
+        if not g:
+            skip["text not in git (stamp --all --verify instead)"] += 1; continue
+        commit, date, modified, D = g
+        stamp(a.project, code, c_, what, D=D, basis=f"git {commit[:12]}",
+              extra={"committed": date} | ({"modified": True} if modified else {}))
+        n += 1; mod += modified
+    print(f"{a.project}: {n} chapters stamped ({what}) with the decisions of {len(cache)} commits"
+          + (f"; {mod} have changes not committed (marked `modified`: the stamp is the committed text's)" if mod else "")
+          + "".join(f"; {v} {k}" for k, v in skip.items())
+          + ". A chapter committed after it was drafted is stamped with decisions it may not have had: the commit is "
+            "an upper bound")
 
 
 def main():
@@ -565,8 +818,12 @@ def main():
     sub = ap.add_subparsers(dest="cmd", required=True)
     c = sub.add_parser("stamp"); c.add_argument("project"); c.add_argument("rest", nargs="*", help="<code> <ch> drafted|checked")
     c.add_argument("--all", action="store_true", help="every drafted chapter without a stamp (or without checksums), as it is now")
-    c.add_argument("--what", default="checked", choices=("drafted", "checked")); c.add_argument("--books", nargs="*")
+    c.add_argument("--verify", action="store_true", help="with --all: stamp what each chapter follows, its drift and what can't be tested")
+    c.add_argument("--as-of", dest="as_of", choices=("git",), help="with --all: the decisions at the commit that last changed each chapter")
+    c.add_argument("--what", choices=("drafted", "checked")); c.add_argument("--books", nargs="*")
+    c.add_argument("--report", help="with --verify: write the drift list here (JSON Lines: book, chapter, id, verse, draft, expected)")
     c = sub.add_parser("stale"); c.add_argument("project"); c.add_argument("--since"); c.add_argument("--ids", nargs="*")
+    c.add_argument("--stamp", choices=("drafted", "checked"), help="compare with this stamp (default: checked, else drafted)")
     c.add_argument("--books", nargs="*"); c.add_argument("--verses", action="store_true"); c.add_argument("--rules")
     c = sub.add_parser("migrate"); c.add_argument("project"); c.add_argument("--ids", nargs="*", default=[])
     c.add_argument("--books", nargs="*"); c.add_argument("--apply", action="store_true"); c.add_argument("--out")
@@ -574,13 +831,22 @@ def main():
     c.add_argument("--sample", type=int, default=0)
     a = ap.parse_args()
     if a.cmd == "stamp":
+        if a.all and a.verify:
+            stamp_verified(a); return
+        if a.all and a.as_of:
+            stamp_git(a); return
         if a.all:
+            what = a.what or "checked"
             D, n = Decisions(a.project), 0
             for code, c_, _ in chapters(a.project, a.books):
-                st = read_stamp(a.project, code, c_).get(a.what) or {}
+                st = read_stamp(a.project, code, c_).get(what) or {}
                 if "sums" not in st:
-                    stamp(a.project, code, c_, a.what, D=D); n += 1
-            print(f"{a.project}: {n} chapters stamped ({a.what}), as they are now; layout: {layout(a.project)}")
+                    stamp(a.project, code, c_, what, D=D, basis="asserted"); n += 1
+            print(f"{a.project}: {n} chapters stamped ({what}), as they are now; layout: {layout(a.project)}")
+            if n:
+                print("warning: these stamps assert that each chapter follows today's decisions, untested (basis "
+                      "`asserted`). For stamps with evidence: --as-of git (the store when the chapter was committed) "
+                      "or --verify (each decision tested on the chapter)")
             return
         if len(a.rest) != 3 or a.rest[2] not in ("drafted", "checked"):
             ap.error("stamp <project> <code> <ch> drafted|checked, or stamp <project> --all [--what checked]")

@@ -94,8 +94,8 @@ working; this file adds the rules that hold for any task here.
   this repo drafts on `bcv-query` (`--drafting bcv-query`) or asks the ETCBC and the Deutsche Bibelgesellschaft
   (the final rights holder) for consent.
   **Its text is never copied either:** the Hebrew quoted in notes, store and wiki is the WLC (MACULA Hebrew in
-  `orig/heb.sqlite`, the clause packages; public domain); `scripts/notes_hebrew.py` fills the notes' verses from it and adds
-  the credit line, and `quotes.py` reports accented Hebrew that isn't the WLC word for word.
+  `orig/heb.sqlite`, the clause packages; public domain), quoted as phrases (notes carry no whole verses);
+  `scripts/notes_hebrew.py` adds the credit line, and `quotes.py` reports accented Hebrew that isn't the WLC word for word.
 - **Don't use BSB text files from other converters:** older ones dropped verse markers and
   footnotes inside `\wj` (words of Jesus). Use the files `setup.py` builds.
 - **Quarantine is required for non-free text.** A book that a non-free style edition has
@@ -113,7 +113,7 @@ working; this file adds the rules that hold for any task here.
 ## Commands
 
 ```
-python3 scripts/setup.py [--heb bhsa,bcv-query,macula] [--drafting LAYOUT] [--only bsb,msb,bgb,rp,vrs,src,spk,names,editions,grambank,glottolog,vamvas-align,gntl] [--force]
+python3 scripts/setup.py [--heb bhsa,bcv-query,macula] [--drafting LAYOUT] [--only bsb,msb,bgb,rp,vrs,src,spk,names,editions,grambank,glottolog,vamvas-align,gntl,stories] [--force]
 python3 scripts/onboard.py [--answers F] [--yes] [--dry-run] # wizard for a new language: editions, project, memory
 python3 scripts/fetch_edition.py --find <iso>       # editions of a language (bcv-commons/bibles, eBible)
 python3 scripts/fetch_edition.py <edition> | --all  # fetch an edition by its recipe into import/
@@ -125,6 +125,7 @@ python3 scripts/usage.py <project> add <code><nnn> --tokens N | summary # tokens
 python3 scripts/memory_prompt.py <project>           # prompt for an agent that builds the store and wiki, by mode
 python3 scripts/make_prompt.py <project> <code> <ch> [--end-align] # chapter prompt (tagged drafting; --end-align: the old way)
 python3 scripts/make_prompt.py <project> <code> --book [a-b] [--handoff N] # the book agent's prompt: chapters in order, handover after N
+python3 scripts/stories.py list | build <story> --project P [--from-repo DIR] # a story's readings from the drafts (docs/stories.md; rebuilt, not published; lists: setup.py --only stories)
 python3 scripts/draft_cache.py build <project> [--selection F] | new <project> <selection.tsv> [--skip-edition-chapters] # the drafting cache (_learn/cache/: primer.md, a digest per chapter, drafted.tsv): read at the start and after a compaction, rebuilt before a handover; new: a selection's verses still to draft
 python3 scripts/chapter_check.py <project> <code> <ch> # the checks inside the loop: to fix (format, alignment, quotes), to review (negations, names, copy, words)
 python3 scripts/register.py convert|check|show|add|supersede|retire|status|bump <project> ... # the store as one entry per file (profile/register/, docs/register.md); agents add and change entries with it
@@ -132,7 +133,7 @@ python3 scripts/register.py stale|migrate <project> ... [--apply|--undo REC] (al
 python3 scripts/words.py align|build|check|stats|show <project> ... # the word DB (_learn/words.db, docs/word-db.md): the edition's words per source lexeme from an alignment layer of exactly its text; check: decided terms, spelling (store forms too, the project's respelling), expected forms
 python3 scripts/package.py <project> <code> <ch>   # clause packages for a chapter (Tanakh: orig/heb.sqlite; NT: orig/grc.sqlite and the Greek NT clause layout; the project's .align, store, NT bridge; who: the participant ids)
 python3 scripts/check_draft.py <project> [code] [--spell] # verse/format checks of drafts; spelling against the corpus, marks kept
-python3 scripts/notes_hebrew.py <project> <code> <ch> | --all | show <code> <ch>:<v> # the notes' Hebrew/Greek from the WLC/BGB, with the credit line
+python3 scripts/notes_hebrew.py <project> <code> <ch> | --all | show <code> <ch>:<v> | slim <project> [--apply] # the notes' credit line for the WLC/BGB quoted; slim: older tables without whole verses
 python3 scripts/quarantine.py <project> <code> [--release] # quarantine a book (required for non-free editions)
 python3 scripts/status.py <project> [set|publish|check] # draft status per chapter; writes STATUS.md
 python3 scripts/quotes.py <project> [--credits|--rule] # quotations within docs/licensing.md; CREDITS.md; the agents' rule

@@ -38,8 +38,9 @@ One agent per book drafts its chapters one after another, in every mode.
    - Log what each agent cost from its usage report:
      `python3 scripts/usage.py <project> add <code><nnn> --tokens N --calls N --minutes M`.
 3. **Check its report.** `chapter_check.py` already ran `check_draft.py` (verses, format), the alignment and the
-   quotation checks, and the agent filled the notes' Hebrew/Greek from the WLC/BGB (`notes_hebrew.py`; never text
-   from `orig/heb/`). Tanakh drafts keep the Hebrew numbering. A correction goes into the git-ignored
+   quotation checks, and the agent quoted the notes' Hebrew/Greek as phrases from the WLC/BGB, never whole verses
+   (the notes table is *Verse · Hebrew phrase · Comment*; `notes_hebrew.py` adds the credit line; never text from
+   `orig/heb/`). Tanakh drafts keep the Hebrew numbering. A correction goes into the git-ignored
    `<code>NNN.tagged`, then `python3 scripts/full_align.py split <project> <code> <ch>` (`tag` rebuilds a lost one);
    a chapter without an `.align` gets one from `python3 scripts/bridge_align.py <project> <code> <ch>`. After a
    handover or a book, `python3 scripts/check_project.py <project>` is the double check; when it finds something the

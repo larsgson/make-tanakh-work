@@ -14,49 +14,49 @@ Dato: 09.10.2026 · Status: **Udkast** (maskinudkast fra grundteksten, ingen eks
 
 ## Bevidste valg
 
-| Vers | Hebraisk | Dansk | BSB | Kommentar |
-|---|---|---|---|---|
-| 1 | וּבָעֵת הַהִיא (×2) | Ved den tid | At that time | Ens begge gange; knytter an til 11,40-45. |
-| 1 | יַעֲמֹד מִיכָאֵל | skal Mikael stå frem | Michael … will rise up | *ʕāmad* »stå (frem)«, samme verbum som i 11,2-4 om kongerne der »står frem«. |
-| 1 | הַשַּׂר הַגָּדוֹל | den store fyrste | the great prince | *śar* = »fyrste« som 10,13.20-21. |
-| 1 | הָעֹמֵד עַל־בְּנֵי עַמֶּךָ | som står vagt over dit folk | who stands watch over your people | `{T:}` med ordret »dit folks sønner«. |
-| 1 | עֵת צָרָה | en trængselstid | a time of distress | »trængsel« som Matt 24,21 / Mark 13,19 i `import/CC0/dan/den-frie-bibel/text/`. |
-| 1 | מִהְיוֹת גּוֹי | siden der blev et folk | from the beginning of nations | Ordret »fra der var et folk«. |
-| 1 | יִמָּלֵט | skal … reddes | will be delivered | |
-| 1 | כָּתוּב בַּסֵּפֶר | skrevet i bogen | written in the book | Jf. 2 Mos 32,32; Mal 3,16; Åb 20,12.15. Ingen note. |
-| 2 | יְשֵׁנֵי אַדְמַת־עָפָר | dem som sover i jordens støv | who sleep in the dust of the earth | Ordret »støvets jord«; `{T:}`. |
-| 2 | יָקִיצוּ | skal vågne | will awake | Som Es 26,19. |
-| 2 | לְחַיֵּי עוֹלָם | til evigt liv | to everlasting life | Eneste forekomst af udtrykket i GT. |
-| 2 | לַחֲרָפוֹת לְדִרְאוֹן עוֹלָם | til skam og evig afsky | to shame and everlasting contempt | *dērāʔôn* kun her og Es 66,24; `{E:}`. |
-| 3 | הַמַּשְׂכִּלִים | De forstandige | the wise | Samme ord v10 (»de forstandige skal forstå«) og 11,33.35. Afstem med kap. 11. |
-| 3 | יַזְהִרוּ כְּזֹהַר הָרָקִיעַ | skal stråle som himmelhvælvingens glans | will shine like the brightness of the heavens | »hvælving« som `export/dan/dan_BSB/gen/gen001.txt` v6-8.14-17 (»himmelhvælvingen«). Figura etymologica *yazhirû/zōhar* i `{T:}`. |
-| 3 | וּמַצְדִּיקֵי הָרַבִּים | de som fører de mange til retfærdighed | those who lead many to righteousness | Bestemt form »de mange« bevaret (Es 53,11; jf. 11,33 »de mange«). |
-| 3 | לְעוֹלָם וָעֶד | for evigt og altid | forever and ever | |
-| 4.9 | סְתֹם … וַחֲתֹם / סְתֻמִים וַחֲתֻמִים | luk … inde og forsegl / lukket inde og forseglet | shut up … and seal / closed up and sealed | Ens i v4 og v9. |
-| 4.9 | עַד־עֵת קֵץ | indtil endens tid | until the time of the end | Fast udtryk (8,17; 11,35.40); afstem med kap. 8 og 11. |
-| 4 | יְשֹׁטְטוּ רַבִּים | Mange skal fare frem og tilbage | Many will roam to and fro | `{T:}` om ordret og LXX. |
-| 4 | וְתִרְבֶּה הַדָּעַת | og kundskaben skal vokse | and knowledge will increase | |
-| 5 | הַיְאֹר | floden | the river | `{T:}`: Tigris (10,4 bruger *nāhār*). |
-| 6.7 | הָאִישׁ לְבוּשׁ הַבַּדִּים | manden i linnedklæder | the man dressed in linen | »linnedklæder« som `import/CC0/dan/den-frie-bibel/text/` (Åb 15,6; 19,14). Afstem med 10,5. |
-| 6 | עַד־מָתַי קֵץ הַפְּלָאוֹת | Hvor længe varer det før disse underfulde ting får ende? | How long until the fulfillment of these wonders? | Ordret »hvornår enden på de underfulde ting?«; *qēṣ* gengivet med »ende« for at holde ordet *qēṣ* synligt (v4.9.13). |
-| 7 | וַיָּרֶם יְמִינוֹ וּשְׂמֹאלוֹ | løftede sin højre og sin venstre hånd | raised his right hand and his left hand | Jf. Åb 10,5-6 (hentydning). |
-| 7 | בְּחֵי הָעוֹלָם | ved ham som lever evigt | by Him who lives forever | Jf. 4,31 (aramæisk). |
-| 7 | לְמוֹעֵד מוֹעֲדִים וָחֵצִי | En tid, tider og en halv tid | a time, and times, and half a time | Bindende form fra opgaven, svarende til 7,25. `{T:}` med ordret. |
-| 7 | וּכְכַלּוֹת נַפֵּץ יַד־עַם־קֹדֶשׁ | Når magten hos det hellige folk er blevet knust helt | When the power of the holy people has finally been shattered | *yad* »hånd« → »magt«. Svær syntaks; `{T:}` med ordret og alternativ læsning. |
-| 7 | תִּכְלֶינָה | skal … fuldbyrdes | will be completed | |
-| 8 | אֲדֹנִי | Min herre | My lord | Tiltale til englen, ikke Guds navn; derfor lille »herre«. |
-| 8 | מָה אַחֲרִית אֵלֶּה | hvad bliver udgangen på dette? | what will be the outcome | |
-| 9.13 | לֵךְ | Gå | Go on your way | |
-| 10 | יִתְבָּרְרוּ וְיִתְלַבְּנוּ וְיִצָּרְפוּ | renses, gøres hvide og lutres | purified, made spotless, and refined | Samme tre verber som 11,35 (i anden rækkefølge); afstem. |
-| 10 | וְהִרְשִׁיעוּ רְשָׁעִים | de ugudelige skal blive ved at handle ugudeligt | the wicked will continue to act wickedly | Figura etymologica bevaret; jf. Åb 22,11 (hentydning). |
-| 11 | הוּסַר הַתָּמִיד | det daglige offer bliver taget bort | the daily sacrifice is abolished | »det daglige offer« (`import/CC0/dan/den-frie-bibel/text/` 1×); afstem med 8,11-13; 11,31. |
-| 11 | שִׁקּוּץ שֹׁמֵם | ødelæggelsens vederstyggelighed | the abomination of desolation | Bindende form (stilarket); = Matt 24,15 i `import/CC0/dan/den-frie-bibel/text/`. `{T:}` + `{H:}`. |
-| 11.12 | אֶלֶף מָאתַיִם וְתִשְׁעִים / אֶלֶף שְׁלֹשׁ מֵאוֹת שְׁלֹשִׁים וַחֲמִשָּׁה | 1290 dage / 1335 dage | 1,290 days / 1,335 days | Cifre uden tusindtalspunktum som `import/CC0/dan/den-frie-bibel/text/` Åb 11,3; 12,6 (»1260 dage«). |
-| 12 | אַשְׁרֵי | Salig er | Blessed is | Som Sl 1,1 i `import/CC0/dan/den-frie-bibel/text/`. |
-| 12 | הַמְחַכֶּה וְיַגִּיעַ | den som venter og når frem | he who waits and reaches | |
-| 13 | לֵךְ לַקֵּץ | gå hen til enden | go on your way until the end | |
-| 13 | וְתָנוּחַ | Du skal hvile | You will rest | Eufemisme for døden; ikke markeret. |
-| 13 | וְתַעֲמֹד לְגֹרָלְךָ לְקֵץ הַיָּמִין | og du skal opstå til din lod ved dagenes ende | arise to your inheritance at the end of the days | Bindende slutformulering. *ʕāmad* »stå (op)« som v1 om Mikael; `{T:}` om *gôrāl*. Pluralis *-în* (aramaiserende). |
+| Vers | Hebraisk | Kommentar |
+|---|---|---|
+| 1 | וּבָעֵת הַהִיא (×2) | »Ved den tid« (At that time): Ens begge gange; knytter an til 11,40-45. |
+| 1 | יַעֲמֹד מִיכָאֵל | »skal Mikael stå frem« (Michael … will rise up): *ʕāmad* »stå (frem)«, samme verbum som i 11,2-4 om kongerne der »står frem«. |
+| 1 | הַשַּׂר הַגָּדוֹל | »den store fyrste« (the great prince): *śar* = »fyrste« som 10,13.20-21. |
+| 1 | הָעֹמֵד עַל־בְּנֵי עַמֶּךָ | »som står vagt over dit folk« (who stands watch over your people): `{T:}` med ordret »dit folks sønner«. |
+| 1 | עֵת צָרָה | »en trængselstid« (a time of distress): »trængsel« som Matt 24,21 / Mark 13,19 i `import/CC0/dan/den-frie-bibel/text/`. |
+| 1 | מִהְיוֹת גּוֹי | »siden der blev et folk« (from the beginning of nations): Ordret »fra der var et folk«. |
+| 1 | יִמָּלֵט | »skal … reddes« (will be delivered) |
+| 1 | כָּתוּב בַּסֵּפֶר | »skrevet i bogen« (written in the book): Jf. 2 Mos 32,32; Mal 3,16; Åb 20,12.15. Ingen note. |
+| 2 | יְשֵׁנֵי אַדְמַת־עָפָר | »dem som sover i jordens støv« (who sleep in the dust of the earth): Ordret »støvets jord«; `{T:}`. |
+| 2 | יָקִיצוּ | »skal vågne« (will awake): Som Es 26,19. |
+| 2 | לְחַיֵּי עוֹלָם | »til evigt liv« (to everlasting life): Eneste forekomst af udtrykket i GT. |
+| 2 | לַחֲרָפוֹת לְדִרְאוֹן עוֹלָם | »til skam og evig afsky« (to shame and everlasting contempt): *dērāʔôn* kun her og Es 66,24; `{E:}`. |
+| 3 | הַמַּשְׂכִּלִים | »De forstandige« (the wise): Samme ord v10 (»de forstandige skal forstå«) og 11,33.35. Afstem med kap. 11. |
+| 3 | יַזְהִרוּ כְּזֹהַר הָרָקִיעַ | »skal stråle som himmelhvælvingens glans« (will shine like the brightness of the heavens): »hvælving« som `export/dan/dan_BSB/gen/gen001.txt` v6-8.14-17 (»himmelhvælvingen«). Figura etymologica *yazhirû/zōhar* i `{T:}`. |
+| 3 | וּמַצְדִּיקֵי הָרַבִּים | »de som fører de mange til retfærdighed« (those who lead many to righteousness): Bestemt form »de mange« bevaret (Es 53,11; jf. 11,33 »de mange«). |
+| 3 | לְעוֹלָם וָעֶד | »for evigt og altid« (forever and ever) |
+| 4.9 | סְתֹם … וַחֲתֹם / סְתֻמִים וַחֲתֻמִים | »luk … inde og forsegl / lukket inde og forseglet« (shut up … and seal / closed up and sealed): Ens i v4 og v9. |
+| 4.9 | עַד־עֵת קֵץ | »indtil endens tid« (until the time of the end): Fast udtryk (8,17; 11,35.40); afstem med kap. 8 og 11. |
+| 4 | יְשֹׁטְטוּ רַבִּים | »Mange skal fare frem og tilbage« (Many will roam to and fro): `{T:}` om ordret og LXX. |
+| 4 | וְתִרְבֶּה הַדָּעַת | »og kundskaben skal vokse« (and knowledge will increase) |
+| 5 | הַיְאֹר | »floden« (the river): `{T:}`: Tigris (10,4 bruger *nāhār*). |
+| 6.7 | הָאִישׁ לְבוּשׁ הַבַּדִּים | »manden i linnedklæder« (the man dressed in linen): »linnedklæder« som `import/CC0/dan/den-frie-bibel/text/` (Åb 15,6; 19,14). Afstem med 10,5. |
+| 6 | עַד־מָתַי קֵץ הַפְּלָאוֹת | »Hvor længe varer det før disse underfulde ting får ende?« (How long until the fulfillment of these wonders?): Ordret »hvornår enden på de underfulde ting?«; *qēṣ* gengivet med »ende« for at holde ordet *qēṣ* synligt (v4.9.13). |
+| 7 | וַיָּרֶם יְמִינוֹ וּשְׂמֹאלוֹ | »løftede sin højre og sin venstre hånd« (raised his right hand and his left hand): Jf. Åb 10,5-6 (hentydning). |
+| 7 | בְּחֵי הָעוֹלָם | »ved ham som lever evigt« (by Him who lives forever): Jf. 4,31 (aramæisk). |
+| 7 | לְמוֹעֵד מוֹעֲדִים וָחֵצִי | »En tid, tider og en halv tid« (a time, and times, and half a time): Bindende form fra opgaven, svarende til 7,25. `{T:}` med ordret. |
+| 7 | וּכְכַלּוֹת נַפֵּץ יַד־עַם־קֹדֶשׁ | »Når magten hos det hellige folk er blevet knust helt« (When the power of the holy people has finally been shattered): *yad* »hånd« → »magt«. Svær syntaks; `{T:}` med ordret og alternativ læsning. |
+| 7 | תִּכְלֶינָה | »skal … fuldbyrdes« (will be completed) |
+| 8 | אֲדֹנִי | »Min herre« (My lord): Tiltale til englen, ikke Guds navn; derfor lille »herre«. |
+| 8 | מָה אַחֲרִית אֵלֶּה | »hvad bliver udgangen på dette?« (what will be the outcome) |
+| 9.13 | לֵךְ | »Gå« (Go on your way) |
+| 10 | יִתְבָּרְרוּ וְיִתְלַבְּנוּ וְיִצָּרְפוּ | »renses, gøres hvide og lutres« (purified, made spotless, and refined): Samme tre verber som 11,35 (i anden rækkefølge); afstem. |
+| 10 | וְהִרְשִׁיעוּ רְשָׁעִים | »de ugudelige skal blive ved at handle ugudeligt« (the wicked will continue to act wickedly): Figura etymologica bevaret; jf. Åb 22,11 (hentydning). |
+| 11 | הוּסַר הַתָּמִיד | »det daglige offer bliver taget bort« (the daily sacrifice is abolished): »det daglige offer« (`import/CC0/dan/den-frie-bibel/text/` 1×); afstem med 8,11-13; 11,31. |
+| 11 | שִׁקּוּץ שֹׁמֵם | »ødelæggelsens vederstyggelighed« (the abomination of desolation): Bindende form (stilarket); = Matt 24,15 i `import/CC0/dan/den-frie-bibel/text/`. `{T:}` + `{H:}`. |
+| 11.12 | אֶלֶף מָאתַיִם וְתִשְׁעִים / אֶלֶף שְׁלֹשׁ מֵאוֹת שְׁלֹשִׁים וַחֲמִשָּׁה | »1290 dage / 1335 dage« (1,290 days / 1,335 days): Cifre uden tusindtalspunktum som `import/CC0/dan/den-frie-bibel/text/` Åb 11,3; 12,6 (»1260 dage«). |
+| 12 | אַשְׁרֵי | »Salig er« (Blessed is): Som Sl 1,1 i `import/CC0/dan/den-frie-bibel/text/`. |
+| 12 | הַמְחַכֶּה וְיַגִּיעַ | »den som venter og når frem« (he who waits and reaches) |
+| 13 | לֵךְ לַקֵּץ | »gå hen til enden« (go on your way until the end) |
+| 13 | וְתָנוּחַ | »Du skal hvile« (You will rest): Eufemisme for døden; ikke markeret. |
+| 13 | וְתַעֲמֹד לְגֹרָלְךָ לְקֵץ הַיָּמִין | »og du skal opstå til din lod ved dagenes ende« (arise to your inheritance at the end of the days): Bindende slutformulering. *ʕāmad* »stå (op)« som v1 om Mikael; `{T:}` om *gôrāl*. Pluralis *-în* (aramaiserende). |
 
 ## Eksegetiske observationer
 
@@ -95,4 +95,4 @@ Dato: 09.10.2026 · Status: **Udkast** (maskinudkast fra grundteksten, ingen eks
 5. Skal v1-3 sættes som poesi (`//N`)? Mange oversættelser gør det.
 6. v12 »når frem til de 1335 dage« – bestemt form (»de«) tilføjet for flydende dansk; ordret »når til 1335 dage«.
 
-*Original text in these notes: Hebrew from the Westminster Leningrad Codex (public domain), via MACULA Hebrew (CC BY 4.0, Clear Bible), filled in by scripts/notes_hebrew.py.*
+*Original text in these notes: Hebrew from the Westminster Leningrad Codex (public domain), via MACULA Hebrew (CC BY 4.0, Clear Bible).*

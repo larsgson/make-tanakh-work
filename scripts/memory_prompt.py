@@ -191,8 +191,8 @@ def main():
         pages_hint=PAGES[m["familiarity"]],
         quotation_rule=(f"- {qr}" if qr else "- The corpus is public domain: quote it as you need, with references.")
         + "\n- Hebrew and Greek in the store and the wiki come from the open text, never from `orig/heb/` (our BHSA copy, not "
-          "free): a phrase from a clause package, or a verse from `python3 scripts/notes_hebrew.py show <code> <ch>:<v>` (the "
-          "WLC, or the BGB).")
+          "free): a phrase from a clause package, or from the verse `python3 scripts/notes_hebrew.py show <code> <ch>:<v>` "
+          "prints (the WLC, or the BGB).")
     if not out_dir:                          # the project's own store a register: entries through register.py
         out = RG.agent_wording(out.strip(), pname, long=True)
     print(out.strip())

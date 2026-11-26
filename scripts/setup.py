@@ -58,12 +58,12 @@ SHA-256 of its files' SHA256SUMS): the modern Greek of each OT Hebrew word, for 
 (scripts/morphs.py audit --route vamvas; needs import/CC0/ell/vamvas/text/), into download/full-alignments-llm/; only on
 request, with --only vamvas-align.
 
-Usage: python3 scripts/setup.py [--heb bhsa,bcv-query,macula] [--drafting LAYOUT] [--force] [--only bsb,msb,bgb,rp,vrs,src,spk,names,editions,grambank,glottolog,vamvas-align,gntl]
+Usage: python3 scripts/setup.py [--heb bhsa,bcv-query,macula] [--drafting LAYOUT] [--force] [--only bsb,msb,bgb,rp,vrs,src,spk,names,editions,grambank,glottolog,vamvas-align,gntl,stories]
   --force   download again even if the file is already in download/
   --only    build only the named sources
 Details and licences: docs/sources.md.
 """
-import json, functools, hashlib, os, shutil, subprocess, sys, urllib.request, zipfile
+import json, functools, hashlib, os, re, shutil, subprocess, sys, urllib.request, zipfile
 
 print = functools.partial(print, flush=True)
 
@@ -93,6 +93,10 @@ VAMVAS_COMMIT = "49f2972c6201f39ccc90f2a9bcf236a8272362d0"   # bcv-commons/full-
 VAMVAS_LAYER = "ell_GreVamvas+llm+jev-v4"                  # Vamvas (1850) aligned to MACULA, model-checked; CC0
 VAMVAS_URL = f"https://huggingface.co/datasets/bcv-commons/full-alignments-llm/resolve/{VAMVAS_COMMIT}/{{f}}"
 VAMVAS_SHA256 = "5ab99b6fd66e346550c11d83afd0903518a1e771698c76bb3125b80d1462e75a"  # the SHA-256 of the SHA256SUMS lines of the fetched files (manifest, _layer, OT books)
+OBS_COMMIT = "d52b909864fd66ce425d1987df4cadd364964f21"   # bcv-commons/bible-story-builder: templates/OBS (MIT)
+OBS_URL = f"https://raw.githubusercontent.com/bcv-commons/bible-story-builder/{OBS_COMMIT}/templates/OBS/{{f}}"
+OBS_FIX = {"JOH": "JHN"}                                   # book codes the source writes otherwise (10/48.md)
+OBS_SHA256 = "c8d2f14a4eac06995ff40cbac239de494fdbf283760cb64524f91d7b383ba961"                                         # the SHA-256 of the SHA256SUMS lines of manifest.json and the stories
 SRC_V = "v1"  # the prepared source structures, published by bcv-query (built by scripts/src.py; verified row by row)
 SRC_URL = "https://files.qombi.com/files/source-structure-{v}-{f}"
 SOURCES = {
@@ -194,6 +198,66 @@ def fetch_vamvas_align(force):
         raise SystemExit(f"  {d}: SHA256SUMS digest {digest} is not the pinned {VAMVAS_SHA256}; delete the folder and run "
                          "again (or check what changed)")
     print(f"  {len(names) - 2} Tanakh files of {VAMVAS_LAYER} at {VAMVAS_COMMIT[:12]} (SHA256SUMS digest {digest[:16]}…)")
+
+
+def fetch_obs(force):
+    """the Open Bible Stories reading list (scripts/stories.py, docs/stories.md): bible-story-builder's templates/OBS
+    at a pinned commit (each frame's verse references), into import/stories/CC-BY-SA/obs/ as obs.readings.tsv and
+    story.yaml; one row per verse, BSB numbering (story.yaml says so), group = story-frame"""
+    import json, re
+    dl = os.path.join(DL, "bible-story-builder", OBS_COMMIT[:12], "OBS")
+    get = lambda f: (os.makedirs(os.path.dirname(os.path.join(dl, f)), exist_ok=True), urllib.request.urlretrieve(
+        urllib.request.Request(OBS_URL.format(f=f), headers=UA).full_url, os.path.join(dl, f)))
+    if force or not os.path.exists(os.path.join(dl, "manifest.json")):
+        print(f"  downloading {OBS_URL.format(f='manifest.json')} and the stories")
+        get("manifest.json")
+    files = sorted(x["path"] for x in json.load(open(os.path.join(dl, "manifest.json"), encoding="utf-8"))["files"]
+                   if re.fullmatch(r"\d\d/\d\d\.md", x["path"]))
+    for f in files:
+        if force or not os.path.exists(os.path.join(dl, f)):
+            get(f)
+    sums = "".join(f"{hashlib.sha256(open(os.path.join(dl, f), 'rb').read()).hexdigest()}  {f}\n" for f in ["manifest.json"] + files)
+    digest = hashlib.sha256(sums.encode()).hexdigest()
+    if digest != OBS_SHA256:
+        raise SystemExit(f"  OBS: sha256 {digest} is not the pinned {OBS_SHA256}; delete {dl} and run again.")
+    rows = [["n", "ref", "part", "group"]]
+    for f in files:
+        story, frame, book, ch = f.split("/")[1][:2], 0, None, None
+        for m in re.finditer(r"\[\[ref:([^\]]*)\]\]", open(os.path.join(dl, f), encoding="utf-8").read()):
+            frame += 1
+            for piece in [x.strip() for x in m[1].split(",") if x.strip()]:
+                r = re.fullmatch(r"(?:([1-3]?[A-Z]{2,3}) )?(?:(\d+):)?(\d+)(?:-(?:(\d+):)?(\d+))?", piece)
+                if not r:
+                    print(f"  {f} frame {frame}: {piece!r} not read"); continue
+                if r[1] in OBS_FIX:
+                    print(f"  {f} frame {frame}: {r[1]} read as {OBS_FIX[r[1]]} (a slip in the source)")
+                book = (OBS_FIX.get(r[1], r[1]) or book or "").lower(); ch = int(r[2] or ch)
+                v0, c1, v1 = int(r[3]), int(r[4] or ch), int(r[5] or r[3])
+                cv = [(ch, v) for v in range(v0, (v1 if c1 == ch else verses_in(book, ch)) + 1)]
+                cv += [(c1, v) for v in range(1, v1 + 1)] if c1 != ch else []
+                for c, v in cv:
+                    rows.append([str(len(rows)), f"{book.upper()} {c}:{v}", "whole", f"{story}-{frame:02d}"])
+                ch = c1
+    out = os.path.join(ROOT, "import", "stories", "CC-BY-SA", "obs")
+    os.makedirs(out, exist_ok=True)
+    with open(os.path.join(out, "obs.readings.tsv"), "w", encoding="utf-8") as w:
+        w.writelines("\t".join(r) + "\n" for r in rows)
+    open(os.path.join(out, "story.yaml"), "w", encoding="utf-8").write(
+        "title: Open Bible Stories\n"
+        "licence: CC BY-SA 4.0\n"
+        "numbering: bsb\n"
+        f"source: bcv-commons/bible-story-builder@{OBS_COMMIT[:12]} templates/OBS (MIT), the frames' verse references\n"
+        "credit: \"Open Bible Stories, unfoldingWord (CC BY-SA 4.0); frame references from bcv-commons/bible-story-builder\"\n"
+        "url: https://www.unfoldingword.org/open-bible-stories\n"
+        f"version: {OBS_COMMIT}\n")
+    print(f"  import/stories/CC-BY-SA/obs/: {len(rows) - 1} readings in {len(files)} stories")
+
+
+def verses_in(code, ch):
+    """the BSB's last verse of a chapter (reference/BSB), for a reference that runs into the next chapter"""
+    f = os.path.join(ROOT, "reference", "BSB", f"{code}{ch:03d}.txt")
+    vs = [int(m) for m in re.findall(r"(?m)^v(\d+)", open(f, encoding="utf-8").read())] if os.path.exists(f) else []
+    return max(vs) if vs else 0
 
 
 def unzip_flat(zpath, dest):
@@ -313,6 +377,9 @@ def main():
     if "vamvas-align" in only:
         print(f"download/full-alignments-llm/ (the Vamvas alignment {VAMVAS_LAYER}, CC0: the audit's Tanakh Vamvas route)")
         fetch_vamvas_align(force)
+    if "stories" in only:
+        print("import/stories/CC-BY-SA/obs/ (the Open Bible Stories reading list, for scripts/stories.py)")
+        fetch_obs(force)
     if "editions" in only:
         print("import/: editions with a fetch recipe")
         run("fetch_edition.py", "--all", *(["--force"] if force else []))

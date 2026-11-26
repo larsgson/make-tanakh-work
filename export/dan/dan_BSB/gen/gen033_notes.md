@@ -11,44 +11,44 @@ Dato: 09.10.2026 · Status: **Udkast** (maskinudkast fra grundteksten, ingen eks
 
 ## Bevidste valg
 
-| Vers | Hebraisk | Dansk | BSB | Kommentar |
-|---|---|---|---|---|
-| 1 | וַיִּשָּׂא … עֵינָיו וַיַּרְא וְהִנֵּה | Jakob så op, og se | Jacob looked up and saw | *hinnēh* bevaret som »og se« (fortællerens perspektiv skifter til Jakobs). |
-| 1 | אַרְבַּע מֵאוֹת אִישׁ | 400 mand | four hundred men | Cifre efter talreglen; samme tal som 32,7. |
-| 1.2.6 | הַשְּׁפָחוֹת | trælkvinderne | the maidservants | Som kap. 16 og 30; afventer bogens fælles beslutning (oversigten pkt. 1). |
-| 2 | רִאשֹׁנָה … אַחֲרֹנִים … אַחֲרֹנִים | forrest … bag dem … bagest | in front … next … at the rear | Hebraisk siger »sidst« to gange; »bag dem« / »bagest« giver den tilsigtede rækkefølge. |
-| 3 | וַיִּשְׁתַּחוּ אַרְצָה שֶׁבַע פְּעָמִים | bøjede sig til jorden syv gange | bowed to the ground seven times | Som 18,2 »bøjede sig ned til jorden«; hofskikken i `{E:}`. |
-| 3 | עַד־גִּשְׁתּוֹ עַד־אָחִיו | indtil han nåede hen til sin bror | as he approached his brother | |
-| 4 | וַיִּפֹּל עַל־צַוָּארָו | faldt ham om halsen | threw his arms around his neck | Husidiom (jf. Luk 15,20 »faldt ham om halsen«). Ketiv har flertal »hans halse«, qere ental. |
-| 4 | וַיִּשָּׁקֵהוּ (med prikker) | og kyssede ham | and kissed him | Puncta extraordinaria i `{E:}`. |
-| 5 | אֲשֶׁר־חָנַן אֱלֹהִים אֶת־עַבְדֶּךָ | som Gud i sin nåde har givet din tjener | God has graciously given your servant | *ḥānan* »vise nåde«; samme rod i v8.10.11.15 (*ḥēn*, *ḥannanî*). Ingen `{N: nåde}`, da glossen gælder *ḥæsæd*. |
-| 6-7 | וַתִּשְׁתַּחֲוֶיןָ / וַיִּשְׁתַּחֲווּ | bøjede sig | bowed down | Tre gange, ens. |
-| 8 | מִי לְךָ כָּל־הַמַּחֲנֶה הַזֶּה | Hvad vil du med hele den lejr | What do you mean by sending this whole company | *maḥănæh* bevaret som »lejr« (knytter an til 32,3.8-11); ordret i `{T:}`. |
-| 8.10.15 | לִמְצֹא־חֵן בְּעֵינֵי אֲדֹנִי | finde nåde for min herres øjne | find favor in your sight, my lord | Fast formel som 18,3; 19,19; 30,27. |
-| 9 | יֶשׁ־לִי רָב | Jeg har nok | I already have plenty | Kontrast til Jakobs *yæš-lî-kōl* »jeg har alt« (v11); se obs. 5. |
-| 10 | אַל־נָא | Nej, endelig ikke! | No, please! | |
-| 10 | מִנְחָתִי | gaven | this gift | *minḥāh* som i 32,14.19.21.22 (»gave«); ordet bruges også om offergave. |
-| 10 | כִּרְאֹת פְּנֵי אֱלֹהִים | ligesom man ser Guds ansigt | like seeing the face of God | »ansigt« bevaret ordret begge gange; `{N: Ansigt}` og `{T:}` om Peniel. |
-| 10 | וַתִּרְצֵנִי | og du har taget venligt imod mig | since you have received me favorably | *rāṣāh* er også offersprogets ord (»finde behag i« et offer); se obs. 3. |
-| 11 | בִּרְכָתִי | min velsignelse | my gift (fn: blessing) | Ordret i teksten for at bevare ekkoet til kap. 27; forklaring i `{T:}`. BSB omvendt (»gift« i teksten). |
-| 11 | וַיִּפְצַר־בּוֹ | Han blev ved med at nøde ham | Jacob pressed him | Som 19,3 (Lot nøder englene). |
-| 12 | נִסְעָה וְנֵלֵכָה | Lad os bryde op og drage af sted | Let us be on our way | |
-| 12 | לְנֶגְדֶּךָ | foran dig | ahead of you | Kan også være »ved siden af dig«; BSB og de fleste: foran. |
-| 13 | רַכִּים | spæde | frail | |
-| 13 | עָלוֹת עָלָי | der giver die … må tage mig af | nursing their young … I must care for | Ordspil *ʕālôt ʕālāy* (»diegivende – på mig«) ikke bevaret. |
-| 14 | אֶתְנָהֲלָה לְאִטִּי | følge efter i ro og mag | continue on slowly | |
-| 14 | לְרֶגֶל הַמְּלָאכָה … וּלְרֶגֶל הַיְלָדִים | i det tempo kvæget … og børnene kan gå | at a comfortable pace for the livestock and children | *mᵊlāʔkāh* = »ejendom, besætning« (som 2 Mos 22,7); ordret i `{T:}`. |
-| 14.16 | שֵׂעִירָה | (til) Se'ir | at/to Seir | Husform `import/CC0/dan/den-frie-bibel/text/jdg005.txt` v4. |
-| 15 | לָמָּה זֶּה | Hvorfor dog det? | Why do that? | |
-| 17 | וַיִּבֶן לוֹ בָּיִת | Han byggede sig et hus | he built a house for himself | Første gang en patriark bygger et hus; se obs. 7. |
-| 17 | סֻכֹּת | løvhytter | shelters | »løvhytter« for at bevare forbindelsen til løvhyttefesten; ordspil i `{T:}`. |
-| 18 | שָׁלֵם | uskadt | safely | Adjektiv, ikke stednavn; `{E:}`. |
-| 18 | וַיִּחַן אֶת־פְּנֵי הָעִיר | slog lejr ud for byen | camped just outside the city | Ordret »foran byens ansigt«; ingen `{N: Ansigt}` (stedsangivelse). |
-| 19 | חֶלְקַת הַשָּׂדֶה | Det stykke mark | the plot of ground | |
-| 19 | בְּנֵי־חֲמוֹר אֲבִי שְׁכֶם | Hamors sønner, Sikems far | the sons of Hamor, Shechem's father | Som `export/dan/dan_BSB/jos/jos024.txt` v32 (»sønnerne af Hamor, Sikems far«). Sikem er her både by (v18) og person. |
-| 19 | בְּמֵאָה קְשִׂיטָה | for 100 kesita | for a hundred pieces of silver | Husform »kesita« (`import/CC0/dan/den-frie-bibel/text/job042.txt` v11; Jos 24,32-udkastet); `{T:}`-ordlyd tæt på Jos 24,32. |
-| 20 | וַיַּצֶּב־שָׁם מִזְבֵּחַ | rejste han et alter | he set up an altar | *nṣv* hif. bruges ellers om at rejse en sten/stele (35,14.20); usædvanligt om alter. |
-| 20 | אֵל אֱלֹהֵי יִשְׂרָאֵל | El-Elohe-Israel | El-Elohe-Israel | Translittereret navn med bindestreger (som BSB), betydning i `{T:}`. |
+| Vers | Hebraisk | Kommentar |
+|---|---|---|
+| 1 | וַיִּשָּׂא … עֵינָיו וַיַּרְא וְהִנֵּה | »Jakob så op, og se« (Jacob looked up and saw): *hinnēh* bevaret som »og se« (fortællerens perspektiv skifter til Jakobs). |
+| 1 | אַרְבַּע מֵאוֹת אִישׁ | »400 mand« (four hundred men): Cifre efter talreglen; samme tal som 32,7. |
+| 1.2.6 | הַשְּׁפָחוֹת | »trælkvinderne« (the maidservants): Som kap. 16 og 30; afventer bogens fælles beslutning (oversigten pkt. 1). |
+| 2 | רִאשֹׁנָה … אַחֲרֹנִים … אַחֲרֹנִים | »forrest … bag dem … bagest« (in front … next … at the rear): Hebraisk siger »sidst« to gange; »bag dem« / »bagest« giver den tilsigtede rækkefølge. |
+| 3 | וַיִּשְׁתַּחוּ אַרְצָה שֶׁבַע פְּעָמִים | »bøjede sig til jorden syv gange« (bowed to the ground seven times): Som 18,2 »bøjede sig ned til jorden«; hofskikken i `{E:}`. |
+| 3 | עַד־גִּשְׁתּוֹ עַד־אָחִיו | »indtil han nåede hen til sin bror« (as he approached his brother) |
+| 4 | וַיִּפֹּל עַל־צַוָּארָו | »faldt ham om halsen« (threw his arms around his neck): Husidiom (jf. Luk 15,20 »faldt ham om halsen«). Ketiv har flertal »hans halse«, qere ental. |
+| 4 | וַיִּשָּׁקֵהוּ (med prikker) | »og kyssede ham« (and kissed him): Puncta extraordinaria i `{E:}`. |
+| 5 | אֲשֶׁר־חָנַן אֱלֹהִים אֶת־עַבְדֶּךָ | »som Gud i sin nåde har givet din tjener« (God has graciously given your servant): *ḥānan* »vise nåde«; samme rod i v8.10.11.15 (*ḥēn*, *ḥannanî*). Ingen `{N: nåde}`, da glossen gælder *ḥæsæd*. |
+| 6-7 | וַתִּשְׁתַּחֲוֶיןָ / וַיִּשְׁתַּחֲווּ | »bøjede sig« (bowed down): Tre gange, ens. |
+| 8 | מִי לְךָ כָּל־הַמַּחֲנֶה הַזֶּה | »Hvad vil du med hele den lejr« (What do you mean by sending this whole company): *maḥănæh* bevaret som »lejr« (knytter an til 32,3.8-11); ordret i `{T:}`. |
+| 8.10.15 | לִמְצֹא־חֵן בְּעֵינֵי אֲדֹנִי | »finde nåde for min herres øjne« (find favor in your sight, my lord): Fast formel som 18,3; 19,19; 30,27. |
+| 9 | יֶשׁ־לִי רָב | »Jeg har nok« (I already have plenty): Kontrast til Jakobs *yæš-lî-kōl* »jeg har alt« (v11); se obs. 5. |
+| 10 | אַל־נָא | »Nej, endelig ikke!« (No, please!) |
+| 10 | מִנְחָתִי | »gaven« (this gift): *minḥāh* som i 32,14.19.21.22 (»gave«); ordet bruges også om offergave. |
+| 10 | כִּרְאֹת פְּנֵי אֱלֹהִים | »ligesom man ser Guds ansigt« (like seeing the face of God): »ansigt« bevaret ordret begge gange; `{N: Ansigt}` og `{T:}` om Peniel. |
+| 10 | וַתִּרְצֵנִי | »og du har taget venligt imod mig« (since you have received me favorably): *rāṣāh* er også offersprogets ord (»finde behag i« et offer); se obs. 3. |
+| 11 | בִּרְכָתִי | »min velsignelse« (my gift (fn: blessing)): Ordret i teksten for at bevare ekkoet til kap. 27; forklaring i `{T:}`. BSB omvendt (»gift« i teksten). |
+| 11 | וַיִּפְצַר־בּוֹ | »Han blev ved med at nøde ham« (Jacob pressed him): Som 19,3 (Lot nøder englene). |
+| 12 | נִסְעָה וְנֵלֵכָה | »Lad os bryde op og drage af sted« (Let us be on our way) |
+| 12 | לְנֶגְדֶּךָ | »foran dig« (ahead of you): Kan også være »ved siden af dig«; BSB og de fleste: foran. |
+| 13 | רַכִּים | »spæde« (frail) |
+| 13 | עָלוֹת עָלָי | »der giver die … må tage mig af« (nursing their young … I must care for): Ordspil *ʕālôt ʕālāy* (»diegivende – på mig«) ikke bevaret. |
+| 14 | אֶתְנָהֲלָה לְאִטִּי | »følge efter i ro og mag« (continue on slowly) |
+| 14 | לְרֶגֶל הַמְּלָאכָה … וּלְרֶגֶל הַיְלָדִים | »i det tempo kvæget … og børnene kan gå« (at a comfortable pace for the livestock and children): *mᵊlāʔkāh* = »ejendom, besætning« (som 2 Mos 22,7); ordret i `{T:}`. |
+| 14.16 | שֵׂעִירָה | »(til) Se'ir« (at/to Seir): Husform `import/CC0/dan/den-frie-bibel/text/jdg005.txt` v4. |
+| 15 | לָמָּה זֶּה | »Hvorfor dog det?« (Why do that?) |
+| 17 | וַיִּבֶן לוֹ בָּיִת | »Han byggede sig et hus« (he built a house for himself): Første gang en patriark bygger et hus; se obs. 7. |
+| 17 | סֻכֹּת | »løvhytter« (shelters): »løvhytter« for at bevare forbindelsen til løvhyttefesten; ordspil i `{T:}`. |
+| 18 | שָׁלֵם | »uskadt« (safely): Adjektiv, ikke stednavn; `{E:}`. |
+| 18 | וַיִּחַן אֶת־פְּנֵי הָעִיר | »slog lejr ud for byen« (camped just outside the city): Ordret »foran byens ansigt«; ingen `{N: Ansigt}` (stedsangivelse). |
+| 19 | חֶלְקַת הַשָּׂדֶה | »Det stykke mark« (the plot of ground) |
+| 19 | בְּנֵי־חֲמוֹר אֲבִי שְׁכֶם | »Hamors sønner, Sikems far« (the sons of Hamor, Shechem's father): Som `export/dan/dan_BSB/jos/jos024.txt` v32 (»sønnerne af Hamor, Sikems far«). Sikem er her både by (v18) og person. |
+| 19 | בְּמֵאָה קְשִׂיטָה | »for 100 kesita« (for a hundred pieces of silver): Husform »kesita« (`import/CC0/dan/den-frie-bibel/text/job042.txt` v11; Jos 24,32-udkastet); `{T:}`-ordlyd tæt på Jos 24,32. |
+| 20 | וַיַּצֶּב־שָׁם מִזְבֵּחַ | »rejste han et alter« (he set up an altar): *nṣv* hif. bruges ellers om at rejse en sten/stele (35,14.20); usædvanligt om alter. |
+| 20 | אֵל אֱלֹהֵי יִשְׂרָאֵל | »El-Elohe-Israel« (El-Elohe-Israel): Translittereret navn med bindestreger (som BSB), betydning i `{T:}`. |
 
 ## Eksegetiske observationer
 
@@ -96,4 +96,4 @@ Dato: 09.10.2026 · Status: **Udkast** (maskinudkast fra grundteksten, ingen eks
 6. v20 »El-Elohe-Israel« (BSB-formen) eller en dansk translitteration som »El-Elohe-Jisra'el«? Udkastet holder »Israel« som i resten af bogen.
 7. Skal Joh 4,5 have `{H:}` ved v19 (stedangivelse, ikke citat)? Nu kun nævnt i `{T:}`.
 
-*Original text in these notes: Hebrew from the Westminster Leningrad Codex (public domain), via MACULA Hebrew (CC BY 4.0, Clear Bible), filled in by scripts/notes_hebrew.py.*
+*Original text in these notes: Hebrew from the Westminster Leningrad Codex (public domain), via MACULA Hebrew (CC BY 4.0, Clear Bible).*

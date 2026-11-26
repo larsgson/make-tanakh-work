@@ -181,6 +181,18 @@ Hebrew-numbered verse (checked on Jonah 2:1 = 1:17).
   STEPBible asks that the data be fetched from its repository, not redistributed: it stays in `download/`.
 - **Build:** `setup.py --only names` (in the default set). Read only; nothing from it enters a store or a draft.
 
+## import/stories/: story reading lists
+
+- **What:** reading lists for `scripts/stories.py` (docs/stories.md): which verses a story reads, in its order.
+- **Open Bible Stories:** each frame's verse references from github.com/bcv-commons/bible-story-builder, commit
+  **d52b9098** (2026-09-02), `templates/OBS/` (the manifest and the 50 stories; SHA-256 of their SHA256SUMS lines
+  `c8d2f14a…a961`), pinned in `setup.py`, into `import/stories/CC-BY-SA/obs/` (1,449 verse readings, BSB numbering).
+  The repository is MIT; the stories are unfoldingWord's Open Bible Stories (CC BY-SA 4.0), so the list is filed as
+  CC BY-SA. One slip in the source (`JOH 1:29` in 10/48.md) is read as JHN. `setup.py --only stories` (on request).
+- **Other lists** (a film's readings, a project's selection) are placed by hand in `import/stories/<licence>/<id>/`
+  with their `story.yaml`; a list whose rights aren't settled goes in `import/stories/non-free/`. `import/` is
+  git-ignored except the editions' licence folders, so no list is in git.
+
 ## books.tsv
 
 Written by `scripts/books.py`: BSB code, English name, testament, chapter count, RP file code (NT).

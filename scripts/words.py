@@ -755,14 +755,17 @@ def store_entries(P):
 
 
 def entry_lexemes(e, lemmas):
-    """{(lang, lexeme id)} a decided entry names: H639 / G3709 in `source` or the id, else a single Hebrew or Greek
-    source word looked up as a lemma (content words only); a phrase names none"""
+    """{(lang, lexeme id)} a decided entry names: H639 / G3709 in `source` (alone or first) or the id, else a single
+    Hebrew or Greek source word looked up as a lemma (content words only; a Latin-script gloss and a note in brackets
+    beside it left out); a phrase names none"""
     for s in (e.get("source") or "", e["id"].split(":", 1)[-1]):
-        m = re.fullmatch(r"([HG])0*(\d+)([a-z]?)", s.strip())
+        m = re.match(r"([HG])0*(\d+)([a-z]?)(?![\w])", s.strip())           # H7270, or "H7270 רִגֵּל": the number names it
         if m:
             lang = "hbo" if m[1] == "H" else "grc"
             return {(lang, f"{lang}:{m[2]}{m[3]}")}
     s = nfc(e.get("source") or "").strip()
+    s = re.sub(r"\([^)]*\)|\[[^\]]*\]", " ", s)                              # a note in brackets
+    s = " ".join(w for w in s.split() if not re.search(r"[A-Za-z]", w)).strip(" ,;:")   # a gloss beside it: "דָּרְיָוֶשׁ Darius"
     if e.get("kind") == "formula" or not s or re.search(r"[\s\u05BE]", s):   # a formula is a phrase: only a number names its word
         return set()
     return lemmas.get(s, set())

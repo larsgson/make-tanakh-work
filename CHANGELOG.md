@@ -4,6 +4,82 @@ Tags are `vMAJOR.MINOR.PATCH`. A work copy merges a tag; make-tanakh-grammar pin
 Each entry has a **Format changes** section for the stable formats listed in `docs/related-repos.md`, section 4:
 what changed and how existing files move over. Before 1.0 a breaking format change raises the minor version.
 
+## v0.13.0
+
+**Stories rebuilt, not published** (the work copy's proposal, agreed by the user 2026-11-26: story files repeat the
+chapters).
+
+- **`scripts/stories.py build <story> --project P | --from-repo DIR`**: a story's readings in its order (`.txt`,
+  `.tsv`) from a project's drafts or from a language repository's chapters (make-tanakh-review FORMAT.md). Partial
+  readings are cut by the `.align` (the work copy's excerpt rules); readings the drafts lack are quoted from an open
+  style edition (credited) or only referenced from a non-free one; the missing ones are listed. Output in
+  `export/<p>/stories/` (now git-ignored) or `--out`. `stories.py list` shows the lists found.
+- **Reading lists** in `import/stories/<licence>/<id>/` (`story.yaml`, `<id>.readings.tsv`; docs/stories.md), never
+  in git. `setup.py --only stories` fetches the Open Bible Stories list from bcv-commons/bible-story-builder at a
+  pinned commit (1,449 verse readings, CC BY-SA; docs/sources.md). A film's list stays local in
+  `import/stories/non-free/` until its makers have been asked.
+- **`vrs.to_heb`**: the Hebrew verse of a BSB verse (the inverse of `to_bsb`), for lists in English numbering.
+
+### Format changes
+
+- **Story files** are no longer in git (`export/**/stories/`). The reading list's format is new (docs/stories.md);
+  the work copy's `selection.tsv` columns are read as they are.
+
+## v0.12.0
+
+**Stamps with evidence** (the work copy's proposal, 2026-11-26: `stamp --all` marked every chapter as following
+today's decisions, also one that writes "Darius" where the store says Dareios, and stale could never show it).
+
+- **`basis`** in every stamp: `prompt` (make_prompt), `chapter_check`, `git <commit>`, `verified`, `asserted`.
+  `stale` counts the stamps by basis and says that `asserted` ones were not tested.
+- **`lifecycle.py stamp <project> --all --as-of git`**: the `drafted` stamp from the decisions in the commit that
+  last changed each chapter's text (`committed`, `modified`); an upper bound for chapters committed after drafting.
+  No date-based fallback for a store outside git.
+- **`lifecycle.py stamp <project> --all --verify [--report F]`**: the `checked` stamp from a test of each decision on
+  the chapter (terms, names, formulas with a source word through the .align; spelling rules on the text). It keeps
+  what the chapter follows, `drift` (with the verses: decided entries naming their word by number, and names) and
+  `unverified` (untestable kinds and phrases, verses without a link, terms found by their lemma, proposals not
+  followed). Another decision on the same word (another bearer of a name) counts as followed; a name may take an
+  ending of up to two letters. The drift list is the work list for `migrate --ids`. On the work copy's Danish
+  project (431 chapters, read-only): 2,566 decisions followed, 20 drift verses (Ke'ila for Keila, Ma'on for Maon,
+  "sydlandet" for Negev, gentilics, and one false: a name whose value is a phrase, "borgen Susa"), 27 s.
+- **`words.entry_lexemes`** reads a source with a gloss or a note beside the word ("דָּרְיָוֶשׁ Darius",
+  "H7270 רִגֵּל", "… (Neh 5) usury"): more decided entries are checked, by `words.py check` too.
+- **`stale --stamp drafted|checked`**; from a verified stamp `drift`, `drift, changed since`, `changed (unverified)`.
+- **Plain `stamp --all`** keeps its behaviour, marks its stamps `asserted` and warns.
+
+### Format changes
+
+- **Stamps (`.tanakh/runs/`)**: `basis` in every record; a verified record has `drift` and `unverified`, a git one
+  `committed` and `modified`. Stamps without `basis` (v0.10.x) are read as before and counted as "before v0.12.0".
+
+## v0.11.0
+
+**Notes without whole verses** (the work copy's proposal, 2026-11-26: the whole Hebrew verses were half of its 33 MB of
+notes, and every verse row also repeated the draft and the BSB).
+
+- **The notes table** is *Verse · Hebrew (or Greek) · Comment*: the middle column a phrase the note is about (a few
+  words, the WLC/BGB word for word; may be empty), never a whole verse; no copy of the draft or the BSB. A rendering
+  under discussion goes into the comment. The chapter prompt says so in every project, also where `notes_structure`
+  is set; the draft-chapter skill, `memory_prompt.py`, `docs/licensing.md` and CLAUDE.md follow.
+- **`notes_hebrew.py`** no longer fills verses. It adds the credit line where the notes quote Hebrew or Greek (and
+  removes it where they quote none), and counts the whole verses still in a table. `show` stays.
+- **`notes_hebrew.py slim <project> [<code> [<ch>]] [--apply]`** moves older notes over: a whole verse in any column
+  is emptied (the original's: >= 60% of the WLC/BGB verse's words; the rendering's or BSB's: that, and >= 80% of its
+  words in the verse); a shorter rendering and BSB phrase move into the comment as `»rendering« (BSB phrase): comment`,
+  so no choice is lost; rows left empty are dropped; a column empty in every row is dropped. Dry run by default, with
+  a summary (files, cells, MB).
+- **The website's verse view** shows a three-column table's phrase above its comment (it always took the verses from
+  their sources).
+- The demos' notes are slimmed (Danish: 86 choice rows, the phrases now in the comments; Jamaican: 93 whole-verse
+  cells emptied) and the Danish `notes_structure` names the new table.
+
+### Format changes
+
+- **Chapter notes (`<code>NNN_notes.md`)**: the verse table has three columns (or two: Verse · Comment). Existing
+  notes stay readable by every tool; to move them over, `python3 scripts/notes_hebrew.py slim <project>` (dry run),
+  then `--apply`, then `python3 scripts/notes_hebrew.py <project> --all` for the credit lines.
+
 ## v0.10.1
 
 **The work copy's "seen, not fixed" list** (its report of 2026-11-26, with cases from its projects for the last four).

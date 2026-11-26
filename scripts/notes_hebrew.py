@@ -1,21 +1,27 @@
 #!/usr/bin/env python3
-"""The original text in a chapter's notes: from the open text, never from orig/heb/.
+"""The original text in a chapter's notes: from the open text, never from orig/heb/; and notes without whole verses.
 
 orig/heb/ is our BHSA copy (the BHS text, CC BY-NC): agents consult its clause layout but never copy its text. The
 original that the notes quote comes from the open texts: the Westminster Leningrad Codex (public domain) via MACULA
 Hebrew in orig/heb.sqlite, and for the NT the Berean Greek Bible (orig/grc/, CC0).
 
-- A notes table with a row per verse (Verse · Hebrew · <language> · BSB · Comment) gets the whole verse in its original
-  column, written here from the WLC / BGB (the agent leaves it empty, or anything it wrote is replaced). Its rows that
-  name one verse count: a partial chapter, or rows for a few verses beside ranges, is filled too; where the original
-  cell is empty in such a table, the BSB column must hold the verse (whole, or cut with …). A table not filled says why.
-- A table with a row per choice (Danish, Jamaican: the Hebrew phrase · the rendering · …) keeps the agent's phrase;
-  quotes.py checks that a long one is the WLC word for word.
-- The file ends with a credit line for the original text (replaced, not repeated, on a second run).
+The notes table (v0.11.0): *Verse · <Hebrew|Greek> · Comment*, the middle column a phrase the note is about (a few
+words, the open text word for word; optional), never a whole verse: not the original's, not the BSB's, not a copy of
+the draft. A reader gets the verses from their sources (the website's verse view does). quotes.py checks that a phrase
+is the WLC / BGB word for word.
 
-    python3 scripts/notes_hebrew.py <project> <code> <ch>      fill one chapter's notes
-    python3 scripts/notes_hebrew.py <project> --all            every chapter's notes in the project (and its test drafts)
-    python3 scripts/notes_hebrew.py show <code> <ch>:<v>       print one verse of the open original (for an agent)
+- `<project> <code> <ch>` / `--all`: the credit line for the original text where the notes quote it (replaced, not
+  repeated, on a second run; removed where they quote none), and a count of the whole verses still in a table.
+- `slim <project> [<code> [<ch>]] [--apply]`: the older tables (a row per verse with the whole verse, or the
+  rendering and BSB columns) in the new form: a whole verse in any column is emptied; a short rendering or BSB phrase
+  goes into the comment (»rendering« (BSB phrase): comment), so no choice is lost; an original phrase stays. A dry
+  run by default, with a summary; tables that are not verse tables are left alone.
+- `show <code> <ch>:<v>`: one verse of the open original (for an agent).
+
+    python3 scripts/notes_hebrew.py <project> <code> <ch>
+    python3 scripts/notes_hebrew.py <project> --all
+    python3 scripts/notes_hebrew.py slim <project> [<code> [<ch>]] [--apply]
+    python3 scripts/notes_hebrew.py show <code> <ch>:<v>
 """
 import glob, os, re, sqlite3, sys
 
@@ -27,9 +33,9 @@ from project import project_dir  # noqa: E402
 
 CREDIT_MARK = "Original text in these notes:"
 CREDIT = {"ot": f"*{CREDIT_MARK} Hebrew from the Westminster Leningrad Codex (public domain), via MACULA Hebrew "
-                f"(CC BY 4.0, Clear Bible), filled in by scripts/notes_hebrew.py.*",
-          "nt": f"*{CREDIT_MARK} Greek from the Berean Greek Bible (public domain, CC0), filled in by "
-                f"scripts/notes_hebrew.py.*"}
+                f"(CC BY 4.0, Clear Bible).*",
+          "nt": f"*{CREDIT_MARK} Greek from the Berean Greek Bible (public domain, CC0).*"}
+ORIGINAL = re.compile(r"[\u0590-\u05FF\uFB1D-\uFB4F\u0370-\u03FF\u1F00-\u1FFF]")   # Hebrew or Greek letters
 VERSE_HEAD = re.compile(r"^(verse|vers|v\.?|vers\.?)$", re.I)
 SEP = re.compile(r"^\s*\|[\s:|-]+\|\s*$")
 
@@ -90,61 +96,82 @@ def verse_numbers(cell):
     return out
 
 
-def per_verse(rows, orig, head=None):
-    """(True, "") for a table with a row per verse whose original column is the verse (whole, left empty, or cut to a
-    few words with …), not a row per choice (Danish, Jamaican), even where a chapter has one choice per verse (a list of
-    names); else (False, why). Only its rows naming one verse count: a partial chapter, or rows for a few verses and
-    ranges (1-5) beside them, is still a per-verse table, and its one-verse rows get their verse."""
-    if not rows or not orig:
-        return False, "no table rows" if orig else "no original text for the chapter"
-    one = [(r, vs[0]) for r in rows for vs in [verse_numbers(r[0])] if len(vs) == 1 and vs[0] in orig]
-    if not one:
-        return False, "no row names a single verse"
-    if len({v for _, v in one}) < len(one):
-        return False, "a verse has more than one row (a row per choice)"
+def whole(cell, verse, cut=0.4):
+    """is a table cell a whole verse (or the verse cut with …)? ≥ 60% of its words, or ending with … and ≥ cut of them"""
+    cell = (cell or "").strip()
+    n, full = len(cell.split()), len((verse or "").split())
+    return bool(cell and full and (n >= 0.6 * full or (cell.endswith("…") and n >= cut * full)))
 
-    if len(one) >= 0.8 * len(orig) and len(one) == len(rows):
-        strict = False                           # a row for (nearly) every verse: a per-verse table, as it always was
-    else:                                        # a few rows: an empty original cell only where the English is the verse
-        strict = True
-    bsb = next((i for i, h in enumerate(head or []) if "BSB" in h.upper()), 3)
 
-    def whole(r, v):
-        cell = r[1].strip() if len(r) > 1 else ""
-        n, full = len(cell.split()), len((orig.get(v) or "").split())
-        if cell:
-            return cell.endswith("…") or bool(full and n >= 0.6 * full)
-        if not strict:
-            return True
-        eng = r[bsb].strip() if len(r) > bsb else ""
-        return eng.endswith("…") or len(eng.split()) >= 0.8 * full
-    w = sum(whole(r, v) for r, v in one)
-    if w < 0.8 * len(one):
-        return False, f"the rows hold phrases, not verses ({len(one) - w} of {len(one)}): a row per choice"
-    return True, ""
+def is_verse(cell, verse):
+    """a rendering or BSB cell that is the verse itself (whole(), and ≥ 80% of its words are the verse's words), not a
+    long phrase with a note around it"""
+    if not whole(cell, verse):
+        return False
+    w = lambda t: re.findall(r"\w+", t.lower())
+    cw, vw = w(cell), set(w(verse))
+    return bool(cw) and sum(x in vw for x in cw) >= 0.8 * len(cw)
+
+
+def credit(md, code):
+    """the notes with the credit line where they quote the original (Hebrew or Greek letters outside it), without it
+    where they quote none"""
+    body = "\n".join(l for l in md.splitlines() if CREDIT_MARK not in l).rstrip()
+    if ORIGINAL.search(body):
+        return body + "\n\n" + CREDIT["nt" if BY_CODE[code][2] == "nt" else "ot"] + "\n"
+    return body + "\n"
 
 
 def fill(path, code, ch):
-    """Fill one notes file: the whole verse in a per-verse table's original column, and the credit line.
-    -> (cells, changed, why not filled or "")"""
+    """One notes file: the credit line as credit() says. -> (whole verses left in its table, changed)"""
     md = open(path, encoding="utf-8").read()
     rows, head, _, span = notes_table(md)
     orig = original_verses(code, ch)
-    lines, cells, why = md.splitlines(), 0, ""
-    ok, why = per_verse(rows, orig, head) if span and head and len(head) >= 3 else (False, "no notes table" if not span else "")
-    if ok:
-        for i in range(span[0] + 2, span[1]):
-            c = split_row(lines[i])
-            vs = verse_numbers(c[0])
-            if len(c) >= 3 and len(vs) == 1 and orig.get(vs[0]) and c[1] != orig[vs[0]]:
-                c[1] = orig[vs[0]].replace("|", "/")
-                lines[i] = "| " + " | ".join(c) + " |"
-                cells += 1
-    body = "\n".join(l for l in lines if CREDIT_MARK not in l).rstrip()
-    new = body + "\n\n" + CREDIT["nt" if BY_CODE[code][2] == "nt" else "ot"] + "\n"
+    left = sum(1 for r in rows for vs in [verse_numbers(r[0])] if head and len(head) >= 3 and len(r) > 1 and len(vs) == 1
+               and whole(r[1], orig.get(vs[0])))      # the original column (a Verse · Comment table has none)
+    new = credit(md, code)
     if new != md:
         open(path, "w", encoding="utf-8").write(new)
-    return cells, new != md, why
+    return left, new != md
+
+
+def slim_text(md, code, ch, draft, bsb):
+    """the notes with their verse table in the new form (Verse · original phrase · Comment) -> (new md, stats).
+    draft, bsb: {verse: text}, to tell a whole verse in the rendering and BSB columns"""
+    rows, head, _, span = notes_table(md)
+    st = {"rows": len(rows), "emptied": 0, "folded": 0, "dropped": 0}
+    if not span or not head or len(head) < 3:
+        return md, st
+    orig = original_verses(code, ch)
+    out = []
+    for r in rows:
+        r = r + [""] * (len(head) - len(r))
+        vs = verse_numbers(r[0]); v = vs[0] if len(vs) == 1 else None
+        o, mids, cm = r[1], r[2:len(head) - 1], r[len(head) - 1]
+        if v and whole(o, orig.get(v)):
+            o = ""; st["emptied"] += 1
+        phr = []
+        for x in mids:
+            x = x.strip()
+            if not x or x in ("–", "-", "—"):
+                continue
+            if v and (is_verse(x, draft.get(v)) or is_verse(x, bsb.get(v))):
+                st["emptied"] += 1; continue
+            phr.append(x)
+        if phr:
+            st["folded"] += 1
+            lead = f"»{phr[0]}«" + (f" ({' / '.join(phr[1:])})" if phr[1:] else "")
+            cm = lead + (f": {cm}" if cm.strip() else "")
+        if not (o.strip() or cm.strip()):
+            st["dropped"] += 1; continue
+        out.append((r[0], o, cm))
+    keep_o = any(o.strip() for _, o, _ in out)
+    hd = [head[0], head[1], head[-1]] if keep_o else [head[0], head[-1]]
+    tab = ["| " + " | ".join(hd) + " |", "|" + "---|" * len(hd)]
+    tab += ["| " + " | ".join([a_, o, c_] if keep_o else [a_, c_]) + " |" for a_, o, c_ in out]
+    lines = md.splitlines()
+    new = "\n".join(lines[:span[0]] + tab + lines[span[1]:]) + ("\n" if md.endswith("\n") else "")
+    return credit(new, code), st
 
 
 def project_notes(pname):
@@ -159,11 +186,41 @@ def project_notes(pname):
     return out
 
 
+def slim(pname, code=None, ch=None, apply=False):
+    """slim_text over a project's notes (or one book or chapter); a dry run unless apply. -> summary dict"""
+    import collections, langtools as LT, words as W
+    P = LT.Project(pname)
+    tot = collections.Counter()
+    for f, c, n in project_notes(pname):
+        if (code and c != code) or (ch and n != ch):
+            continue
+        md = open(f, encoding="utf-8").read()
+        dr = os.path.join(os.path.dirname(f), f"{c}{n:03d}.txt")
+        draft = {v: t for (_, v), t in LT.verses_of(dr).items()} if os.path.exists(dr) else {}
+        bsb = {v: W.bsb_verse(P, c, n, v) for v in set(draft) | set(original_verses(c, n))}
+        new, st = slim_text(md, c, n, draft, bsb)
+        tot.update({k: v for k, v in st.items() if k != "rows"})
+        if new != md:
+            tot["files"] += 1; tot["bytes before"] += len(md.encode()); tot["bytes after"] += len(new.encode())
+            if apply:
+                open(f, "w", encoding="utf-8").write(new)
+    return tot
+
+
 def main():
     a = sys.argv[1:]
     if a[:1] == ["show"] and len(a) == 3:
         ch, v = map(int, a[2].split(":"))
         print(original_verses(a[1], ch).get(v, ""))
+        return
+    if a[:1] == ["slim"] and len(a) >= 2:
+        rest = [x for x in a[2:] if x != "--apply"]
+        t = slim(a[1], rest[0] if rest else None, int(rest[1]) if len(rest) > 1 else None, "--apply" in a)
+        saved = t["bytes before"] - t["bytes after"]
+        print(f"{a[1]}: {t['files']} notes files {'changed' if '--apply' in a else 'would change'}; "
+              f"{t['emptied']} whole-verse cells emptied, {t['folded']} rows with a rendering or BSB phrase moved into "
+              f"the comment, {t['dropped']} empty rows dropped; {saved / 1e6:.2f} MB of {t['bytes before'] / 1e6:.2f} MB"
+              + ("" if "--apply" in a else " (dry run: --apply writes)"))
         return
     if len(a) == 2 and a[1] == "--all":
         todo = project_notes(a[0])
@@ -174,19 +231,13 @@ def main():
         todo = [(f, a[1], int(a[2]))]
     else:
         raise SystemExit(__doc__)
-    cells = changed = 0
-    import collections
-    whys = collections.Counter()
+    left = changed = 0
     for f, code, ch in todo:
-        c, ch_, why = fill(f, code, ch)
-        cells += c
-        changed += ch_
-        if why and len(todo) == 1:
-            print(f"{os.path.relpath(f, ROOT)}: original column not filled: {why}")
-        elif why:
-            whys[why.split(" (")[0]] += 1
-    print(f"{a[0]}: {len(todo)} notes files, {changed} changed, {cells} verses filled from the open original"
-          + ("; not filled: " + "; ".join(f"{n} {w}" for w, n in whys.most_common()) if whys else ""))
+        n, c = fill(f, code, ch)
+        left += n; changed += c
+    print(f"{a[0]}: {len(todo)} notes files, {changed} changed (credit line)"
+          + (f"; {left} whole verses in their tables: the notes quote a phrase, not the verse "
+             f"(`python3 scripts/notes_hebrew.py slim {a[0]}`)" if left else ""))
 
 
 if __name__ == "__main__":

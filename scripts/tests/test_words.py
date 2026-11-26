@@ -156,6 +156,9 @@ def test_decided_terms():
     assert W.entry_lexemes({"id": "term:H639", "source": "אַף"}, lem) == {("hbo", "hbo:639")}
     assert W.entry_lexemes({"id": "term:anger", "source": "אַף"}, lem) == lem["אַף"]
     assert W.entry_lexemes({"id": "formula:x", "source": "נשׂא קול"}, lem) == set()
+    assert W.entry_lexemes({"id": "name:d", "source": "אַף Darius"}, lem) == lem["אַף"]          # a gloss beside it
+    assert W.entry_lexemes({"id": "term:spy", "source": "H7270 רִגֵּל"}, lem) == {("hbo", "hbo:7270")}
+    assert W.entry_lexemes({"id": "term:a", "source": "אַף (Neh 5) usury"}, lem) == lem["אַף"]
     assert W.value_words("der HERR", {"der": 0}) == ["herr"]
     assert W.value_words("der HERR", {"der": 0, "herr": 30}) == ["herr"]          # all common: the rarest word
     assert W.value_forms("Guld, Silber und Bronze; Öl") == ["Guld", "Silber und Bronze", "Öl"]

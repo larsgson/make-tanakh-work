@@ -9,18 +9,18 @@ Dato: 17.08.2026 · Status: **Udkast** (maskinudkast fra grundteksten, ingen eks
 
 ## Bevidste valg
 
-| Vers | Hebraisk | Udkast | Kommentar |
-|---|---|---|---|
-| 1 | וַיֵּצֵא הַגּוֹרָל … מִיַּרְדֵּן | »Loddet … gik fra Jordan« + `{T:}` med ordlyden | *yāṣāʾ* bruges både om at loddet »kommer ud« og om at grænsen »går ud«; alternativ »gik ud fra Jordan«, der bevarer dobbeltheden. |
-| 1 | בָּהָר בֵּית־אֵל | »ind i bjerglandet ved Betel« | Ordret »i bjerglandet, Betel« – apposition uden præposition. |
-| 2 | מִבֵּית־אֵל לוּזָה | »Fra Betel, det vil sige Luz« + `{T:}` (LXX; hebraisk »fra Betel til Luz«) | Se eksegetisk note 2. Følger BSB's LXX-læsning, men noterer MT. Reviewer bør vælge. |
-| 3 | יָמָּה | »mod vest« + `{T: Dvs. Middelhavet …}` ved »havet« | BSB glosserer »the Sea«; `import/CC0/dan/den-frie-bibel/text/` bruger »havet« uden note. |
-| 4 | וַיִּנְחֲלוּ | »fik … deres arvelod« | Hebraisk rækkefølge »Manasse og Efraim« beholdt (BSB vender om). |
-| 6 | הַמִּכְמְתָת מִצָּפוֹן | »Fra Mikmetat i nord drejede grænsen …« | Hebraisk har Mikmetat som nominalsætning uden præposition. |
-| 9 | כָּל־הֶעָרִים וְחַצְרֵיהֶן | »alle de byer og landsbyer der var udskilt …« + `{T:}` | Slutformlen trukket frem som i BSB; MT har den bagest. |
-| 10 | וַיְהִי לְמַס־עֹבֵד | »men de er tvangsarbejdere« + `{T:}` | Se note 6. »tvangsarbejde« er husterm (2 Mos 1). |
-| 10 | וַיֵּשֶׁב … עַד־הַיּוֹם הַזֶּה | »Så kana'anæerne bor … til denne dag« | BSB's præsens; alternativ »blev boende … til denne dag« som `jdg001.txt` v29. |
-| Overskrifter | – | 1 (»Efraims arvelod«, som BSB) | |
+| Vers | Hebraisk | Kommentar |
+|---|---|---|
+| 1 | וַיֵּצֵא הַגּוֹרָל … מִיַּרְדֵּן | »»Loddet … gik fra Jordan« + `{T:}` med ordlyden«: *yāṣāʾ* bruges både om at loddet »kommer ud« og om at grænsen »går ud«; alternativ »gik ud fra Jordan«, der bevarer dobbeltheden. |
+| 1 | בָּהָר בֵּית־אֵל | »»ind i bjerglandet ved Betel««: Ordret »i bjerglandet, Betel« – apposition uden præposition. |
+| 2 | מִבֵּית־אֵל לוּזָה | »»Fra Betel, det vil sige Luz« + `{T:}` (LXX; hebraisk »fra Betel til Luz«)«: Se eksegetisk note 2. Følger BSB's LXX-læsning, men noterer MT. Reviewer bør vælge. |
+| 3 | יָמָּה | »»mod vest« + `{T: Dvs. Middelhavet …}` ved »havet««: BSB glosserer »the Sea«; `import/CC0/dan/den-frie-bibel/text/` bruger »havet« uden note. |
+| 4 | וַיִּנְחֲלוּ | »»fik … deres arvelod««: Hebraisk rækkefølge »Manasse og Efraim« beholdt (BSB vender om). |
+| 6 | הַמִּכְמְתָת מִצָּפוֹן | »»Fra Mikmetat i nord drejede grænsen …««: Hebraisk har Mikmetat som nominalsætning uden præposition. |
+| 9 | כָּל־הֶעָרִים וְחַצְרֵיהֶן | Slutformlen trukket frem som i BSB; MT har den bagest. |
+| 10 | וַיְהִי לְמַס־עֹבֵד | »»men de er tvangsarbejdere« + `{T:}`«: Se note 6. »tvangsarbejde« er husterm (2 Mos 1). |
+| 10 | וַיֵּשֶׁב … עַד־הַיּוֹם הַזֶּה | »»Så kana'anæerne bor … til denne dag««: BSB's præsens; alternativ »blev boende … til denne dag« som `jdg001.txt` v29. |
+| Overskrifter | – | »1 (»Efraims arvelod«, som BSB)« |
 
 ## Inline-noter i udkastet
 
@@ -72,4 +72,4 @@ Dato: 17.08.2026 · Status: **Udkast** (maskinudkast fra grundteksten, ingen eks
 5. v10: »er tvangsarbejdere« (som nu) eller »blev sat til tvangsarbejde«? Hebraisk er kollektivt/abstrakt (»blev til hoveri«).
 6. Skal grænsebeskrivelserne i kap. 15-19 have én fælles `{E:}` (fx ved 15,1) der forklarer grænseverberne, i stedet for spredte `{T:}`?
 
-*Original text in these notes: Hebrew from the Westminster Leningrad Codex (public domain), via MACULA Hebrew (CC BY 4.0, Clear Bible), filled in by scripts/notes_hebrew.py.*
+*Original text in these notes: Hebrew from the Westminster Leningrad Codex (public domain), via MACULA Hebrew (CC BY 4.0, Clear Bible).*
