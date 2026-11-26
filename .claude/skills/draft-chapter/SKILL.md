@@ -30,7 +30,11 @@ One agent per book drafts its chapters one after another, in every mode.
    chapters write the store that the next chapter's pack reads.
    - An agent stopped by a rate limit is resumed, not replaced.
    - **Handover:** when it stops after its chapters (ten by default), print the prompt again (it continues at the
-     next chapter) and give it to a new agent.
+     next chapter) and give it to a new agent. The prompt has it start from the drafting cache
+     (`python3 scripts/draft_cache.py build <project>`: `_learn/cache/primer.md`, a digest per chapter, `drafted.tsv`).
+   - **Verses added later** (drafts of chosen verses): `python3 scripts/draft_cache.py new <project> <selection.tsv>`
+     lists per chapter the verses to add or extend; the agent reads the primer and each chapter's digest, inserts
+     only those verses, keeps the chapter's earlier choices, and runs the chapter's check again.
    - Log what each agent cost from its usage report:
      `python3 scripts/usage.py <project> add <code><nnn> --tokens N --calls N --minutes M`.
 3. **Check its report.** `chapter_check.py` already ran `check_draft.py` (verses, format), the alignment and the

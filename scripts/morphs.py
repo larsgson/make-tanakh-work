@@ -1802,7 +1802,8 @@ def hebrew_features(code, ch):
     neg = {r["clause"] for r in rows if r["lemma"] in HEB_NEG and r["clause"]}
     obj = {}
     for r in rows:
-        if r["role"] == "o" and r["pos"] in ("suffix", "pronoun") and r["person"] and r["clause"]:
+        # MACULA marks some object pronouns 'unknown: x' (117 in the Tanakh): no person feature for those
+        if r["role"] == "o" and r["pos"] in ("suffix", "pronoun") and r["person"] in ("first", "second", "third") and r["clause"]:
             obj.setdefault(r["clause"], f"{'123'[['first', 'second', 'third'].index(r['person'])]}{(r['number'] or 's')[:1]}")
     out = {}
     for r in rows:

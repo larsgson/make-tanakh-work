@@ -468,7 +468,8 @@ def fetch_source(rec, force, edition_path=None):
                  if isinstance(x, dict) and str(x.get("type", "text")).startswith("text")]      # not the audio / video
         statement = "; ".join(dict.fromkeys(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", l)).strip() for l in lines if l)) or "see DBT"
         # DBT texts are licensed for display in apps: kept local (non-free) unless the copyright says otherwise
-        return (fs["title"], f"https://www.bible.is/bible/{fs['bible']}", statement, "non-free", fs.get("size"),
+        found = class_from_text(statement) if statement != "see DBT" else None
+        return (fs["title"], f"https://www.bible.is/bible/{fs['bible']}", statement, found or "non-free", fs.get("size"),
                 dbt_books(sid, fs["bible"], force, fs.get("sofria")))
     raise SystemExit(f"  unknown source {src!r} (helloao, openbible, ebible, dbt, local)")
 

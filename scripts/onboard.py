@@ -46,6 +46,7 @@ Answers (all optional; the wizard prints the file it used, so a run can be repea
     quotes: "“”"                   chapter_word: Chapter
     ai_route: api | claude-code    probe_model: claude-opus-5-5 (API route)   close_to: null   go_ahead: true
     run_setup: true                run_align: true              init_memory: true    donor: true
+    write_priors: true             build_and_draft: true        # false: stop before step 9 (no memory agent, no first chapter)
 """
 import collections, datetime, glob, json, os, re, subprocess, sys
 
@@ -189,19 +190,26 @@ def edition_text_complete(eid):
     return os.path.isdir(d) and any(f.endswith(".txt") for f in os.listdir(d))
 
 
-def imported_recipes(iso):
+def edition_files(iso, lang_dir=None):
+    """edition.yaml files of this language in import/: import/<licence>/<iso>/<edition>/, and for a dialect also
+    import/<licence>/<dialect id>/<edition>/."""
+    dirs = dict.fromkeys(d for d in (iso, lang_dir) if d)
+    return sorted(f for d in dirs for f in glob.glob(os.path.join(ROOT, "import", "*", d, "*", "edition.yaml")))
+
+
+def imported_recipes(iso, lang_dir=None):
     """{(source, id): edition id} of this language's editions already in import/ that have a fetch recipe."""
     out = {}
-    for f in glob.glob(os.path.join(ROOT, "import", "*", iso, "*", "edition.yaml")):
+    for f in edition_files(iso, lang_dir):
         r = (yaml.safe_load(open(f, encoding="utf-8")) or {}).get("fetch") or {}
         if r.get("source") and r.get("id"):
             out[(r["source"], r["id"])] = os.path.basename(os.path.dirname(f))
     return out
 
 
-def language_editions(iso):
-    """Edition ids already in import/ for this language (import/<licence>/<iso>/<edition>/)."""
-    return sorted(os.path.basename(os.path.dirname(f)) for f in glob.glob(os.path.join(ROOT, "import", "*", iso, "*", "edition.yaml")))
+def language_editions(iso, lang_dir=None):
+    """Edition ids already in import/ for this language (import/<licence>/<iso or dialect id>/<edition>/)."""
+    return sorted({os.path.basename(os.path.dirname(f)) for f in edition_files(iso, lang_dir)})
 
 
 SOURCE_NAME = {"helloao": "helloAO (bible.helloao.org)", "openbible": "openbible", "ebible": "eBible.org",
@@ -267,7 +275,7 @@ def pick_language():
             say("  Type the code of the one you mean.")
 
 
-def pick_editions(iso, listed, name=None):
+def pick_editions(iso, listed, name=None, lang_dir=None):
     say(f"\n== 2. Bible translations in {name or iso}")
     say("  looking up what exists: the bcv-commons/bibles catalogue, helloAO, openbible, eBible, the Digital Bible "
         "Platform (about 10 seconds)")
@@ -286,7 +294,7 @@ def pick_editions(iso, listed, name=None):
                    "skip" if unattended else "")).strip().lower() == "skip":
             break
     listed.extend(found)
-    have = imported_recipes(iso)
+    have = imported_recipes(iso, lang_dir)
     for c in found:                       # the same text as an edition already imported: continue with that one
         if (c["source"], c.get("id")) in have:
             c["existing"] = have[(c["source"], c["id"])]
@@ -300,9 +308,9 @@ def pick_editions(iso, listed, name=None):
             f"{LICENCE_MEANS.get(c['cls'], 'licence read when fetched')}" + (f"\n     {c['note']}" if c.get("note") else "")
             + (f"\n     already imported as {c['existing']}: {'its text is here' if edition_text_complete(c['existing']) else 'the fetch continues where it stopped'}"
                if c.get("existing") else ""))
-    here = [e for e in language_editions(iso) if e not in {c.get("existing") for c in found}]
+    here = [e for e in language_editions(iso, lang_dir) if e not in {c.get("existing") for c in found}]
     if here:
-        say(f"  Already imported for {iso}: {', '.join(here)}")
+        say(f"  Already imported for {lang_dir or iso}: {', '.join(here)}")
     if len(usable) != 1 or here:
         say("  m. Your own files" + (" instead or as well" if usable else "") +
             " (USFM or SFM, e.g. from Paratext): the wizard says where to put them")
@@ -588,7 +596,7 @@ def write_project(pdir, fields, books, overlap):
         "quarantine: []",
         f"do_not_open: [download/, scratch/, {project_rel(fields['pname'])}/_eval/local/]   # _eval/local/: the probes, local only",
         "",
-        f"quotes: \"{fields['quotes']}\"                      # opening + closing quote marks (read from the corpus)",
+        f"quotes: {json.dumps(fields['quotes'] or '', ensure_ascii=False)}                      # opening + closing quote marks (read from the corpus)",
         f"chapter_word: {fields['chapter_word']}",
         f"book_order: {fields.get('book_order') or DEFAULT_ORDER}             # tanakh | protestant | septuagint (docs/configuration.md)",
         "# book_titles: {gen: …}   # titles for books the editions don't have; the others come from the edition",
@@ -629,7 +637,7 @@ def main():
     if lang_dir != iso and not found_saved:
         load_saved(lang_dir)
     found = []
-    picked = pick_editions(iso, found, iso_name)
+    picked = pick_editions(iso, found, iso_name, lang_dir)
     known = next((c["language_name"] for c in found if c.get("language_name")), None)
     say("")
     name = ask("language_name", "Name of the language (as the project and the website show it)", known or iso_name or iso)
