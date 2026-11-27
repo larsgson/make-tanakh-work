@@ -70,6 +70,7 @@ export/**/*_style.md
 export/**/_eval/local/
 export/**/stories/
 .stories/
+.publish/
 export/**/wiki-view.html
 
 # Local only (CLAUDE.local.md holds this working copy's private state)

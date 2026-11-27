@@ -339,9 +339,10 @@ def rule_text(pname):
             f"{pname} <the notes and wiki files you wrote>` and fix every problem. " + VARIANT_RULE)
 
 
-def write_credits(Q):
+def write_credits(Q, f=None):
+    """CREDITS.md in the project (or at f: publish_hf.py writes it into the upload folder)"""
     from project import LICENCE_CLASS
-    f = os.path.join(Q.P.dir, "CREDITS.md")
+    f = f or os.path.join(Q.P.dir, "CREDITS.md")
     lines = ["# Credits", "",
              "Our work in this folder (drafts, notes, the wiki's prose, the language store, statistics) is dedicated to "
              "the public domain (CC0 1.0). We learned from and quote the editions below (docs/licensing.md).", ""]

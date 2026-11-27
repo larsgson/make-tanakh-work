@@ -87,6 +87,7 @@ with `role: revise` must be CC0; `scripts/project.py` refuses any other.
 | `team_name` | the team the site's status strip names, without "the" ("Jamaican Bible review team"): "not yet checked or approved by the Jamaican Bible review team"; default "<language> language team" |
 | `publish_statement` | statement recorded on publishing, with `{by}` and `{date}` (`scripts/status.py publish`) |
 | `site` | `false`: the project is left off the website |
+| `publish` | the language repository and how to publish to it: `repo`, `code`, `variety`, `status_labels`, `footnote_kind`, `model`, `drafted_in_quarantine` (`docs/publishing.md`); the work copy's names in `publish.yaml` |
 | `sfm` | fields of the style edition's `sfm:` block (above) to set otherwise for this project's SFM export (`heading: s`, `versification: hebrew`) |
 
 ## Textual basis
