@@ -125,6 +125,8 @@ python3 scripts/usage.py <project> add <code><nnn> --tokens N | summary # tokens
 python3 scripts/memory_prompt.py <project>           # prompt for an agent that builds the store and wiki, by mode
 python3 scripts/make_prompt.py <project> <code> <ch> [--end-align] # chapter prompt (tagged drafting; --end-align: the old way)
 python3 scripts/make_prompt.py <project> <code> --book [a-b] [--handoff N] # the book agent's prompt: chapters in order, handover after N
+python3 scripts/publish_repo.py <project> --repo <clone> [--books ...] [--report F] [--apply] # drafts -> the global-tanakh language repo (docs/publishing.md): gate, convert, screen, compare; --apply commits in the clone, you push
+python3 scripts/publish_hf.py <project> [--apply]   # the language analysis -> the publisher's HF dataset, by an allow-list, no history (--apply: irreversible)
 python3 scripts/stories.py list | build <story> --project P [--from-repo DIR] # a story's readings from the drafts (docs/stories.md; rebuilt, not published; lists: setup.py --only stories)
 python3 scripts/draft_cache.py build <project> [--selection F] | new <project> <selection.tsv> [--skip-edition-chapters] # the drafting cache (_learn/cache/: primer.md, a digest per chapter, drafted.tsv): read at the start and after a compaction, rebuilt before a handover; new: a selection's verses still to draft
 python3 scripts/chapter_check.py <project> <code> <ch> # the checks inside the loop: to fix (format, alignment, quotes), to review (negations, names, copy, words)
@@ -189,4 +191,4 @@ python3 scripts/macula_to_tf.py <delivery dir>       # draft Text-Fabric dataset
 ```
 
 Sources, versions and licences: `docs/sources.md`. Config fields: `docs/configuration.md`. The language store's
-format: `docs/language-store.md`; the clause sidecars': `docs/clause-sidecar.md`; the word DB's: `docs/word-db.md`; the register's: `docs/register.md`.
+format: `docs/language-store.md`; publishing: `docs/publishing.md`; the clause sidecars': `docs/clause-sidecar.md`; the word DB's: `docs/word-db.md`; the register's: `docs/register.md`.

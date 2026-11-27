@@ -4,6 +4,36 @@ Tags are `vMAJOR.MINOR.PATCH`. A work copy merges a tag; make-tanakh-grammar pin
 Each entry has a **Format changes** section for the stable formats listed in `docs/related-repos.md`, section 4:
 what changed and how existing files move over. Before 1.0 a breaking format change raises the minor version.
 
+## v0.14.0
+
+**Publishing** (the work copy's plan, `internal-docs/global-tanakh-publishing.md`; asked for by the user 2026-11-27).
+
+- **`scripts/publish_repo.py <project> --repo <clone> [--apply]`**: a project's drafts into its global-tanakh language
+  repository, in make-tanakh-review's FORMAT.md. Gate (no `export/CC-NC/`, no `local_output/`, `check_project.py`,
+  a chapter beside a non-free edition only with its quarantine recorded), convert (`.md` with `partial:`, `.align`,
+  `.units` on the clone's pinned hebrew-clause-layout, `.notes` from the inline notes and reader footnotes, runs,
+  glosses, publisher and language files), the verbatim screen against every non-free and attributable style edition,
+  a comparison with the clone. Dry run by default; `--apply` commits new chapters to `main` and `approved` and
+  re-drafts to `draft/<date>`; nothing is pushed.
+- **`scripts/publish_hf.py <project> [--apply]`**: the store, wiki, review overviews and chapter notes, by an
+  allow-list, to `<hf_dataset>/<repo>/`, with CREDITS.md, a card and a manifest; the quotation check on exactly those
+  files; `--apply` uploads, squashes the history to one commit and deletes unreferenced LFS files, then checks both.
+- Owner names from the work copy's `publish.yaml` (`publish.yaml.example`) and each project's `publish:` block;
+  tokens only from `.env`. `docs/publishing.md`; `docs/configuration.md`; `quotes.write_credits` takes a path.
+- **Acceptance on Bern German** (read-only on the work copy, into a fresh clone of global-tanakh/gsw-be, not pushed):
+  the 929 seeded chapters reproduced, 692 byte for byte and 237 differing only by `.notes` (the reader footnotes,
+  which the seed left out; one per Tanakh chapter with a footnote file); text and runs unchanged; `glosses.json` the
+  same 9,294 lexemes and counts (the commit stamp aside). make-tanakh-review's `validate.mjs` (with the layout keys)
+  passes on the result. The HF dry run: 985 files, 6.1 MB, 430 quoted words within the limits.
+- `scripts/tests/test_publish.py`.
+
+### Format changes
+
+- New: `publish.yaml` (work copy root) and `publish:` in `project.yaml`. Written into language repositories:
+  `.tanakh/publisher.json` as `{publishers: [{login, name, url, analysis}]}` (the old single object is read and
+  replaced), `.tanakh/language.json` with `variety`, `partial: "…"` in a chapter's front matter, `publisher` per draft
+  in `.tanakh/runs/` (make-tanakh-review's FORMAT.md §1, §11, §13, settled 2026-11-27).
+
 ## v0.13.1
 
 **Fewer false drift hits in `stamp --all --verify`** (the work copy's run on 67 projects: 12,653 drift verses, most of

@@ -1,0 +1,9 @@
+# The work copy's publishing names (docs/publishing.md). Copy to publish.yaml at the work copy's root.
+# Tokens never go here: HF_TOKEN in .env (git-ignored).
+org: <github-organisation-of-the-language-repositories>
+hf_dataset: <hf-owner>/language-analysis
+hf_private: false
+publisher:
+  login: <github-login-that-publishes>
+  name: <name of this work copy>
+  url: https://github.com/<owner>/<work-copy>
